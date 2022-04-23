@@ -3,7 +3,7 @@ permalink: /sponsors/
 title: CSS Sponsors
 ---
 
-We'd like to send a huge thanks to our sponsors, listed below. Please do not hesitate to get in touch - they are looking forward to meeting everyone at the meeting. The workshop will offer an array of exciting opportunities designed to increase your visibility, product / service recognition, and sales. We will be more than happy to discuss with you to maximize the effectiveness of your promotion. If your company or institutes is interested in sponsoring or participating at the Snowmass summer workshop in Seattle, please (mailto:snowmass-loc2022@uw.edu)[Contact Us].
+We'd like to send a huge thanks to our sponsors, listed below. Please do not hesitate to get in touch - they are looking forward to meeting everyone at the meeting. The workshop will offer an array of exciting opportunities designed to increase your visibility, product / service recognition, and sales. We will be more than happy to discuss with you to maximize the effectiveness of your promotion. If your company or institutes is interested in sponsoring or participating at the Snowmass summer workshop in Seattle, please <a href="mailto:snowmass-loc2022@uw.edu">Contact Us</a>.
 
 
 <table>
