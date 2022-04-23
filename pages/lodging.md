@@ -17,9 +17,9 @@ The primary lodging sponsored by the workshop are private dorm rooms on North ca
 
 The University of Washington negociated rates at two nearby quality hotels for the workshop attendants. Both hotels are within 0.8 miles from the workshop venue and offer accessible rooms with various features for guests who are seeking these accomodations. You have to use direct links below to book the room in order to receive the UW rate that includes waiving the amenity fee ($19.99).
 
-* <a href="https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">Watertown</a> $191~$243/night
+* <a href="https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">Watertown</a> $191~$243/night. From the menu, Click ROOMS -> (not so) Standard Rooms to explor different room options.
 
-* <a href="https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">University Inn</a> $166~$208/night
+* <a href="https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">University Inn</a> $167~$208/night. From the menu, Click ROOMS -> (not so) Standard Rooms to explor different room options.
 
 Both hotels are located at easy walking distance to the rooms where the conference will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn.
 
