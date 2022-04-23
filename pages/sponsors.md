@@ -7,6 +7,9 @@ We'd like to send a huge thanks to our sponsors, listed below. Please do not hes
 
 
 |--------------|-----------|
-| < img src="/assets/images/nvidia-logo.png" height="30"/> | (https://www.nvidia.com/)[NVIDIA] <br> Contact: (mailto:tgibbs@nvidia.com)[Tom Gibbs] | 
-| < img src="/assets/images/RadiaBeamLogo.png"  height="30"/> | (https://radiabeam.com/)[RadiaBeam] <br> Contact: (mailto:murokh@radiabeam.com)[Alex Murokh] | 
-| < img src="/assets/images/universe-logo.png"  height="30"/> | (https://www.mdpi.com/journal/universe)[Universe] <br> Contact: (mailto:weina.li@mdpi.com) [Weina Li] | 
+
+| <img src="/assets/images/nvidia-logo.png" height="30"/> | <a href="https://www.nvidia.com">NVIDIA</a> <br> Contact: <a href="mailto:tgibbs@nvidia.com">Tom Gibbs</a> | 
+
+| <img src="/assets/images/RadiaBeamLogo.png"  height="30"/> | <a href="https://radiabeam.com/">RadiaBeam</a> <br> Contact: <a href="mailto:murokh@radiabeam.com">Alex Murokh</a> | 
+
+| <img src="/assets/images/universe-logo.png"  height="30"/> | <a href="https://www.mdpi.com/journal/universe">Universe</a> <br> Contact: <a href="mailto:weina.li@mdpi.com">Weina Li</a> | 
