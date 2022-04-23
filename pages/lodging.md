@@ -1,13 +1,17 @@
 ---
 permalink: /lodging/
 title: Lodging for Seattle Snowmass 2022
+hero_image: /assets/images/uw-fountain.jpg
+hide_hero: false
 ---
 
 Seattle is a large city, and all the options you'd expect in a city this size are available. This page gathers a number of lodging options for this meeting.
 
 ## Dorm Rooms
 
-The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue (7 minute walk according to [Bing Maps](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The typical room layout is Double room, with private bath, desk, and excellent wifi. The price will be close to $110/night for single, and $68/night for a shared room.
+The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The typical room layout is Double room, with private bath, desk, and excellent wifi. The price will be close to $110/night for single, and $68/night for a shared room. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings). Each room has a private bathroom.
+
+<img src="https://hfs.uw.edu/getmedia/c14af9a9-afbf-40f6-bc7b-b7046170ed75/Madrona-Hall-exterior-by-Bruce-Damonte.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%" /><img src="https://hfs.uw.edu/getmedia/e6652d2d-d422-46e7-8139-495a5baaee5a/Madrona-2-person.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%"/> <img src="https://hfs.uw.edu/getmedia/b430af4c-7fb3-457f-bca0-074aa1184267/Learning-Resource-Center.jpg.aspx?width=800&height=533&ext=.jpg" width="25%" />
 
 ## Near Campus Workshp Hotels
 
@@ -23,13 +27,16 @@ Both hotels are located at easy walking distance to the rooms where the conferen
 
 There are two other hotels located just adjacet to the university. The workshop does not have negociated rates with these hotels.
 
-* Silver Cloud Inn
-* DECA
+* [Silver Cloud Inn](https://www.silvercloud.com/university/), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop. Upscale and comfortable. At time this page was written, rooms were $260/night.
+* The Graduate Inn 
+* [The Residence Inn by Marriot](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/) - located a [11 minute walk](https://www.bing.com/maps?osid=32d9aaac-bbb4-4c7f-bc61-194418d60081&cp=47.659345~-122.315798&lvl=16&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshp. At the time this page was written, rooms were $240/night.
+* [College Inn](https://www.collegeinnseattle.com/) - Unique/boutique hotel with hostel-like experience (family owned). Located closer than the dorms. Many rooms now have private bathrooms, but not all. At the time this page was written, rooms were $190/night.
 
-There are several other hotels near UW campus, and many luxury Hotels in the Downtown Seattle (Typical rate $180~$260/night). They are easily accessible via Uber/Lyft, city bus, light rail or rental car. We advise starting your search near light rail stations - there are two light rail stops on or near campus. The downtown light rail stops are:
+There are several other hotels near UW campus, and many luxury Hotels in the Downtown Seattle (Typical rate $180~$260/night). They are easily accessible via Uber/Lyft, city bus, light rail or rental car. We advise starting your search near light rail stations - there are two light rail stops on or near campus ([complete stop map](https://www.soundtransit.org/ride-with-us/routes-schedules?route=1%20Line)). The downtown light rail stops are, with links to _booking.com_:
 
-* link to map, link to hotel.com search centered on station (or similar)
-* etc.
+* [Capitol Hill](https://www.bing.com/maps?osid=c33d7755-6ff6-41eb-91e8-f2f0a8cd09d5&cp=47.6188~-122.325786&lvl=16&imgid=4d6d29d9-8a29-47fe-9818-fada5c2777df&v=2&sV=2&form=S00027) Very few hotels are availible in this mostly residential neigbhorhood. AirBnB, however, does have options. This station is a 4-8 minute trip with a 10 minute walk to the meeting rooms.
+* [Westlake](https://www.bing.com/maps?osid=cc8ddbcd-d2bb-4181-bffd-f104693b15b7&cp=47.610676~-122.352731&lvl=14&imgid=d27d92c7-5547-46d8-bf3e-ccd886d95a46&v=2&sV=2&form=S00027). There are a lot of hotels availible in this area. The station is a 12-16 minute trip with a 10 minute walk to the meeting rooms.
+* University Street This is very close to the _Westlake_ station, and so hotels accessible by it appear above.
 
 ## AirBnB
 
