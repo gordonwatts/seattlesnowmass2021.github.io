@@ -7,7 +7,8 @@ title: Conference Site Media and Assets
 
 | Asset         | Info     |
 |--------------|-----------|
-| <img src="/assets/images/poster/snowmass-blue-small.png" alt="Poster" width="100"/> | The conference poster as a [PDF](/assets/images/poster/snowmass-blue_final.pdf) or a [PNG](/assets/images/poster/snowmass-blue_final.png) (or small [png](/assets/images/poster/snowmass-blue-small.png)).    |
+| <a href="/assets/images/poster/snowmass-blue-small.png"><img src="/assets/images/poster/snowmass-blue-small.png" alt="Poster" width="100"/></a> | The conference poster as a [PDF](/assets/images/poster/snowmass-blue_final.pdf) or a [PNG](/assets/images/poster/snowmass-blue_final.png) (or small [png](/assets/images/poster/snowmass-blue-small.png)).    |
+| <a href="/assets/images/poster/poster - banner.png"><img src="/assets/images/poster/poster - banner.png" width="100" /></a> | High resolution banner image, <a href="/assets/images/poster/poster - banner.png">PNG</a> |
 | [![APS Poster Video](/assets/images/aps-poster-thumbnail.png)](https://youtu.be/YaPOujcAxYg) | We presented a poster with a video on Snowmass at the APS April conference (less than 3 minutes). |
 
 ## Conference Rooms
