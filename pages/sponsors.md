@@ -8,15 +8,18 @@ We'd like to send a huge thanks to our sponsors, listed below. Please do not hes
 
 <table>
  <tr>
-   <td> <img src="/assets/images/nvidia-logo.png" height="30"/> </td>
+   <td> <img src="/assets/images/nvidia-logo.png" style="height: 60px"/> </td>
+   <td> Description </td>
    <td> <a href="https://www.nvidia.com">NVIDIA</a> <br> Contact: <a href="mailto:tgibbs@nvidia.com">Tom Gibbs</a> </td> 
   </tr>
   <tr>
-   <td> <img src="/assets/images/RadiaBeamLogo.png"  height="30"/> </td>
+   <td> <img src="/assets/images/RadiaBeamLogo.png"  style="height: 60px"/> </td>
+   <td> Description </td>
    <td> <a href="https://radiabeam.com/">RadiaBeam</a> <br> Contact: <a href="mailto:murokh@radiabeam.com">Alex Murokh</a> </td> 
   </tr>
   <tr> 
-   <td> <img src="/assets/images/universe-logo.png"  height="30"/> </td> 
+   <td> <img src="/assets/images/universe-logo.png" style="height: 60px"/> </td>
+   <td> Description </td>
    <td> <a href="https://www.mdpi.com/journal/universe">Universe</a> <br> Contact: <a href="mailto:weina.li@mdpi.com">Weina Li</a> </td> 
   </tr>
 </table>
