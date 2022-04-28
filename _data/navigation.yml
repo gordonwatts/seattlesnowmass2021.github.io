@@ -18,6 +18,8 @@
     link: /physicsSlam/
   - name: Industry Exhibit
     link: /industryExhibit/
+  - name: LIGO/Hanford Visit
+    link: /ligo
 - name: Logistics
   dropdown:
     - name: Venue
