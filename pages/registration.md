@@ -1,38 +1,50 @@
 ---
-permalink: /outreach/
-title: Registration
+permalink: /registration/
+title: Workshop Registration
 hero_image: /assets/images/uw-fountain.jpg
+hide_hero: false
 ---
 
 We are looking forward to seeing you here in Seattle in July!
 
-Two steps need to be completed to register for this event:
+To register for Seattle Snowmass please use the [form found here]().
 
-1. Please register with the `indico` system at the [registration page]().
-2. Please complete payment with the University of Washington here.
+Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
-It would be a huge help if you could use the same email address at both places. If that is not possible, please make sure your first and last names are the same. If this also isn't possible, we will be getting in touch when we try to reconcile the two sets of information!
+## Registration Options
 
-## Early Bird Registration
+_In-Person Registration_
 
-Early bird registration runs until June 5th. The cost of in-person registration is $750, and $375 if you are early career (a  student or postdoc, or the equivalent).
+Only early-bird in-person registration is currently open. Prices are $550 per person, and $275 for early career members of the community. Early-Career members are defined as not having a permanent position or being within 10 years of their Ph.D.
 
-## Normal Registration
+The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings. No alcohol is purchased with these funds.
 
-Normal registration starts June 6th. All costs are projected - depending on the number of early bird registrations we receive, we will be working hard to keep costs down - focusing first on our the early career community. The costs for in-person will at least as high as early-bird registration (and most likely higher).
+Early-bird registration ends on June 5th, midnight Seattle time. The cost of in-person registration will rise to $800/person and $400 for early career. These prices may drop if we have a large number of early registrants. At that time we will also open virtual registration for those who would like to attend the meeting but can't attend in person. We will have options for the full week and for just the plenary days at the start and end of the workshop. Virtual access for early career members of our community will be free. We expect normal virtual registration for the full week to be $400, and $100 for just the plenary days. These numbers will be finalized and updated here as our early registration numbers become clear. In-person late registration will be possible, but quite expensive - and is past our catering ordering deadline. Please do not register late if you can at all help it! We expect those costs to be $1000 for in-person.
 
-The cost of in-person registration is projected to by $850, for early career we expect it to be $425.
+We encourage you to also join us for the conference dinner. To keep costs reasonable, the price of each ticket includes the food only. We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is XX.
 
-We will also open remote registration at this time. A remote registration gives zoom access to all plenary and parallel meetings. The projected cost for remote registration is $500, and $100 for early career registration.
+On July 28 there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $90 dollars, and includes the tour and the bus ride there and back.
 
-Finally, we will also make an _observer_ registration possible. This will give zoom access to all plenary sessions (first and last 1.5 days). This is projected to cost $100.
+## Information Requested
 
-## Late Registration
+This section outlines the information we request on the registration form and what we plan to do with it.
 
-Please do your best to avoid this. This is beyond our catering order window, and there will be few if any slots available for dinner. We will, of course, do our best. We expect the cost of late in-person registration will $1200, and $600 for early career members.
+_Personal Information_
 
-Remote and observer registrations will continue at the levels set during _Normal Registration_.
+This information will be used for printing the badge. If your "first and last name for badge" is blank, then your First and Last name will be used for the badge. Your email address will be used to contact you with information about snowmass and also given to industry partners of the conference if they request it.
 
-## Diner
+_Attendee Demographic Information_
 
-At the time of registration you will also have the option to join the conference dinner. This part of the registration occurs as you check out on the UW site. Please make sure to select guests and any meal preferences. We are expecting some 80% of people attending this Snowmass workshop to want to join in the dinner, according to the attendance survey. We should have room for everyone, but please do not expect many last minute seats being available!
+The Position, Gender, and Racial & Ethnicity information will not be reported anywhere on an individual bases. The aggregate information will be used to help report the conference's reach to minority and underrepresented communities for NSF and DOE reports, which will be public. The statistics will be shown at the conference as well and possibly on the website.
+
+_Additional Conference Information_
+
+A list of participants will be published on our website. If you do not wish to be listed, please select no. Of course, it will be a great way to see who else is at the conference, so we encourage you to mark yourself as visible!
+
+The dietary requests will be seen by catering for the coffee preparation and the dinner. If this is left unanswered then we assume you can eat everything!
+
+Please be sure to fill out the accessability survey if you have any needs to make your time at Snowmass efficient and enjoyable!
+
+_Terms & Conditions_
+
+Please acknowledge that your have read the [snowmass code-of-conduct](http://seattlesnowmass2021.net/codeofconduct/), you are ok with being recorded if your are presenting or asking a question, and that you are fully vaccinated for COVID-19.
