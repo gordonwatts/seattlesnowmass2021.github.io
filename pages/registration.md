@@ -23,7 +23,7 @@ Early-bird registration ends on June 5th, midnight Seattle time. The cost of in-
 
 We encourage you to also join us for the conference dinner. To keep costs reasonable, the price of each ticket includes the food only. We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is XX.
 
-On July 28 there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $90 dollars, and includes the tour and the bus ride there and back.
+On July 27 there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $80 dollars, and includes the tour and the bus ride there and back.
 
 ## Information Requested
 
