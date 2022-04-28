@@ -11,19 +11,30 @@ To register for Seattle Snowmass please use the [form found here]().
 
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
-## Registration Options
+## In-Person Registration
 
-_In-Person Registration_
+| Registration Type | Early Bird (Due June 5th) | Normal* (Due July 3rd) | Late* |
+| :--- | :---: | :---: | :---: |
+| Full | $550 | $800 | $1000 |
+| Early Career | $275 | $400 | $400 |
 
-Only early-bird in-person registration is currently open. Prices are $550 per person, and $275 for early career members of the community. Early-Career members are defined as not having a permanent position or being within 10 years of their Ph.D.
+Early-Career members of our community include post-doc and student or equivalent position. Lines marked with a * are not yet available for ordering. Early-bird registration will end on June 5 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time. Late registration is past our catering ordering deadline. Please do not register late if you can at all help it!
 
-The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings. No alcohol is purchased with these funds.
+The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings. No alcohol is purchased with these funds. Lunch is not included in the registration fee.
 
-Early-bird registration ends on June 5th, midnight Seattle time. The cost of in-person registration will rise to $800/person and $400 for early career. These prices may drop if we have a large number of early registrants. At that time we will also open virtual registration for those who would like to attend the meeting but can't attend in person. We will have options for the full week and for just the plenary days at the start and end of the workshop. Virtual access for early career members of our community will be free. We expect normal virtual registration for the full week to be $400, and $100 for just the plenary days. These numbers will be finalized and updated here as our early registration numbers become clear. In-person late registration will be possible, but quite expensive - and is past our catering ordering deadline. Please do not register late if you can at all help it! We expect those costs to be $1000 for in-person.
-
-We encourage you to also join us for the conference dinner. To keep costs reasonable, the price of each ticket includes the food only. We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is XX.
+We encourage you to also join us for the conference dinner. To keep costs reasonable, the price of each dinner ticket includes the food only (including dessert and coffee/tea). We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is $49. Children under 12 years of age are free. Dietary preferences should be listed on the registration form.
 
 On July 27 there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $80 dollars, and includes the tour and the bus ride there and back.
+
+## Virtual Registration
+
+| Registration Type | Normal* |
+| :--- | :---: | :---: | :---: |
+| Full | $450 |
+| Early Career | Free |
+| Observer | $100 |
+
+Virtual registration will be available starting June 6th. We will also have an Observer virtual registration that covers only the first and last two days.
 
 ## Information Requested
 
