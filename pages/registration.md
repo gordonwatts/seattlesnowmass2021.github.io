@@ -43,7 +43,7 @@ A list of participants will be published on our website. If you do not wish to b
 
 The dietary requests will be seen by catering for the coffee preparation and the dinner. If this is left unanswered then we assume you can eat everything!
 
-Please be sure to fill out the accessability survey if you have any needs to make your time at Snowmass efficient and enjoyable!
+The University of Washington and the Snowmass Conference Organizers are committed to providing access and reasonable accommodation in its services, programs, activities, education and employment for individuals with disabilities. To request disability accommodation, please fill out the survey linked from our [accessibility web page](http://seattlesnowmass2021.net/accessibility/).
 
 _Terms & Conditions_
 
