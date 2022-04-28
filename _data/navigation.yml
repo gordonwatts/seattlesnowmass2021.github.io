@@ -30,7 +30,7 @@
       link: /local-travel/
     - name: Travel To Seattle
       link: /travel/
-    - name: Travel Award
+    - name: Travel Awards
       link: /travelAward/
     - name: Accessibility
       link: /accessibility/
@@ -56,7 +56,11 @@
       link: /about/team/
     - name: LOC
       link: /about/loc/
-    - name: Posters And Other Images
+    - name: Posters And Other Media
       link: /assets
+    - name: YouTube Channel
+      link: https://www.youtube.com/channel/UCGAmQGyUcrzH8GJ_8Em2MgQ
+    - name: Sponsors
+      link: /sponsors
 - name: Code of Conduct
   link: /codeofconduct/
