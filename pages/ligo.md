@@ -1,6 +1,6 @@
 ---
 permalink: /ligo/
-title: Trip to visit LIGO/Hanford
+title: Trip to visit the LIGO Hanford Observatory
 hero_image: /assets/images/LIGO-Hanford-Medium.jpg
 hide_hero: false
 ---
