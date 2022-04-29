@@ -5,7 +5,7 @@ hero_image: /assets/images/LIGO-Hanford-Medium.jpg
 hide_hero: false
 ---
 
-The day after the workshop ends, July 27th, there will be an organized trip to visit the LIGO Hanford Observatory!
+The day after the workshop ends, Wednesday July 27, there will be a bus trip to visit the [LIGO Hanford Observatory](https://www.ligo.caltech.edu/WA) and the new LIGO Exploration Center ([LExC](https://www.ligo.caltech.edu/WA/page/lexc)).
 
 The itinerary is as follows:
 
