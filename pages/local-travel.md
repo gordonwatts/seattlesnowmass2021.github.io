@@ -1,7 +1,7 @@
 ---
 permalink: /local-travel/
 title: Getting around Seattle
-hero_image: /assets/images/tour-SeattleNight.png
+hero_image: /assets/images/Tour-SeattleNight.png
 hide_hero: false
 ---
 
