@@ -9,7 +9,9 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 ## Dorm Rooms
 
-The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The typical room layout is Double room, with private bath, desk, and excellent wifi. The price will be close to $110/night for single, and $68/night for a shared room. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings). Each room has a private bathroom.
+The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The price will be close to $110/night for single occupancy, and $68/night for a shared room. The minimum booking block is 8 days (July 17~July 25) with shoulder dates of 2 days before and 2 days after the booking block. 
+
+The typical room layout is Double room, with private bathroom, desk, and excellent wifi. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings). 
 
 <img src="https://hfs.uw.edu/getmedia/c14af9a9-afbf-40f6-bc7b-b7046170ed75/Madrona-Hall-exterior-by-Bruce-Damonte.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%" /><img src="https://hfs.uw.edu/getmedia/e6652d2d-d422-46e7-8139-495a5baaee5a/Madrona-2-person.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%"/> <img src="https://hfs.uw.edu/getmedia/b430af4c-7fb3-457f-bca0-074aa1184267/Learning-Resource-Center.jpg.aspx?width=800&height=533&ext=.jpg" width="25%" />
 
@@ -17,9 +19,9 @@ The primary lodging sponsored by the workshop are private dorm rooms on North ca
 
 The University of Washington negotiated rates for limited rooms at three nearby quality hotels for the workshop attendants. Hotels are all within 0.5 miles from the workshop venue and offer accessible rooms with various features for guests who are seeking these accomodations. You have to use direct links below to book the room in order to receive the discount rate.
 
-* [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $167~$208/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
+* [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $167~$208/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions. Some of the days might not be available.
 * [Watertown](https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $201~$243/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
-* [Graduate Seattle](https://be.synxis.com/?chain=21643&hotel=76675&filter=UNI) $191~$251/night. Choose discount "Always a Husky - UW Alumni Rate."
+* [Graduate Seattle](https://be.synxis.com/?chain=21643&hotel=76675&filter=UNI) $191~$251/night. Choose  "Always a Husky - UW Alumni Rate."
 
 Three hotels are located at easy walking distance to the rooms where the conference will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn. The Graduate Seattle is also located a 10 minute walk distance based on [Bing Maps](https://www.bing.com/maps?osid=573ffe1d-7ffb-4a0b-bad4-de7ed4d1a925&cp=47.659769~-122.314431&lvl=16&v=2&sV=2&form=S00027).
 
