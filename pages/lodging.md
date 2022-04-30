@@ -15,22 +15,22 @@ The primary lodging sponsored by the workshop are private dorm rooms on North ca
 
 ## Near Campus Workshp Hotels
 
-The University of Washington negociated rates at two nearby quality hotels for the workshop attendants. Both hotels are within 0.8 miles from the workshop venue and offer accessible rooms with various features for guests who are seeking these accomodations. You have to use direct links below to book the room in order to receive the UW rate that includes waiving the amenity fee ($19.99).
+The University of Washington negotiated rates for limited rooms at three nearby quality hotels for the workshop attendants. Hotels are all within 0.5 miles from the workshop venue and offer accessible rooms with various features for guests who are seeking these accomodations. You have to use direct links below to book the room in order to receive the discount rate.
 
-* <a href="https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">Watertown</a> $191~$243/night. From the menu, Click ROOMS -> (not so) Standard Rooms to explor different room options.
+* [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $167~$208/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
+* [Watertown](https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $201~$243/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
+* [Graduate Seattle](https://be.synxis.com/?chain=21643&hotel=76675&filter=UNI) $191~$251/night. Choose discount "Always a Husky - UW Alumni Rate."
 
-* <a href="https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR">University Inn</a> $167~$208/night. From the menu, Click ROOMS -> (not so) Standard Rooms to explor different room options.
-
-Both hotels are located at easy walking distance to the rooms where the conference will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn.
+Three hotels are located at easy walking distance to the rooms where the conference will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn. The Graduate Seattle is also located a 10 minute walk distance based on [Bing Maps](https://www.bing.com/maps?osid=573ffe1d-7ffb-4a0b-bad4-de7ed4d1a925&cp=47.659769~-122.314431&lvl=16&v=2&sV=2&form=S00027).
 
 ## Other Seattle Hotels
 
-There are two other hotels located just adjacet to the university. The workshop does not have negociated rates with these hotels.
+There are three other hotels located just adjacent to the university. The workshop does not have negociated rates with these hotels.
 
+* [College Inn](https://www.collegeinnseattle.com/) - Unique/boutique hotel with hostel-like experience (family owned). Located a [5 minute walk](https://www.bing.com/maps?osid=befd816b-ca73-4d9f-8318-5a29b4598e4f&cp=47.656136~-122.312218&lvl=18&v=2&sV=2&form=S00027) (about 0.3 mile) closer than the dorms. Many rooms now have private bathrooms, but not all. At the time this page was written, rooms were $190/night.
+* [The Residence Inn by Marriot](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/) - located a [11 minute walk](https://www.bing.com/maps?osid=32d9aaac-bbb4-4c7f-bc61-194418d60081&cp=47.659345~-122.315798&lvl=16&v=2&sV=2&form=S00027) (about 0.6 mile) from the main meeting rooms for the workshp. At the time this page was written, rooms were $240/night.
 * [Silver Cloud Inn](https://www.silvercloud.com/university/), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop. Upscale and comfortable. At time this page was written, rooms were $260/night.
-* The Graduate Inn 
-* [The Residence Inn by Marriot](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/) - located a [11 minute walk](https://www.bing.com/maps?osid=32d9aaac-bbb4-4c7f-bc61-194418d60081&cp=47.659345~-122.315798&lvl=16&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshp. At the time this page was written, rooms were $240/night.
-* [College Inn](https://www.collegeinnseattle.com/) - Unique/boutique hotel with hostel-like experience (family owned). Located closer than the dorms. Many rooms now have private bathrooms, but not all. At the time this page was written, rooms were $190/night.
+
 
 There are several other hotels near UW campus, and many luxury Hotels in the Downtown Seattle (Typical rate $180~$260/night). They are easily accessible via Uber/Lyft, city bus, light rail or rental car. We advise starting your search near light rail stations - there are two light rail stops on or near campus ([complete stop map](https://www.soundtransit.org/ride-with-us/routes-schedules?route=1%20Line)). The downtown light rail stops are, with links to _booking.com_:
 
