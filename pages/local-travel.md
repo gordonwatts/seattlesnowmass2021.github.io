@@ -23,9 +23,9 @@ These options will be filled in as we get closer to understanding how this confe
 
 | Tour | Description |
 | -- | -- |
-| <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 80px"/> </a> | Seattle City PASS: Admission to Top 5 Seattle Attractions include Space Needle, Seattle Aquarium, Argosy Cruises Harbor Tour, Museum of Pop Culture, Woodland Park Zoo, Chihuly Garden adn Glasses.  |
-| <a href="https://showmeseattle.com"> <img src="/assets/images/Tour-ShowMeSeattle.png" style="height: 80px"/> </a> | Seattle's Premier Small Group Touring Company for food tour, city tour, cruise tour, and customized tour. |
-| <a href="https://www.beneath-the-streets.com"> <img src="/assets/images/Tour-BeneathTheStreets.png" style="height: 80px"/> </a> | Guided explorations through the historic underground passageways of Seattle’s original neighborhood, Pioneer Square. |
+| <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 80px width: 100px"/> </a> | Seattle City PASS: Admission to Top 5 Seattle Attractions include Space Needle, Seattle Aquarium, Argosy Cruises Harbor Tour, Museum of Pop Culture, Woodland Park Zoo, Chihuly Garden adn Glasses.  |
+| <a href="https://showmeseattle.com"> <img src="/assets/images/Tour-ShowMeSeattle.png" style="height: 80px width: 100px"/> </a> | Seattle's Premier Small Group Touring Company for food tour, city tour, cruise tour, and customized tour. |
+| <a href="https://www.beneath-the-streets.com"> <img src="/assets/images/Tour-BeneathTheStreets.png" style="height: 80px width: 100px"/> </a> | Guided explorations through the historic underground passageways of Seattle’s original neighborhood, Pioneer Square. |
 | <a href="https://www.shuttertours.com/snoqualmie-falls-tour.php"> <img src="/assets/images/Tour-ShutterTours.png" style="height: 80px"/> </a> |  Visit the largest waterfalls in the Pacific Northwest and experience Seattle on a historical city tour. |
 | <a href="https://toursofseattle.com/product/mt-rainier-day-tour"> <img src="/assets/images/Tour-CustomizedTours.png" style="height: 80px"/> </a> |  Enjoy a fun-filled, day-long tour of the breathtakingly beautiful wonderland that is Mount Rainier National Park. |
 | <a href="https://woodinvillewinecountry.com/"> <img src="/assets/images/Tour-WoodinvilleWine.png" style="height: 80px"/> </a> | Taste award-winning wine in Woodinville Wine Country, one of the world’s premier wine and craft beverage destinations. |
