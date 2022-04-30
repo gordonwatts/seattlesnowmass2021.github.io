@@ -21,7 +21,7 @@ These options will be filled in as we get closer to understanding how this confe
 
 | Asset         | Info     |
 |--------------|-----------|
-| <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 60px"/> </a>         | Info     |
+| <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 60px"/> </a>         | Seattle's Premier Small Group Touring Company for food tour, city tour, cruise tour, and customized tour.     |
 
 |--------------|-----------|
 | <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 60px"/> </a> | Seattle City PASS: Admission to Top 5 Seattle Attractions include Space Needle, Seattle Aquarium, Argosy Cruises Harbor Tour, Museum of Pop Culture, Woodland Park Zoo, Chihuly Garden adn Glasses.  |
