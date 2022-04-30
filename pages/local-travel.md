@@ -20,7 +20,6 @@ These options will be filled in as we get closer to understanding how this confe
 # Popular things to do
 
 | | |
-|--------------|-----------|
 | <a href="https://www.citypass.com/seattle"><img src="/assets/images/SeattleCityPass.png" style="height: 60px"/> </a>         | Seattle's Premier Small Group Touring Company for food tour, city tour, cruise tour, and customized tour.     |
 
 |--------------|-----------|
