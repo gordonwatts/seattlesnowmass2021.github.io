@@ -17,7 +17,11 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 These options will be filled in as we get closer to understanding how this conference will be hosted.
 
-# Popular things to do nearby
+# Popular things to do
+
+| Asset         | Info     |
+|--------------|-----------|
+| Asset         | Info     |
 
 | <a href="https://www.citypass.com/seattle"> <img src="/assets/images/SeattleCityPass.png" style="height: 60px"/> </a> | Seattle City PASS: Admission to Top 5 Seattle Attractions include Space Needle, Seattle Aquarium, Argosy Cruises Harbor Tour, Museum of Pop Culture, Woodland Park Zoo, Chihuly Garden adn Glasses.  |
 | <a href="https://showmeseattle.com"> <img src="/assets/images/Tour-ShowMeSeattle.png" style="height: 60px"/> </a> | Seattle's Premier Small Group Touring Company for food tour, city tour, cruise tour, and customized tour. |
