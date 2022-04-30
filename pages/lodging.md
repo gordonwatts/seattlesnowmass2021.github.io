@@ -9,11 +9,13 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 ## Dorm Rooms
 
-The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The price will be close to $110/night for single occupancy, and $68/night for a shared room. The minimum booking block is 8 days (July 17~July 25) with shoulder dates of 2 days before and 2 days after the booking block. 
+The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The price will be close to $110/night for single occupancy, and $68/night for a shared room. The minimum booking block is 8 days (July 17~July 25) with shoulder dates of 2 days before and 2 days after the booking block.
 
 The typical room layout is Double room, with private bathroom, desk, and excellent wifi. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings). 
 
 <img src="https://hfs.uw.edu/getmedia/c14af9a9-afbf-40f6-bc7b-b7046170ed75/Madrona-Hall-exterior-by-Bruce-Damonte.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%" /><img src="https://hfs.uw.edu/getmedia/e6652d2d-d422-46e7-8139-495a5baaee5a/Madrona-2-person.jpg.aspx?width=1280&height=854&ext=.jpg" width="25%"/> <img src="https://hfs.uw.edu/getmedia/b430af4c-7fb3-457f-bca0-074aa1184267/Learning-Resource-Center.jpg.aspx?width=800&height=533&ext=.jpg" width="25%" />
+
+Dorm rooms are not yet availible for reservation. If you want to be notified when they become availbile, please indicate add your email to a list here.
 
 ## Near Campus Workshp Hotels
 
