@@ -20,6 +20,8 @@
     link: /industryExhibit/
   - name: LIGO/Hanford Visit
     link: /ligo
+  - name: "Public Lecture: The Surprising Expansion History of the Universe"
+    link: https://phys.washington.edu/events/2022-07-20/surprising-expansion-history-universe
 - name: Logistics
   dropdown:
     - name: Venue
