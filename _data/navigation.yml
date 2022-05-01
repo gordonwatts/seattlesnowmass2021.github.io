@@ -1,6 +1,6 @@
 - name: Program
   dropdown: 
-    - name: Scientific Program
+    - name: Scientific Program (indico)
       link: https://indico.fnal.gov/event/22303/
     - name: Block Schedule
       link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
