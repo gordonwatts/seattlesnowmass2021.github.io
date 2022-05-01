@@ -7,5 +7,12 @@ hero_image: /assets/images/fly-over-seattle.jpg
 
 ## Travel Awards
 
-We have travel awards for women and under-represented minorities, with a priority for early career members (students and postdocs) who are actively contribute to the poster session.
-To submit nominations and/or applications, [Contact Us](mailto:snowmass-loc2022@uw.edu).
+We have some money set aside for travel awards. We will give priority to:
+
+* Women and minorities
+* Early Career members of our community
+* People involved in the Snowmass Process, or presenting a poster.
+
+To submit an application please fill out this google form (coming shortly). Please have this submitted by May 25th to assure timely notification.
+
+If you have questions, [please let us know!](mailto:snowmass-loc2022@uw.edu).
