@@ -14,4 +14,4 @@ The itinerary is as follows:
 - Depart LIGO Hanford Observatory 3:30pm
 - Arrive at the UW Seattle Campus at 7pm
 
-There will be a box lunch on the bus, please register using the standard conference [registration form](/registration). The dietary requests you enter there will be used for this box lunch. The LIGO Hanford Observatory requires that all visitors provide proof of vaccination against COVID-19 when they arrive at the observatory.
+There will be a box lunch on the bus, please register using the standard workshop [registration form](/registration). The dietary requests you enter there will be used for this box lunch. The LIGO Hanford Observatory requires that all visitors provide proof of vaccination against COVID-19 when they arrive at the observatory.

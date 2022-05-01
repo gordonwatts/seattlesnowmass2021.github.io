@@ -16,7 +16,7 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 - Car Rental & Car sharing: Visitors can rent vehicles by days from airport and neighborhood locations, and by the hour from [Zipcar](https://www.zipcar.com/seattle) or by the minute from [GIG Car Share](https://gigcarshare.com/seattle/).
 - Bike & Scooter Sharing: Seattle is a bike and scooter-friendly city. If you’re visiting, it’s easy to find a ride no matter where you are. There are variety of options: Uber app '2-Wheels', [Lime](https://www.li.me/) bike or scotter. [VEO](https://www.veoride.com/seattle/)'s Cosmo-e bike is suitable for a range of physical abilities and preferences. Keep an eye out for electric-scooter options from [LINK-Up](https://www.link.city/seattle), [WHEELS](https://takewheels.com/), and [SPIN](https://www.spin.app/) to enjoy city tour  
 
-These options will be filled in as we get closer to understanding how this conference will be hosted.
+These options will be filled in as we get closer to understanding how this workshop will be hosted.
 
 # Popular things to do
 
