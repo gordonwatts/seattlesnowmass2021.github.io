@@ -5,9 +5,7 @@ title: Program Committee
 
 # Program Committee
 
-<br/>
 Please feel free to contact anyone you would like to discuss the program.
-<br/>
 
 <div class="container-fluid">
   <div class="row" style="display: flex; flex-wrap: wrap">
