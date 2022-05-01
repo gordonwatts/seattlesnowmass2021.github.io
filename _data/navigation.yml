@@ -56,8 +56,10 @@
   dropdown:
     - name: Team
       link: /about/team/
-    - name: LOC
+    - name: Local Organizatino Committee
       link: /about/loc/
+    - name: Program Committee
+      link: /about/pc/
     - name: Posters And Other Media
       link: /assets
     - name: YouTube Channel
