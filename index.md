@@ -1,5 +1,5 @@
 ---
-title: Snowmass Summer Study Workshop
+title: Snowmass Community Summer Study Workshop
 subtitle: >
   July 17-26, 2022 at the University of Washington, Seattle
 hero_image: assets/images/uw-fountain.jpg
