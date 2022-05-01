@@ -1,7 +1,5 @@
 name: Program Committee
 personnel:
-  - gordonwatts
-  - schsu
   - jbutler
   - taohan
   - sekhar
@@ -21,3 +19,7 @@ personnel:
   - shiltsev
   - tait
   - worcester
+  - agarwal
+  - zettlemoyer
+  - gordonwatts
+  - schsu
