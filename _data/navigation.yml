@@ -6,7 +6,7 @@
       link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
-    - name: Summiting the Unknown (July 14-16)
+    - name: Summiting the Unknown, Dedicated to Ann Nelson (July 14-16)
       link: https://indico.fnal.gov/event/22915/
 - name: Events
   dropdown:
@@ -58,7 +58,7 @@
   dropdown:
     - name: Team
       link: /about/team/
-    - name: Local Organizatino Committee
+    - name: Local Organization Committee
       link: /about/loc/
     - name: Program Committee
       link: /about/pc/
@@ -66,7 +66,7 @@
       link: /assets
     - name: YouTube Channel
       link: https://www.youtube.com/channel/UCGAmQGyUcrzH8GJ_8Em2MgQ
-    - name: Sponsors
+    - name: Industry Partners
       link: /sponsors
 - name: Code of Conduct
   link: /codeofconduct/
