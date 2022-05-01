@@ -1,5 +1,5 @@
 ---
-permalink: /registration_draft/
+permalink: /registration/
 title: Workshop Registration
 hero_image: /assets/images/uw-fountain.jpg
 hide_hero: false
