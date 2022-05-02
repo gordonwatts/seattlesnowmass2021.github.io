@@ -10,18 +10,20 @@
       link: https://indico.fnal.gov/event/22915/
 - name: Events
   dropdown:
-  - name: Outreach
-    link: /outreach/
-  - name: Industry Networking
-    link: /casinoNight/
-  - name: Physics Slam
-    link: /physicsSlam/
-  - name: Industry Exhibit
-    link: /industryExhibit/
-  - name: LIGO/Hanford Visit
-    link: /ligo
   - name: "Public Lecture: The Surprising Expansion History of the Universe"
     link: https://phys.washington.edu/events/2022-07-20/surprising-expansion-history-universe
+  - name: Physics Slam
+    link: /physicsSlam/
+  - name: Outreach
+    link: /outreach/
+  - name: LIGO/Hanford Visit
+    link: /ligo
+  - name: Industry Networking
+    link: /networkingNight/
+  - name: Industry Exhibit
+    link: /industryExhibit/
+
+
 - name: Logistics
   dropdown:
     - name: Venue
