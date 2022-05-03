@@ -16,7 +16,7 @@ Priorities:
 * Early Career members who do not have other funding for the conference.
 * Applicants who are actively involved in the Snowmass organization process 
 * Applicants who are presenting at the conference (talk or poster)
-* Aembers of underrepresented groups (women and underrepresented minorities)
+* Members of underrepresented groups (women and underrepresented minorities)
 
 Minimum Amounts (depending on the number of applications):
 $300 for virtual conference registration fee
