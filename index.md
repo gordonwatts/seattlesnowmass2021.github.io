@@ -12,6 +12,7 @@ Welcome to the Seattle Community Summer Study Workshop home page!
 * [Conference Registration information and registration form](/registration)
 * [Lodging in and around the University](/lodging) - we are still working with our lodging providers to bring more options
 * [Travel to Seattle](/travel)
+* [Travel Awards](/travelAward) - criteria and process to apply for extra funds to travel waive registration for Snowmass. 
 
 The Seattle meeting is the culmination of the various workshops and Town Hall meetings that have taken place during 2020, 2021, and 2022 as part of Snowmass21. As we have throughout the Snowmass process, we aim for everyone's voice to be heard. Contributions and participation from the community in this workshop are critical for the success of Snowmass21 and they will occur as part of one or more working groups directed by conveners.
 
