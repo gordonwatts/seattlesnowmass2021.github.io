@@ -20,6 +20,8 @@ Below you'll find a description of the information we request and your purchase 
 
 Early-Career members of our community include post-doc and student or equivalent position. Columns marked with a * are not yet available for ordering. Early-bird registration will end on June 5 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time.
 
+We have travel awards and registration waivers available. [Please apply here](/travelAward).
+
 The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings including remote connections. No alcohol is purchased with these funds. Lunch is not included in the registration fee.
 
 We encourage you to also join us for the workshop dinner. To keep costs reasonable, the price of each dinner ticket includes the food only (including dessert and coffee/tea). We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is $49. Children under 12 years of age are free. Dietary preferences should be listed on the registration form.

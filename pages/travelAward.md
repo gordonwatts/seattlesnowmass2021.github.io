@@ -14,15 +14,15 @@ Criteria:
 
 Priorities:
 * Early Career members who do not have other funding for the conference.
-* applicants who are actively involved in the Snowmass organization process 
-* applicants who are presenting at the conference (talk or poster)
-* members of underrepresented groups (women and underrepresented minorities) may be given preference
+* Applicants who are actively involved in the Snowmass organization process 
+* Applicants who are presenting at the conference (talk or poster)
+* Aembers of underrepresented groups (women and underrepresented minorities)
 
 Minimum Amounts (depending on the number of applications):
 $300 for virtual conference registration fee
 $300 for domestic travel and conference registration fee
 $500 for international travel and conference registration fee
 
-To submit an application please fill out this google form (coming shortly). Please have this submitted by May 25th to assure timely notification.
+To submit an application please fill out this [google form](https://forms.gle/EtEwoWwPwUWoqLZA6). Please have this submitted by May 25th to assure timely notification before early bird registration finishes.
 
 If you have questions, [please let us know!](mailto:snowmass-loc2022@uw.edu).
