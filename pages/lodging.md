@@ -27,9 +27,12 @@ The University of Washington negotiated rates for limited rooms at three nearby 
 
 Three hotels are located at easy walking distance to the rooms where the workshop will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn. The Graduate Seattle is also located a 10 minute walk distance based on [Bing Maps](https://www.bing.com/maps?osid=573ffe1d-7ffb-4a0b-bad4-de7ed4d1a925&cp=47.659769~-122.314431&lvl=16&v=2&sV=2&form=S00027).
 
-We are working on a UW rate with _The Residence In by Marriot_ and _Silver Cloud Inn_. We will have updates here shortly.
+The UW Conference service contracts out upscale and comfortable hotels with limited number of rooms. Please use the link below to reserve rooms with discount rate.
+
+[Silver Cloud Inn](https://university.silvercloud.com/irmng/#/search?g=SNOWMAS&o=SNOWMAS) $225/night (Group Rate Available Until 7/1/2022 by 3:00PM.), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop. 
+
+We are working on a UW rate with _The Residence In by Marriot_. We will have updates here shortly.
 <!-- * [The Residence Inn by Marriot](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/) - located a [11 minute walk](https://www.bing.com/maps?osid=32d9aaac-bbb4-4c7f-bc61-194418d60081&cp=47.659345~-122.315798&lvl=16&v=2&sV=2&form=S00027) (about 0.6 mile) from the main meeting rooms for the workshp. At the time this page was written, rooms were $240/night. -->
-<!-- * [Silver Cloud Inn](https://www.silvercloud.com/university/), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop. Upscale and comfortable. At time this page was written, rooms were $260/night. -->
 
 ## Other Seattle Hotels
 
