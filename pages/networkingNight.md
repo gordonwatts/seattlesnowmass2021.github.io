@@ -1,5 +1,5 @@
 ---
-permalink: /casinoNight/
+permalink: /networkingNight/
 title: Industry Networking Night
 hero_image: /assets/images/networking_night.jpeg
 hide_hero: false
