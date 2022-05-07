@@ -7,7 +7,7 @@ hide_hero: false
 
 ## Child Care
 
-We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69) or [Contact Us](mailto:snowmass-loc2022@uw.edu) with your needs.
+We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69), or Contact Us via [email](mailto:snowmass-loc2022@uw.edu)/[#seattle-snowmass-childcare](https://snowmass2021.slack.com/archives/C03CMLBEJ0K)] with your needs.
 
 ## On-site child care
 
@@ -17,11 +17,11 @@ The drop-in rate of shared nanny service is $5/hr per kid. The venue is Mary Gat
 - Boson (between 5 and 12): 1 nanny to 8 kids.
 
 The nannies and baby-sitters can be hired from sites below. Folks can post an ad for available opportunities.
-- SitterCity: https://www.sittercity.com/uw.
-- College of Ed Community Job Board (https://sites.google.com/uw.edu/coejobs/home)
-- Advising listserv. http://mailman.u.washington.edu/mailman/listinfo/advisers.
-- School of Social Work job listserv: http://mailman13.u.washington.edu/mailman/listinfo/sswjobs.
-- OYPC job site. https://www.washington.edu/youth/youth-at-uw-events/summer-jobs-fair/.
+- [SitterCity](https://www.sittercity.com/uw).
+- College of Ed Community [Job Board](https://sites.google.com/uw.edu/coejobs/home)
+-[Advising listserv](http://mailman.u.washington.edu/mailman/listinfo/advisers)
+- School of Social Work [job listserv](http://mailman13.u.washington.edu/mailman/listinfo/sswjobs)
+- OYPC [job site](https://www.washington.edu/youth/youth-at-uw-events/summer-jobs-fair/).
 
 ## Off-site child care
 
