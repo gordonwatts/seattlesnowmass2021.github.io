@@ -1,7 +1,7 @@
 ---
 permalink: /childCare/
 title: Child Care
-hero_image: /assets/images/childcare-schoolspeciality.jpeg
+hero_image: /assets/images/childcare-EEU-HaringCenter.png
 hide_hero: false
 ---
 
