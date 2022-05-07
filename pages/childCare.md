@@ -11,17 +11,17 @@ We are working with the [UW Youth Protection](https://www.washington.edu/youth/)
 
 ## On-site child care
 
-The drop-in rate of shared nanny service is $5/hr per kid. The venue is Mary Gates Hall R206, a 5 min walk from the workshop venue. In addition to shared nannies, you can also hire your own nannies/babysitters and use the facility without additional cost. There are three kids groups for subscriptions:
-- Lepton (under 2): 1 nanny to 4 kids. 
-- Quark (between 2 and 5): 1 nanny to 4 kids. No requirement of potty training.
-- Boson (between 5 and 12): 1 nanny to 8 kids.
+The drop-in rate of shared nanny service is $5/hr per kid. The venue is Mary Gates Hall R206, a 5 min walk from the workshop venue. In addition to shared nannies, you can also hire your own nannies/babysitters and use the facility without additional cost. There are three groups categorized by ages:
+- Lepton (under 2): 1 nanny for 4 kids. 
+- Quark (between 2 and 5): 1 nanny for 4 kids. No requirement of potty training.
+- Boson (between 5 and 12): 1 nanny for 8 kids.
 
 The nannies and baby-sitters can be hired from sites below. Folks can post an ad for available opportunities.
-- [SitterCity](https://www.sittercity.com/uw).
+- [SitterCity](https://www.sittercity.com/uw)
 - College of Ed Community [Job Board](https://sites.google.com/uw.edu/coejobs/home)
--[Advising listserv](http://mailman.u.washington.edu/mailman/listinfo/advisers)
+- [Advising listserv](http://mailman.u.washington.edu/mailman/listinfo/advisers)
 - School of Social Work [job listserv](http://mailman13.u.washington.edu/mailman/listinfo/sswjobs)
-- OYPC [job site](https://www.washington.edu/youth/youth-at-uw-events/summer-jobs-fair/).
+- OYPC [job site](https://www.washington.edu/youth/youth-at-uw-events/summer-jobs-fair/)
 
 ## Off-site child care
 
