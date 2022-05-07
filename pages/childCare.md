@@ -7,7 +7,7 @@ hide_hero: false
 
 ## Child Care
 
-We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69), or Contact Us via [email](mailto:snowmass-loc2022@uw.edu)/[#seattle-snowmass-childcare](https://snowmass2021.slack.com/archives/C03CMLBEJ0K)] with your needs.
+We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69), or Contact Us via [email](mailto:snowmass-loc2022@uw.edu) or [#seattle-snowmass-childcare](https://snowmass2021.slack.com/archives/C03CMLBEJ0K) with your needs.
 
 ## On-site child care
 
