@@ -5,7 +5,7 @@ title: Code of Conduct
 
 ## Code of Conduct
 
-Snowmass is a DPF sponsored activity, therefore we embrace the [DPF Core Principles and Community Guidelines (CP&CG)](https://docs.google.com/document/d/1OD8khECoDKni_yMsSdkzgdYvUUXl4O2pQCbCwGURILI/edit) as a code of conduct for our event.
+Snowmass is a DPF sponsored activity, therefore we embrace the [DPF Core Principles and Community Guidelines (CP&CG)](/assets/docs/DPF-CPCG-05.03.2022.pdf) as a code of conduct for our event.
 
 We encourage everyone to read the CP&CG.  It has 3 parts:
 
