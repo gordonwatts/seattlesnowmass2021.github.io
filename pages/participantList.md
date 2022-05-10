@@ -59,4 +59,4 @@ Number of participants: 51
 |	Tait, Tim	|	University of California, Irvine	|	Faculty	|
 |	Wackeroth, Doreen	|	University at Buffalo	|	Faculty	|
 |	Zhang, Jinlong	|	Argonne National Laboratory	|	Research Scientist	|
-|	Zimmermann, Frank	|	CERN	|	Research Scientist	|![image](https://user-images.githubusercontent.com/6923207/167560287-aae4041a-323b-43b3-8811-f41c65b807f2.png)
+|	Zimmermann, Frank	|	CERN	|	Research Scientist	|
