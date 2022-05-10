@@ -9,6 +9,8 @@ We are looking forward to seeing you here in Seattle in July!
 
 To register for Seattle Snowmass please use the [form found here](https://cvent.me/vz43ry).
 
+To see participant list from [here](https://seattlesnowmass2021.net/participantList/).
+
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
 ## In-Person Registration
