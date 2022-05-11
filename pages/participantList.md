@@ -5,7 +5,7 @@ hero_image: /assets/images/uw-fountain.jpg
 hide_hero: false
 ---
 
-Number of participants: 51
+Number of participants: 59
 
 | First, Last Name | Institute | Position |
 | :--- | :--- | :--- |
@@ -17,10 +17,14 @@ Number of participants: 51
 |	Chivukula, R. Sekhar	|	UC San Diego	|	Faculty	|
 |	Csaki, Csaba	|	Cornell University	|	Faculty	|
 |	Cushman, Priscilla	|	University of Minnesota	|	Faculty	|
+|	Dasu, Sridhara	|	University of Wisconsin	|	Faculty	|
+|	de Jong, Sijbrand	|	Radboud University Nijmegen , The Netherlands	|	Faculty	|
 |	Demarteau, Marcel	|	Oak Ridge National Laboratory	|	Research Scientist	|
 |	Dracos, Marcos	|	IPHC-IN2P3/CNRS	|	Research Scientist	|
+|	Elmer, Peter	|	Princeton University	|	Research Scientist	|
 |	Eno, Sarah	|	U. Maryland	|	Faculty	|
 |	Farrar, Glennys	|	New York University	|	Faculty	|
+|	Faus-Golfe, Angeles	|	IJCLab - Irène Joliot Curie Laboratory	|	Research Scientist	|
 |	Freitas, Ayres	|	University of Pittsburgh	|	Faculty	|
 |	Ghosh, Sumita	|	Yale University	|	Student	|
 |	Gonski, Julia	|	Nevis Laboratories/Columbia University	|	Postdoc	|
@@ -40,6 +44,7 @@ Number of participants: 51
 |	Maruyama, Reina	|	Yale University	|	Faculty	|
 |	Mazza, Simone	|	UC Santa Cruz	|	Postdoc	|
 |	Merkel, Petra	|	Fermilab	|	Research Scientist	|
+|	Monzani, Maria Elena	|	SLAC National Accelerator Laboratory	|	Research Scientist	|
 |	Narain, Meenakshi	|	Brown University	|	Faculty	|
 |	Newman, Harvey	|	Caltech	|	Faculty	|
 |	Ojalvo, Isabel	|	Princeton University	|	Faculty	|
@@ -54,9 +59,13 @@ Number of participants: 51
 |	Shiltsev, Vladimir	|	Fermilab	|	Faculty	|
 |	Simmons, Elizabeth	|	UC San Diego	|	Faculty	|
 |	Slatyer, Tracy	|	MIT	|	Faculty	|
+|	Strobbe, Nadja	|	University of Minnesota	|	Faculty	|
 |	Su, Shufang	|	University of Arizona	|	Faculty	|
 |	Szydagis, Matthew	|	UAlbany SUNY	|	Faculty	|
 |	Tait, Tim	|	University of California, Irvine	|	Faculty	|
+|	Torres, Jorge	|	Yale University	|	Postdoc	|
 |	Wackeroth, Doreen	|	University at Buffalo	|	Faculty	|
+|	Westerdale, Shawn	|	UC Riverside	|	Faculty	|
 |	Zhang, Jinlong	|	Argonne National Laboratory	|	Research Scientist	|
 |	Zimmermann, Frank	|	CERN	|	Research Scientist	|
+
