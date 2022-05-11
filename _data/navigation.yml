@@ -6,6 +6,8 @@
       link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
+    - name: DANCE/CoDaS@Snowmass 2022 (Training)
+      link: https://indico.cern.ch/event/1151329/
     - name: Summiting the Unknown, Dedicated to Ann Nelson (July 14-16)
       link: https://indico.fnal.gov/event/22915/
 - name: Events
@@ -22,8 +24,6 @@
     link: /networkingNight/
   - name: Industry Exhibit
     link: /industryExhibit/
-
-
 - name: Logistics
   dropdown:
     - name: Venue
