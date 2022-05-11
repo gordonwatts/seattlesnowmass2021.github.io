@@ -58,6 +58,8 @@
       link: https://engage.aps.org/dpb/home
 - name: About
   dropdown:
+    - name: Bulletin 1
+      link: /2022/04/17/First-Bulletin/
     - name: Team
       link: /about/team/
     - name: Local Organization Committee
