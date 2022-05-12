@@ -15,10 +15,7 @@ Instructions:
   Click on the table headers to sort them.
 */
 
-console.log("Getting started")
-
 function tableSortJs(testingTableSortJS = false, domDocumentWindow = document) {
-  console.log("tableSortJs()")
   function getHTMLTables() {
     if (testingTableSortJS === true) {
       const getTagTable = domDocumentWindow.getElementsByTagName("table");
