@@ -1,0 +1,246 @@
+participants:
+- firstname: Marina
+  lastname: Artuso
+  affiliation: syracuse university
+  position: Faculty
+- firstname: Stefan
+  lastname: Ballmer
+  affiliation: Syracuse University / Cosmic Explorer
+  position: Faculty
+- firstname: Phil
+  lastname: Barbeau
+  affiliation: Duke University
+  position: Faculty
+- firstname: Kenneth
+  lastname: Bloom
+  affiliation: University of Nebraska-Lincoln
+  position: Faculty
+- firstname: Noah
+  lastname: Bray-Ali
+  affiliation: Mt. Saint Mary's Univ.-Los Angeles
+  position: 'Other:: Lecturer'
+- firstname: Joel
+  lastname: Butler
+  affiliation: Fermilab and APS/Division of Particles and Fields
+  position: Research Scientist
+- firstname: R. Sekhar
+  lastname: Chivukula
+  affiliation: UC San Diego
+  position: Faculty
+- firstname: Csaba
+  lastname: Csaki
+  affiliation: Cornell University
+  position: Faculty
+- firstname: Priscilla
+  lastname: Cushman
+  affiliation: University of Minnesota
+  position: Faculty
+- firstname: Sridhara
+  lastname: Dasu
+  affiliation: University of Wisconsin
+  position: Faculty
+- firstname: Sijbrand
+  lastname: De Jong
+  affiliation: Radboud University Nijmegen , The Netherlands
+  position: Faculty
+- firstname: Marcel
+  lastname: Demarteau
+  affiliation: Oak Ridge National Laboratory
+  position: Research Scientist
+- firstname: Marcos
+  lastname: Dracos
+  affiliation: IPHC-IN2P3/CNRS
+  position: Research Scientist
+- firstname: Peter
+  lastname: Elmer
+  affiliation: Princeton University
+  position: Research Scientist
+- firstname: Sarah
+  lastname: Eno
+  affiliation: U. Maryland
+  position: Faculty
+- firstname: Glennys
+  lastname: Farrar
+  affiliation: New York University
+  position: Faculty
+- firstname: Angeles
+  lastname: Faus-Golfe
+  affiliation: IJCLab - Irène Joliot Curie Laboratory
+  position: Research Scientist
+- firstname: Ayres
+  lastname: Freitas
+  affiliation: University of Pittsburgh
+  position: Faculty
+- firstname: Sumita
+  lastname: Ghosh
+  affiliation: Yale University
+  position: Student
+- firstname: Julia
+  lastname: Gonski
+  affiliation: Nevis Laboratories/Columbia University
+  position: Postdoc
+- firstname: Stephen
+  lastname: Gourlay
+  affiliation: LBNL (Retired)
+  position: Research Scientist
+- firstname: Tao
+  lastname: Han
+  affiliation: University of Pittsburgh
+  position: Faculty
+- firstname: Heather
+  lastname: Harrington
+  affiliation: University of Washington
+  position: Student
+- firstname: Kevan
+  lastname: Hashemi
+  affiliation: Open Source Instruments
+  position: 'Other:: NSF funded company'
+- firstname: Ulrich
+  lastname: Heintz
+  affiliation: Brown University
+  position: Faculty
+- firstname: Tova
+  lastname: Holmes
+  affiliation: University of Tennessee, Knoxville
+  position: Faculty
+- firstname: Alvine
+  lastname: Kamaha
+  affiliation: University of California, Los Angeles (UCLA)
+  position: Faculty
+- firstname: Lawrence
+  lastname: Lee
+  affiliation: University of Tennessee, Knoxville
+  position: Faculty
+- firstname: Michael
+  lastname: Levi
+  affiliation: Berkeley Lab
+  position: Research Scientist
+- firstname: Elliot
+  lastname: Lipeles
+  affiliation: University of Pennsylvania
+  position: Faculty
+- firstname: Zhen
+  lastname: Liu
+  affiliation: University of Minnesota
+  position: Faculty
+- firstname: Xinchou
+  lastname: Lou
+  affiliation: IHEP and UT Dallas
+  position: Faculty
+- firstname: Fabio
+  lastname: Maltoni
+  affiliation: UCLouvain/UniBO
+  position: Faculty
+- firstname: Reina
+  lastname: Maruyama
+  affiliation: Yale University
+  position: Faculty
+- firstname: Simone
+  lastname: Mazza
+  affiliation: UC Santa Cruz
+  position: Postdoc
+- firstname: Petra
+  lastname: Merkel
+  affiliation: Fermilab
+  position: Research Scientist
+- firstname: Maria Elena
+  lastname: Monzani
+  affiliation: SLAC National Accelerator Laboratory
+  position: Research Scientist
+- firstname: Meenakshi
+  lastname: Narain
+  affiliation: Brown University
+  position: Faculty
+- firstname: Harvey
+  lastname: Newman
+  affiliation: Caltech
+  position: Faculty
+- firstname: Isabel
+  lastname: Ojalvo
+  affiliation: Princeton University
+  position: Faculty
+- firstname: John
+  lastname: Orrell
+  affiliation: Pacific Northwest National Laboratory
+  position: Research Scientist
+- firstname: Jens
+  lastname: Osterhoff
+  affiliation: DESY
+  position: Prefer not to answer
+- firstname: Nepomuk
+  lastname: Otte
+  affiliation: Georgia Tech
+  position: Faculty
+- firstname: Simone
+  lastname: Pagan Griso
+  affiliation: LBNL
+  position: Research Scientist
+- firstname: Tor
+  lastname: Raubenheimer
+  affiliation: SLAC / Stanford University
+  position: Faculty
+- firstname: Kate
+  lastname: Scholberg
+  affiliation: Duke University
+  position: Faculty
+- firstname: Carl
+  lastname: Schroeder
+  affiliation: Lawrence Berkeley National Laboratory
+  position: Research Scientist
+- firstname: Marc
+  lastname: Sher
+  affiliation: William & Mary
+  position: Faculty
+- firstname: Vladimir
+  lastname: Shiltsev
+  affiliation: Fermilab
+  position: Faculty
+- firstname: Elizabeth
+  lastname: Simmons
+  affiliation: UC San Diego
+  position: Faculty
+- firstname: Tracy
+  lastname: Slatyer
+  affiliation: MIT
+  position: Faculty
+- firstname: Nadja
+  lastname: Strobbe
+  affiliation: University of Minnesota
+  position: Faculty
+- firstname: Shufang
+  lastname: Su
+  affiliation: University of Arizona
+  position: Faculty
+- firstname: Matthew
+  lastname: Szydagis
+  affiliation: UAlbany SUNY
+  position: Faculty
+- firstname: Tim
+  lastname: Tait
+  affiliation: University of California, Irvine
+  position: Faculty
+- firstname: Jorge
+  lastname: Torres
+  affiliation: Yale University
+  position: Postdoc
+- firstname: Doreen
+  lastname: Wackeroth
+  affiliation: University at Buffalo
+  position: Faculty
+- firstname: Shawn
+  lastname: Westerdale
+  affiliation: UC Riverside
+  position: Faculty
+- firstname: Keping
+  lastname: Xie
+  affiliation: University of Pittsburgh
+  position: Postdoc
+- firstname: Jinlong
+  lastname: Zhang
+  affiliation: Argonne National Laboratory
+  position: Research Scientist
+- firstname: Frank
+  lastname: Zimmermann
+  affiliation: CERN
+  position: Research Scientist
+generated_at: 05/12/2022 14:12:01 GMT
