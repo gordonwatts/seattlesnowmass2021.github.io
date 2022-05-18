@@ -3,6 +3,10 @@ participants:
   lastname: Artuso
   affiliation: syracuse university
   position: Faculty
+- firstname: Kétévi
+  lastname: Assamagan
+  affiliation: BNL
+  position: Research Scientist
 - firstname: Stefan
   lastname: Ballmer
   affiliation: Syracuse University / Cosmic Explorer
@@ -15,6 +19,10 @@ participants:
   lastname: Barklow
   affiliation: SLAC
   position: Research Scientist
+- firstname: Gregorio
+  lastname: Bernardi
+  affiliation: APC Paris CNRS/IN2P3
+  position: Faculty
 - firstname: Kenneth
   lastname: Bloom
   affiliation: University of Nebraska-Lincoln
@@ -59,6 +67,10 @@ participants:
   lastname: Dracos
   affiliation: IPHC-IN2P3/CNRS
   position: Research Scientist
+- firstname: Javier
+  lastname: Duarte
+  affiliation: UC San Diego
+  position: Faculty
 - firstname: Peter
   lastname: Elmer
   affiliation: Princeton University
@@ -115,6 +127,10 @@ participants:
   lastname: Holmes
   affiliation: University of Tennessee, Knoxville
   position: Faculty
+- firstname: Michael
+  lastname: Jewell
+  affiliation: Yale University
+  position: Postdoc
 - firstname: Alvine
   lastname: Kamaha
   affiliation: University of California, Los Angeles (UCLA)
@@ -199,6 +215,10 @@ participants:
   lastname: Pagan Griso
   affiliation: LBNL
   position: Research Scientist
+- firstname: Mark
+  lastname: Palmer
+  affiliation: Brookhaven National Laboratory
+  position: 'Other:: Facility Director'
 - firstname: Abid
   lastname: Patwa
   affiliation: US Department of Energy
@@ -295,4 +315,4 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 05/16/2022 17:05:54 GMT
+generated_at: 05/18/2022 14:36:02 GMT
