@@ -3,6 +3,10 @@ participants:
   lastname: Artuso
   affiliation: syracuse university
   position: Faculty
+- firstname: Kétévi
+  lastname: Assamagan
+  affiliation: BNL
+  position: Research Scientist
 - firstname: Stefan
   lastname: Ballmer
   affiliation: Syracuse University / Cosmic Explorer
@@ -10,6 +14,14 @@ participants:
 - firstname: Phil
   lastname: Barbeau
   affiliation: Duke University
+  position: Faculty
+- firstname: Timothy
+  lastname: Barklow
+  affiliation: SLAC
+  position: Research Scientist
+- firstname: Gregorio
+  lastname: Bernardi
+  affiliation: APC Paris CNRS/IN2P3
   position: Faculty
 - firstname: Kenneth
   lastname: Bloom
@@ -22,6 +34,10 @@ participants:
 - firstname: Joel
   lastname: Butler
   affiliation: Fermilab and APS/Division of Particles and Fields
+  position: Research Scientist
+- firstname: Massimo
+  lastname: Casarsa
+  affiliation: INFN - Trieste, Italy
   position: Research Scientist
 - firstname: R. Sekhar
   lastname: Chivukula
@@ -51,6 +67,10 @@ participants:
   lastname: Dracos
   affiliation: IPHC-IN2P3/CNRS
   position: Research Scientist
+- firstname: Javier
+  lastname: Duarte
+  affiliation: UC San Diego
+  position: Faculty
 - firstname: Peter
   lastname: Elmer
   affiliation: Princeton University
@@ -99,10 +119,18 @@ participants:
   lastname: Heintz
   affiliation: Brown University
   position: Faculty
+- firstname: Katrin
+  lastname: Heitmann
+  affiliation: Argonne National Laboratory
+  position: Prefer not to answer
 - firstname: Tova
   lastname: Holmes
   affiliation: University of Tennessee, Knoxville
   position: Faculty
+- firstname: Michael
+  lastname: Jewell
+  affiliation: Yale University
+  position: Postdoc
 - firstname: Alvine
   lastname: Kamaha
   affiliation: University of California, Los Angeles (UCLA)
@@ -118,6 +146,10 @@ participants:
 - firstname: Elliot
   lastname: Lipeles
   affiliation: University of Pennsylvania
+  position: Faculty
+- firstname: Hugh
+  lastname: Lippincott
+  affiliation: UCSB
   position: Faculty
 - firstname: Zhen
   lastname: Liu
@@ -147,6 +179,10 @@ participants:
   lastname: Monzani
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+- firstname: Emilio
+  lastname: Nanni
+  affiliation: SLAC National Accelerator Laboratory, Stanford University
+  position: Faculty
 - firstname: Meenakshi
   lastname: Narain
   affiliation: Brown University
@@ -171,10 +207,22 @@ participants:
   lastname: Otte
   affiliation: Georgia Tech
   position: Faculty
+- firstname: Erin
+  lastname: O’Sullivan
+  affiliation: Uppsala University
+  position: Faculty
 - firstname: Simone
   lastname: Pagan Griso
   affiliation: LBNL
   position: Research Scientist
+- firstname: Mark
+  lastname: Palmer
+  affiliation: Brookhaven National Laboratory
+  position: 'Other:: Facility Director'
+- firstname: Abid
+  lastname: Patwa
+  affiliation: US Department of Energy
+  position: Prefer not to answer
 - firstname: Tor
   lastname: Raubenheimer
   affiliation: SLAC / Stanford University
@@ -187,6 +235,10 @@ participants:
   lastname: Schroeder
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+- firstname: Reinhard
+  lastname: Schwienhorst
+  affiliation: Michigan State University
+  position: Faculty
 - firstname: Marc
   lastname: Sher
   affiliation: William & Mary
@@ -203,6 +255,10 @@ participants:
   lastname: Slatyer
   affiliation: MIT
   position: Faculty
+- firstname: Andrew
+  lastname: Sonnenschein
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Nadja
   lastname: Strobbe
   affiliation: University of Minnesota
@@ -219,9 +275,25 @@ participants:
   lastname: Tait
   affiliation: University of California, Irvine
   position: Faculty
+- firstname: Jesse
+  lastname: Thaler
+  affiliation: MIT
+  position: Faculty
 - firstname: Jorge
   lastname: Torres
   affiliation: Yale University
+  position: Postdoc
+- firstname: Kathy
+  lastname: Turner
+  affiliation: US Department of Energy, Office of High Energy Physics
+  position: 'Other:: DOE/HEP Cosmic Frontier program manager'
+- firstname: Marlene
+  lastname: Turner
+  affiliation: LBNL
+  position: Research Scientist
+- firstname: Emanuele
+  lastname: Usai
+  affiliation: Brown University
   position: Postdoc
 - firstname: Doreen
   lastname: Wackeroth
@@ -243,4 +315,4 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 05/12/2022 14:12:01 GMT
+generated_at: 05/18/2022 14:36:02 GMT
