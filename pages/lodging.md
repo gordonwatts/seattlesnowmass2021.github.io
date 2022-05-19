@@ -10,6 +10,7 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 ## Dorm Rooms
 
 Dorm rooms are OPEN for reservation by using this [Link](https://washington.irisregistration.com/Form/4869). The minimum booking block is 8 days (July 17~July 25) with shoulder dates of 2 days before and 2 days after the booking block. A nonrefundable reservation fee of $20.00 per guest still applies. Package Rates (per person):
+
 * $516.00 Double Occupancy - Private Bathroom
 * $864.00 Single Occupancy - Private Bathroom
 
