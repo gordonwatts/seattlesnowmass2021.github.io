@@ -40,6 +40,10 @@ On July 27, they day after the workshop, there is a day-trip to visit LIGO/Hanfo
 
 Virtual registration will be available starting June 6th. We will also have an Observer virtual registration that covers only the first and last two days. Virtual registration will open on July 6th, along with normal in-person registration.
 
+## Lunch
+
+Lunch is not included in the base cost of the workshop. Each day has 2 hours set aside for lunch. This should be plenty of time for most people to travel off-campus to find a restaurant. There are also various places on-campus (in the Student Union Building - pizza, sandwiches, etc.). However, if you want, you can also ask for a boxed lunch to be held for you near the registration desk. The cost is $20/day. It includes a sandwich, fruit, water, cookie or similar. Your dietary requirements will be honored (see the additional workshop information section below).
+
 ## Information Requested
 
 This section outlines the information we request on the registration form and what we plan to do with it.
