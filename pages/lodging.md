@@ -9,7 +9,7 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 ## Dorm Rooms
 
-Dorm rooms are open for reservation by using this [Link](https://washington.irisregistration.com/Form/4869). To assure a spot, please reserve before June 15!!! We have a huge number blocked off, but at that date we will need to release many of them! If you register for a room after June 24th, you'll be charged a late registration fee of $25 and there may not be rooms availible.
+**Dorm rooms are open for reservation by using this [Link](https://washington.irisregistration.com/Form/4869)**. To assure a spot, please reserve before June 15!!! We have a huge number blocked off, but at that date we will need to release many of them! If you register for a room after June 24th, you'll be charged a late registration fee of $25 and there may not be rooms availible.
 
 The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The room layout is a Double room, with private bathroom, desk, and excellent wifi. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings).
 
