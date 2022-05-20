@@ -5,16 +5,13 @@ hero_image: /assets/images/childcare-EEU-HaringCenter.png
 hide_hero: false
 ---
 
-## Child Care
+## Child care
 
-We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69), or Contact Us via [email](mailto:snowmass-loc2022@uw.edu) or [#seattle-snowmass-childcare](https://snowmass2021.slack.com/archives/C03CMLBEJ0K) with your needs.
+We are working with the [UW Youth Protection](https://www.washington.edu/youth/) to provide centralized access to child care facilities based on demand. Please complete the [Survey](https://forms.gle/erjFnaWbWVpYXJb69), or Contact Us via [email](mailto:snowmass-loc2022@uw.edu) with your needs.
 
-## On-site child care
+## Child care for toddlers and younger 
 
-The drop-in rate of shared nanny service is $5/hr per kid. The venue is Mary Gates Hall R206, a 5 min walk from the workshop venue. In addition to shared nannies, you can also hire your own nannies/babysitters and use the facility without additional cost. There are three groups categorized by ages:
-- Lepton (under 2): 1 nanny for 4 kids. 
-- Quark (between 2 and 5): 1 nanny for 4 kids. No requirement of potty training.
-- Boson (between 5 and 12): 1 nanny for 8 kids.
+We are grouping children under 5 years of age to seek for shared nannies/babysitters in the Slack channel [#seattle-snowmass-childcare](https://snowmass2021.slack.com/archives/C03CMLBEJ0K).
 
 The nannies and baby-sitters can be hired from sites below. Folks can post an ad for available opportunities.
 - [SitterCity](https://www.sittercity.com/uw)
@@ -22,6 +19,11 @@ The nannies and baby-sitters can be hired from sites below. Folks can post an ad
 - [Advising listserv](http://mailman.u.washington.edu/mailman/listinfo/advisers)
 - School of Social Work [job listserv](http://mailman13.u.washington.edu/mailman/listinfo/sswjobs)
 - OYPC [job site](https://www.washington.edu/youth/youth-at-uw-events/summer-jobs-fair/)
+
+## On-site child care for K-12
+
+This service is only available for kids with 5 years of age or older.
+The drop-in rate of shared nanny service is $5/hr per kid. The venue is Mary Gates Hall R206, a 5 min walk from the workshop venue. In addition to shared nannies, you can also hire your own nannies/babysitters and use the facility without additional cost. 
 
 ## Off-site child care
 
