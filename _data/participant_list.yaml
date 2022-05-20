@@ -27,10 +27,18 @@ participants:
   lastname: Bloom
   affiliation: University of Nebraska-Lincoln
   position: Faculty
+- firstname: Radja
+  lastname: Boughezal
+  affiliation: Argonne National Laboratory
+  position: Faculty
 - firstname: Noah
   lastname: Bray-Ali
   affiliation: Mt. Saint Mary's Univ.-Los Angeles
   position: 'Other:: Lecturer'
+- firstname: Raymond
+  lastname: Bunker
+  affiliation: PNNL
+  position: Research Scientist
 - firstname: Joel
   lastname: Butler
   affiliation: Fermilab and APS/Division of Particles and Fields
@@ -42,6 +50,10 @@ participants:
 - firstname: R. Sekhar
   lastname: Chivukula
   affiliation: UC San Diego
+  position: Faculty
+- firstname: Nathaniel
+  lastname: Craig
+  affiliation: UC Santa Barbara
   position: Faculty
 - firstname: Csaba
   lastname: Csaki
@@ -62,6 +74,10 @@ participants:
 - firstname: Marcel
   lastname: Demarteau
   affiliation: Oak Ridge National Laboratory
+  position: Research Scientist
+- firstname: Milind
+  lastname: Diwan
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Marcos
   lastname: Dracos
@@ -103,6 +119,10 @@ participants:
   lastname: Gourlay
   affiliation: LBNL (Retired)
   position: Research Scientist
+- firstname: Lindsey
+  lastname: Gray
+  affiliation: Fermilab
+  position: Faculty
 - firstname: Tao
   lastname: Han
   affiliation: University of Pittsburgh
@@ -135,6 +155,10 @@ participants:
   lastname: Kamaha
   affiliation: University of California, Los Angeles (UCLA)
   position: Faculty
+- firstname: Doojin
+  lastname: Kim
+  affiliation: Texas A&M University
+  position: Postdoc
 - firstname: Lawrence
   lastname: Lee
   affiliation: University of Tennessee, Knoxville
@@ -159,10 +183,22 @@ participants:
   lastname: Lou
   affiliation: IHEP and UT Dallas
   position: Faculty
+- firstname: Xueying
+  lastname: Lu
+  affiliation: Northern Illinois University / Argonne National Laboratory
+  position: Faculty
+- firstname: Morgan
+  lastname: Lynn
+  affiliation: University of Chicago/Fermilab
+  position: Student
 - firstname: Fabio
   lastname: Maltoni
   affiliation: UCLouvain/UniBO
   position: Faculty
+- firstname: Michelangelo
+  lastname: Mangano
+  affiliation: CERN-TH
+  position: Research Scientist
 - firstname: Reina
   lastname: Maruyama
   affiliation: Yale University
@@ -174,6 +210,10 @@ participants:
 - firstname: Petra
   lastname: Merkel
   affiliation: Fermilab
+  position: Research Scientist
+- firstname: Michiko
+  lastname: Minty
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Maria Elena
   lastname: Monzani
@@ -223,6 +263,18 @@ participants:
   lastname: Patwa
   affiliation: US Department of Energy
   position: Prefer not to answer
+- firstname: Michael
+  lastname: Peskin
+  affiliation: SLAC
+  position: Faculty
+- firstname: Frank
+  lastname: Petriello
+  affiliation: Argonne and Northwestern
+  position: Faculty
+- firstname: John
+  lastname: Power
+  affiliation: Argonne National Laboratory
+  position: Research Scientist
 - firstname: Tor
   lastname: Raubenheimer
   affiliation: SLAC / Stanford University
@@ -303,6 +355,10 @@ participants:
   lastname: Westerdale
   affiliation: UC Riverside
   position: Faculty
+- firstname: Graham
+  lastname: Wilson
+  affiliation: University of Kansas
+  position: Faculty
 - firstname: Keping
   lastname: Xie
   affiliation: University of Pittsburgh
@@ -315,4 +371,4 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 05/18/2022 14:36:02 GMT
+generated_at: 05/20/2022 13:41:22 GMT
