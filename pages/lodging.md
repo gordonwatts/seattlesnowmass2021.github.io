@@ -33,6 +33,8 @@ All guests, no matter of age, must be registered with the conference through our
 
 The University of Washington negotiated rates for limited rooms at three nearby quality hotels for the workshop attendants. Hotels are all within 0.5 miles from the workshop venue and offer accessible rooms. You have to use direct links below to book the room in order to receive the discount rate.
 
+<img src="/assets/images/university-inn.jpg" style="height:2in"/><img src="/assets/images/watertown.jpg" style="height:2in"/><img src="/assets/images/graduate.jpg" style="height:2in"/>
+
 * [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $167~$208/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions. Some of the days might not be available.
 * [Watertown](https://reservations.staypineapple.com/?chain=26225&hotel=40206&arrive=07-17-22&depart=07-26-22&group=220717UWCO&configcode=rate&utm_source=uw-conf-mgmt-snowmass&utm_medium=referral&utm_campaign=group-sales-wt) $189/night.
   * If that block has run out, [there is a UW prefered rate](https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) which isn't as good, but is better than the rack rate. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
