@@ -7,9 +7,7 @@ hide_hero: false
 
 We are looking forward to seeing you here in Seattle in July!
 
-To register for Seattle Snowmass please use the [form found here](https://cvent.me/vz43ry).
-
-To see participant list from [here](https://seattlesnowmass2021.net/participantList/).
+To register for Seattle Snowmass please use the **[form found at this link](https://cvent.me/vz43ry)**. You can see people that have already registered [here](/participantList/).
 
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
@@ -29,6 +27,8 @@ The in-person registration includes all catering, all coffee breaks, a reception
 We encourage you to also join us for the workshop dinner. To keep costs reasonable, the price of each dinner ticket includes the food only (including dessert and coffee/tea). We will have a cash/credit card bar for people to purchase wine and drinks in the dinner venue. The cost of the dinner is $49. Children under 12 years of age are free. Dietary preferences should be listed on the registration form.
 
 On July 27, they day after the workshop, there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $80 dollars, and includes the tour and the bus ride there and back.
+
+Refunds are possible for in-person registration before July 1st. A $75 processing fee will be charged. If you will miss the workshop due to COVID, please contact the local organizing committee ([via email](mailto:snowmass-loc2022@uw.edu)) to request a refund, and please get better as fast as possible!!
 
 ## Virtual Registration
 
