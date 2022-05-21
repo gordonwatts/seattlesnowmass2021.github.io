@@ -28,7 +28,7 @@ We encourage you to also join us for the workshop dinner. To keep costs reasonab
 
 On July 27, they day after the workshop, there is a day-trip to visit LIGO/Hanford. The cost of the complete day is $80 dollars, and includes the tour and the bus ride there and back.
 
-Refunds are possible for in-person registration before July 1st. A $75 processing fee will be charged. If you will miss the workshop due to COVID, please contact the local organizing committee ([via email](mailto:snowmass-loc2022@uw.edu)) to request a refund, and please get better as fast as possible!!
+Refunds are possible for in-person registration before July 1st. A $75 processing fee will be charged. If you will miss the workshop due to COVID-19, please contact the local organizing committee ([via email](mailto:snowmass-loc2022@uw.edu)) to request a refund, and please get better as fast as possible!!
 
 ## Virtual Registration
 
