@@ -25,14 +25,9 @@ After July 25 | $115.50/night | $72/night | You may book up to 2 days |
 
 The maxum stay is from July 15 - July 27. Arrival on the day before the workshop, July 16, and departure on the last day of the workshop, July 26, will cost $1095 ($864 + 1*$115.50 + 1*$115.50) for single occupancy ($109.50/night). It is not possible to book outside these dates in the dorms, nor is it possible to not book between July 17 and 25.
 
-If you book and wish to cancled your booking, you can for a $20 non-refundable reservation fee.
+If you book and wish to cancel your booking, you can for a $20 non-refundable reservation fee.
 
-The minimum booking block is 8 days (July 17~July 25) with shoulder dates of 2 days before and 2 days after the booking block. A nonrefundable reservation fee of $20.00 per guest still applies. Package Rates (per person):
-
-* $516.00 Double Occupancy - Private Bathroom
-* $864.00 Single Occupancy - Private Bathroom
-
-All guest, no matter of age, must be registered with the conference through our housing reservation website. Children nine years of age or older must occupy a bed and are charged the full package rate. Children eight years of age or younger may bring a sleeping bag to use on the floor of a fully occupied room at no additional charge. A fully occupied room is one in which all available beds have been paid for at the package rate. Cots, cribs or extra bedding for those children sleeping on the floor are neither provided nor available. There may never be more than two adults and two children assigned to a room. Children in University of Washington residence halls and/or dining facilities must be supervised at all times by an adult assuming full responsibility for their safety and behavior.
+All guests, no matter of age, must be registered with the conference through our housing reservation website. Children nine years of age or older must occupy a bed and are charged the full package rate. Children eight years of age or younger may bring a sleeping bag to use on the floor of a fully occupied room at no additional charge. A fully occupied room is one in which all available beds have been paid for at the package rate. Cots, cribs or extra bedding for those children sleeping on the floor are neither provided nor available. There may never be more than two adults and two children assigned to a room. Children in University of Washington residence halls and/or dining facilities must be supervised at all times by an adult assuming full responsibility for their safety and behavior.
 
 ## Near Campus Workshp Hotels
 
