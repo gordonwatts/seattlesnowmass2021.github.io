@@ -42,10 +42,8 @@ Three hotels are located at easy walking distance to the rooms where the worksho
 
 The UW Conference service contracts out upscale and comfortable hotels with limited number of rooms. Please use the link below to reserve rooms with discount rate.
 
-[Silver Cloud Inn](https://university.silvercloud.com/irmng/#/search?g=SNOWMAS&o=SNOWMAS) $225/night (Group Rate Available Until 7/1/2022 by 3:00PM.), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop. 
-
-We are working on a UW rate with _The Residence In by Marriot_. We will have updates here shortly.
-<!-- * [The Residence Inn by Marriot](https://www.marriott.com/en-us/hotels/seaud-residence-inn-seattle-university-district/overview/) - located a [11 minute walk](https://www.bing.com/maps?osid=32d9aaac-bbb4-4c7f-bc61-194418d60081&cp=47.659345~-122.315798&lvl=16&v=2&sV=2&form=S00027) (about 0.6 mile) from the main meeting rooms for the workshp. At the time this page was written, rooms were $240/night. -->
+* [The Residence In by Marriot](https://www.marriott.com/events/start.mi?id=1652730220940&key=GRP) $239/night. Located a [10 minute walk](https://maps.windows.com/?form=WNAMSH&rtp=pos.47.661709_-122.315659_Residence%20Inn%20by%20Marriott%20Seattle%20University%20District~pos.47.656628_-122.309425_Kane%20Hall&mode=w) from the main meeting rooms for the workshop.
+* [Silver Cloud Inn](https://university.silvercloud.com/irmng/#/search?g=SNOWMAS&o=SNOWMAS) $225/night (Group Rate Available Until 7/1/2022 by 3:00PM.), located a [20 minute talk](https://www.bing.com/maps?osid=ebb70bec-0db1-456b-b142-328ab9ee6207&cp=47.661493~-122.309431&lvl=15&v=2&sV=2&form=S00027) (about 1 mile) from the main meeting rooms for the workshop.
 
 ## Other Seattle Hotels
 
