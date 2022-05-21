@@ -23,7 +23,7 @@ July 17-July 25 | $864 | $516 | Everyone must book this block |
 Prior to July 17 | $115.50/night | $72/night | You may book up to 2 days |
 After July 25 | $115.50/night | $72/night | You may book up to 2 days |
 
-The maxum stay is from July 15 - July 27. Arrival on the day before the workshop, July 16, and departure on the last day of the workshop, July 26, will cost $1095 ($864 + 1*$115.50 + 1*$115.50) for single occupancy ($109.50/night). It is not possible to book outside these dates in the dorms, nor is it possible to not book between July 17 and 25.
+The maxum stay is from July 15 - July 27. Arrival on the day before the workshop, July 16, and departure on the last day of the workshop, July 26, will cost $1095 ($864 + $115.50 + $115.50) for single occupancy ($109.50/night). It is not possible to book outside these dates in the dorms, nor is it possible to not book between July 17 and 25.
 
 If you book and wish to cancel your booking, you can for a $20 non-refundable reservation fee.
 
