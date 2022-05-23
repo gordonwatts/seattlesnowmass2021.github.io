@@ -9,7 +9,7 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 ## Dorm Rooms
 
-**Dorm rooms are open for reservation by using this [Link](https://washington.irisregistration.com/Form/4869)**. To assure a spot, please reserve before June 15!!! We have a huge number blocked off, but at that date we will need to release many of them! If you register for a room after June 24th, you'll be charged a late registration fee of $25 and there may not be rooms availible.
+**Dorm rooms are open for reservation by using this [Link](https://washington.irisregistration.com/Form/4869){:target="_blank"}**. To assure a spot, please reserve before June 15!!! We have a huge number blocked off, but at that date we will need to release many of them! If you register for a room after June 24th, you'll be charged a late registration fee of $25 and there may not be rooms availible.
 
 The primary lodging sponsored by the workshop are private dorm rooms on North campus within 0.4 miles from the workshop venue ([7 minute walk](https://www.bing.com/maps?osid=7cfe6dc3-30e4-4618-9467-e3830152a7d4&cp=47.65828~-122.308777&lvl=17&v=2&sV=2&form=S00027)). The room layout is a Double room, with private bathroom, desk, and excellent wifi. [Madrona Hall](https://hfs.uw.edu/Campus-Living/Undergraduate-Housing/Madrona-Hall) is recently built and modern construction (as an example of one of the dorm room buildings).
 
@@ -23,7 +23,7 @@ July 17-July 25 | $864 | $516 | Everyone must book this block |
 Prior to July 17 | $115.50/night | $72/night | You may book up to 2 days |
 After July 25 | $115.50/night | $72/night | You may book up to 2 days |
 
-The maxum stay is from July 15 - July 27. Arrival on the day before the workshop, July 16, and departure on the last day of the workshop, July 26, will cost $1095 ($864 + $115.50 + $115.50) for single occupancy ($109.50/night). It is not possible to book outside these dates in the dorms, nor is it possible to not book between July 17 and 25.
+The maxium stay is from July 15 - July 27. Arrival on the day before the workshop, July 16, and departure on the last day of the workshop, July 26, will cost $1095 ($864 + $115.50 + $115.50) for single occupancy ($109.50/night). It is not possible to book outside these dates in the dorms, nor is it possible to not book between July 17 and 25.
 
 If you book and wish to cancel your booking, you can for a $20 non-refundable reservation fee.
 
