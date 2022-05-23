@@ -27,6 +27,10 @@ participants:
   lastname: Bloom
   affiliation: University of Nebraska-Lincoln
   position: Faculty
+- firstname: Tulika
+  lastname: Bose
+  affiliation: University of Wisconsin-Madison
+  position: Faculty
 - firstname: Radja
   lastname: Boughezal
   affiliation: Argonne National Laboratory
@@ -159,6 +163,10 @@ participants:
   lastname: Kim
   affiliation: Texas A&M University
   position: Postdoc
+- firstname: Andrew
+  lastname: Lankford
+  affiliation: UCI
+  position: Faculty
 - firstname: Lawrence
   lastname: Lee
   affiliation: University of Tennessee, Knoxville
@@ -347,6 +355,10 @@ participants:
   lastname: Usai
   affiliation: Brown University
   position: Postdoc
+- firstname: Christopher
+  lastname: Verhaaren
+  affiliation: BYU
+  position: Faculty
 - firstname: Doreen
   lastname: Wackeroth
   affiliation: University at Buffalo
@@ -371,4 +383,4 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 05/20/2022 13:41:22 GMT
+generated_at: 05/23/2022 09:15:41 GMT
