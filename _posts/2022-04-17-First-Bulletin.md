@@ -11,7 +11,7 @@ The Seattle meeting is the culmination of the various workshops and Town Hall me
 
 This bulletin contains information on the workshop, registration, travel and accommodation, and some background on the Snowmass process, Seattle, and the University of Washington.  If you have questions do not hesitate to contact us: snowmass-loc2022@uw.edu.
 
-We’d like to thank our partners who are helping to sponsor the event: NVIDIA, RadiaBeam, and Universe.
+We’d like to thank our partners who are helping to support the event: NVIDIA, RadiaBeam, and Universe.
 
 Immediately preceding this Snowmass Summer Study, the University of Washington is organizing a three-day workshop in honor of University of Washington Professor Ann Nelson, a renowned theorist who died in 2019; see below for details.
 

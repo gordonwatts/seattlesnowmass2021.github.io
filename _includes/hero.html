@@ -10,8 +10,8 @@
                     {% endif %}
                 </div>
                 <div style="float: left">
-                    {% for sponsor in site.data.sponsors %}
-                        <a href="{{ sponsor.url }}"><img title="{{ sponsor.name }}" src="{{ sponsor.logo | relative_url }}" style="height: 20px"/></a>
+                    {% for supporter in site.data.supporters %}
+                        <a href="{{ supporter.url }}"><img title="{{ supporter.name }}" src="{{ supporter.logo | relative_url }}" style="height: 20px"/></a>
                     {% endfor %}
                 </div>
             </div>

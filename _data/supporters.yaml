@@ -1,12 +1,12 @@
 - name: UW Physics Department
-  logo: /assets/sponsors/uw.gif
+  logo: /assets/supporters/uw.gif
   url: https://phys.washington.edu
 - name: nVidia
-  logo: /assets/sponsors/nvidia-logo.png
+  logo: /assets/supporters/nvidia-logo.png
   url: https://nvidia.com
 - name: RadiaBeam
-  logo: /assets/sponsors/radiabeam.png
+  logo: /assets/supporters/radiabeam.png
   url: https://radiabeam.com/
 - name: MDPI Journals
-  logo: /assets/sponsors/mdpi.png
+  logo: /assets/supporters/mdpi.png
   url: https://www.mdpi.com

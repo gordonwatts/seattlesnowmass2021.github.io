@@ -13,6 +13,6 @@ This event is open only to registered Snowmass participants and students and pos
 
 Light food and beverages are provided. 
 
-Sponsors:
+Supporters:
 
 - RadiaBeam
