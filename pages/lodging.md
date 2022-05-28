@@ -35,10 +35,10 @@ The University of Washington negotiated rates for limited rooms at three nearby 
 
 <img src="/assets/images/university-inn.jpg" style="height:2in"/><img src="/assets/images/watertown.jpg" style="height:2in"/><img src="/assets/images/graduate.jpg" style="height:2in"/>
 
-* [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $167~$208/night. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions. Some of the days might not be available.
-* [Watertown](https://reservations.staypineapple.com/?chain=26225&hotel=40206&arrive=07-17-22&depart=07-26-22&group=220717UWCO&configcode=rate&utm_source=uw-conf-mgmt-snowmass&utm_medium=referral&utm_campaign=group-sales-wt) $189/night.
-  * If that block has run out, [there is a UW prefered rate](https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) which isn't as good, but is better than the rack rate. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
-* [Graduate Seattle](https://be.synxis.com/?chain=21643&hotel=76675&filter=UNI) $191~$251/night. Choose  "Always a Husky - UW Alumni Rate."
+* [University Inn](https://www.staypineapple.com/university-inn-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) $213~$285/night. From the menu bar, click UW Exclusive Rates. Some of the days might not be available.
+* [Watertown](https://reservations.staypineapple.com/?chain=26225&hotel=40206&arrive=07-17-22&depart=07-26-22&group=220717UWCO&configcode=rate&utm_source=uw-conf-mgmt-snowmass&utm_medium=referral&utm_campaign=group-sales-wt) $231~$270/night.
+  * If that block has run out, [there is a UW Exclusive Rate](https://www.staypineapple.com/watertown-hotel-seattle-wa/uw-exclusive-rates?showbanner=543&promocode=UWR) which isn't as good, but is better than the rack rate. From the menu bar, click ROOMS, choose "(not so) Standard Rooms" and press "Book Now" below the room descriptions.
+* [Graduate Seattle](https://be.synxis.com/?chain=21643&hotel=76675&filter=UNI) $215~$274/night. Choose  "Always a Husky - UW Alumni Rate."
 
 Three hotels are located at easy walking distance to the rooms where the workshop will take place. According to [Bing Maps](https://www.bing.com/maps?osid=78efa497-ba9f-4c49-9ee0-07eaf1ef8324&cp=47.658263~-122.314974&lvl=17&v=2&sV=2&form=S00027), the walk from the Water Town to Kane Hall, the building housing the largest meeting room for Snowmass, is 10 minutes. The University Inn is located right next door to the Watertown Inn. The Graduate Seattle is also located a 10 minute walk distance based on [Bing Maps](https://www.bing.com/maps?osid=573ffe1d-7ffb-4a0b-bad4-de7ed4d1a925&cp=47.659769~-122.314431&lvl=16&v=2&sV=2&form=S00027).
 
