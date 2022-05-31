@@ -60,6 +60,8 @@
       link: https://engage.aps.org/dpb/home
 - name: About
   dropdown:
+    - name: Bulletin 2
+      link: 2022/05/30/Second-Bulletin/
     - name: Bulletin 1
       link: /2022/04/17/First-Bulletin/
     - name: Team
