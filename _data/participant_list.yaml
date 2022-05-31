@@ -7,6 +7,10 @@ participants:
   lastname: Akerib
   affiliation: SLAC
   position: Faculty
+- firstname: Valentina
+  lastname: Amitrano
+  affiliation: University of Trento, INFN-TIFPA
+  position: Student
 - firstname: Kathleen
   lastname: Amm
   affiliation: Brookhaven National Lab
@@ -87,6 +91,10 @@ participants:
   lastname: Cecil
   affiliation: Argonne
   position: Research Scientist
+- firstname: Mu-Chun
+  lastname: Chen
+  affiliation: University of California, Irvine
+  position: Faculty
 - firstname: R. Sekhar
   lastname: Chivukula
   affiliation: UC San Diego
@@ -127,6 +135,10 @@ participants:
   lastname: Demarteau
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+- firstname: Daniel
+  lastname: Diaz
+  affiliation: University of California San Diego
+  position: Postdoc
 - firstname: Milind
   lastname: Diwan
   affiliation: Brookhaven National Laboratory
@@ -171,6 +183,10 @@ participants:
   lastname: Ghosh
   affiliation: Yale University
   position: Student
+- firstname: Lawrence
+  lastname: Gibbons
+  affiliation: Cornell University
+  position: Faculty
 - firstname: Julia
   lastname: Gonski
   affiliation: Nevis Laboratories/Columbia University
@@ -199,6 +215,10 @@ participants:
   lastname: Headley
   affiliation: SDSTA / SURF
   position: 'Other:: Lab Director'
+- firstname: Karsten
+  lastname: Heeger
+  affiliation: Yale University
+  position: Faculty
 - firstname: Ulrich
   lastname: Heintz
   affiliation: Brown University
@@ -219,6 +239,10 @@ participants:
   lastname: Huber
   affiliation: Virginia Polytechnic Institute and State University
   position: Faculty
+- firstname: Wooyoung
+  lastname: Jang
+  affiliation: University of Texas at Arlington
+  position: Postdoc
 - firstname: Michael
   lastname: Jewell
   affiliation: Yale University
@@ -227,6 +251,10 @@ participants:
   lastname: Kamaha
   affiliation: University of California, Los Angeles (UCLA)
   position: Faculty
+- firstname: Tanner
+  lastname: Kaptanoglu
+  affiliation: UC Berkeley
+  position: Postdoc
 - firstname: Doojin
   lastname: Kim
   affiliation: Texas A&M University
@@ -283,6 +311,10 @@ participants:
   lastname: Mangano
   affiliation: CERN-TH
   position: Research Scientist
+- firstname: Jeremiah
+  lastname: Mans
+  affiliation: University of Minnesota
+  position: Faculty
 - firstname: Reina
   lastname: Maruyama
   affiliation: Yale University
@@ -295,6 +327,10 @@ participants:
   lastname: Mclean
   affiliation: Argonne National Laboratory
   position: Research Scientist
+- firstname: Patrick
+  lastname: Meade
+  affiliation: Stony Brook University
+  position: Faculty
 - firstname: Stefan
   lastname: Meinel
   affiliation: University of Arizona
@@ -322,6 +358,10 @@ participants:
 - firstname: Harvey
   lastname: Newman
   affiliation: Caltech
+  position: Faculty
+- firstname: Jeffrey
+  lastname: Newman
+  affiliation: U. Pittsburgh / PITT PACC
   position: Faculty
 - firstname: Jason
   lastname: Nielsen
@@ -363,6 +403,10 @@ participants:
   lastname: Parsons
   affiliation: Columbia University
   position: Faculty
+- firstname: Ritchie
+  lastname: Patterson
+  affiliation: Cornell University
+  position: Faculty
 - firstname: Abid
   lastname: Patwa
   affiliation: US Department of Energy
@@ -395,6 +439,10 @@ participants:
   lastname: Rosser
   affiliation: University of Chicago
   position: Postdoc
+- firstname: Heidi
+  lastname: Schellman
+  affiliation: Oregon State University
+  position: Faculty
 - firstname: Michael
   lastname: Schmitt
   affiliation: Northwestern University
@@ -435,10 +483,18 @@ participants:
   lastname: Sonnenschein
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Alexandre
+  lastname: Sousa
+  affiliation: University of Cincinnati
+  position: Faculty
 - firstname: Maria
   lastname: Spiropulu
   affiliation: Caltech
   position: Faculty
+- firstname: Giordon
+  lastname: Stark
+  affiliation: SCIPP, UC Santa Cruz (ATLAS Exp.)
+  position: Postdoc
 - firstname: Nadja
   lastname: Strobbe
   affiliation: University of Minnesota
@@ -495,6 +551,10 @@ participants:
   lastname: Westerdale
   affiliation: UC Riverside
   position: Faculty
+- firstname: Andrew
+  lastname: White
+  affiliation: University of Texas at Arlington
+  position: Faculty
 - firstname: Graham
   lastname: Wilson
   affiliation: University of Kansas
@@ -503,6 +563,10 @@ participants:
   lastname: Wooten
   affiliation: University of California, Berkeley
   position: Student
+- firstname: Elizabeth
+  lastname: Worcester
+  affiliation: Brookhaven National Lab
+  position: Research Scientist
 - firstname: Keping
   lastname: Xie
   affiliation: University of Pittsburgh
@@ -527,4 +591,4 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 05/26/2022 20:34:27 GMT
+generated_at: 05/31/2022 14:49:32 GMT
