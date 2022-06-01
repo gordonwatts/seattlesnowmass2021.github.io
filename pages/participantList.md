@@ -8,7 +8,9 @@ hide_hero: false
 
 Updated: {{ site.data.participant_list.generated_at }}
 
-Number of participants: {{ site.data.participant_list.participants | size }}
+Number of participants: {{ site.data.participant_list.number_participants }}
+
+Number of conference dinner attendees: {{ site.data.participant_list.number_dinner_attendees }}
 
 {% assign sorted_names = site.data.participant_list.participants | sort: "lastname" %}
 
