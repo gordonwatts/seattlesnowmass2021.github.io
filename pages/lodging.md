@@ -29,6 +29,14 @@ If you book and wish to cancel your booking, you can for a $20 non-refundable re
 
 All guests, no matter of age, must be registered with the conference through our housing reservation website. Children nine years of age or older must occupy a bed and are charged the full package rate. Children eight years of age or younger may bring a sleeping bag to use on the floor of a fully occupied room at no additional charge. A fully occupied room is one in which all available beds have been paid for at the package rate. Cots, cribs or extra bedding for those children sleeping on the floor are neither provided nor available. There may never be more than two adults and two children assigned to a room. Children in University of Washington residence halls and/or dining facilities must be supervised at all times by an adult assuming full responsibility for their safety and behavior.
 
+All cancellation requests must be submitted in writing to the Conference Services Office.
+
+If the cancellation is received by the Conference Services Office on or before Friday, June 24, 2022, the prepayment will be refunded less the $20.00 Housing Reservation Fee.
+
+If the cancellation request is received by the Conference Services Office after Friday, June 24, 2022 but before the scheduled arrival date, the prepayment will be refunded less the $20.00 Housing Reservation Fee and Late Reservation Fee (if applicable) plus ten percent of the package rate or one day of room and board (plus applicable tax), whichever is greater.
+
+If no advance cancellation is received by the Conference Services Office and you do not check in, no refund will be issued.
+
 ## Near Campus Workshp Hotels
 
 The University of Washington negotiated rates for limited rooms at three nearby quality hotels for the workshop attendants. Hotels are all within 0.5 miles from the workshop venue and offer accessible rooms. You have to use direct links below to book the room in order to receive the discount rate.
