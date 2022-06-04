@@ -16,6 +16,8 @@
   dropdown:
   - name: "Public Lecture: The Surprising Expansion History of the Universe"
     link: https://phys.washington.edu/events/2022-07-20/surprising-expansion-history-universe
+  - name: Physics Department Lab Tours
+    link: /labtours/
   - name: Physics Slam
     link: /physicsSlam/
   - name: Outreach
