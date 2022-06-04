@@ -13,12 +13,12 @@ Below you'll find a description of the information we request and your purchase 
 
 ## In-Person Registration
 
-| Registration Type | Early Bird (Due June 5th) | Normal* (Due July 3rd) | Late* |
+| Registration Type | Early Bird (Due June 13th) | Normal* (Due July 3rd) | Late* |
 | :--- | :---: | :---: | :---: |
 | Full | $550 | $800 | $1000 |
 | Early Career | $275 | $400 | $450 |
 
-Early-Career members of our community include post-doc and student or equivalent position. Columns marked with a * are not yet available for ordering. Early-bird registration will end on June 5 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time.
+Early-Career members of our community include post-doc and student or equivalent position. Columns marked with a * are not yet available for ordering. Early-bird registration will end on June 13 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time.
 
 We have travel awards and registration waivers available. [Please apply here](/travelAward).
 
