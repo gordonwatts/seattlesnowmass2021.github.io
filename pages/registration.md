@@ -13,14 +13,14 @@ Below you'll find a description of the information we request and your purchase 
 
 ## In-Person Registration
 
-| Registration Type | Early Bird (Due June 5th) | Normal* (Due July 3rd) | Late* |
+| Registration Type | Early Bird (Due June 13th) | Normal* (Due July 3rd) | Late* |
 | :--- | :---: | :---: | :---: |
 | Full | $550 | $800 | $1000 |
 | Early Career | $275 | $400 | $450 |
 
 Early-Career members of our community include post-doc and student or equivalent position. Columns marked with a * are not yet available for ordering. Early-bird registration will end on June 5 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time.
 
-We have travel awards and registration waivers available. [Please apply here](/travelAward).
+We have travel awards and registration waivers available. [Please apply here](/travelAward). We've given out the first batch (deadline was May 25) and are searching for other sources fo funding. If you apply now we will do our best. 
 
 The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings including remote connections. No alcohol is purchased with these funds. Lunch is not included in the registration fee.
 
@@ -38,7 +38,7 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 | Early Career | Free |
 | Observer | $100 |
 
-Virtual registration will be available starting June 6th. We will also have an Observer virtual registration that covers only the first and last two days. Virtual registration will open on July 6th, along with normal in-person registration.
+Virtual registration will be available starting June 13th. We will also have an Observer virtual registration that covers only the first and last two days. Virtual registration will open on July 6th, along with normal in-person registration.
 
 ## Lunch
 
