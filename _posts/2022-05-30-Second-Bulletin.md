@@ -8,7 +8,7 @@ hero_image: /assets/images/uw-fountain.jpg
 
 We are looking forward to seeing you in Seattle, July 17-26, 2022! There is a lot of information in this bulletin, including information about registration, dorm rooms and hotels, social events, DOE visit, and DANCE, a software training event. Full details can be found at our [website](http://seattlesnowmass2021.net/), which we are updating regularly as new information becomes available.
 
-Please register now and plan your travel as soon as you can. Early-bird registration is open until June 5, 2022. Plane flights and lodging are all increasing in price.
+Please register now and plan your travel as soon as you can. Early-bird registration is open until June 13, 2022. Plane flights and lodging are all increasing in price.
 
 ## Lodging
 
@@ -46,7 +46,7 @@ Some other recent news:
 
 * A computational and data science software training event, DANCE: CoDaS, which stands for Dark Matter and Neutrino Computation Explored: Computational Data Science for High Energy Physics School, is co-located at Snowmass and is targeted at early career members of our community. Selected applicants will receive travel and lodging support. The schedule allows participants time to attend many Snowmass activities. Please [see this page](http://seattlesnowmass2021.net/2022/05/10/dance/) to apply (by May 25 for full consideration, you can find this under Events on our website).
 * The DOE and NSF will be hosting PI meetings during the week, much as they did during Snowmass 2013. Both small and large group gatherings are planned.
-* Poster submission remains open until June 5. Poster acceptances have been sent for all submitted abstracts. We’ve heard reports that some of these acceptances were captured by spam filters - if you submitted a poster, please go into the workshop indico agenda and check the [status of your submission](https://indico.fnal.gov/event/22303/abstracts/). 
+* Poster submission remains open until June 13. Poster acceptances have been sent for all submitted abstracts. We’ve heard reports that some of these acceptances were captured by spam filters - if you submitted a poster, please go into the workshop indico agenda and check the [status of your submission](https://indico.fnal.gov/event/22303/abstracts/). 
 * We have started doing inspections of some of our workshop rooms to check for accessibility. We don’t have any information to share yet, but we will soon start updating our [accessibility page](http://seattlesnowmass2021.net/accessibility/) with logistics and further information relevant to attending the workshop.
 
 ## COVID-19
