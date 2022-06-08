@@ -11,7 +11,7 @@ The Local Organizing Committee of the Snowmass Summer Study is committed to maki
 Below is information about various accessibility measures. Please don’t hesitate to contact us if you have questions or comments. We will update this page as more details become available.
 
 ## Remote Meeting Access
-All the formal meetings will have Zoom rooms connected. We will carefully run the large rooms and make sure audio works well. Smaller rooms will have speakers available to the chairs - and they will be responsible for connecting. The plenary sessions and working groups will be recorded and made available for later viewing.
+All the formal meetings will have Zoom rooms connected. We will carefully run the large rooms and make sure audio works well. Smaller rooms will have speakers available to the chairs - and they will be responsible for connecting. The plenary sessions and working groups will be recorded and made available for later viewing. We will not be broadcasting the audience, and in the larger rooms we will not broadcast the speaker. In the smaller meetings the decision to broadcasting an image of the speaker will be up to the people in the meeting, as it is for anyone giving a remote presentation.
  
 ## Visual
 * Presenters will be strongly encouraged to use colorblindness-friendly color schemes.
