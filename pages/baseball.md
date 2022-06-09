@@ -11,7 +11,9 @@ To purchase these tickets, please sign up when you [register](/registration), or
 
 ## Seats
 
-We have arranged block seating!
+We have arranged block seating in the T-Mobile Park Section 117 Row 29-35!
+
+<img src="/assets/images/Baseball_seat.png" width="50%" /><img src="/assets/images/Baseball_seat_view.png" width="50%"/> 
 
 ## Travel
 
