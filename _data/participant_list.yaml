@@ -3,6 +3,10 @@ participants:
   lastname: Acosta
   affiliation: Rice University
   position: Faculty
+- firstname: Tony
+  lastname: Affolder
+  affiliation: University of California, Santa Cruz
+  position: Research Scientist
 - firstname: Zeeshan
   lastname: Ahmed
   affiliation: SLAC National Accelerator Laboratory
@@ -67,6 +71,10 @@ participants:
   lastname: Barklow
   affiliation: SLAC
   position: Research Scientist
+- firstname: Christian
+  lastname: Bauer
+  affiliation: LBNL
+  position: Faculty
 - firstname: Michael
   lastname: Begel
   affiliation: Brookhaven National Laboratory
@@ -87,6 +95,10 @@ participants:
   lastname: Benoit
   affiliation: University of Minnesota
   position: Student
+- firstname: Bradford
+  lastname: Benson
+  affiliation: Fermilab
+  position: Faculty
 - firstname: Gregorio
   lastname: Bernardi
   affiliation: APC Paris CNRS/IN2P3
@@ -143,18 +155,38 @@ participants:
   lastname: Bray-Ali
   affiliation: Mt. Saint Mary's Univ.-Los Angeles
   position: 'Other:: Lecturer'
+- firstname: Gustaaf
+  lastname: Brooijmans
+  affiliation: Columbia University
+  position: Faculty
 - firstname: Elizabeth
   lastname: Brost
   affiliation: Brookhaven National Laboratory
+  position: Research Scientist
+- firstname: David
+  lastname: Brown
+  affiliation: Lawrence Berkeley National Lab
   position: Research Scientist
 - firstname: Raymond
   lastname: Bunker
   affiliation: PNNL
   position: Research Scientist
+- firstname: Laura
+  lastname: Buonincontri
+  affiliation: Università degli Studi di Padova e INFN Padova
+  position: Student
 - firstname: Joel
   lastname: Butler
   affiliation: Fermilab and APS/Division of Particles and Fields
   position: Research Scientist
+- firstname: Yunhai
+  lastname: Cai
+  affiliation: SLAC National Accelerator Laboratory
+  position: Research Scientist
+- firstname: Gabriella
+  lastname: Carini
+  affiliation: BNL
+  position: Prefer not to answer
 - firstname: John
   lastname: Carlstrom
   affiliation: University of Chicago / Argonne
@@ -163,6 +195,10 @@ participants:
   lastname: Casarsa
   affiliation: INFN - Trieste, Italy
   position: Research Scientist
+- firstname: Simon
+  lastname: Catterall
+  affiliation: Syracuse University
+  position: Faculty
 - firstname: Thomas
   lastname: Cecil
   affiliation: Argonne
@@ -227,6 +263,10 @@ participants:
   lastname: Davies
   affiliation: University of Mississippi
   position: Faculty
+- firstname: Edward
+  lastname: Daw
+  affiliation: The University of Sheffield, UK
+  position: Faculty
 - firstname: Andre
   lastname: De Gouvea
   affiliation: Northwestern University
@@ -267,6 +307,10 @@ participants:
   lastname: Dutta
   affiliation: Department of Physics and Astronomy
   position: Faculty
+- firstname: Andrew
+  lastname: Dye
+  affiliation: University of Mississippi
+  position: Student
 - firstname: Bertrand
   lastname: Echenard
   affiliation: Caltech
@@ -287,10 +331,18 @@ participants:
   lastname: Farrar
   affiliation: New York University
   position: Faculty
+- firstname: James
+  lastname: Fast
+  affiliation: Jefferson Lab
+  position: Faculty
 - firstname: Angeles
   lastname: Faus-Golfe
   affiliation: IJCLab - Irène Joliot Curie Laboratory
   position: Research Scientist
+- firstname: Fernando
+  lastname: Febres Cordero
+  affiliation: Florida State University
+  position: Faculty
 - firstname: Qi
   lastname: Feng
   affiliation: Smithsonian Astrophysical Observatory
@@ -299,6 +351,10 @@ participants:
   lastname: Fields
   affiliation: University of Notre Dame
   position: Faculty
+- firstname: Rob
+  lastname: Fine
+  affiliation: Los Alamos National Laboratory
+  position: Postdoc
 - firstname: Bonnie
   lastname: Fleming
   affiliation: Yale University
@@ -307,6 +363,10 @@ participants:
   lastname: Freitas
   affiliation: University of Pittsburgh
   position: Faculty
+- firstname: Annika
+  lastname: Gabriel
+  affiliation: SLAC National Accelerator Laboratory
+  position: Student
 - firstname: Jeremy
   lastname: Gaison
   affiliation: Pacific Northwest National Laboratory
@@ -315,6 +375,10 @@ participants:
   lastname: Gan
   affiliation: The Ohio State University
   position: Faculty
+- firstname: Ali
+  lastname: Garabaglu
+  affiliation: University of Washington
+  position: Student
 - firstname: Isabel
   lastname: Garcia Garcia
   affiliation: KITP (UCSB)
@@ -371,6 +435,10 @@ participants:
   lastname: Harris
   affiliation: York University/Fermilab
   position: Faculty
+- firstname: Philip
+  lastname: Harris
+  affiliation: MIT
+  position: Faculty
 - firstname: Kevan
   lastname: Hashemi
   affiliation: Open Source Instruments
@@ -415,6 +483,10 @@ participants:
   lastname: Hopkins
   affiliation: Argonne National Lab
   position: Research Scientist
+- firstname: Md Forhad
+  lastname: Hossain
+  affiliation: Fermilab/New Mexico State University
+  position: Student
 - firstname: Patrick
   lastname: Huber
   affiliation: Virginia Polytechnic Institute and State University
@@ -427,6 +499,10 @@ participants:
   lastname: Hutzler
   affiliation: Caltech
   position: Faculty
+- firstname: Marc
+  lastname: Illa Subina
+  affiliation: University of Washington
+  position: Postdoc
 - firstname: Christopher
   lastname: Jackson
   affiliation: PNNL
@@ -439,6 +515,10 @@ participants:
   lastname: Jewell
   affiliation: Yale University
   position: Postdoc
+- firstname: Zhixing
+  lastname: Jiang
+  affiliation: UW ACME lab
+  position: Student
 - firstname: Jay Hyun
   lastname: Jo
   affiliation: Yale University
@@ -451,10 +531,18 @@ participants:
   lastname: Kamaha
   affiliation: University of California, Los Angeles (UCLA)
   position: Faculty
+- firstname: Peter
+  lastname: Kammel
+  affiliation: UW and CENPA, Seattle
+  position: Faculty
 - firstname: Tanner
   lastname: Kaptanoglu
   affiliation: UC Berkeley
   position: Postdoc
+- firstname: Sushrut
+  lastname: Karmarkar
+  affiliation: Purdue University, USA
+  position: Student
 - firstname: Nikolaos
   lastname: Kidonakis
   affiliation: Kennesaw State University
@@ -499,6 +587,10 @@ participants:
   lastname: Lee
   affiliation: University of Tennessee, Knoxville
   position: Faculty
+- firstname: Erik
+  lastname: Lentz
+  affiliation: Pacific Northwest National Laboratory
+  position: Postdoc
 - firstname: Michael
   lastname: Levi
   affiliation: Berkeley Lab
@@ -542,6 +634,10 @@ participants:
 - firstname: Xueying
   lastname: Lu
   affiliation: Northern Illinois University / Argonne National Laboratory
+  position: Faculty
+- firstname: Donatella
+  lastname: Lucchesi
+  affiliation: University and INFN of Padova
   position: Faculty
 - firstname: Tianhuan
   lastname: Luo
@@ -599,9 +695,17 @@ participants:
   lastname: Maruyama
   affiliation: Yale University
   position: Faculty
+- firstname: Timothy
+  lastname: Mathew
+  affiliation: University of Oregon
+  position: Student
 - firstname: Simone
   lastname: Mazza
   affiliation: UC Santa Cruz
+  position: Postdoc
+- firstname: Navin
+  lastname: Mcginnis
+  affiliation: TRIUMF
   position: Postdoc
 - firstname: Christine
   lastname: Mclean
@@ -639,6 +743,10 @@ participants:
   lastname: Mori
   affiliation: The University of Tokyo
   position: Faculty
+- firstname: Hitoshi
+  lastname: Murayama
+  affiliation: UC Berkeley / Kavli IPMU
+  position: Faculty
 - firstname: Pietro
   lastname: Musumeci
   affiliation: UCLA
@@ -651,6 +759,10 @@ participants:
   lastname: Nadolsky
   affiliation: Southern Methodist University
   position: Faculty
+- firstname: Steve
+  lastname: Nahn
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Jurina
   lastname: Nakajima
   affiliation: SOKENDAI/KEK
@@ -663,6 +775,10 @@ participants:
   lastname: Narain
   affiliation: Brown University
   position: Faculty
+- firstname: Mitch
+  lastname: Newcomer
+  affiliation: University of Pennsylvania
+  position: Research Scientist
 - firstname: Harvey
   lastname: Newman
   affiliation: Caltech
@@ -747,6 +863,10 @@ participants:
   lastname: Pastore
   affiliation: washington university in st louis
   position: Faculty
+- firstname: Nadia
+  lastname: Pastrone
+  affiliation: INFN-Torino
+  position: Research Scientist
 - firstname: Ritchie
   lastname: Patterson
   affiliation: Cornell University
@@ -762,6 +882,10 @@ participants:
 - firstname: Frank
   lastname: Petriello
   affiliation: Argonne and Northwestern
+  position: Faculty
+- firstname: Alexey
+  lastname: Petrov
+  affiliation: Wayne State University
   position: Faculty
 - firstname: Leon
   lastname: Pickard
@@ -787,10 +911,22 @@ participants:
   lastname: Rainbolt
   affiliation: University of Chicago
   position: Student
+- firstname: Srini
+  lastname: Rajagopalan
+  affiliation: BNL
+  position: Research Scientist
+- firstname: Miriama
+  lastname: Rajaoalisoa
+  affiliation: University of Cincinnati
+  position: Student
 - firstname: Tor
   lastname: Raubenheimer
   affiliation: SLAC / Stanford University
   position: Faculty
+- firstname: Soamasina Herilala
+  lastname: Razafinime
+  affiliation: University of Cincinnati
+  position: Student
 - firstname: Laura
   lastname: Reina
   affiliation: Florida State University
@@ -811,6 +947,10 @@ participants:
   lastname: Roe
   affiliation: Lawrence Berkeley Laboratory
   position: 'Other:: Associate Laboratory Director'
+- firstname: Amber
+  lastname: Roepe-Gier
+  affiliation: George Mason University
+  position: Student
 - firstname: Aaron
   lastname: Roodman
   affiliation: SLAC National Accelerator Laboratory
@@ -823,6 +963,10 @@ participants:
   lastname: Rosser
   affiliation: University of Chicago
   position: Postdoc
+- firstname: Hardik
+  lastname: Routray
+  affiliation: Rutgers University
+  position: Student
 - firstname: Matthew
   lastname: Rudolph
   affiliation: Syracuse University
@@ -875,6 +1019,10 @@ participants:
   lastname: Schwienhorst
   affiliation: Michigan State University
   position: Faculty
+- firstname: Jeff
+  lastname: Shahinian
+  affiliation: University of Pennsylvania
+  position: Postdoc
 - firstname: James
   lastname: Shank
   affiliation: NSF
@@ -899,6 +1047,10 @@ participants:
   lastname: Shiltsev
   affiliation: Fermilab
   position: Faculty
+- firstname: Savannah
+  lastname: Shively
+  affiliation: FASER, University of California, Irvine
+  position: Student
 - firstname: Elizabeth
   lastname: Simmons
   affiliation: UC San Diego
@@ -959,6 +1111,10 @@ participants:
   lastname: Szydagis
   affiliation: UAlbany SUNY
   position: Faculty
+- firstname: Zahra
+  lastname: Tabrizi
+  affiliation: Northwestern University
+  position: Postdoc
 - firstname: Tim
   lastname: Tait
   affiliation: University of California, Irvine
@@ -978,6 +1134,10 @@ participants:
 - firstname: Jorge
   lastname: Torres
   affiliation: Yale University
+  position: Postdoc
+- firstname: Yu-Dai
+  lastname: Tsai
+  affiliation: University of California, Irvine
   position: Postdoc
 - firstname: Kathy
   lastname: Turner
@@ -1034,6 +1194,10 @@ participants:
 - firstname: Christina
   lastname: Wang
   affiliation: California Institute of Technology
+  position: Student
+- firstname: Yue
+  lastname: Wang
+  affiliation: UC Berkeley/LBNL
   position: Student
 - firstname: Shawn
   lastname: Westerdale
@@ -1127,6 +1291,6 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 06/08/2022 17:10:03 GMT
-number_participants: 284
-number_dinner_attendees: 170
+generated_at: 06/10/2022 14:44:59 GMT
+number_participants: 325
+number_dinner_attendees: 192
