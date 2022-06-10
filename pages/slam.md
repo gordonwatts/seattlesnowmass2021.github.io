@@ -9,7 +9,7 @@ One Night Only: Thursday July 21 7-8pm.
 
 Watch as four Physicists compete to give the most entertaining explanation of some of the most exciting issues in physics today.  They have only ten minutes each to reveal to you the fundamental secrets of the universe.  You, the audience, will decide which slammer has told you the best story and will go home with the top prize.
 
-This event is open to the general public and targeted at a science-interested audience at the high school level and above.  Seating is limited, please RSVP [here](https://forms.gle/4MKAaP5FLwHDKmmr6):
+This event is open to the general public and targeted at a science-interested audience at the high school level and above.  Seating is limited, please RSVP [here](https://forms.gle/4MKAaP5FLwHDKmmr6).
 
 Want a taste of the slam?  Check out previous [physics](https://sites.google.com/uw.edu/uwcuwip/program/physics-slam) [slams](https://phys.washington.edu/events/2019-10-19/physics-slam) at UW!
 
@@ -27,7 +27,7 @@ Want a taste of the slam?  Check out previous [physics](https://sites.google.com
  </tr>
  <tr>
   <td width="55%">
-  <strong>Noah Bray-Ali</strong> is a postdoctoral researcher at Mount Saint Mary's University.  He received his Ph.D from Berkeley.  His recent research has involved quantum mechanics, muon physics, and dark matter axions.  He lives in Los Angeles with his wife and three year old son who calls the dark matter "axinons." </td>
+  <strong>Noah Bray-Ali</strong> grew up in Los Angeles where he found the rate at which a ball falls to one per cent precision using a big bronze ball swinging from a long wire just like the one under the dome of the auditorium wing of the physics/astronomy building at the University of Washington. Last year he predicted the mass of a fundamental particle that may make up 84 per cent of the matter in the observable universe with a similar level of precision using symmetry and cosmology. Bray-Ali lives in Los Angeles where he teaches and runs the physics lab at Mount Saint Mary's University.</td>
   <td width="4%"> </td>
   <td width="30%"> <img src="/assets/images/bray_ali.jpg" style="width: 100%"/> </td>
  </tr>
