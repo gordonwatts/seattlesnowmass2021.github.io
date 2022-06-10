@@ -14,7 +14,7 @@ This event is open to the general public and targeted at a science-interested au
 Want a taste of the slam?  Check out previous [physics](https://sites.google.com/uw.edu/uwcuwip/program/physics-slam) [slams](https://phys.washington.edu/events/2019-10-19/physics-slam) at UW!
 
 ## Slammer Bios:
-![Jorge Torres](assets/images/jorge_torres.jpg){: style="float: right"}
+![Image](assets/images/jorge_torres.jpg){: style="float: right"}
 **Jorge Torres** is a postdoctoral researcher in Wright Lab at Yale University. He received his PhD from The Ohio State University, where he worked for the Askaryan Radio Array Experiment, aimed at observing neutrinos produced in the Universe with ultra-high energies. Jorge’s current research at Yale focuses on studying neutrinoless double beta decay, an extremely rare process that can help us understand the nature of neutrinos, with the CUORE experiment, and its successor CUPID.  
 
 ![Heather Harrington](assets/images/heather_harrington.png){: style="float: right"}
