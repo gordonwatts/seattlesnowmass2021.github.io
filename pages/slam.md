@@ -25,4 +25,16 @@ Want a taste of the slam?  Check out previous [physics](https://sites.google.com
   <td width="4%"> </td>
   <td width="30%"> <img src="/assets/images/heather_harrington.jpg" style="width: 100%"/> </td>
  </tr>
+ <tr>
+  <td width="55%">
+  <strong>Noah Bray-Ali</strong> is a postdoctoral researcher at Mount Saint Mary's University.  He received his Ph.D from Berkeley.  His recent research has involved quantum mechanics, muon physics, and dark matter axions.  He lives in Los Angeles with his wife and three year old son who calls the dark matter "axinons." </td>
+  <td width="4%"> </td>
+  <td width="30%"> <img src="/assets/images/Bray-Ali.jpg" style="width: 100%"/> </td>
+ </tr>
+ <tr>
+  <td width="55%">
+  <strong>Mystery Contestent</strong>'s identity will be revealed at a later date!
+  <td width="4%"> </td>
+  <td width="30%"> </td>
+ </tr>
 </table>
