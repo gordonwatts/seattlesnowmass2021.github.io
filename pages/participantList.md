@@ -25,5 +25,5 @@ Click on table header to change table ordering.
 | {{ person.firstname }} | {{ person.lastname }} | {{ person.affiliation }} |
 {%- endfor -%}
 
-
+<br>
 <img src="/assets/images/attendance_analysis/piechart_position.png" width="40%" /><img src="/assets/images/attendance_analysis/piechart_gender.png" width="40%" />
