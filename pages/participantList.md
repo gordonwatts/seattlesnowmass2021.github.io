@@ -25,4 +25,10 @@ Click on table header to change table ordering.
 | {{ person.firstname }} | {{ person.lastname }} | {{ person.affiliation }} |
 {%- endfor -%}
 
-
+<table>
+ <tr>
+   <td> <img src="/assets/images/attendance_analysis/piechart_position.png" width="30%" /> </td>
+   <td> </td>
+   <td> <img src="/assets/images/attendance_analysis/piechart_gender.png" width="30%" /> </td> 
+  </tr>
+</table>
