@@ -14,7 +14,7 @@ Number of conference dinner attendees: {{ site.data.participant_list.number_dinn
 
 Participant position and gender breakdown:
 
-<img src="/assets/images/attendance_analysis/piechart_position.png" width="30%" /><img src="/assets/images/attendance_analysis/piechart_gender.png" width="30%" />
+<img src="/assets/images/attendance_analysis/piechart_position.png" width="45%" /><img src="/assets/images/attendance_analysis/piechart_gender.png" width="45%" />
 
 {% assign sorted_names = site.data.participant_list.participants | sort: "lastname" %}
 
