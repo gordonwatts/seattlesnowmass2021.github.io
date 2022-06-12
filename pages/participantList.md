@@ -12,9 +12,7 @@ Number of participants: {{ site.data.participant_list.number_participants }}
 
 Number of conference dinner attendees: {{ site.data.participant_list.number_dinner_attendees }}
 
-Participant position and gender breakdown:
-
-<img src="/assets/images/attendance_analysis/piechart_position.png" width="40%" /><img src="/assets/images/attendance_analysis/piechart_gender.png" width="40%" />
+Participant position and gender breakdown at bottom of page.
 
 {% assign sorted_names = site.data.participant_list.participants | sort: "lastname" %}
 
@@ -26,3 +24,5 @@ Click on table header to change table ordering.
 {%- for person in sorted_names %}
 | {{ person.firstname }} | {{ person.lastname }} | {{ person.affiliation }} |
 {%- endfor -%}
+
+<img src="/assets/images/attendance_analysis/piechart_position.png" width="40%" /><img src="/assets/images/attendance_analysis/piechart_gender.png" width="40%" />
