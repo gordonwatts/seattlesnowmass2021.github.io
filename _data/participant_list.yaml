@@ -55,6 +55,10 @@ participants:
   lastname: Bailey
   affiliation: Lawrence Berkeley National Lab
   position: Research Scientist
+- firstname: Amandeep Singh
+  lastname: Bakshi
+  affiliation: Purdue University
+  position: Student
 - firstname: Akif
   lastname: Balantekin
   affiliation: University of Wisconsin, Madison
@@ -1563,6 +1567,10 @@ participants:
   lastname: Yumino
   affiliation: KEK
   position: Student
+- firstname: Joseph
+  lastname: Zennamo
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Jinlong
   lastname: Zhang
   affiliation: Argonne National Laboratory
@@ -1583,6 +1591,6 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 06/13/2022 13:09:37 GMT
-number_participants: 398
-number_dinner_attendees: 260
+generated_at: 06/13/2022 14:07:47 GMT
+number_participants: 400
+number_dinner_attendees: 261
