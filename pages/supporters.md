@@ -23,8 +23,8 @@ We'd like to send a huge thanks to our supporters, listed below. Please do not h
    <td> <a href="https://www.mdpi.com/journal/universe">Universe</a> <br> Contact: <a href="mailto:weina.li@mdpi.com">Weina Li</a> </td> 
   </tr>
    <tr> 
-   <td> <img src="/assets/images/symmetry_log.jpg" style="height: 60px"/> </td>
+   <td> <img src="/assets/images/Symmetry_partnership-01.png" style="height: 60px"/> </td>
    <td> </td>
-   <td> <a href="https://www.mdpi.com/journal/symmetry">Symmetry</a> <br> Contact: <a href="mailto:kira.yang@mdpi.com">Kira Yang</a> </td> 
+   <td> <a href="https://www.mdpi.com/journal/symmetry?ci=22125&si=15647&_utm_from=dcea8f5499">Symmetry</a> <br> Contact: <a href="mailto:kira.yang@mdpi.com">Kira Yang</a> </td> 
   </tr>
 </table>
