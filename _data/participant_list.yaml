@@ -836,6 +836,10 @@ participants:
   lastname: Kutschke
   affiliation: Fermilab
   position: 'Other:: Lab  Scientist'
+- firstname: Thomas
+  lastname: Kutter
+  affiliation: Louisiana State University
+  position: Faculty
 - firstname: Olga
   lastname: Kyzylova
   affiliation: Virginia Tech
@@ -1856,6 +1860,6 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 06/14/2022 08:29:18 GMT
-number_participants: 466
-number_dinner_attendees: 310
+generated_at: 06/14/2022 11:20:41 GMT
+number_participants: 467
+number_dinner_attendees: 311
