@@ -271,6 +271,10 @@ participants:
   lastname: Casarsa
   affiliation: INFN - Trieste, Italy
   position: Research Scientist
+- firstname: Erika
+  lastname: Catano-Mur
+  affiliation: William & Mary
+  position: Postdoc
 - firstname: Simon
   lastname: Catterall
   affiliation: Syracuse University
@@ -800,6 +804,10 @@ participants:
   lastname: Jo
   affiliation: Yale University
   position: Postdoc
+- firstname: Ben
+  lastname: Jones
+  affiliation: University of Texas at Arlington
+  position: Faculty
 - firstname: Austin
   lastname: Joyce
   affiliation: University of Chicago
@@ -920,6 +928,10 @@ participants:
   lastname: Lebed
   affiliation: Arizona State University
   position: Faculty
+- firstname: Claire
+  lastname: Lee
+  affiliation: Fermilab/CERN
+  position: Prefer not to answer
 - firstname: Lawrence
   lastname: Lee
   affiliation: University of Tennessee, Knoxville
@@ -1108,6 +1120,10 @@ participants:
   lastname: Meyer
   affiliation: University of Hawaii at Manoa
   position: Student
+- firstname: Joel
+  lastname: Meyers
+  affiliation: Southern Methodist University
+  position: Faculty
 - firstname: Michiko
   lastname: Minty
   affiliation: Brookhaven National Laboratory
@@ -1952,6 +1968,6 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 06/15/2022 09:49:06 GMT
-number_participants: 491
-number_dinner_attendees: 324
+generated_at: 06/15/2022 16:18:36 GMT
+number_participants: 495
+number_dinner_attendees: 326
