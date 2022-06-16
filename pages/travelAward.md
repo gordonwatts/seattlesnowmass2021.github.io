@@ -7,11 +7,21 @@ hero_image: /assets/images/fly-over-seattle.jpg
 
 ## Travel Awards
 
-The travel support award assists members of the community with travel fares and conference registration fees for the Snowmass Community Summer Study Workshop held on July 17-26, 2022 at the University of Washington, Seattle. The award is aimed at members of the community who would not otherwise be able to attend. 
+The travel support award assists members of the community with travel fares and conference registration fees for the Snowmass Community Summer Study Workshop held on July 17-26, 2022 at the University of Washington, Seattle. The award is aimed at members of the community who would not otherwise be able to attend.
 
-The first round of travel awards are being awarded and we are doing our best to find additional sources of funding to meet the demand. You are welcome to submit a request for funding, and we will do what we can, however, we are scrambling to meet the demand now of the people that applied by the May 25th deadline.
+The first round of travel awards are being awarded and we are doing our best to find additional sources of funding to meet the demand. Unfortunately, we are no longer accepting further travel award requests.
 
-Criterium:
+## How to Claim
+
+While Traveling
+
+* Make sure to keep all your receipts
+
+After travel
+
+* We will fill this in shortly.
+
+## Criterium
 
 - demonstration of need
 
