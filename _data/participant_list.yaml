@@ -311,6 +311,10 @@ participants:
   lastname: Casarsa
   affiliation: INFN - Trieste, Italy
   position: Research Scientist
+- firstname: Stefano
+  lastname: Castro Tognini
+  affiliation: Oak Ridge National Laboratory
+  position: Postdoc
 - firstname: Erika
   lastname: Catano-Mur
   affiliation: William & Mary
@@ -450,6 +454,10 @@ participants:
 - firstname: Sijbrand
   lastname: De Jong
   affiliation: Radboud University Nijmegen , The Netherlands
+  position: Faculty
+- firstname: Kaushik
+  lastname: De
+  affiliation: National Science Foundation
   position: Faculty
 - firstname: Allison
   lastname: Deiana
@@ -948,6 +956,10 @@ participants:
   lastname: Karmarkar
   affiliation: Purdue University, USA
   position: Student
+- firstname: Wesley
+  lastname: Ketchum
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Joey
   lastname: Key
   affiliation: University of Washington Bothell
@@ -984,6 +996,10 @@ participants:
   lastname: Klco
   affiliation: Caltech (IQIM)
   position: Postdoc
+- firstname: Joshua
+  lastname: Klein
+  affiliation: University of Pennsylvania
+  position: Faculty
 - firstname: Stefan
   lastname: Knirck
   affiliation: Fermi National Accelerator Laboratory
@@ -1291,6 +1307,10 @@ participants:
 - firstname: Toshinori
   lastname: Mori
   affiliation: The University of Tokyo
+  position: Faculty
+- firstname: Ian
+  lastname: Moult
+  affiliation: Yale University
   position: Faculty
 - firstname: Brianna
   lastname: Mount
@@ -1832,6 +1852,10 @@ participants:
   lastname: Stadnik
   affiliation: The University of Sydney
   position: Prefer not to answer
+- firstname: Steinar
+  lastname: Stapnes
+  affiliation: CERN
+  position: Research Scientist
 - firstname: Giordon
   lastname: Stark
   affiliation: SCIPP, UC Santa Cruz (ATLAS Exp.)
@@ -1931,6 +1955,10 @@ participants:
 - firstname: Bob
   lastname: Tschirhart
   affiliation: Fermilab
+  position: Faculty
+- firstname: Christopher
+  lastname: Tunnell
+  affiliation: Rice University
   position: Faculty
 - firstname: Kathy
   lastname: Turner
@@ -2192,6 +2220,6 @@ participants:
   lastname: Zimmermann
   affiliation: CERN
   position: Research Scientist
-generated_at: 06/17/2022 09:06:25 GMT
-number_participants: 552
-number_dinner_attendees: 364
+generated_at: 06/17/2022 14:22:23 GMT
+number_participants: 559
+number_dinner_attendees: 367
