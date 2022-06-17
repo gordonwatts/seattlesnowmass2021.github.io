@@ -34,7 +34,7 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 
 | Registration Type | Normal* |
 | :--- | :---: | :---: | :---: |
-| Full | $--- |
+| Full | $150 |
 | Early Career | Free |
 
 Virtual registration will be available starting Saturday, June 18th.
