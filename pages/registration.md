@@ -9,6 +9,8 @@ We are looking forward to seeing you here in Seattle in July!
 
 To register for Seattle Snowmass please use the **[form found at this link](https://cvent.me/vz43ry)**. You can see people that have already registered [here](/participantList/).
 
+Normal registration starts June 18th, at 12am Seattle time!
+
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
 ## In-Person Registration
@@ -19,8 +21,6 @@ Below you'll find a description of the information we request and your purchase 
 | Early Career | $275 | $400 | $450 |
 
 Early-Career members of our community include post-doc and student or equivalent position. Columns marked with a * are not yet available for ordering. Early-bird registration will end on June 17 at 11:59 pm Pacific Time, and Normal Registration will end on July 3rd 11:59 pm Pacific Time.
-
-We have travel awards and registration waivers available. [Please apply here](/travelAward). We've given out the first batch (deadline was May 25) and are searching for other sources fo funding. If you apply now we will do our best. 
 
 The in-person registration includes all catering, all coffee breaks, a reception, and access to all Snowmass workshop meetings including remote connections. No alcohol is purchased with these funds. Lunch is not included in the registration fee.
 
@@ -34,11 +34,10 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 
 | Registration Type | Normal* |
 | :--- | :---: | :---: | :---: |
-| Full | $450 |
+| Full | $--- |
 | Early Career | Free |
-| Observer | $100 |
 
-Virtual registration will be available starting June 18th. We will also have an Observer virtual registration that covers only the first and last two days. Virtual registration will open on July 6th, along with normal in-person registration.
+Virtual registration will be available starting Saturday, June 18th.
 
 ## Lunch
 
