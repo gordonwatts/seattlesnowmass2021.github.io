@@ -39,6 +39,8 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 
 Virtual registration will be available starting Saturday, June 18th.
 
+NOTE: If you are early-career we will have a seperate registration path for you. This will be setup early in the week of June 19. Please check back here for a link.
+
 ## Lunch
 
 Lunch is not included in the base cost of the workshop. Each day has 2 hours set aside for lunch. This should be plenty of time for most people to travel off-campus to find a restaurant. There are also various places on-campus (in the Student Union Building - pizza, sandwiches, etc.). However, if you want, you can also ask for a boxed lunch to be held for you near the registration desk. The cost is $20/day. It includes a sandwich, fruit, water, cookie or similar. Your dietary requirements will be honored (see the additional workshop information section below).
