@@ -21,10 +21,10 @@ Number of conference dinner attendees: {{ site.data.participant_list.number_dinn
 Click on table header to change table ordering.
 
 {: .table-sort}
-| First Name | Last Name | Institute |
-| :--- | :--- | :--- |
+| First Name | Last Name | Institute | Attendance |
+| :--- | :--- | :--- | :--- |
 {%- for person in sorted_names %}
-| {{ person.firstname }} | {{ person.lastname }} | {{ person.affiliation }} |
+| {{ person.firstname }} | {{ person.lastname }} | {{ person.affiliation }} |  {{ person.attendance_type }} |
 {%- endfor %}
 
 ## Participant Breakdowns
