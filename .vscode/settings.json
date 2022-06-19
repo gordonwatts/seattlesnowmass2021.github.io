@@ -47,5 +47,6 @@
         "ykkim",
         "yunes"
     ],
-    "restructuredtext.languageServer.disabled": true
+    "restructuredtext.languageServer.disabled": true,
+    "explorer.excludeGitIgnore": true
 }
