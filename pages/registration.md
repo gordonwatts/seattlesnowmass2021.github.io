@@ -39,7 +39,9 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 
 Virtual registration will be available starting Saturday, June 18th.
 
-NOTE: If you are early-career we will have a seperate registration path for you. This will be setup early in the week of June 19. Please check back here for a link.
+It is possible to switch from in-person registration to virtual (or the other direction!). However, this must be done by hand. Please send an email to [confuw@uw.edu](mailto:confuw@uw.edu), with the request and make sure to include your name and email you used for the original registration along with the confirmation number from your registration email. The change will be credited or refunded directly to the card. If you are a member of the early career community then you will get a full refund and will have to re-register at the virtual early-career registration link.
+
+NOTE: If you are early-career we will have a separate registration path for you. This will be setup early in the week of June 19. Please check back here for a link.
 
 ## Lunch
 
