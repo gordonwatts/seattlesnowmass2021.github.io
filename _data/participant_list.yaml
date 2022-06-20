@@ -374,6 +374,11 @@ participants:
   attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+- firstname: Alan
+  lastname: Bross
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Elizabeth
   lastname: Brost
   attendance_type: In person
@@ -554,6 +559,11 @@ participants:
   attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+- firstname: Pilar
+  lastname: Coloma
+  attendance_type: Virtual
+  affiliation: Instituto de Fisica Teorica UAM-CSIC
+  position: Research Scientist
 - firstname: Erin
   lastname: Conley
   attendance_type: In person
@@ -2072,7 +2082,7 @@ participants:
   position: Research Scientist
 - firstname: Brett
   lastname: Parker
-  attendance_type: In person
+  attendance_type: Virtual
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Diana
@@ -2215,6 +2225,11 @@ participants:
   attendance_type: In person
   affiliation: Princeton University
   position: Faculty
+- firstname: Xin
+  lastname: Qian
+  attendance_type: Virtual
+  affiliation: Brookhaven National Laboratory
+  position: Faculty
 - firstname: Ji
   lastname: Qiang
   attendance_type: In person
@@ -2300,6 +2315,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Public Information Officer'
+- firstname: Adam
+  lastname: Ritz
+  attendance_type: Virtual
+  affiliation: University of Victoria
+  position: Faculty
 - firstname: Steven
   lastname: Ritz
   attendance_type: In person
@@ -3105,8 +3125,8 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/19/2022 17:27:24 GMT
-number_participants: 625
-number_inperson_participants: 621
-number_virtual_participants: 4
-number_dinner_attendees: 406
+generated_at: 06/20/2022 12:16:22 GMT
+number_participants: 629
+number_inperson_participants: 620
+number_virtual_participants: 9
+number_dinner_attendees: 405
