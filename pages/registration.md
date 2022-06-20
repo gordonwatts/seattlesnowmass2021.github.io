@@ -7,9 +7,14 @@ hide_hero: false
 
 We are looking forward to seeing you here in Seattle in July!
 
-To register for Seattle Snowmass please use the **[form found at this link](https://cvent.me/vz43ry)**. You can see people that have already registered [here](/participantList/).
+Registration for Seattle Snowmass uses one of the two following links:
 
-Normal registration starts June 18th, at 12am Seattle time!
+* Everyone except below should use the **[form found at this link](https://cvent.me/vz43ry)**.
+* Early-career virtual registration only should use the [this form](https://docs.google.com/forms/d/1ydq7d4wuUdmVjdotEaxqCMhAOECUTSCUPlCmB8_gEnQ/edit).
+
+You can see people that have already registered [here](/participantList/).
+
+Late registration starts July 3, at 12am Seattle time! *PLEASE* register before this date, July 3rd is going to be after some of our food orders!
 
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 
@@ -37,11 +42,12 @@ Refunds are possible for in-person registration before July 1st. A $75 processin
 | Full | $150 |
 | Early Career | Free |
 
-Virtual registration will be available starting Saturday, June 18th.
+Virtual registration is available now!
+
+* [Full registration is the same link as always](https://cvent.me/vz43ry)
+* [Early-Career registration can be found here](https://docs.google.com/forms/d/1ydq7d4wuUdmVjdotEaxqCMhAOECUTSCUPlCmB8_gEnQ/edit).
 
 It is possible to switch from in-person registration to virtual (or the other direction!). However, this must be done by hand. Please send an email to [confuw@uw.edu](mailto:confuw@uw.edu), with the request and make sure to include your name and email you used for the original registration along with the confirmation number from your registration email. The change will be credited or refunded directly to the card. If you are a member of the early career community then you will get a full refund and will have to re-register at the virtual early-career registration link.
-
-NOTE: If you are early-career we will have a separate registration path for you. This will be setup early in the week of June 19. Please check back here for a link.
 
 ## Lunch
 
@@ -51,15 +57,15 @@ Lunch is not included in the base cost of the workshop. Each day has 2 hours set
 
 This section outlines the information we request on the registration form and what we plan to do with it.
 
-_Personal Information_
+*Personal Information*
 
 This information will be used for printing the badge. If your "first and last name for badge" is left blank on the registration form, then your First and Last name will be used for the badge. Your email address will be used to contact you with information about snowmass and also given to industry partners of the workshop if they request it.
 
-_Attendee Demographic Information_
+*Attendee Demographic Information*
 
 The Position, Gender, and Racial & Ethnicity information will not be reported anywhere on an individual basis. The aggregate information will be used to help report the workshop's reach to minority and underrepresented communities for NSF and DOE reports, which will be public. The statistics will be shown at the workshop as well and possibly on the website.
 
-_Additional workshop Information_
+*Additional workshop Information*
 
 A list of participants will be published on our website. If you do not wish to be listed, please select NO. Of course, it will be a great way to see who else is at the workshop, so we encourage you to mark yourself as visible!
 
@@ -67,6 +73,6 @@ The dietary requests will be seen by catering for the coffee preparation and the
 
 The University of Washington and the Snowmass workshop Organizers are committed to providing access and reasonable accommodation in its services, programs, activities, education and employment for individuals with disabilities. To request disability accommodation, please fill out the survey linked from our [accessibility web page](http://seattlesnowmass2021.net/accessibility/).
 
-_Terms & Conditions_
+*Terms & Conditions*
 
 Please acknowledge that your have read the [snowmass code-of-conduct](http://seattlesnowmass2021.net/codeofconduct/), you are ok with being recorded if your are presenting or asking a question, and that you are fully vaccinated for COVID-19.
