@@ -12,9 +12,14 @@ This page contains a list of all the participants and also some break downs of d
 
 Updated: {{ site.data.participant_list.generated_at }}
 
-Number of participants: {{ site.data.participant_list.number_participants }}
+Number of in-person participants: {{ site.data.participant_list.number_inperson_participants }}
+Number of virtual participants: {{ site.data.participant_list.number_virtual_participants }}
+Local Organizing Committee/Volunteer/Press: {{ site.data.participant_list.number_LOC_Vol_Press }}
+Total number of participants: {{ site.data.participant_list.number_participants }}
 
 Number of conference dinner attendees: {{ site.data.participant_list.number_dinner_attendees }}
+Number of LIGO/Hanford trip attendees: {{ site.data.participant_list.number_LIGO }}
+Number of Mariners baseball game attendees: {{ site.data.participant_list.number_baseball }}
 
 {% assign sorted_names = site.data.participant_list.participants | sort: "lastname" %}
 

@@ -3165,8 +3165,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/21/2022 13:13:45 GMT
+generated_at: 06/21/2022 13:57:00 GMT
 number_participants: 636
-number_inperson_participants: 620
+number_inperson_participants: 595
 number_virtual_participants: 16
+number_LOC_Vol_Press: 25
 number_dinner_attendees: 404
+number_LIGO: 50
+number_baseball: 50
