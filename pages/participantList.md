@@ -8,9 +8,9 @@ hide_hero: false
 
 This page contains a list of all the participants and also some break downs of demographics.
 
-## Participants
-
 Updated: {{ site.data.participant_list.generated_at }}
+
+## Participants
 
 Number of in-person participants: {{ site.data.participant_list.number_inperson_participants }}
 
@@ -20,7 +20,7 @@ Local Organizing Committee/Volunteer/Press: {{ site.data.participant_list.number
 
 Total number of participants: {{ site.data.participant_list.number_participants }}
 
-## Events
+### Events
 
 Number of conference dinner attendees: {{ site.data.participant_list.number_dinner_attendees }}
 
@@ -29,7 +29,7 @@ Number of LIGO/Hanford trip attendees: {{ site.data.participant_list.number_LIGO
 Number of Mariners baseball game attendees: {{ site.data.participant_list.number_baseball }}
 
 
-## Participant List
+### Participant List
 
 {% assign sorted_names = site.data.participant_list.participants | sort: "lastname" %}
 
