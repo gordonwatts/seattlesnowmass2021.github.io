@@ -444,6 +444,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Rodolfo
+  lastname: Capdevilla
+  attendance_type: In person
+  affiliation: Perimeter Institute and University of Toronto
+  position: Postdoc
 - firstname: David
   lastname: Caratelli
   attendance_type: In person
@@ -576,7 +581,7 @@ participants:
   position: Faculty
 - firstname: Jodi
   lastname: Cooley
-  attendance_type: In person
+  attendance_type: Virtual
   affiliation: SMU
   position: Faculty
 - firstname: John
@@ -594,10 +599,20 @@ participants:
   attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+- firstname: John Franklin
+  lastname: Crenshaw
+  attendance_type: In person
+  affiliation: University of Washington
+  position: Student
 - firstname: Csaba
   lastname: Csaki
   attendance_type: In person
   affiliation: Cornell University
+  position: Faculty
+- firstname: Ray
+  lastname: Culbertson
+  attendance_type: Virtual
+  affiliation: Fermilab
   position: Faculty
 - firstname: Priscilla
   lastname: Cushman
@@ -622,8 +637,8 @@ participants:
 - firstname: Chris
   lastname: Damerell
   attendance_type: Virtual
-  affiliation: ''
-  position: 'Other:: Faculty - retired'
+  affiliation: RAL UK
+  position: Research Scientist
 - firstname: Jeff
   lastname: Dandoy
   attendance_type: In person
@@ -739,6 +754,11 @@ participants:
   attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+- firstname: Sean
+  lastname: Dobbs
+  attendance_type: Virtual
+  affiliation: Florida State University
+  position: Faculty
 - firstname: Xi
   lastname: Dong
   attendance_type: In person
@@ -1129,11 +1149,6 @@ participants:
   attendance_type: In person
   affiliation: MIT
   position: Faculty
-- firstname: Kevan
-  lastname: Hashemi
-  attendance_type: In person
-  affiliation: Open Source Instruments
-  position: 'Other:: NSF funded company'
 - firstname: Mike
   lastname: Headley
   attendance_type: In person
@@ -1335,6 +1350,11 @@ participants:
   attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+- firstname: Soon Yung
+  lastname: Jun
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Thomas
   lastname: Junk
   attendance_type: In person
@@ -1600,6 +1620,11 @@ participants:
   attendance_type: In person
   affiliation: BNL
   position: 'Other:: DOE detailee'
+- firstname: Bryce
+  lastname: Littlejohn
+  attendance_type: In person
+  affiliation: Illinois Institute of Technology
+  position: Faculty
 - firstname: Zhen
   lastname: Liu
   attendance_type: In person
@@ -1875,6 +1900,11 @@ participants:
   attendance_type: In person
   affiliation: National Institute of Standards and Technology
   position: Research Scientist
+- firstname: Ferah
+  lastname: Munshi
+  attendance_type: Virtual
+  affiliation: OU/GMU
+  position: Faculty
 - firstname: Pavel
   lastname: Murat
   attendance_type: In person
@@ -2185,6 +2215,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+- firstname: Frank
+  lastname: Porter
+  attendance_type: Virtual
+  affiliation: Caltech
+  position: Faculty
 - firstname: Sam
   lastname: Posen
   attendance_type: In person
@@ -2430,6 +2465,11 @@ participants:
   attendance_type: In person
   affiliation: University of Cincinnati
   position: Student
+- firstname: Nathan
+  lastname: Sayer
+  attendance_type: In person
+  affiliation: Open Source Instruments
+  position: 'Other:: NSF funded company'
 - firstname: Heidi
   lastname: Schellman
   attendance_type: In person
@@ -2532,7 +2572,7 @@ participants:
   position: Research Scientist
 - firstname: Marc
   lastname: Sher
-  attendance_type: In person
+  attendance_type: Virtual
   affiliation: William & Mary
   position: Faculty
 - firstname: Vladimir
@@ -3125,8 +3165,8 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/20/2022 12:16:22 GMT
-number_participants: 629
+generated_at: 06/21/2022 13:13:45 GMT
+number_participants: 636
 number_inperson_participants: 620
-number_virtual_participants: 9
-number_dinner_attendees: 405
+number_virtual_participants: 16
+number_dinner_attendees: 404
