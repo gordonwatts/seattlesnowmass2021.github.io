@@ -7,14 +7,14 @@ hide_hero: false
 
 We are looking forward to seeing you here in Seattle in July!
 
-Registration for Seattle Snowmass uses one of the two following links:
+In-person and Virtual registration for Seattle Snowmass is open! Use one of the two following links:
 
-* Everyone except below should use the **[form found at this link](https://cvent.me/vz43ry)**.
-* Early-career virtual registration only should use the [this form](https://docs.google.com/forms/d/1ydq7d4wuUdmVjdotEaxqCMhAOECUTSCUPlCmB8_gEnQ/edit).
+* All in-person and _senior virtual registration_ should use the **[form found at this link](https://cvent.me/vz43ry)**.
+* Early-career virtual registration (free) _only_ should use the **[this form](https://docs.google.com/forms/d/1ydq7d4wuUdmVjdotEaxqCMhAOECUTSCUPlCmB8_gEnQ/edit)**.
 
 You can see people that have already registered [here](/participantList/).
 
-Late registration starts July 3, at 12am Seattle time! *PLEASE* register before this date, July 3rd is going to be after some of our food orders!
+Late registration starts July 3, at 12am Seattle time! **PLEASE** register before this date, July 3rd is going to be after some of our food orders!
 
 Below you'll find a description of the information we request and your purchase options. Note that you can register more than one person for a single payment if you desire.
 

@@ -9,8 +9,8 @@ Welcome to the Seattle Community Summer Study Workshop home page!
 
 **Registration** is open!
 
-* [Conference Registration information and registration form](/registration)
-* [Lodging in and around the University](/lodging) - we are still working with our lodging providers to bring more options
+* [Conference Registration information and registration form for in-person and virtual attendance](/registration)
+* [Lodging in and around the University](/lodging) - Most hotel and dorm room blocks have expired - and are operating on a first-come-first-served basis. Please do not wait if you need a room!!
 * [Travel to Seattle](/travel)
 * [Travel Awards](/travelAward) - criteria and process to apply for extra funds to travel waive registration for Snowmass. 
 
