@@ -1603,7 +1603,7 @@ participants:
 - firstname: Claire
   lastname: Lee
   attendance_type: In person
-  affiliation: Fermilab/CERN
+  affiliation: Fermilab
   position: Prefer not to answer
 - firstname: Lawrence
   lastname: Lee
@@ -3270,11 +3270,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/22/2022 11:25:38 GMT
+generated_at: 06/22/2022 15:55:31 GMT
 number_participants: 657
 number_inperson_participants: 599
 number_virtual_participants: 33
 number_LOC_Vol_Press: 25
 number_dinner_attendees: 405
 number_LIGO: 50
-number_baseball: 51
+number_baseball: 52
