@@ -39,6 +39,11 @@ participants:
   attendance_type: In person
   affiliation: UC Santa Cruz
   position: Faculty
+- firstname: Maral
+  lastname: Alyari
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: 'Other:: Applications Physicist'
 - firstname: Giorgio
   lastname: Ambrosio
   attendance_type: In person
@@ -53,6 +58,11 @@ participants:
   lastname: Amm
   attendance_type: In person
   affiliation: Brookhaven National Lab
+  position: Research Scientist
+- firstname: Jim
+  lastname: Amundson
+  attendance_type: Virtual
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Adam
   lastname: Anderson
@@ -99,6 +109,11 @@ participants:
   attendance_type: In person
   affiliation: University of Cincinnati
   position: Faculty
+- firstname: Nicola
+  lastname: Bacchetta
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: 'Other:: Scientist'
 - firstname: Drew
   lastname: Baden
   attendance_type: In person
@@ -254,11 +269,21 @@ participants:
   attendance_type: In person
   affiliation: APC Paris CNRS/IN2P3
   position: Faculty
+- firstname: Catrin
+  lastname: Bernius
+  attendance_type: Virtual
+  affiliation: SLAC
+  position: Research Scientist
 - firstname: Robert
   lastname: Bernstein
   attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Lab Staff'
+- firstname: Minerba
+  lastname: Betancourt
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Chandrashekhara
   lastname: Bhat
   attendance_type: In person
@@ -279,6 +304,11 @@ participants:
   attendance_type: In person
   affiliation: Northwestern University
   position: Postdoc
+- firstname: Tanmoy
+  lastname: Bhattacharya
+  attendance_type: In person
+  affiliation: Los Alamos National Laboratory
+  position: Research Scientist
 - firstname: Jianming
   lastname: Bian
   attendance_type: In person
@@ -498,6 +528,11 @@ participants:
   lastname: Cecil
   attendance_type: In person
   affiliation: Argonne
+  position: Research Scientist
+- firstname: Giuseppe
+  lastname: Cerati
+  attendance_type: Virtual
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Raphael
   lastname: Cervantes
@@ -909,6 +944,16 @@ participants:
   attendance_type: In person
   affiliation: Yale University
   position: Faculty
+- firstname: Richard
+  lastname: Ford
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: 'Other:: Engr. Physicist'
+- firstname: Will
+  lastname: Foreman
+  attendance_type: In person
+  affiliation: Illinois Institute of Technology
+  position: Postdoc
 - firstname: Joshua
   lastname: Foster
   attendance_type: In person
@@ -1149,6 +1194,11 @@ participants:
   attendance_type: In person
   affiliation: MIT
   position: Faculty
+- firstname: Robert M
+  lastname: Harris
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Mike
   lastname: Headley
   attendance_type: In person
@@ -1500,6 +1550,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Donna
+  lastname: Kubik
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: 'Other:: Engr. Physicist'
 - firstname: Robert
   lastname: Kutschke
   attendance_type: In person
@@ -1560,6 +1615,11 @@ participants:
   attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Postdoc
+- firstname: Kevin
+  lastname: Lesko
+  attendance_type: Virtual
+  affiliation: LBL
+  position: Faculty
 - firstname: Michael
   lastname: Levi
   attendance_type: In person
@@ -1625,6 +1685,11 @@ participants:
   attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: Faculty
+- firstname: Xiaohan
+  lastname: Liu
+  attendance_type: In person
+  affiliation: University of Washington, Department of Electrical & Computer Engineering
+  position: Student
 - firstname: Zhen
   lastname: Liu
   attendance_type: In person
@@ -1690,6 +1755,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+- firstname: Kevin
+  lastname: Lynch
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Morgan
   lastname: Lynn
   attendance_type: In person
@@ -2190,6 +2260,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC
   position: Faculty
+- firstname: Annika
+  lastname: Peter
+  attendance_type: In person
+  affiliation: The Ohio State University
+  position: Faculty
 - firstname: Frank
   lastname: Petriello
   attendance_type: In person
@@ -2209,6 +2284,11 @@ participants:
   lastname: Pitts
   attendance_type: In person
   affiliation: Virginia Tech
+  position: Faculty
+- firstname: David
+  lastname: Poland
+  attendance_type: Virtual
+  affiliation: Yale University
   position: Faculty
 - firstname: Charles
   lastname: Polly
@@ -2645,6 +2725,11 @@ participants:
   attendance_type: In person
   affiliation: University of Cincinnati
   position: Faculty
+- firstname: Panagiotis
+  lastname: Spentzouris
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Maria
   lastname: Spiropulu
   attendance_type: In person
@@ -2985,6 +3070,11 @@ participants:
   attendance_type: In person
   affiliation: LBNL
   position: Research Scientist
+- firstname: Mike
+  lastname: Williams
+  attendance_type: Virtual
+  affiliation: MIT
+  position: Faculty
 - firstname: Graham
   lastname: Wilson
   attendance_type: In person
@@ -3055,6 +3145,16 @@ participants:
   attendance_type: In person
   affiliation: University of Cincinnati
   position: Postdoc
+- firstname: Vyacheslav
+  lastname: Yakovlev
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
+- firstname: Liang
+  lastname: Yang
+  attendance_type: Virtual
+  affiliation: UC San Diego
+  position: Faculty
 - firstname: Lauren
   lastname: Yates
   attendance_type: In person
@@ -3160,17 +3260,21 @@ participants:
   attendance_type: In person
   affiliation: CERN
   position: Research Scientist
+- firstname: Silvia
+  lastname: Zorzetti
+  attendance_type: In person
+  affiliation: Fermi National Accelerator Laboratory
+  position: Research Scientist
 - firstname: Robert
   lastname: Zwaska
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/21/2022 13:57:00 GMT
-number_participants: 636
-number_inperson_participants: 595
-number_virtual_participants: 16
+generated_at: 06/22/2022 11:25:38 GMT
+number_participants: 657
+number_inperson_participants: 599
+number_virtual_participants: 33
 number_LOC_Vol_Press: 25
-number_dinner_attendees: 404
+number_dinner_attendees: 405
 number_LIGO: 50
-number_baseball: 50
-
+number_baseball: 51
