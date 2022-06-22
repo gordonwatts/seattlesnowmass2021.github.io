@@ -5,7 +5,7 @@ title: Physics Slam
 
 ## Physics Slam
 
-One Night Only: Thursday July 21 7-8pm.
+One Night Only: Thursday July 21 7:30-8:30pm.
 
 Watch as four Physicists compete to give the most entertaining explanation of some of the most exciting issues in physics today.  They have only ten minutes each to reveal to you the fundamental secrets of the universe.  You, the audience, will decide which slammer has told you the best story and will go home with the top prize.
 
