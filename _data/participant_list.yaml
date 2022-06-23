@@ -119,6 +119,11 @@ participants:
   attendance_type: In person
   affiliation: University of Maryland
   position: Faculty
+- firstname: Daniel
+  lastname: Bafia
+  attendance_type: In person
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Zara
   lastname: Bagdasarian
   attendance_type: In person
@@ -364,6 +369,11 @@ participants:
   attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Faculty
+- firstname: Christian
+  lastname: Boutan
+  attendance_type: Virtual
+  affiliation: PNNL
+  position: Research Scientist
 - firstname: Nathaniel
   lastname: Bowden
   attendance_type: In person
@@ -873,6 +883,11 @@ participants:
   lastname: Esarey
   attendance_type: In person
   affiliation: LBNL
+  position: Research Scientist
+- firstname: Carlos
+  lastname: Escobar
+  attendance_type: Virtual
+  affiliation: FERMILAB
   position: Research Scientist
 - firstname: Jessica
   lastname: Esquivel
@@ -1430,6 +1445,11 @@ participants:
   attendance_type: In person
   affiliation: UW and CENPA, Seattle
   position: Faculty
+- firstname: Alexei
+  lastname: Kanareykin
+  attendance_type: In person
+  affiliation: Euclid Techlabs LLC
+  position: 'Other:: CEO'
 - firstname: Daniel
   lastname: Kaplan
   attendance_type: In person
@@ -1455,6 +1475,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Engineer'
+- firstname: Kiyotomo
+  lastname: Kawagoe
+  attendance_type: Virtual
+  affiliation: Kyushu University
+  position: Faculty
 - firstname: Wesley
   lastname: Ketchum
   attendance_type: In person
@@ -3020,6 +3045,11 @@ participants:
   attendance_type: In person
   affiliation: California Institute of Technology
   position: Student
+- firstname: Jinglu
+  lastname: Wang
+  attendance_type: In person
+  affiliation: Northwestern University
+  position: Student
 - firstname: Liantao
   lastname: Wang
   attendance_type: In person
@@ -3270,11 +3300,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/22/2022 15:55:31 GMT
-number_participants: 657
-number_inperson_participants: 599
-number_virtual_participants: 33
+generated_at: 06/23/2022 10:10:32 GMT
+number_participants: 663
+number_inperson_participants: 602
+number_virtual_participants: 36
 number_LOC_Vol_Press: 25
-number_dinner_attendees: 405
+number_dinner_attendees: 408
 number_LIGO: 50
-number_baseball: 52
+number_baseball: 54
