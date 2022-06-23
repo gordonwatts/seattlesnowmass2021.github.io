@@ -2610,6 +2610,11 @@ participants:
   attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+- firstname: Anne
+  lastname: Schukraft
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Philip
   lastname: Schuster
   attendance_type: In person
@@ -3300,10 +3305,10 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/23/2022 10:10:32 GMT
-number_participants: 663
+generated_at: 06/23/2022 13:55:13 GMT
+number_participants: 664
 number_inperson_participants: 602
-number_virtual_participants: 36
+number_virtual_participants: 37
 number_LOC_Vol_Press: 25
 number_dinner_attendees: 408
 number_LIGO: 50
