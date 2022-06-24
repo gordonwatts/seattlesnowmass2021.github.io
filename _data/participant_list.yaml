@@ -869,6 +869,11 @@ participants:
   attendance_type: In person
   affiliation: Fermi National Accelerator Laboratory
   position: 'Other:: Senior Scientist'
+- firstname: Kristi
+  lastname: Engel
+  attendance_type: In person
+  affiliation: UMD
+  position: 'Other:: PhD Candidate'
 - firstname: Sarah
   lastname: Eno
   attendance_type: In person
@@ -1109,6 +1114,11 @@ participants:
   attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+- firstname: Tom
+  lastname: Gibbs
+  attendance_type: In person
+  affiliation: NVIDIA
+  position: Prefer not to answer
 - firstname: Julia
   lastname: Gonski
   attendance_type: In person
@@ -1540,6 +1550,11 @@ participants:
   attendance_type: In person
   affiliation: Fermi National Accelerator Laboratory
   position: Postdoc
+- firstname: Lisa
+  lastname: Koerner
+  attendance_type: Virtual
+  affiliation: University of Houston
+  position: Faculty
 - firstname: Yury
   lastname: Kolomensky
   attendance_type: In person
@@ -1790,6 +1805,11 @@ participants:
   attendance_type: In person
   affiliation: University of Chicago/Fermilab
   position: Student
+- firstname: Adam
+  lastname: Lyon
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Hong
   lastname: Ma
   attendance_type: In person
@@ -2420,6 +2440,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC / Stanford University
   position: Faculty
+- firstname: Ronald
+  lastname: Ray
+  attendance_type: In person
+  affiliation: Fermi National Accelerator Lab
+  position: Prefer not to answer
 - firstname: Soamasina Herilala
   lastname: Razafinime
   attendance_type: In person
@@ -3040,6 +3065,11 @@ participants:
   attendance_type: In person
   affiliation: Institute for Advanced Study & UC San Diego
   position: Postdoc
+- firstname: Tammy
+  lastname: Walton
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Ann
   lastname: Wang
   attendance_type: In person
@@ -3305,11 +3335,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/23/2022 13:55:13 GMT
-number_participants: 664
-number_inperson_participants: 602
-number_virtual_participants: 37
+generated_at: 06/24/2022 09:23:27 GMT
+number_participants: 670
+number_inperson_participants: 605
+number_virtual_participants: 40
 number_LOC_Vol_Press: 25
-number_dinner_attendees: 408
+number_dinner_attendees: 409
 number_LIGO: 50
 number_baseball: 54
