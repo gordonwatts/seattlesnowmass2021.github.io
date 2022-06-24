@@ -2290,6 +2290,11 @@ participants:
   attendance_type: In person
   affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
+- firstname: William
+  lastname: Pellico
+  attendance_type: In person
+  affiliation: Fermilab
+  position: Prefer not to answer
 - firstname: Cristián
   lastname: Peña
   attendance_type: In person
@@ -3335,10 +3340,10 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/24/2022 09:23:27 GMT
-number_participants: 670
-number_inperson_participants: 605
-number_virtual_participants: 40
+generated_at: 06/24/2022 16:42:37 GMT
+number_participants: 675
+number_inperson_participants: 609
+number_virtual_participants: 41
 number_LOC_Vol_Press: 25
 number_dinner_attendees: 409
 number_LIGO: 50
