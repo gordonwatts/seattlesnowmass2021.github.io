@@ -514,6 +514,11 @@ participants:
   attendance_type: In person
   affiliation: Lawrence Livermore National Lab
   position: Research Scientist
+- firstname: Rachel
+  lastname: Carr
+  attendance_type: Virtual
+  affiliation: United States Naval Academy
+  position: Faculty
 - firstname: Massimo
   lastname: Casarsa
   attendance_type: In person
@@ -994,6 +999,11 @@ participants:
   attendance_type: In person
   affiliation: University of Pittsburgh
   position: Faculty
+- firstname: Keisuke
+  lastname: Fujii
+  attendance_type: Virtual
+  affiliation: KEK
+  position: Research Scientist
 - firstname: Annika
   lastname: Gabriel
   attendance_type: In person
@@ -1054,6 +1064,11 @@ participants:
   attendance_type: In person
   affiliation: University of Pennsylvania
   position: Student
+- firstname: Daniel
+  lastname: Garisto
+  attendance_type: In person
+  affiliation: Dan Garisto
+  position: 'Other:: Journalist'
 - firstname: Corrado
   lastname: Gatto
   attendance_type: In person
@@ -1119,6 +1134,11 @@ participants:
   attendance_type: In person
   affiliation: NVIDIA
   position: Prefer not to answer
+- firstname: Carlo
+  lastname: Giunti
+  attendance_type: In person
+  affiliation: INFN Torino
+  position: Research Scientist
 - firstname: Julia
   lastname: Gonski
   attendance_type: In person
@@ -1194,6 +1214,11 @@ participants:
   attendance_type: In person
   affiliation: University of Washington
   position: Student
+- firstname: Allison
+  lastname: Hall
+  attendance_type: Virtual
+  affiliation: United States Naval Academy
+  position: Faculty
 - firstname: Jeter
   lastname: Hall
   attendance_type: In person
@@ -1314,6 +1339,16 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+- firstname: Daniel
+  lastname: Hoying
+  attendance_type: In person
+  affiliation: Michigan State University
+  position: Postdoc
+- firstname: Lauren
+  lastname: Hsu
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Shih-Chieh
   lastname: Hsu
   attendance_type: In person
@@ -2220,6 +2255,11 @@ participants:
   attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: 'Other:: Facility Director'
+- firstname: Angela
+  lastname: Papa
+  attendance_type: In person
+  affiliation: PSI&UniPi/INFN
+  position: Research Scientist
 - firstname: Vaia
   lastname: Papadimitriou
   attendance_type: In person
@@ -2525,6 +2565,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+- firstname: Rogerio
+  lastname: Rosenfeld
+  attendance_type: Virtual
+  affiliation: IFT-UNESP/ICTP-SAIFR/LAA-HECAP
+  position: Faculty
 - firstname: Thomas
   lastname: Roser
   attendance_type: In person
@@ -2589,6 +2634,11 @@ participants:
   lastname: Saha
   attendance_type: In person
   affiliation: Smithsonian Astrophysical Observatory
+  position: Research Scientist
+- firstname: Richard
+  lastname: Saldanha
+  attendance_type: In person
+  affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
 - firstname: Mayly
   lastname: Sanchez
@@ -3085,6 +3135,11 @@ participants:
   attendance_type: In person
   affiliation: California Institute of Technology
   position: Student
+- firstname: Gensheng
+  lastname: Wang
+  attendance_type: Virtual
+  affiliation: Argonne National Laboratory
+  position: Research Scientist
 - firstname: Jinglu
   lastname: Wang
   attendance_type: In person
@@ -3340,11 +3395,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/24/2022 16:42:37 GMT
-number_participants: 675
-number_inperson_participants: 609
-number_virtual_participants: 41
-number_LOC_Vol_Press: 25
-number_dinner_attendees: 409
-number_LIGO: 50
-number_baseball: 54
+generated_at: 06/27/2022 09:19:33 GMT
+number_participants: 686
+number_inperson_participants: 613
+number_virtual_participants: 47
+number_LOC_Vol_Press: 26
+number_dinner_attendees: 411
+number_LIGO: 52
+number_baseball: 55
