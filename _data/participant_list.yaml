@@ -7,7 +7,7 @@ participants:
 - firstname: Tony
   lastname: Affolder
   attendance_type: In person
-  affiliation: University of California, Santa Cruz
+  affiliation: UC Santa Cruz
   position: Research Scientist
 - firstname: Zeeshan
   lastname: Ahmed
@@ -22,7 +22,7 @@ participants:
 - firstname: Daniel
   lastname: Akerib
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Oluwatomi
   lastname: Akindele
@@ -32,7 +32,7 @@ participants:
 - firstname: Cristiano
   lastname: Alpigiani
   attendance_type: In person
-  affiliation: University of Washington, Seattle
+  affiliation: University of Washington
   position: Postdoc
 - firstname: Wolfgang
   lastname: Altmannshofer
@@ -77,17 +77,17 @@ participants:
 - firstname: Giorgio
   lastname: Apollinari
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Isaac
   lastname: Arnquist
   attendance_type: In person
-  affiliation: PNNL
+  affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
 - firstname: Marina
   lastname: Artuso
   attendance_type: In person
-  affiliation: syracuse university
+  affiliation: Syracuse University
   position: Faculty
 - firstname: Shoji
   lastname: Asai
@@ -102,7 +102,7 @@ participants:
 - firstname: Kétévi
   lastname: Assamagan
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Adam
   lastname: Aurisano
@@ -137,7 +137,7 @@ participants:
 - firstname: Stephen
   lastname: Bailey
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Amandeep Singh
   lastname: Bakshi
@@ -172,17 +172,17 @@ participants:
 - firstname: Timothy
   lastname: Barklow
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
 - firstname: Esra
   lastname: Barlas-Yucel
   attendance_type: In person
-  affiliation: University of Illinois at Urbana Champaign
+  affiliation: University of Illinois Urbana-Champaign
   position: Postdoc
 - firstname: Rainer
   lastname: Bartoldus
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: 'Other:: Staff Scientist'
 - firstname: Chelsea
   lastname: Bartram
@@ -197,7 +197,7 @@ participants:
 - firstname: Amit
   lastname: Bashyal
   attendance_type: In person
-  affiliation: Argonne National Lab
+  affiliation: Argonne National Laboratory
   position: Postdoc
 - firstname: Brian
   lastname: Batell
@@ -207,7 +207,7 @@ participants:
 - firstname: Christian
   lastname: Bauer
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Faculty
 - firstname: Lothar
   lastname: Bauerdick
@@ -237,12 +237,12 @@ participants:
 - firstname: Anis
   lastname: Ben Yahia
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Amy
   lastname: Bender
   attendance_type: In person
-  affiliation: Argonne National Lab
+  affiliation: Argonne National Laboratory
   position: Research Scientist
 - firstname: Jake
   lastname: Bennett
@@ -317,7 +317,7 @@ participants:
 - firstname: Jianming
   lastname: Bian
   attendance_type: In person
-  affiliation: University of California, Irvine
+  affiliation: UC Irvine
   position: Faculty
 - firstname: Kevin
   lastname: Black
@@ -332,7 +332,7 @@ participants:
 - firstname: Alain
   lastname: Blondel
   attendance_type: In person
-  affiliation: Uni Geneva and LPNHE Paris
+  affiliation: Uni Geneva/LPNHE Paris
   position: Faculty
 - firstname: Kenneth
   lastname: Bloom
@@ -347,12 +347,12 @@ participants:
 - firstname: Thomas
   lastname: Blum
   attendance_type: In person
-  affiliation: UConn/RBRC
+  affiliation: University of Connecticut/RBRC
   position: Faculty
 - firstname: Richard
   lastname: Bonventre
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Tulika
   lastname: Bose
@@ -402,7 +402,7 @@ participants:
 - firstname: Noah
   lastname: Bray-Ali
   attendance_type: In person
-  affiliation: Mt. Saint Mary's Univ.-Los Angeles
+  affiliation: Mt. Saint Mary's University, Los Angeles
   position: 'Other:: Lecturer'
 - firstname: Steve
   lastname: Brice
@@ -427,7 +427,7 @@ participants:
 - firstname: Lucas
   lastname: Brouwer
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Thomas
   lastname: Browder
@@ -437,7 +437,7 @@ participants:
 - firstname: David
   lastname: Brown
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Quentin
   lastname: Buat
@@ -447,7 +447,7 @@ participants:
 - firstname: Raymond
   lastname: Bunker
   attendance_type: In person
-  affiliation: PNNL
+  affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
 - firstname: Laura
   lastname: Buonincontri
@@ -462,12 +462,12 @@ participants:
 - firstname: Joel
   lastname: Butler
   attendance_type: In person
-  affiliation: Fermilab and APS/Division of Particles and Fields
+  affiliation: Fermilab/APS (Division of Particles and Fields)
   position: Research Scientist
 - firstname: Micah
   lastname: Buuck
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
 - firstname: John
   lastname: Byrd
@@ -502,17 +502,17 @@ participants:
 - firstname: Gabriella
   lastname: Carini
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Prefer not to answer
 - firstname: John
   lastname: Carlstrom
   attendance_type: In person
-  affiliation: University of Chicago / Argonne
+  affiliation: University of Chicago/Argonne National Laboratory
   position: Faculty
 - firstname: Gianpaolo
   lastname: Carosi
   attendance_type: In person
-  affiliation: Lawrence Livermore National Lab
+  affiliation: Lawrence Livermore National Laboratory
   position: Research Scientist
 - firstname: Rachel
   lastname: Carr
@@ -522,7 +522,7 @@ participants:
 - firstname: Massimo
   lastname: Casarsa
   attendance_type: In person
-  affiliation: INFN - Trieste, Italy
+  affiliation: INFN - Trieste
   position: Research Scientist
 - firstname: Stefano
   lastname: Castro Tognini
@@ -532,7 +532,7 @@ participants:
 - firstname: Erika
   lastname: Catano-Mur
   attendance_type: In person
-  affiliation: William & Mary
+  affiliation: College of William & Mary
   position: Postdoc
 - firstname: Simon
   lastname: Catterall
@@ -542,7 +542,7 @@ participants:
 - firstname: Thomas
   lastname: Cecil
   attendance_type: In person
-  affiliation: Argonne
+  affiliation: Argonne National Laboratory
   position: Research Scientist
 - firstname: Giuseppe
   lastname: Cerati
@@ -562,7 +562,7 @@ participants:
 - firstname: Clarence
   lastname: Chang
   attendance_type: In person
-  affiliation: Argonne National Lab
+  affiliation: Argonne National Laboratory
   position: Research Scientist
 - firstname: Philip
   lastname: Chang
@@ -582,7 +582,7 @@ participants:
 - firstname: Mu-Chun
   lastname: Chen
   attendance_type: In person
-  affiliation: University of California, Irvine
+  affiliation: UC Irvine
   position: Faculty
 - firstname: Daniel
   lastname: Cherdack
@@ -592,7 +592,7 @@ participants:
 - firstname: Maxwell
   lastname: Chertok
   attendance_type: In person
-  affiliation: University of California Davis
+  affiliation: UC Davis
   position: Faculty
 - firstname: R. Sekhar
   lastname: Chivukula
@@ -607,7 +607,7 @@ participants:
 - firstname: Eric
   lastname: Church
   attendance_type: In person
-  affiliation: PNNL
+  affiliation: Pacific Northwest National Laboratory
   position: 'Other:: DOE detailee / Scientist'
 - firstname: Vincenzo
   lastname: Cirigliano
@@ -627,7 +627,7 @@ participants:
 - firstname: John
   lastname: Conway
   attendance_type: In person
-  affiliation: University of California, Davis
+  affiliation: UC Davis
   position: Faculty
 - firstname: Jodi
   lastname: Cooley
@@ -682,7 +682,7 @@ participants:
 - firstname: Eric
   lastname: Dahl
   attendance_type: In person
-  affiliation: Northwestern University / Fermilab
+  affiliation: Northwestern University/Fermilab
   position: Faculty
 - firstname: Chris
   lastname: Damerell
@@ -727,7 +727,7 @@ participants:
 - firstname: Sally
   lastname: Dawson
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Jorge
   lastname: De Blas Mateo
@@ -757,7 +757,7 @@ participants:
 - firstname: Wouter
   lastname: Dekens
   attendance_type: In person
-  affiliation: INT
+  affiliation: Institute for Nuclear Theory
   position: 'Other:: research assistant professor'
 - firstname: Marcel
   lastname: Demarteau
@@ -767,12 +767,12 @@ participants:
 - firstname: Dmitri
   lastname: Denisov
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Ankur
   lastname: Dhar
   attendance_type: In person
-  affiliation: SLAC National Accelerator Lab
+  affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
 - firstname: Maria Laura
   lastname: Di Vacri
@@ -782,7 +782,7 @@ participants:
 - firstname: Daniel
   lastname: Diaz
   attendance_type: In person
-  affiliation: University of California San Diego
+  affiliation: UC San Diego
   position: Postdoc
 - firstname: Jennet
   lastname: Dickinson
@@ -792,7 +792,7 @@ participants:
 - firstname: Keith
   lastname: Dienes
   attendance_type: In person
-  affiliation: NSF / University of Arizona
+  affiliation: National Science Foundation/University of Arizona
   position: Faculty
 - firstname: Karri
   lastname: Dipetrillo
@@ -822,7 +822,7 @@ participants:
 - firstname: Alex
   lastname: Drlica-Wagner
   attendance_type: In person
-  affiliation: Fermilab/UChicago
+  affiliation: Fermilab/University of Chicago
   position: Research Scientist
 - firstname: Xinnan
   lastname: Du
@@ -842,7 +842,7 @@ participants:
 - firstname: Dan
   lastname: Dwyer
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Andrew
   lastname: Dye
@@ -852,7 +852,7 @@ participants:
 - firstname: Bertrand
   lastname: Echenard
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Faculty
 - firstname: Aida
   lastname: El-Khadra
@@ -872,7 +872,7 @@ participants:
 - firstname: Victor Daniel
   lastname: Elvira
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: 'Other:: Senior Scientist'
 - firstname: Kristi
   lastname: Engel
@@ -882,22 +882,22 @@ participants:
 - firstname: Sarah
   lastname: Eno
   attendance_type: In person
-  affiliation: U. Maryland
+  affiliation: University of Maryland
   position: Faculty
 - firstname: Robin
   lastname: Erbacher
   attendance_type: In person
-  affiliation: Univ. of California, Davis
+  affiliation: UC Davis
   position: Faculty
 - firstname: Eric
   lastname: Esarey
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Carlos
   lastname: Escobar
   attendance_type: Virtual
-  affiliation: FERMILAB
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Jessica
   lastname: Esquivel
@@ -917,7 +917,7 @@ participants:
 - firstname: Kwok Lung
   lastname: Fan
   attendance_type: In person
-  affiliation: UMD
+  affiliation: University of Maryland
   position: Student
 - firstname: Glennys
   lastname: Farrar
@@ -932,7 +932,7 @@ participants:
 - firstname: Thomas
   lastname: Faulkner
   attendance_type: In person
-  affiliation: UIUC
+  affiliation: University of Illinois Urbana-Champaign
   position: Faculty
 - firstname: Angeles
   lastname: Faus-Golfe
@@ -1027,7 +1027,7 @@ participants:
 - firstname: Sudeshna
   lastname: Ganguly
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: 'Other:: Associate Scientist'
 - firstname: Andrei
   lastname: Gaponenko
@@ -1042,7 +1042,7 @@ participants:
 - firstname: Isabel
   lastname: Garcia Garcia
   attendance_type: In person
-  affiliation: KITP (UCSB)
+  affiliation: UC Santa Barbara (KITP)
   position: Postdoc
 - firstname: Alejandro
   lastname: Garcia
@@ -1057,7 +1057,7 @@ participants:
 - firstname: Steven
   lastname: Gardiner
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Gwen
   lastname: Gardner
@@ -1112,7 +1112,7 @@ participants:
 - firstname: Luca
   lastname: Giambastiani
   attendance_type: In person
-  affiliation: University and INFN, Padova (IT)
+  affiliation: University and INFN of Padova (IT)
   position: Student
 - firstname: Eliana
   lastname: Gianfelice
@@ -1147,7 +1147,7 @@ participants:
 - firstname: Stefania
   lastname: Gori
   attendance_type: In person
-  affiliation: University of California, Santa Cruz
+  affiliation: UC Santa Cruz
   position: Faculty
 - firstname: Steven
   lastname: Gottlieb
@@ -1157,7 +1157,7 @@ participants:
 - firstname: Stephen
   lastname: Gourlay
   attendance_type: In person
-  affiliation: LBNL (Retired)
+  affiliation: Lawrence Berkeley National Laboratory (Retired)
   position: Research Scientist
 - firstname: Anna
   lastname: Goussiou
@@ -1202,7 +1202,7 @@ participants:
 - firstname: Ramesh
   lastname: Gupta
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Faculty
 - firstname: Oliver
   lastname: Gutsche
@@ -1242,32 +1242,32 @@ participants:
 - firstname: Deborah
   lastname: Harris
   attendance_type: In person
-  affiliation: York University / Fermilab
+  affiliation: York University/Fermilab
   position: Faculty
 - firstname: Philip
   lastname: Harris
   attendance_type: In person
-  affiliation: MIT
+  affiliation: Massachusetts Institute of Technology
   position: Faculty
 - firstname: Robert M
   lastname: Harris
   attendance_type: Virtual
-  affiliation: Fermilab
+  affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
 - firstname: Mike
   lastname: Headley
   attendance_type: In person
-  affiliation: SDSTA / SURF
+  affiliation: SDSTA/SURF
   position: 'Other:: Lab Director'
 - firstname: Michael
   lastname: Hedges
   attendance_type: In person
-  affiliation: Purdue / Bonn
+  affiliation: Purdue University/Bonn
   position: Postdoc
 - firstname: Samuel
   lastname: Hedges
   attendance_type: In person
-  affiliation: LLNL
+  affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
 - firstname: Karsten
   lastname: Heeger
@@ -1312,12 +1312,12 @@ participants:
 - firstname: David
   lastname: Hitlin
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Faculty
 - firstname: Georg
   lastname: Hoffstaetter
   attendance_type: In person
-  affiliation: BNL and Cornell University
+  affiliation: Brookhaven National Laboratory/Cornell University
   position: Faculty
 - firstname: Julie
   lastname: Hogan
@@ -1332,7 +1332,7 @@ participants:
 - firstname: Walter
   lastname: Hopkins
   attendance_type: In person
-  affiliation: Argonne National Lab
+  affiliation: Argonne National Laboratory
   position: Research Scientist
 - firstname: Md Forhad
   lastname: Hossain
@@ -1362,12 +1362,12 @@ participants:
 - firstname: Zhirong
   lastname: Huang
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Patrick
   lastname: Huber
   attendance_type: In person
-  affiliation: Virginia Polytechnic Institute and State University
+  affiliation: Virginia Tech
   position: Faculty
 - firstname: Axel
   lastname: Huebl
@@ -1382,7 +1382,7 @@ participants:
 - firstname: Nicholas
   lastname: Hutzler
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Faculty
 - firstname: Adam
   lastname: Iaizzi
@@ -1403,7 +1403,7 @@ participants:
 - firstname: Christopher
   lastname: Jackson
   attendance_type: In person
-  affiliation: PNNL
+  affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
 - firstname: Wooyoung
   lastname: Jang
@@ -1413,7 +1413,7 @@ participants:
 - firstname: Jonathan
   lastname: Jarvis
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Bodhitha
   lastname: Jayatilaka
@@ -1453,7 +1453,7 @@ participants:
 - firstname: Seth
   lastname: Johnson
   attendance_type: In person
-  affiliation: ORNL
+  affiliation: Oak Ridge National Laboratory
   position: Research Scientist
 - firstname: Ben
   lastname: Jones
@@ -1488,12 +1488,12 @@ participants:
 - firstname: Alvine
   lastname: Kamaha
   attendance_type: In person
-  affiliation: University of California, Los Angeles (UCLA)
+  affiliation: UC Los Angeles
   position: Faculty
 - firstname: Peter
   lastname: Kammel
   attendance_type: In person
-  affiliation: UW and CENPA, Seattle
+  affiliation: University of Washington (CENPA)
   position: Faculty
 - firstname: Alexei
   lastname: Kanareykin
@@ -1518,7 +1518,7 @@ participants:
 - firstname: Sushrut
   lastname: Karmarkar
   attendance_type: In person
-  affiliation: Purdue University, USA
+  affiliation: Purdue University
   position: Student
 - firstname: Vadim
   lastname: Kashikhin
@@ -1535,6 +1535,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Steve
+  lastname: Kettell
+  attendance_type: In person
+  affiliation: bnl
+  position: Faculty
 - firstname: Joey
   lastname: Key
   attendance_type: In person
@@ -1573,12 +1578,12 @@ participants:
 - firstname: James
   lastname: Kingston
   attendance_type: In person
-  affiliation: University of California, Davis
+  affiliation: UC Davis
   position: Student
 - firstname: Natalie
   lastname: Klco
   attendance_type: In person
-  affiliation: Caltech (IQIM)
+  affiliation: California Institute of Technology (IQIM)
   position: Postdoc
 - firstname: Joshua
   lastname: Klein
@@ -1588,7 +1593,7 @@ participants:
 - firstname: Stefan
   lastname: Knirck
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Postdoc
 - firstname: Lisa
   lastname: Koerner
@@ -1598,7 +1603,7 @@ participants:
 - firstname: Yury
   lastname: Kolomensky
   attendance_type: In person
-  affiliation: UC Berkeley/LBNL
+  affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Faculty
 - firstname: Charis Kleio
   lastname: Koraka
@@ -1663,7 +1668,7 @@ participants:
 - firstname: Eric
   lastname: Lancon
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: David
   lastname: Lange
@@ -1673,7 +1678,7 @@ participants:
 - firstname: Andrew
   lastname: Lankford
   attendance_type: In person
-  affiliation: UCI
+  affiliation: UC Irvine
   position: Faculty
 - firstname: Richard
   lastname: Lebed
@@ -1748,7 +1753,7 @@ participants:
 - firstname: Hugh
   lastname: Lippincott
   attendance_type: In person
-  affiliation: UCSB
+  affiliation: UC Santa Barbara
   position: Faculty
 - firstname: Ronald
   lastname: Lipton
@@ -1758,7 +1763,7 @@ participants:
 - firstname: Laurence
   lastname: Littenberg
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: 'Other:: DOE detailee'
 - firstname: Bryce
   lastname: Littlejohn
@@ -1803,7 +1808,7 @@ participants:
 - firstname: Henry
   lastname: Lubatti
   attendance_type: In person
-  affiliation: University of Washington, Seattle
+  affiliation: University of Washington
   position: Faculty
 - firstname: Donatella
   lastname: Lucchesi
@@ -1823,12 +1828,12 @@ participants:
 - firstname: Xiao
   lastname: Luo
   attendance_type: In person
-  affiliation: University of California Santa Barbara
+  affiliation: UC Santa Barbara
   position: Faculty
 - firstname: Jamie
   lastname: Luskin
   attendance_type: In person
-  affiliation: JPL/Caltech
+  affiliation: California Institute of Technology (JPL)
   position: Student
 - firstname: Joseph
   lastname: Lykken
@@ -1853,7 +1858,7 @@ participants:
 - firstname: Hong
   lastname: Ma
   attendance_type: In person
-  affiliation: Brookhaven National Lab
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Yang
   lastname: Ma
@@ -1953,7 +1958,7 @@ participants:
 - firstname: Jeff
   lastname: Mcmahon
   attendance_type: In person
-  affiliation: University of Chicago and FNAL
+  affiliation: University of Chicago/Fermilab
   position: Faculty
 - firstname: Patrick
   lastname: Meade
@@ -2018,7 +2023,7 @@ participants:
 - firstname: Adam
   lastname: Molnar
   attendance_type: In person
-  affiliation: Santa Cruz Institute for Particle Physics
+  affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Student
 - firstname: Claudio Silverio
   lastname: Montanari
@@ -2028,7 +2033,7 @@ participants:
 - firstname: Alessandro
   lastname: Montella
   attendance_type: In person
-  affiliation: INFN Trieste
+  affiliation: INFN - Trieste
   position: Student
 - firstname: Maria Elena
   lastname: Monzani
@@ -2068,12 +2073,12 @@ participants:
 - firstname: Hitoshi
   lastname: Murayama
   attendance_type: In person
-  affiliation: UC Berkeley / Kavli IPMU
+  affiliation: UC Berkeley/Kavli IPMU
   position: Faculty
 - firstname: Pietro
   lastname: Musumeci
   attendance_type: In person
-  affiliation: UCLA
+  affiliation: UC Los Angeles
   position: Faculty
 - firstname: Marco
   lastname: Muzio
@@ -2088,7 +2093,7 @@ participants:
 - firstname: Sergei
   lastname: Nagaitsev
   attendance_type: In person
-  affiliation: Fermilab/U.Chicago
+  affiliation: Fermilab/University of Chicago
   position: Research Scientist
 - firstname: Daniel
   lastname: Nagasawa
@@ -2108,7 +2113,7 @@ participants:
 - firstname: Emilio
   lastname: Nanni
   attendance_type: In person
-  affiliation: SLAC National Accelerator Laboratory, Stanford University
+  affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
 - firstname: Meenakshi
   lastname: Narain
@@ -2138,17 +2143,22 @@ participants:
 - firstname: Harvey
   lastname: Newman
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Faculty
 - firstname: Jeffrey
   lastname: Newman
   attendance_type: In person
-  affiliation: U. Pittsburgh / PITT PACC
+  affiliation: University of Pittsburgh/PITT PACC
   position: Faculty
+- firstname: Xiaochen
+  lastname: Ni
+  attendance_type: In person
+  affiliation: University of Washington
+  position: Student
 - firstname: Jason
   lastname: Nielsen
   attendance_type: In person
-  affiliation: SCIPP / UC Santa Cruz
+  affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Faculty
 - firstname: Laura
   lastname: Nosler
@@ -2168,7 +2178,7 @@ participants:
 - firstname: J. Pedro
   lastname: Ochoa-Ricoux
   attendance_type: In person
-  affiliation: University of California, Irvine
+  affiliation: UC Irvine
   position: Faculty
 - firstname: Piermaria
   lastname: Oddone
@@ -2193,7 +2203,7 @@ participants:
 - firstname: Yuri
   lastname: Oksuzian
   attendance_type: In person
-  affiliation: Argonne
+  affiliation: Argonne National Laboratory
   position: Research Scientist
 - firstname: Peter
   lastname: Onyisi
@@ -2203,7 +2213,7 @@ participants:
 - firstname: Gabriel D.
   lastname: Orebi Gann
   attendance_type: In person
-  affiliation: UC Berkeley / LBNL
+  affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Faculty
 - firstname: John
   lastname: Orrell
@@ -2218,7 +2228,7 @@ participants:
 - firstname: Jennifer
   lastname: Ott
   attendance_type: In person
-  affiliation: SCIPP / UC Santa Cruz
+  affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Postdoc
 - firstname: Nepomuk
   lastname: Otte
@@ -2238,12 +2248,12 @@ participants:
 - firstname: Simone
   lastname: Pagan Griso
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Nathalie
   lastname: Palanque-Delabrouille
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Jonathan
   lastname: Paley
@@ -2288,12 +2298,12 @@ participants:
 - firstname: Nathaniel
   lastname: Pastika
   attendance_type: In person
-  affiliation: FNAL
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Saori
   lastname: Pastore
   attendance_type: In person
-  affiliation: washington university in st louis
+  affiliation: Washington University in St. Louis
   position: Faculty
 - firstname: Nadia
   lastname: Pastrone
@@ -2333,7 +2343,7 @@ participants:
 - firstname: Kevin
   lastname: Pedro
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: William
   lastname: Pellico
@@ -2348,22 +2358,27 @@ participants:
 - firstname: Daniel
   lastname: Pershey
   attendance_type: In person
-  affiliation: Duke
+  affiliation: Duke University
   position: Postdoc
 - firstname: Michael
   lastname: Peskin
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Annika
   lastname: Peter
   attendance_type: In person
   affiliation: The Ohio State University
   position: Faculty
+- firstname: Christina
+  lastname: Peters
+  attendance_type: In person
+  affiliation: University of Delaware
+  position: Postdoc
 - firstname: Frank
   lastname: Petriello
   attendance_type: In person
-  affiliation: Argonne and Northwestern
+  affiliation: Argonne National Laboratory/Northwestern University
   position: Faculty
 - firstname: Alexey
   lastname: Petrov
@@ -2408,17 +2423,17 @@ participants:
 - firstname: Eric
   lastname: Prebys
   attendance_type: In person
-  affiliation: University of California Davis
+  affiliation: UC Davis
   position: Faculty
 - firstname: Chanda
   lastname: Prescod-Weinstein
   attendance_type: In person
-  affiliation: U of New Hampshire
+  affiliation: University of New Hampshire
   position: Faculty
 - firstname: Soren
   lastname: Prestemon
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Mason
   lastname: Proffitt
@@ -2453,7 +2468,7 @@ participants:
 - firstname: Melissa
   lastname: Quinnan
   attendance_type: In person
-  affiliation: UCSD
+  affiliation: UC San Diego
   position: Postdoc
 - firstname: Jennifer
   lastname: Raaf
@@ -2468,7 +2483,7 @@ participants:
 - firstname: Srini
   lastname: Rajagopalan
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Miriama
   lastname: Rajaoalisoa
@@ -2488,7 +2503,7 @@ participants:
 - firstname: Tor
   lastname: Raubenheimer
   attendance_type: In person
-  affiliation: SLAC / Stanford University
+  affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
 - firstname: Ronald
   lastname: Ray
@@ -2518,7 +2533,7 @@ participants:
 - firstname: Francesco
   lastname: Renga
   attendance_type: In person
-  affiliation: INFN Sez. di Roma
+  affiliation: INFN - Sez. di Roma
   position: Research Scientist
 - firstname: Mary Hall
   lastname: Reno
@@ -2548,12 +2563,12 @@ participants:
 - firstname: Cristian
   lastname: Roca Catala
   attendance_type: In person
-  affiliation: LLNL
+  affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
 - firstname: Natalie
   lastname: Roe
   attendance_type: In person
-  affiliation: Lawrence Berkeley Laboratory
+  affiliation: Lawrence Berkeley National Laboratory
   position: 'Other:: Associate Laboratory Director'
 - firstname: Amber
   lastname: Roepe-Gier
@@ -2583,7 +2598,7 @@ participants:
 - firstname: Thomas
   lastname: Roser
   attendance_type: In person
-  affiliation: BNL
+  affiliation: Brookhaven National Laboratory
   position: 'Other:: Emeritus Scientist'
 - firstname: Mark
   lastname: Ross-Lonergan
@@ -2633,7 +2648,7 @@ participants:
 - firstname: Gianluca
   lastname: Sabbi
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Marianna
   lastname: Safronova
@@ -2673,7 +2688,7 @@ participants:
 - firstname: David
   lastname: Schlegel
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Michael
   lastname: Schmitt
@@ -2718,7 +2733,7 @@ participants:
 - firstname: Ariel
   lastname: Schwartzman
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Reinhard
   lastname: Schwienhorst
@@ -2728,7 +2743,7 @@ participants:
 - firstname: Yannis
   lastname: Semertizids
   attendance_type: In person
-  affiliation: IBS,CAPP/KAIST
+  affiliation: Institute for Basic Science (CAPP/KAIST)
   position: Faculty
 - firstname: Elizabeth
   lastname: Sexton-Kennedy
@@ -2748,7 +2763,7 @@ participants:
 - firstname: James
   lastname: Shank
   attendance_type: In person
-  affiliation: NSF
+  affiliation: National Science Foundation
   position: 'Other:: Program Director'
 - firstname: Shu-Heng
   lastname: Shao
@@ -2763,12 +2778,12 @@ participants:
 - firstname: Brian
   lastname: Sheldon
   attendance_type: In person
-  affiliation: University of California San Diego
+  affiliation: UC San Diego
   position: Student
 - firstname: Tengming
   lastname: Shen
   attendance_type: In person
-  affiliation: Lawrence Berkeley National Lab
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Marc
   lastname: Sher
@@ -2788,7 +2803,7 @@ participants:
 - firstname: Tom
   lastname: Shutt
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Rafael
   lastname: Silva Coutinho
@@ -2815,6 +2830,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: James
+  lastname: Sinnis
+  attendance_type: In person
+  affiliation: University of Washington
+  position: Student
 - firstname: Tomasz
   lastname: Skwarnicki
   attendance_type: In person
@@ -2823,13 +2843,18 @@ participants:
 - firstname: Tracy
   lastname: Slatyer
   attendance_type: In person
-  affiliation: MIT
+  affiliation: Massachusetts Institute of Technology
   position: Faculty
 - firstname: Emily
   lastname: Smith
   attendance_type: In person
   affiliation: University of Chicago
   position: Student
+- firstname: Marcelle
+  lastname: Soares-Santos
+  attendance_type: In person
+  affiliation: University of Michigan
+  position: Faculty
 - firstname: Stefano Roberto
   lastname: Soleti
   attendance_type: In person
@@ -2838,7 +2863,7 @@ participants:
 - firstname: Mikhail
   lastname: Solon
   attendance_type: In person
-  affiliation: UCLA
+  affiliation: UC Los Angeles
   position: Faculty
 - firstname: Andrew
   lastname: Sonnenschein
@@ -2858,7 +2883,7 @@ participants:
 - firstname: Maria
   lastname: Spiropulu
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Faculty
 - firstname: Yevgeny
   lastname: Stadnik
@@ -2873,7 +2898,7 @@ participants:
 - firstname: Giordon
   lastname: Stark
   attendance_type: In person
-  affiliation: SCIPP, UC Santa Cruz (ATLAS Exp.)
+  affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz (ATLAS Exp.)
   position: Postdoc
 - firstname: James
   lastname: Strait
@@ -2898,7 +2923,7 @@ participants:
 - firstname: Jan
   lastname: Strube
   attendance_type: In person
-  affiliation: PNNL
+  affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
 - firstname: Shufang
   lastname: Su
@@ -2923,7 +2948,7 @@ participants:
 - firstname: Matthew
   lastname: Szydagis
   attendance_type: In person
-  affiliation: UAlbany SUNY
+  affiliation: University of Albany (SUNY)
   position: Faculty
 - firstname: Zahra
   lastname: Tabrizi
@@ -2933,7 +2958,7 @@ participants:
 - firstname: Tim
   lastname: Tait
   attendance_type: In person
-  affiliation: University of California, Irvine
+  affiliation: UC Irvine
   position: Faculty
 - firstname: Tohru
   lastname: Takeshita
@@ -2948,18 +2973,23 @@ participants:
 - firstname: Hirohisa
   lastname: Tanaka
   attendance_type: In person
-  affiliation: SLAC, Stanford
+  affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
 - firstname: Jesse
   lastname: Thaler
   attendance_type: In person
-  affiliation: MIT
+  affiliation: Massachusetts Institute of Technology
   position: Faculty
 - firstname: Brooks
   lastname: Thomas
   attendance_type: In person
   affiliation: Lafayette College
   position: Faculty
+- firstname: Mark
+  lastname: Thomson
+  attendance_type: In person
+  affiliation: UKRI- Science and Technology Facilities Council
+  position: 'Other:: UK Senior Official'
 - firstname: Natalia
   lastname: Toro
   attendance_type: In person
@@ -2983,7 +3013,7 @@ participants:
 - firstname: Nhan
   lastname: Tran
   attendance_type: In person
-  affiliation: Fermi National Accelerator Laboratory
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Alessandro
   lastname: Tricoli
@@ -2993,7 +3023,7 @@ participants:
 - firstname: Yu-Dai
   lastname: Tsai
   attendance_type: In person
-  affiliation: University of California, Irvine
+  affiliation: UC Irvine
   position: Postdoc
 - firstname: Yun-Tse
   lastname: Tsai
@@ -3018,12 +3048,12 @@ participants:
 - firstname: Marlene
   lastname: Turner
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Patricia
   lastname: Vahle
   attendance_type: In person
-  affiliation: William & Mary
+  affiliation: College of William & Mary
   position: Faculty
 - firstname: Sven
   lastname: Vahsen
@@ -3038,7 +3068,7 @@ participants:
 - firstname: Zoya
   lastname: Vallari
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Postdoc
 - firstname: Tal
   lastname: Van Daalen
@@ -3053,7 +3083,7 @@ participants:
 - firstname: Jeroen
   lastname: Van Tilborg
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: David
   lastname: Van Zanten
@@ -3098,7 +3128,7 @@ participants:
 - firstname: Caterina
   lastname: Vernieri
   attendance_type: In person
-  affiliation: SLAC
+  affiliation: SLAC National Accelerator Laboratory
   position: Faculty
 - firstname: Alexandre
   lastname: Vieira
@@ -3143,7 +3173,7 @@ participants:
 - firstname: Ann
   lastname: Wang
   attendance_type: In person
-  affiliation: Stanford/SLAC
+  affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Postdoc
 - firstname: Christina
   lastname: Wang
@@ -3168,7 +3198,7 @@ participants:
 - firstname: Yue
   lastname: Wang
   attendance_type: In person
-  affiliation: UC Berkeley/LBNL
+  affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Student
 - firstname: Gordon
   lastname: Watts
@@ -3183,7 +3213,7 @@ participants:
 - firstname: Risa
   lastname: Wechsler
   attendance_type: In person
-  affiliation: Stanford / SLAC
+  affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
 - firstname: William
   lastname: Wester
@@ -3208,7 +3238,7 @@ participants:
 - firstname: Callum
   lastname: Wilkinson
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
 - firstname: Mike
   lastname: Williams
@@ -3243,17 +3273,17 @@ participants:
 - firstname: Kevin
   lastname: Wood
   attendance_type: In person
-  affiliation: LBNL
+  affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
 - firstname: Mackenzie
   lastname: Wooten
   attendance_type: In person
-  affiliation: University of California, Berkeley
+  affiliation: UC Berkeley
   position: Student
 - firstname: Elizabeth
   lastname: Worcester
   attendance_type: In person
-  affiliation: Brookhaven National Lab
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Wanwei
   lastname: Wu
@@ -3333,7 +3363,7 @@ participants:
 - firstname: Hai-Bo
   lastname: Yu
   attendance_type: In person
-  affiliation: University of California, Riverside
+  affiliation: UC Riverside
   position: Faculty
 - firstname: Jaehoon
   lastname: Yu
@@ -3373,7 +3403,7 @@ participants:
 - firstname: Yuanyuan
   lastname: Zhang
   attendance_type: In person
-  affiliation: Texas A&M
+  affiliation: Texas A&M University
   position: Postdoc
 - firstname: Zhengkang
   lastname: Zhang
@@ -3388,12 +3418,12 @@ participants:
 - firstname: Yuzhan
   lastname: Zhao
   attendance_type: In person
-  affiliation: Santa Cruz Institute for Particle Physics (SCIPP)
+  affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Student
 - firstname: Ren-Yuan
   lastname: Zhu
   attendance_type: In person
-  affiliation: Caltech
+  affiliation: California Institute of Technology
   position: Research Scientist
 - firstname: Frank
   lastname: Zimmermann
@@ -3410,11 +3440,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/27/2022 16:22:13 GMT
-number_participants: 689
-number_inperson_participants: 614
+generated_at: 06/28/2022 11:55:52 GMT
+number_participants: 695
+number_inperson_participants: 620
 number_virtual_participants: 49
 number_LOC_Vol_Press: 26
-number_dinner_attendees: 411
-number_LIGO: 52
+number_dinner_attendees: 414
+number_LIGO: 53
 number_baseball: 55
