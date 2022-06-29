@@ -57,7 +57,7 @@ participants:
 - firstname: Kathleen
   lastname: Amm
   attendance_type: In person
-  affiliation: Brookhaven National Lab
+  affiliation: Brookhaven National Laboratory
   position: Research Scientist
 - firstname: Jim
   lastname: Amundson
@@ -157,7 +157,7 @@ participants:
 - firstname: Stefan
   lastname: Ballmer
   attendance_type: In person
-  affiliation: Syracuse University / Cosmic Explorer
+  affiliation: Syracuse University/Cosmic Explorer
   position: Faculty
 - firstname: Swagato
   lastname: Banerjee
@@ -314,6 +314,11 @@ participants:
   attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Research Scientist
+- firstname: Sandipan
+  lastname: Bhattacherjee
+  attendance_type: In person
+  affiliation: Birla Institute of Technology Mesra
+  position: Student
 - firstname: Jianming
   lastname: Bian
   attendance_type: In person
@@ -322,7 +327,7 @@ participants:
 - firstname: Kevin
   lastname: Black
   attendance_type: In person
-  affiliation: University of Wisconsin-Madison
+  affiliation: University of Wisconsin, Madison
   position: Faculty
 - firstname: Lindsey
   lastname: Bleem
@@ -357,7 +362,7 @@ participants:
 - firstname: Tulika
   lastname: Bose
   attendance_type: In person
-  affiliation: University of Wisconsin-Madison
+  affiliation: University of Wisconsin, Madison
   position: Faculty
 - firstname: Ana Martina
   lastname: Botti
@@ -452,12 +457,12 @@ participants:
 - firstname: Laura
   lastname: Buonincontri
   attendance_type: In person
-  affiliation: Università degli Studi di Padova e INFN Padova
+  affiliation: Università degli Studi di Padova/INFN, Padova
   position: Student
 - firstname: Craig
   lastname: Burkhart
   attendance_type: In person
-  affiliation: DOE-oHEP (Contractor)
+  affiliation: US Department of Energy, Office of High Energy Physics (Contractor)
   position: Prefer not to answer
 - firstname: Joel
   lastname: Butler
@@ -522,7 +527,7 @@ participants:
 - firstname: Massimo
   lastname: Casarsa
   attendance_type: In person
-  affiliation: INFN - Trieste
+  affiliation: INFN, Trieste
   position: Research Scientist
 - firstname: Stefano
   lastname: Castro Tognini
@@ -702,7 +707,7 @@ participants:
 - firstname: Sridhara
   lastname: Dasu
   attendance_type: In person
-  affiliation: University of Wisconsin
+  affiliation: University of Wisconsin, Madison
   position: Faculty
 - firstname: Gavin S.
   lastname: Davies
@@ -742,7 +747,7 @@ participants:
 - firstname: Sijbrand
   lastname: De Jong
   attendance_type: In person
-  affiliation: Radboud University Nijmegen , The Netherlands
+  affiliation: Radboud University Nijmegen
   position: Faculty
 - firstname: Kaushik
   lastname: De
@@ -907,7 +912,7 @@ participants:
 - firstname: Lisa
   lastname: Everett
   attendance_type: In person
-  affiliation: University of Wisconsin-Madison
+  affiliation: University of Wisconsin, Madison
   position: Faculty
 - firstname: Farah
   lastname: Fahim
@@ -937,7 +942,7 @@ participants:
 - firstname: Angeles
   lastname: Faus-Golfe
   attendance_type: In person
-  affiliation: IJCLab - Irène Joliot Curie Laboratory
+  affiliation: Irène Joliot Curie Laboratory
   position: Research Scientist
 - firstname: Fernando
   lastname: Febres Cordero
@@ -1072,7 +1077,7 @@ participants:
 - firstname: Corrado
   lastname: Gatto
   attendance_type: In person
-  affiliation: INFN & NIU
+  affiliation: INFN/NIU
   position: Faculty
 - firstname: Zoltan
   lastname: Gecse
@@ -1137,7 +1142,7 @@ participants:
 - firstname: Carlo
   lastname: Giunti
   attendance_type: In person
-  affiliation: INFN Torino
+  affiliation: INFN, Torino
   position: Research Scientist
 - firstname: Julia
   lastname: Gonski
@@ -1191,13 +1196,13 @@ participants:
   position: Research Scientist
 - firstname: Silas
   lastname: Grossberndt
-  attendance_type: In person
+  attendance_type: Virtual
   affiliation: City University of New York
   position: Student
 - firstname: Julieta
   lastname: Gruszko
   attendance_type: In person
-  affiliation: UNC Chapel Hill
+  affiliation: University of North Carolina, Chapel Hill
   position: Faculty
 - firstname: Ramesh
   lastname: Gupta
@@ -1387,8 +1392,7 @@ participants:
 - firstname: Adam
   lastname: Iaizzi
   attendance_type: In person
-  affiliation: AAAS Science & Technology Policy Fellow placed at DOE Office of High
-    Energy Physics
+  affiliation: US Department of Energy, Office of High Energy Physics
   position: 'Other:: Program manager'
 - firstname: Marc
   lastname: Illa Subina
@@ -1543,7 +1547,7 @@ participants:
 - firstname: Joey
   lastname: Key
   attendance_type: In person
-  affiliation: University of Washington Bothell
+  affiliation: University of Washington, Bothell
   position: Faculty
 - firstname: Elham E
   lastname: Khoda
@@ -1608,7 +1612,7 @@ participants:
 - firstname: Charis Kleio
   lastname: Koraka
   attendance_type: In person
-  affiliation: University of Wisconsin-Madison
+  affiliation: University of Wisconsin, Madison
   position: Postdoc
 - firstname: Andrey
   lastname: Korytov
@@ -1803,7 +1807,7 @@ participants:
 - firstname: Xueying
   lastname: Lu
   attendance_type: In person
-  affiliation: Northern Illinois University / Argonne National Laboratory
+  affiliation: Northern Illinois University/Argonne National Laboratory
   position: Faculty
 - firstname: Henry
   lastname: Lubatti
@@ -1818,7 +1822,7 @@ participants:
 - firstname: Steven
   lastname: Lund
   attendance_type: In person
-  affiliation: Michigan State University / US Particle Accelerator School
+  affiliation: Michigan State University/US Particle Accelerator School
   position: Faculty
 - firstname: Tianhuan
   lastname: Luo
@@ -2033,7 +2037,7 @@ participants:
 - firstname: Alessandro
   lastname: Montella
   attendance_type: In person
-  affiliation: INFN - Trieste
+  affiliation: INFN, Trieste
   position: Student
 - firstname: Maria Elena
   lastname: Monzani
@@ -2130,6 +2134,11 @@ participants:
   attendance_type: In person
   affiliation: University of Colorado Boulder
   position: Faculty
+- firstname: Laura
+  lastname: Newburgh
+  attendance_type: Virtual
+  affiliation: Yale University
+  position: Faculty
 - firstname: Robert
   lastname: Newby
   attendance_type: In person
@@ -2200,6 +2209,11 @@ participants:
   attendance_type: In person
   affiliation: Princeton University
   position: Faculty
+- firstname: Yasuhiro
+  lastname: Okada
+  attendance_type: In person
+  affiliation: KEK
+  position: Research Scientist
 - firstname: Yuri
   lastname: Oksuzian
   attendance_type: In person
@@ -2308,7 +2322,7 @@ participants:
 - firstname: Nadia
   lastname: Pastrone
   attendance_type: In person
-  affiliation: INFN-Torino
+  affiliation: INFN, Torino
   position: Research Scientist
 - firstname: Ritchie
   lastname: Patterson
@@ -2533,7 +2547,7 @@ participants:
 - firstname: Francesco
   lastname: Renga
   attendance_type: In person
-  affiliation: INFN - Sez. di Roma
+  affiliation: INFN, Roma
   position: Research Scientist
 - firstname: Mary Hall
   lastname: Reno
@@ -2798,7 +2812,7 @@ participants:
 - firstname: Savannah
   lastname: Shively
   attendance_type: In person
-  affiliation: FASER, University of California, Irvine
+  affiliation: UC Irvine (FASER)
   position: Student
 - firstname: Tom
   lastname: Shutt
@@ -2874,6 +2888,11 @@ participants:
   lastname: Sousa
   attendance_type: In person
   affiliation: University of Cincinnati
+  position: Faculty
+- firstname: Danielle
+  lastname: Speller
+  attendance_type: Virtual
+  affiliation: Johns Hopkins
   position: Faculty
 - firstname: Panagiotis
   lastname: Spentzouris
@@ -3118,12 +3137,12 @@ participants:
 - firstname: Diego
   lastname: Venegas Vargas
   attendance_type: In person
-  affiliation: University of Tennessee Knoxville / Oak Ridge National Laboratory
+  affiliation: University of Tennessee Knoxville/Oak Ridge National Laboratory
   position: Student
 - firstname: Christopher
   lastname: Verhaaren
   attendance_type: In person
-  affiliation: BYU
+  affiliation: Brigham Young University
   position: Faculty
 - firstname: Caterina
   lastname: Vernieri
@@ -3140,6 +3159,11 @@ participants:
   attendance_type: In person
   affiliation: SNOLAB
   position: Research Scientist
+- firstname: Philip
+  lastname: Von Doetinchem
+  attendance_type: In person
+  affiliation: University of Hawaii at Manoa
+  position: Faculty
 - firstname: Doreen
   lastname: Wackeroth
   attendance_type: In person
@@ -3153,7 +3177,7 @@ participants:
 - firstname: Carlos
   lastname: Wagner
   attendance_type: In person
-  affiliation: Argonne National Laboratory and University of Chicago
+  affiliation: Argonne National Laboratory/University of Chicago
   position: Faculty
 - firstname: Mike
   lastname: Wallbank
@@ -3440,11 +3464,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
-generated_at: 06/28/2022 11:55:52 GMT
-number_participants: 695
-number_inperson_participants: 620
-number_virtual_participants: 49
+generated_at: 06/29/2022 11:57:01 GMT
+number_participants: 700
+number_inperson_participants: 622
+number_virtual_participants: 52
 number_LOC_Vol_Press: 26
-number_dinner_attendees: 414
-number_LIGO: 53
+number_dinner_attendees: 413
+number_LIGO: 52
 number_baseball: 55
