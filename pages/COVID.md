@@ -16,7 +16,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 ## What to do while attending the workshop
 
-* Masking is required in all indoor meeting rooms. Speakers are not required to wear masks while speaking.
+* **Masking is required in all indoor meeting rooms.** Speakers are not required to wear masks while speaking.
 * During coffee breaks, while eating, masking is not required, but please be conscientious about replacing the mask when you can.
 * When approaching the Help desk or registration desk, please make sure to wear a mask. The professionals running these desks live by their ability to host conferences and a case of COVID would severely impact their ability to work (and help us out at this workshop). Thus, please be sure to wear a mask
 * Do try to keep track of people you have significant interactions with and meetings you attend - just incase we need to perform contact tracing.
