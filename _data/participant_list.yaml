@@ -1239,6 +1239,11 @@ participants:
   attendance_type: In person
   affiliation: University of Pittsburgh
   position: Faculty
+- firstname: Pat
+  lastname: Harding
+  attendance_type: In person
+  affiliation: Los Alamos National Laboratory
+  position: Research Scientist
 - firstname: Heather
   lastname: Harrington
   attendance_type: In person
@@ -2079,6 +2084,11 @@ participants:
   attendance_type: In person
   affiliation: UC Berkeley/Kavli IPMU
   position: Faculty
+- firstname: Alex
+  lastname: Murokh
+  attendance_type: In person
+  affiliation: RadiaBeam Technologies, LLC.
+  position: Research Scientist
 - firstname: Pietro
   lastname: Musumeci
   attendance_type: In person
@@ -2919,6 +2929,11 @@ participants:
   attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz (ATLAS Exp.)
   position: Postdoc
+- firstname: Stoyan
+  lastname: Stoynev
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: James
   lastname: Strait
   attendance_type: In person
@@ -2994,6 +3009,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
+- firstname: Geoffrey
+  lastname: Taylor
+  attendance_type: Virtual
+  affiliation: The University of Melbourne
+  position: Faculty
 - firstname: Jesse
   lastname: Thaler
   attendance_type: In person
@@ -3039,6 +3059,11 @@ participants:
   attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+- firstname: Thomas
+  lastname: Troksa
+  attendance_type: In person
+  affiliation: Intel
+  position: 'Other:: Industry'
 - firstname: Yu-Dai
   lastname: Tsai
   attendance_type: In person
@@ -3269,6 +3294,11 @@ participants:
   attendance_type: Virtual
   affiliation: MIT
   position: Faculty
+- firstname: Stephane
+  lastname: Willocq
+  attendance_type: In person
+  affiliation: University of Massachusetts, Amherst
+  position: Faculty
 - firstname: Graham
   lastname: Wilson
   attendance_type: In person
@@ -3394,6 +3424,11 @@ participants:
   attendance_type: In person
   affiliation: The University of Texas at Arlington
   position: Faculty
+- firstname: Tien-Tien
+  lastname: Yu
+  attendance_type: In person
+  affiliation: University of Oregon
+  position: Faculty
 - firstname: Mete
   lastname: Yucel
   attendance_type: In person
@@ -3453,6 +3488,11 @@ participants:
   lastname: Zimmermann
   attendance_type: In person
   affiliation: CERN
+  position: Research Scientist
+- firstname: Alexander
+  lastname: Zlobin
+  attendance_type: Virtual
+  affiliation: Fermilab
   position: Research Scientist
 - firstname: Silvia
   lastname: Zorzetti
@@ -3839,11 +3879,31 @@ participants:
   lastname: Kling
   affiliation: DESY
   position: Postdoc
-generated_at: 06/29/2022 15:18:16 GMT
-number_participants: 777
-number_inperson_participants: 622
-number_virtual_participants: 129
-number_LOC_Vol_Press: 26
-number_dinner_attendees: 413
+- firstname: Natalie
+  attendance_type: Virtual
+  lastname: Harrison
+  affiliation: The Ohio State University
+  position: Student
+- firstname: Fang
+  attendance_type: Virtual
+  lastname: Wan
+  affiliation: Fermi National Accelerator Laboratory
+  position: Postdoc
+- firstname: Christine
+  attendance_type: Virtual
+  lastname: Claessens
+  affiliation: University of Washington
+  position: Postdoc
+- firstname: Divya
+  attendance_type: Virtual
+  lastname: Shaji
+  affiliation: University of Madras
+  position: Student
+generated_at: 06/30/2022 07:42:29 GMT
+number_participants: 789
+number_inperson_participants: 626
+number_virtual_participants: 136
+number_LOC_Vol_Press: 27
+number_dinner_attendees: 417
 number_LIGO: 52
-number_baseball: 55
+number_baseball: 57
