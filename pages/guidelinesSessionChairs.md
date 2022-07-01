@@ -25,5 +25,5 @@ Large sessions will have separate in-person and virtual chairs. For smaller sess
 * Small rooms: We are working to set up adequate microphone coverage to make attendees audible from the whole room, but coverage might still be imperfect. Check in with remote participants to make sure they are able to hear, and if not, repeat the question or have the presenter do so.
 * Ask questioners to state their name and affiliation before asking their question.
 * Whiteboard/blackboard. If any live writing or diagrams are drawn, please make sure they are visible to remote participants.
- * There will be some standalone webcams available, or alternatively a laptop webcam can be pointed at the blackboard.
- * There are virtual whiteboard tools such as Miro, Mural, and Google Jamboard that allow in-person and remote participants to write on the same "surface" together.
+  * There will be some standalone webcams available, or alternatively a laptop webcam can be pointed at the blackboard.
+  * There are virtual whiteboard tools such as Miro, Mural, and Google Jamboard that allow in-person and remote participants to write on the same "surface" together.
