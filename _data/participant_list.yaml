@@ -664,6 +664,11 @@ participants:
   attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+- firstname: Yanou
+  lastname: Cui
+  attendance_type: Virtual
+  affiliation: University of California-Riverside
+  position: Faculty
 - firstname: Ray
   lastname: Culbertson
   attendance_type: Virtual
@@ -1269,6 +1274,11 @@ participants:
   attendance_type: In person
   affiliation: SDSTA/SURF
   position: 'Other:: Lab Director'
+- firstname: Christopher
+  lastname: Hearty
+  attendance_type: Virtual
+  affiliation: University of British Columbia / IPP
+  position: Faculty
 - firstname: Michael
   lastname: Hedges
   attendance_type: In person
@@ -1314,6 +1324,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Alexander
+  lastname: Hipp
+  attendance_type: In person
+  affiliation: University of Florida
+  position: Student
 - firstname: Jim
   lastname: Hirschauer
   attendance_type: In person
@@ -1334,6 +1349,11 @@ participants:
   attendance_type: In person
   affiliation: Bethel University
   position: Faculty
+- firstname: Mark
+  lastname: Hogan
+  attendance_type: In person
+  affiliation: SLAC
+  position: Research Scientist
 - firstname: Tova
   lastname: Holmes
   attendance_type: In person
@@ -2599,6 +2619,11 @@ participants:
   attendance_type: In person
   affiliation: George Mason University
   position: Student
+- firstname: Chris
+  lastname: Rogers
+  attendance_type: In person
+  affiliation: Rutherford Appleton Laboratory
+  position: Faculty
 - firstname: Alexander
   lastname: Romanenko
   attendance_type: Virtual
@@ -2953,6 +2978,11 @@ participants:
   lastname: Strobbe
   attendance_type: In person
   affiliation: University of Minnesota
+  position: Faculty
+- firstname: Ryszard
+  lastname: Stroynowski
+  attendance_type: Virtual
+  affiliation: Southern Methodist University
   position: Faculty
 - firstname: Jan
   lastname: Strube
@@ -3379,6 +3409,11 @@ participants:
   attendance_type: Virtual
   affiliation: UC San Diego
   position: Faculty
+- firstname: Tingjun
+  lastname: Yang
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Lauren
   lastname: Yates
   attendance_type: In person
@@ -3899,11 +3934,46 @@ participants:
   lastname: Shaji
   affiliation: University of Madras
   position: Student
-generated_at: 06/30/2022 07:42:29 GMT
-number_participants: 789
-number_inperson_participants: 626
-number_virtual_participants: 136
+- firstname: Md
+  attendance_type: Virtual
+  lastname: Alam
+  affiliation: Bhupendra Narayan Mandal University, Madhepura, Bihar
+  position: Student
+- firstname: Dat
+  attendance_type: Virtual
+  lastname: Tran
+  affiliation: University of Houston
+  position: Student
+- firstname: ziad
+  attendance_type: Virtual
+  lastname: sakr
+  affiliation: Institut für Theoretische Physik
+  position: Postdoc
+- firstname: Savannah
+  attendance_type: Virtual
+  lastname: Thais
+  affiliation: Princeton University
+  position: Postdoc
+- firstname: Volodymyr
+  attendance_type: Virtual
+  lastname: Takhistov
+  affiliation: Kavli IPMU, University of Tokyo
+  position: Postdoc
+- firstname: Samuel
+  attendance_type: Virtual
+  lastname: Homiller
+  affiliation: Harvard University
+  position: Postdoc
+- firstname: Abhijith
+  attendance_type: Virtual
+  lastname: Gandrakota
+  affiliation: Fermilab
+  position: Postdoc
+generated_at: 07/01/2022 08:49:43 GMT
+number_participants: 803
+number_inperson_participants: 629
+number_virtual_participants: 147
 number_LOC_Vol_Press: 27
-number_dinner_attendees: 417
+number_dinner_attendees: 419
 number_LIGO: 52
 number_baseball: 57
