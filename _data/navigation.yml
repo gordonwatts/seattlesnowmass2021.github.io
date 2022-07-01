@@ -1,5 +1,5 @@
 - name: Program
-  dropdown: 
+  dropdown:
     - name: Scientific Program (indico)
       link: https://indico.fnal.gov/event/22303/
     - name: Block Schedule
@@ -34,6 +34,12 @@
     link: /2022/05/10/dance/
 - name: Logistics
   dropdown:
+    - name: Guidelines for Oral Presenters
+      link: /guidelinesOralPresenters/
+    - name: Guidelines for Poster Presenters
+      link: /guidelinesPosterPresenters/
+    - name: Guidelines for Session Chairs
+      link: /guidelinesSessionChairs/
     - name: Venue
       link: /meetings/
     - name: Registration
