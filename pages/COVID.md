@@ -10,7 +10,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 ## What to do before you arrive
 
 * Please make sure you've had at least one booster! There is no better way to limit the spread of COVID-19 than making sure your vaccinations are up to date!
-* Download and install the [WANotify app](https://doh.wa.gov/emergencies/covid-19/wa-notify) - this will enable automatic and anonymous contract tracing - and will be very helpful when we do have a case at the workshop.
+* Download and install the [WANotify app](https://doh.wa.gov/emergencies/covid-19/wa-notify) - this will enable automatic and anonymous contact tracing - and will be very helpful when we do have a case at the workshop.
 * Pack masks. The N95 and FFP masks are best to protect you, and medical masks will help protect others. We will have a supply of masks on hand.
 * Please bring self-tests if you have any to spare for the trip. We will have a limited number on hand locally.
 
@@ -18,7 +18,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 * **Masking is required in all indoor meeting rooms.** Speakers are not required to wear masks while speaking.
 * During coffee breaks, while eating, masking is not required, but please be conscientious about replacing the mask when you can.
-* When approaching the Help desk or registration desk, please make sure to wear a mask. The professionals running these desks live by their ability to host conferences and a case of COVID would severely impact their ability to work (and help us out at this workshop). Thus, please be sure to wear a mask
+* When approaching the Help desk or registration desk, please make sure to wear a mask. The professionals running these desks live by their ability to host conferences and a case of COVID would severely impact their ability to work (and help us out at this workshop). Thus, please be sure to wear a mask.
 * Do try to keep track of people you have significant interactions with and meetings you attend - just incase we need to perform contact tracing.
 * Look at the daily emails where COVID cases will be reported to help you adjust your behavior to a level you are comfortable with.
 * For all other meeting rooms, buildings, etc., at UW, masking is **strongly** recommended. There are some places where masks are required around the university. Please follow all signage.

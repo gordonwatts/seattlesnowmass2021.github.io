@@ -40,6 +40,8 @@
       link: /registration/
     - name: Lodging
       link: /lodging/
+    - name: COVID-19 at Snowmass
+      link: /COVID/
     - name: Travel Around Seattle
       link: /local-travel/
     - name: Travel To Seattle
