@@ -20,6 +20,8 @@
     link: /labtours/
   - name: Physics Slam
     link: /physicsSlam/
+  - name: ColliderScope
+    link: /colliderscope
   - name: Outreach
     link: /outreach/
   - name: LIGO/Hanford Visit

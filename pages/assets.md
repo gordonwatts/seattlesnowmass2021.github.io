@@ -3,13 +3,15 @@ permalink: /assets/
 title: Workshop Site Media and Assets
 ---
 
-## Workshop Poster
+## Workshop Media
 
 | Asset         | Info     |
 |--------------|-----------|
 | <a href="/assets/images/poster/snowmass-blue-small.png"><img src="/assets/images/poster/snowmass-blue-small.png" alt="Poster" width="100"/></a> | The workshop poster as a [PDF](/assets/images/poster/snowmass-blue_final.pdf) or a [PNG](/assets/images/poster/snowmass-blue_final.png) (or small [png](/assets/images/poster/snowmass-blue-small.png)).    |
 | <a href="/assets/images/poster/poster - banner.png"><img src="/assets/images/poster/poster - banner.png" width="100" /></a> | High resolution banner image, <a href="/assets/images/poster/poster - banner.png">PNG</a> |
 | [![APS Poster Video](/assets/images/aps-poster-thumbnail.png)](https://youtu.be/YaPOujcAxYg) | We presented a poster with a video on Snowmass at the APS April workshop (less than 3 minutes). |
+| <a href="/assets/images/poster/slam.png"><img src="/assets/images/poster/slam-small.png" alt="Poster" width="100"/></a> | Poster for the Physics Slam Event ([small](/assets/images/poster/slam-small.png), [large](/assets/images/poster/slam.png), [pdf](/assets/images/poster/slam-pdf.pdf))
+| <a href="/assets/images/poster/CSNW.png"><img src="/assets/images/poster/CSNW-small.png" alt="Poster" width="100"/></a> | Poster for the ColliderScope Event ([small](/assets/images/poster/CSNW-small.png), [large](/assets/images/poster/CSNW.png), [pdf](/assets/images/poster/CSNW-pdf.pdf))
 
 ## Workshop Rooms
 
