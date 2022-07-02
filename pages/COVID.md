@@ -5,7 +5,7 @@ hero_image: /assets/images/uw-fountain.jpg
 hide_hero: false
 ---
 
-We are expecting over 600 people to join us over the course of 10 days. Community spread exists in Seattle (rated as [Medium](https://kingcounty.gov/depts/health/covid-19/data/community-level.aspx) as of 6/29), but people will be arriving from hot spots around the country to this workshop. It is almost certain there will be a case or two at the workshop. We must all work together as a community to make sure that we prevent any spread.
+We are expecting over 600 people to join us over the course of 10 days. Community spread exists in Seattle (rated as [Medium](https://kingcounty.gov/depts/health/covid-19/data/community-level.aspx) as of 6/29), but people will be arriving from hot spots around the country to this workshop. It is almost certain there will be a case or two at the workshop. We must all work together as a community to make sure that we keep as safe as possible before the conference and prevent any spread at the conference.
 
 ## What to do before you arrive
 
@@ -22,6 +22,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 * Do try to keep track of people you have significant interactions with and meetings you attend - just incase we need to perform contact tracing.
 * Look at the daily emails where COVID cases will be reported to help you adjust your behavior to a level you are comfortable with.
 * For all other meeting rooms, buildings, etc., at UW, masking is **strongly** recommended. There are some places where masks are required around the university. Please follow all signage.
+* Please be respectful of others' interaction comfort levels.
 
 ## What to do if you have symptoms
 
@@ -31,7 +32,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 ## What to do if you test positive
 
-COVID is now a regular part of our landscape - at one point or another all of us are going to be dealing with it. As a community we can work together to make sure that we limit its spread when it is discovered.
+COVID is now a regular part of our landscape - many of us are going to be dealing with it. As a community we can work together to make sure that we limit its spread when it is discovered.
 
 * Please isolate yourself. The most logical place for this is your hotel or dorm room.
 * Please send an email to conference services at [confuw@uw.edu](mailto:confuw@uw.edu) - they will notify the University of Washington and help with contract notification and warning. Your name will not be made public.
