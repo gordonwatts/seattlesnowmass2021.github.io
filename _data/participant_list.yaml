@@ -354,6 +354,11 @@ participants:
   attendance_type: In person
   affiliation: University of Connecticut/RBRC
   position: Faculty
+- firstname: Tim
+  lastname: Bolton
+  attendance_type: Virtual
+  affiliation: Kansas State University
+  position: Faculty
 - firstname: Richard
   lastname: Bonventre
   attendance_type: In person
@@ -559,6 +564,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+- firstname: Sophia
+  lastname: Chabysheva
+  attendance_type: Virtual
+  affiliation: University of Idaho
+  position: Faculty
 - firstname: Maria
   lastname: Chamizo-Llatas
   attendance_type: In person
@@ -629,6 +639,11 @@ participants:
   attendance_type: In person
   affiliation: Duke University
   position: Student
+- firstname: Andrew
+  lastname: Connolly
+  attendance_type: Virtual
+  affiliation: University of Washington
+  position: Faculty
 - firstname: John
   lastname: Conway
   attendance_type: In person
@@ -834,6 +849,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab/University of Chicago
   position: Research Scientist
+- firstname: Nick
+  lastname: Du
+  attendance_type: In person
+  affiliation: Lawrence Livermore National Laboratory
+  position: Postdoc
 - firstname: Xinnan
   lastname: Du
   attendance_type: In person
@@ -1239,6 +1259,11 @@ participants:
   attendance_type: In person
   affiliation: SNOLAB/Laurentian University
   position: Research Scientist
+- firstname: Timothy
+  lastname: Hallman
+  attendance_type: In person
+  affiliation: US Department of Energy
+  position: 'Other:: Associate Director'
 - firstname: Tao
   lastname: Han
   attendance_type: In person
@@ -1289,6 +1314,11 @@ participants:
   attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
+- firstname: Julian
+  lastname: Heeck
+  attendance_type: Virtual
+  affiliation: University of Virginia
+  position: Faculty
 - firstname: Karsten
   lastname: Heeger
   attendance_type: In person
@@ -1319,6 +1349,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+- firstname: John
+  lastname: Hiller
+  attendance_type: Virtual
+  affiliation: University of Idaho
+  position: Faculty
 - firstname: Alexander
   lastname: Himmel
   attendance_type: In person
@@ -1329,6 +1364,11 @@ participants:
   attendance_type: In person
   affiliation: University of Florida
   position: Student
+- firstname: Robert
+  lastname: Hirosky
+  attendance_type: In person
+  affiliation: University of Virginia
+  position: Faculty
 - firstname: Jim
   lastname: Hirschauer
   attendance_type: In person
@@ -1559,6 +1599,11 @@ participants:
   attendance_type: Virtual
   affiliation: Kyushu University
   position: Faculty
+- firstname: Christopher
+  lastname: Kelly
+  attendance_type: In person
+  affiliation: Brookhaven National Laboratory
+  position: Research Scientist
 - firstname: Wesley
   lastname: Ketchum
   attendance_type: In person
@@ -1669,6 +1714,11 @@ participants:
   attendance_type: Virtual
   affiliation: Fermilab
   position: 'Other:: Engr. Physicist'
+- firstname: Doga
+  lastname: Kurkcuoglu
+  attendance_type: In person
+  affiliation: Fermilab
+  position: Postdoc
 - firstname: Robert
   lastname: Kutschke
   attendance_type: In person
@@ -2074,6 +2124,11 @@ participants:
   attendance_type: In person
   affiliation: The University of Tokyo
   position: Faculty
+- firstname: William
+  lastname: Morse
+  attendance_type: Virtual
+  affiliation: BNL
+  position: Research Scientist
 - firstname: Ian
   lastname: Moult
   attendance_type: In person
@@ -2083,6 +2138,11 @@ participants:
   lastname: Mount
   attendance_type: In person
   affiliation: Black Hills State University
+  position: Faculty
+- firstname: Berndt
+  lastname: Mueller
+  attendance_type: Virtual
+  affiliation: Duke University
   position: Faculty
 - firstname: Pieter
   lastname: Mumm
@@ -2139,6 +2199,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Tatsuya
+  lastname: Nakada
+  attendance_type: In person
+  affiliation: EPFL
+  position: Prefer not to answer
 - firstname: Jurina
   lastname: Nakajima
   attendance_type: In person
@@ -2484,6 +2549,11 @@ participants:
   attendance_type: In person
   affiliation: University of Washington
   position: Student
+- firstname: Vitaly
+  lastname: Pronskikh
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Fernanda
   lastname: Psihas
   attendance_type: In person
@@ -3054,6 +3124,11 @@ participants:
   attendance_type: In person
   affiliation: Lafayette College
   position: Faculty
+- firstname: Evelyn
+  lastname: Thomson
+  attendance_type: Virtual
+  affiliation: University of Pennsylvania
+  position: Faculty
 - firstname: Mark
   lastname: Thomson
   attendance_type: In person
@@ -3124,6 +3199,11 @@ participants:
   attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+- firstname: Philip
+  lastname: Tuts
+  attendance_type: In person
+  affiliation: Columbia University
+  position: Faculty
 - firstname: Patricia
   lastname: Vahle
   attendance_type: In person
@@ -3969,11 +4049,51 @@ participants:
   lastname: Gandrakota
   affiliation: Fermilab
   position: Postdoc
-generated_at: 07/01/2022 08:49:43 GMT
-number_participants: 803
-number_inperson_participants: 629
-number_virtual_participants: 147
+- firstname: Shivani
+  attendance_type: Virtual
+  lastname: Lomte
+  affiliation: University of Wisconsin Madison
+  position: Student
+- firstname: Cecilia
+  attendance_type: Virtual
+  lastname: Tosciri
+  affiliation: University of Chicago
+  position: Postdoc
+- firstname: Emma
+  attendance_type: Virtual
+  lastname: Yin
+  affiliation: AWS
+  position: Engineer
+- firstname: Matheus
+  attendance_type: Virtual
+  lastname: Hostert
+  affiliation: Perimeter Institute
+  position: Postdoc
+- firstname: Bryan
+  attendance_type: Virtual
+  lastname: Field
+  affiliation: Farmingdale State College
+  position: Faculty
+- firstname: Matthew
+  attendance_type: Virtual
+  lastname: Sullivan
+  affiliation: Brookhaven National Laboratory
+  position: Postdoc
+- firstname: Doga
+  attendance_type: Virtual
+  lastname: Kurkcuoglu
+  affiliation: Fermilab
+  position: Postdoc
+- firstname: Aman
+  attendance_type: Virtual
+  lastname: Desai
+  affiliation: --
+  position: Student
+generated_at: 07/02/2022 08:47:33 GMT
+number_participants: 827
+number_inperson_participants: 636
+number_virtual_participants: 164
 number_LOC_Vol_Press: 27
-number_dinner_attendees: 419
+number_dinner_attendees: 422
 number_LIGO: 52
 number_baseball: 57
