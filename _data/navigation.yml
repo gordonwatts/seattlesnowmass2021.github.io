@@ -30,8 +30,10 @@
     link: /baseball
   - name: Industry Networking
     link: /networkingNight/
-  - name: Industry Exhibit
-    link: /industryExhibit/
+  - name: Early Career Panel
+    link: /careerPanel/
+  - name: HLS4ML (training)
+    link: https://indico.cern.ch/event/1176254/
   - name: DANCE (training)
     link: /2022/05/10/dance/
 - name: Logistics
