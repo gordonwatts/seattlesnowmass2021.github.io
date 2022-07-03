@@ -13,3 +13,4 @@ We will learn about the exciting and rewarding career opportunities open to you 
 Bring your lunch to join the panel discusison.
 
 ## Organisors:
+Sudhir Malik (UPRM)
