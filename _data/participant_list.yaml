@@ -2844,6 +2844,11 @@ participants:
   attendance_type: In person
   affiliation: Smithsonian Astrophysical Observatory
   position: Research Scientist
+- firstname: Naohito
+  lastname: Saito
+  attendance_type: In person
+  affiliation: KEK / IPNS
+  position: Faculty
 - firstname: Richard
   lastname: Saldanha
   attendance_type: In person
@@ -3144,6 +3149,11 @@ participants:
   attendance_type: In person
   affiliation: Kyushu University
   position: Faculty
+- firstname: Pranava Teja
+  lastname: Surukuchi
+  attendance_type: In person
+  affiliation: Yale University
+  position: Postdoc
 - firstname: Felicia
   lastname: Sutanto
   attendance_type: In person
@@ -3214,6 +3224,11 @@ participants:
   attendance_type: In person
   affiliation: UKRI- Science and Technology Facilities Council
   position: 'Other:: UK Senior Official'
+- firstname: Junping
+  lastname: Tian
+  attendance_type: Virtual
+  affiliation: University of Tokyo
+  position: Faculty
 - firstname: Natalia
   lastname: Toro
   attendance_type: In person
@@ -4214,10 +4229,25 @@ participants:
   lastname: Palmese
   affiliation: UC Berkeley
   position: Postdoc
-generated_at: 07/03/2022 20:28:39 GMT
-number_participants: 852
-number_inperson_participants: 643
-number_virtual_participants: 182
+- firstname: Keir
+  attendance_type: Virtual
+  lastname: Rogers
+  affiliation: University of Toronto
+  position: Postdoc
+- firstname: Rossana
+  attendance_type: Virtual
+  lastname: Ruggeri
+  affiliation: University of Queensland
+  position: Postdoc
+- firstname: Thejus
+  attendance_type: Virtual
+  lastname: Mary S.
+  affiliation: PhD student
+  position: Student
+generated_at: 07/04/2022 09:50:31 GMT
+number_participants: 858
+number_inperson_participants: 645
+number_virtual_participants: 186
 number_LOC_Vol_Press: 27
 number_dinner_attendees: 423
 number_LIGO: 54
