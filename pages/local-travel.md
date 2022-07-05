@@ -1,11 +1,11 @@
 ---
 permalink: /local-travel/
-title: Getting around Seattle
+title: Getting around Seattle & Things To Do
 hero_image: /assets/images/Tour-SeattleNight.png
 hide_hero: false
 ---
 
-# Getting Around Seattle
+## Getting Around Seattle
 
 Seattle is a large city, and all the options you'd expect in a city this size are available. Most mapping programs have the bus and light rail system well integrated.
 
@@ -20,9 +20,9 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 These options will be filled in as we get closer to understanding how this workshop will be hosted.
 
-# Popular things to do
+## Popular things to do
 
-
+Seattle is a wonderful [city](https://en.wikipedia.org/wiki/Seattle), with many [tourist attractions](https://visitseattle.org/things-to-do/sightseeing/top-25-attractions/), surrounded by a scenic  landscape, including volcanic mountains and open sea,  that is particularly beautiful during the summertime. It offers many outings accessible by [day trips](https://www.planetware.com/washington/seattle-day-trips-us-wa-ss.htm).
 
 | Tour | Description |
 | -- | -- |
@@ -35,4 +35,16 @@ These options will be filled in as we get closer to understanding how this works
 | <a href="https://visitseattle.org/things-to-do/arts-culture/museums/reopening-museums/"> <img src="/assets/images/Tour-Museums.png" style="height: 80px width: 100px"/> </a> | The Seattle area is home to an excellent collection of art, science, history, maritime, and special interest museums. |
 | <a href="https://visitseattle.org/things-to-do/?gclid=Cj0KCQjwvLOTBhCJARIsACVldV3QLL_H-hyYwjfvGXuZFqKyP2mnT7P6bwTRfr5ktXOofcr-Q2XxocgaAu8zEALw_wcB"> <img src="/assets/images/Tour-ThingsToDo.png" style="height: 80px width: 100px"/> </a> | With everything from unrivaled natural beauty and world-class attractions to major sports teams, a thriving arts and culture scene, and beyond, there’s always something to do in Seattle for [family](https://visitseattle.org/things-to-do/families/) and [Instagram-worthy vista](https://visitseattle.org/seattle-localist/see/highest-heights/) hunting travelers. |
 
- 
+## Thinks Kids Might Light
+
+This isn't exclusively for kids, of course, but:
+
+- Theo chocolate factory tour + Fremont neighborhood + Ballard lock
+- Woodland park zoo + Greenlake park and trail
+- Aquarium + pike's place market + waterfront
+- Pacific science center + EMP museum + glass garden + Seattle center + Monorail
+- MOHA + wooden boat center + south lake union park and waterfront
+- UW boat center + union bay nature area+ UW campus (especially library) + 520 bridge trail (the longest float bridge)
+- Ferry to Bremeton + a navy ship museum (right next to ferry dock)
+- Travel along light rail station, each station has one unique art display.
+- Pioneer square + underground city tour + central library + Seattle art museum
