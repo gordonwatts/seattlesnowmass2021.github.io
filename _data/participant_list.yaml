@@ -269,6 +269,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+- firstname: Zvi
+  lastname: Bern
+  attendance_type: In person
+  affiliation: Bhaumik Institute, UCLA
+  position: Faculty
 - firstname: Gregorio
   lastname: Bernardi
   attendance_type: In person
@@ -324,6 +329,11 @@ participants:
   attendance_type: In person
   affiliation: Birla Institute of Technology Mesra
   position: Student
+- firstname: Wahid
+  lastname: Bhimji
+  attendance_type: Virtual
+  affiliation: Lawrence Berkeley National Laboratory
+  position: Research Scientist
 - firstname: Jianming
   lastname: Bian
   attendance_type: In person
@@ -1624,6 +1634,11 @@ participants:
   attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+- firstname: Albrecht
+  lastname: Karle
+  attendance_type: In person
+  affiliation: University of Wisconsin-Madison
+  position: Faculty
 - firstname: Sushrut
   lastname: Karmarkar
   attendance_type: In person
@@ -2014,6 +2029,11 @@ participants:
   attendance_type: In person
   affiliation: UCLouvain/UniBO
   position: Faculty
+- firstname: Rachel
+  lastname: Mandelbaum
+  attendance_type: Virtual
+  affiliation: Carnegie Mellon University
+  position: Faculty
 - firstname: Roberto
   lastname: Mandujano
   attendance_type: In person
@@ -2234,6 +2254,11 @@ participants:
   attendance_type: In person
   affiliation: Penn State University
   position: Postdoc
+- firstname: Benjamin
+  lastname: Nachman
+  attendance_type: Virtual
+  affiliation: Berkeley Lab
+  position: Research Scientist
 - firstname: Pavel
   lastname: Nadolsky
   attendance_type: In person
@@ -4244,11 +4269,21 @@ participants:
   lastname: Mary S.
   affiliation: PhD student
   position: Student
-generated_at: 07/04/2022 09:50:31 GMT
-number_participants: 858
-number_inperson_participants: 645
-number_virtual_participants: 186
+- firstname: Emanuele
+  attendance_type: Virtual
+  lastname: Fondi
+  affiliation: ICC - University of Barcelona
+  position: Student
+- firstname: Alexander
+  attendance_type: Virtual
+  lastname: Held
+  affiliation: University of Wisconsin-Madison
+  position: Postdoc
+generated_at: 07/05/2022 10:05:45 GMT
+number_participants: 866
+number_inperson_participants: 647
+number_virtual_participants: 192
 number_LOC_Vol_Press: 27
-number_dinner_attendees: 423
+number_dinner_attendees: 424
 number_LIGO: 54
 number_baseball: 57
