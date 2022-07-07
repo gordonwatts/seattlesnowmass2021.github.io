@@ -39,6 +39,14 @@ COVID is now a regular part of our landscape - many of us are going to be dealin
 * If you need help, please do not hesitate to contact us the same address above. We realize having to go into isolation in a strange city can be a daunting - we will do our best to help.
 * The university has a large hospital attached to it. The emergency room entrance is about a 15 minute walk from our main conference buildings. It is the main hospital in all of the Pacific Northwest and provides a complete range of care.
 
+If you are staying in the dorms:
+
+* Guests staying in single occupancy rooms may isolate in place
+* Guests who are staying in double occupancy rooms can be moved into an isolation room on campus, or the positive guest can choose to isolate off campus
+* Guests are not obligated to stay on campus during isolation or beyond their original check-out date
+* Guests may order delivery food or we can deliver three hot meals to their room for $40/day
+* The guest will be responsible for all additional isolation housing and dining costs
+
 ## Links
 
 * [University of Washington COVID-19 Dashboard](https://www.washington.edu/coronavirus/testing-results/) - Only employee and student cases are tracked here. [Current Masking Policy](https://ehs.washington.edu/covid-19-prevention-and-response/face-covering-policy) can be found here.
