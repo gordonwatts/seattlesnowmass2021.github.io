@@ -414,6 +414,11 @@ participants:
   attendance_type: Virtual
   affiliation: Lawrence Livermore National Laboratory
   position: 'Other:: Laboratory Staff'
+- firstname: Daniel
+  lastname: Bowring
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Diallo
   lastname: Boye
   attendance_type: In person
@@ -1558,6 +1563,11 @@ participants:
   lastname: Huffenberger
   attendance_type: In person
   affiliation: Florida State University
+  position: Faculty
+- firstname: Patrick
+  lastname: Hurh
+  attendance_type: Virtual
+  affiliation: Fermilab
   position: Faculty
 - firstname: Nicholas
   lastname: Hutzler
@@ -2914,6 +2924,11 @@ participants:
   attendance_type: In person
   affiliation: Rutherford Appleton Laboratory
   position: Faculty
+- firstname: Simona
+  lastname: Rolli
+  attendance_type: In person
+  affiliation: US Department of Energy
+  position: Prefer not to answer
 - firstname: Alexander
   lastname: Romanenko
   attendance_type: Virtual
@@ -3354,6 +3369,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Rizki
+  lastname: Syarif
+  attendance_type: In person
+  affiliation: CERN Alumni | Cambridge Mobile Telematics
+  position: 'Other:: CERN Alumni | Industry Representative'
 - firstname: Matthew
   lastname: Szydagis
   attendance_type: In person
@@ -4544,10 +4564,25 @@ participants:
   lastname: Nguyen
   affiliation: Durham University
   position: Postdoc
-generated_at: 07/07/2022 13:01:09 GMT
-number_participants: 920
-number_inperson_participants: 653
-number_virtual_participants: 239
+- firstname: Teppei
+  attendance_type: Virtual
+  lastname: Katori
+  affiliation: Kings College London
+  position: Faculty
+- firstname: Brian
+  attendance_type: Virtual
+  lastname: Chu
+  affiliation: University of Washington
+  position: Student
+- firstname: Víctor
+  attendance_type: Virtual
+  lastname: Miralles
+  affiliation: INFN Roma1
+  position: Postdoc
+generated_at: 07/07/2022 17:29:01 GMT
+number_participants: 926
+number_inperson_participants: 654
+number_virtual_participants: 244
 number_LOC_Vol_Press: 28
 number_dinner_attendees: 430
 number_LIGO: 53
