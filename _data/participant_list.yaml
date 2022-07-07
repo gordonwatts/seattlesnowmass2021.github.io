@@ -749,6 +749,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+- firstname: Arnab
+  lastname: Dasgupta
+  attendance_type: Virtual
+  affiliation: PITT-PACC
+  position: Postdoc
 - firstname: Sridhara
   lastname: Dasu
   attendance_type: In person
@@ -839,6 +844,11 @@ participants:
   attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+- firstname: Angelo
+  lastname: Di Canto
+  attendance_type: Virtual
+  affiliation: BNL
+  position: Research Scientist
 - firstname: Maria Laura
   lastname: Di Vacri
   attendance_type: In person
@@ -924,6 +934,11 @@ participants:
   attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+- firstname: Auralee
+  lastname: Edelen
+  attendance_type: In person
+  affiliation: SLAC
+  position: Research Scientist
 - firstname: Aida
   lastname: El-Khadra
   attendance_type: In person
@@ -1069,6 +1084,11 @@ participants:
   attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: Postdoc
+- firstname: Joseph
+  lastname: Formaggio
+  attendance_type: Virtual
+  affiliation: Massachusetts Institute of Technology
+  position: Faculty
 - firstname: Joshua
   lastname: Foster
   attendance_type: In person
@@ -1382,7 +1402,7 @@ participants:
 - firstname: Michael
   lastname: Hedges
   attendance_type: In person
-  affiliation: Purdue University/Bonn
+  affiliation: Purdue / Bonn
   position: Postdoc
 - firstname: Samuel
   lastname: Hedges
@@ -1458,6 +1478,11 @@ participants:
   lastname: Hitlin
   attendance_type: In person
   affiliation: California Institute of Technology
+  position: Faculty
+- firstname: Renee
+  lastname: Hlozek
+  attendance_type: Virtual
+  affiliation: Dunlap Institute and DAA, University Toronto
   position: Faculty
 - firstname: Stefan
   lastname: Hoeche
@@ -1909,6 +1934,11 @@ participants:
   attendance_type: In person
   affiliation: Berkeley Lab
   position: Research Scientist
+- firstname: Ian
+  lastname: Lewis
+  attendance_type: Virtual
+  affiliation: University of Kansas
+  position: Faculty
 - firstname: Jonathan
   lastname: Leyva
   attendance_type: In person
@@ -1934,6 +1964,11 @@ participants:
   attendance_type: In person
   affiliation: Rice University
   position: Faculty
+- firstname: Xiaoyue
+  lastname: Li
+  attendance_type: Virtual
+  affiliation: TRIUMF
+  position: Research Scientist
 - firstname: Huey-Wen
   lastname: Lin
   attendance_type: In person
@@ -2134,6 +2169,11 @@ participants:
   attendance_type: In person
   affiliation: UC Santa Cruz
   position: Postdoc
+- firstname: Anna
+  lastname: Mazzacane
+  attendance_type: Virtual
+  affiliation: Fermi National Accelerator Laboratory
+  position: Research Scientist
 - firstname: Patricia
   lastname: Mcbride
   attendance_type: In person
@@ -2154,6 +2194,11 @@ participants:
   attendance_type: In person
   affiliation: Texas A&M University
   position: Faculty
+- firstname: Shawn
+  lastname: Mckee
+  attendance_type: Virtual
+  affiliation: University of Michigan
+  position: Research Scientist
 - firstname: David
   lastname: Mckeen
   attendance_type: In person
@@ -2604,6 +2649,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Frederique
+  lastname: Pellemoine
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: William
   lastname: Pellico
   attendance_type: In person
@@ -2634,6 +2684,11 @@ participants:
   attendance_type: In person
   affiliation: University of Delaware
   position: Postdoc
+- firstname: Nicholas
+  lastname: Peters
+  attendance_type: Virtual
+  affiliation: Oak Ridge National Laboratory
+  position: Research Scientist
 - firstname: Frank
   lastname: Petriello
   attendance_type: In person
@@ -3135,6 +3190,11 @@ participants:
   affiliation: Fermilab
   position: Research Scientist
 - firstname: James
+  lastname: Simone
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
+- firstname: James
   lastname: Sinnis
   attendance_type: In person
   affiliation: University of Washington
@@ -3159,6 +3219,11 @@ participants:
   attendance_type: In person
   affiliation: University of Chicago
   position: Student
+- firstname: Scott
+  lastname: Snyder
+  attendance_type: Virtual
+  affiliation: BNL
+  position: Faculty
 - firstname: Marcelle
   lastname: Soares-Santos
   attendance_type: In person
@@ -3412,7 +3477,7 @@ participants:
 - firstname: Kathy
   lastname: Turner
   attendance_type: In person
-  affiliation: US Department of Energy, Office of High Energy Physics
+  affiliation: DOE, Office of High Energy Physics
   position: 'Other:: DOE/HEP Cosmic Frontier program manager'
 - firstname: Marlene
   lastname: Turner
@@ -4429,11 +4494,61 @@ participants:
   lastname: Emma
   affiliation: SLAC
   position: Research Scientist
-generated_at: 07/06/2022 12:25:58 GMT
-number_participants: 897
-number_inperson_participants: 652
-number_virtual_participants: 217
+- firstname: Byungchul
+  attendance_type: Virtual
+  lastname: Yu
+  affiliation: University of Mississippi
+  position: Student
+- firstname: Fatima
+  attendance_type: Virtual
+  lastname: Rodriguez
+  affiliation: Fermilab
+  position: Student
+- firstname: Avinay
+  attendance_type: Virtual
+  lastname: Bhat
+  affiliation: Yale University
+  position: Postdoc
+- firstname: peter
+  attendance_type: Virtual
+  lastname: cameron
+  affiliation: Michigan/MIT/Brookhaven (retired)
+  position: retired
+- firstname: Andrew
+  attendance_type: Virtual
+  lastname: Pace
+  affiliation: Carnegie Mellon University
+  position: Postdoc
+- firstname: Carla
+  attendance_type: Virtual
+  lastname: Bonifazi
+  affiliation: ICAS - ICIFI - UNSAM / CONICET
+  position: Research Scientist
+- firstname: Mike
+  attendance_type: Virtual
+  lastname: Hedges
+  affiliation: Purdue / Bonn
+  position: Postdoc
+- firstname: Drew
+  attendance_type: Virtual
+  lastname: Ames
+  affiliation: Stanford University/SLAC
+  position: Student
+- firstname: Félix
+  attendance_type: Virtual
+  lastname: Cormier
+  affiliation: TRIUMF
+  position: Postdoc
+- firstname: Nam
+  attendance_type: Virtual
+  lastname: Nguyen
+  affiliation: Durham University
+  position: Postdoc
+generated_at: 07/07/2022 13:01:09 GMT
+number_participants: 920
+number_inperson_participants: 653
+number_virtual_participants: 239
 number_LOC_Vol_Press: 28
-number_dinner_attendees: 428
+number_dinner_attendees: 430
 number_LIGO: 53
-number_baseball: 57
+number_baseball: 58
