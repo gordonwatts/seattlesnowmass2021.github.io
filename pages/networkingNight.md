@@ -49,5 +49,9 @@ Representatives:
    <td>Google</td>
  </tr>
 
+ <tr>
+   <td><a href="https://www.linkedin.com/in/laserkaplan/">Laser Kaplan</a></td>
+   <td>DojoMojo</td>
+ </tr>
 
 </table>
