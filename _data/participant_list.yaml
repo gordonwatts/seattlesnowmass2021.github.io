@@ -259,6 +259,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+- firstname: J. Scott
+  lastname: Berg
+  attendance_type: Virtual
+  affiliation: Brookhaven National Laboratory
+  position: Research Scientist
 - firstname: Mikael
   lastname: Berggren
   attendance_type: In person
@@ -814,6 +819,11 @@ participants:
   attendance_type: In person
   affiliation: University of Chicago
   position: Research Scientist
+- firstname: Mykola
+  lastname: Dedushenko
+  attendance_type: In person
+  affiliation: Simons Center, Stony Brook University
+  position: Postdoc
 - firstname: Allison
   lastname: Deiana
   attendance_type: In person
@@ -1709,6 +1719,11 @@ participants:
   attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: 'Other:: Prof. Emeritus'
+- firstname: Laser
+  lastname: Kaplan
+  attendance_type: In person
+  affiliation: DojoMojo / Proxima
+  position: 'Other:: CERN Alumni'
 - firstname: Tanner
   lastname: Kaptanoglu
   attendance_type: In person
@@ -2594,6 +2609,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+- firstname: Adam
+  lastname: Para
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Brett
   lastname: Parker
   attendance_type: Virtual
@@ -2674,6 +2694,11 @@ participants:
   attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Scientist'
+- firstname: Gabriel
+  lastname: Perdue
+  attendance_type: Virtual
+  affiliation: Fermilab
+  position: Research Scientist
 - firstname: Daniel
   lastname: Pershey
   attendance_type: In person
@@ -3406,7 +3431,7 @@ participants:
   position: Postdoc
 - firstname: Hirohisa
   lastname: Tanaka
-  attendance_type: In person
+  attendance_type: Virtual
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
 - firstname: Geoffrey
@@ -4579,11 +4604,36 @@ participants:
   lastname: Miralles
   affiliation: INFN Roma1
   position: Postdoc
-generated_at: 07/07/2022 17:29:01 GMT
-number_participants: 926
-number_inperson_participants: 654
-number_virtual_participants: 244
+- firstname: Tobias
+  attendance_type: Virtual
+  lastname: Neumann
+  affiliation: Brookhaven National Laboratory
+  position: Postdoc
+- firstname: Lucas
+  attendance_type: Virtual
+  lastname: Kotz
+  affiliation: 'Southern Methodist University '
+  position: Student
+- firstname: Tiffany
+  attendance_type: Virtual
+  lastname: Lewis
+  affiliation: NASA Goddard Space Flight Center
+  position: Postdoc
+- firstname: Daniel
+  attendance_type: Virtual
+  lastname: Blackburn
+  affiliation: CERN Alumni
+  position: Applied Scientist
+- firstname: Walter
+  attendance_type: Virtual
+  lastname: Pettus
+  affiliation: Indiana University
+  position: Faculty
+generated_at: 07/08/2022 10:57:17 GMT
+number_participants: 936
+number_inperson_participants: 655
+number_virtual_participants: 253
 number_LOC_Vol_Press: 28
-number_dinner_attendees: 430
+number_dinner_attendees: 429
 number_LIGO: 53
 number_baseball: 58
