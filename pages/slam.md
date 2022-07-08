@@ -33,7 +33,7 @@ Want a taste of the slam?  Check out previous [physics](https://sites.google.com
  </tr>
  <tr>
   <td width="55%">
-  <strong>Julia Gonski</strong> is high energy experimental physicist, searching for new fundamental particles using the Large Hadron Collider at CERN in Geneva, Switzerland. Her work is split between data analysis, where she focuses on the application of novel machine learning methods such as anomaly detection to enhance our discovery potential, and detector development, namely upgrading the readout electronics for the liquid argon calorimeter of the ATLAS experiment. Outside of physics, she enjoys mixed martial arts, skiing, and struggling to learn French.  
+  <strong>Julia Gonski</strong> is a high energy experimental physicist, searching for new fundamental particles using the Large Hadron Collider at CERN in Geneva, Switzerland. Her work is split between data analysis, where she focuses on the application of novel machine learning methods such as anomaly detection to enhance our discovery potential, and detector development, namely upgrading the readout electronics for the liquid argon calorimeter of the ATLAS experiment. Outside of physics, she enjoys mixed martial arts, skiing, and struggling to learn French.  
   <td width="4%"> </td>
   <td width="30%"> <img src="/assets/images/jgonski_atlas.jpg" style="width: 100%"> </td>
  </tr>
