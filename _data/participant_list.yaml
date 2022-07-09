@@ -1,4740 +1,5639 @@
 participants:
 - firstname: Darin
   lastname: Acosta
-  attendance_type: In person
   affiliation: Rice University
   position: Faculty
+  fullname: DarinAcosta
+  attendance_type: In person
 - firstname: Tony
   lastname: Affolder
-  attendance_type: In person
   affiliation: UC Santa Cruz
   position: Research Scientist
+  fullname: TonyAffolder
+  attendance_type: In person
 - firstname: Zeeshan
   lastname: Ahmed
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: ZeeshanAhmed
+  attendance_type: In person
 - firstname: Robert
   lastname: Ainsworth
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: RobertAinsworth
+  attendance_type: In person
 - firstname: Daniel
   lastname: Akerib
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: DanielAkerib
+  attendance_type: In person
 - firstname: Oluwatomi
   lastname: Akindele
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Research Scientist
+  fullname: OluwatomiAkindele
+  attendance_type: In person
 - firstname: Cristiano
   lastname: Alpigiani
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: CristianoAlpigiani
+  attendance_type: In person
 - firstname: Wolfgang
   lastname: Altmannshofer
-  attendance_type: In person
   affiliation: UC Santa Cruz
   position: Faculty
+  fullname: WolfgangAltmannshofer
+  attendance_type: In person
 - firstname: Maral
   lastname: Alyari
-  attendance_type: Virtual
   affiliation: Fermilab
   position: 'Other:: Applications Physicist'
+  fullname: MaralAlyari
+  attendance_type: Virtual
 - firstname: Giorgio
   lastname: Ambrosio
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GiorgioAmbrosio
+  attendance_type: In person
 - firstname: Valentina
   lastname: Amitrano
-  attendance_type: In person
   affiliation: University of Trento, INFN-TIFPA
   position: Student
+  fullname: ValentinaAmitrano
+  attendance_type: In person
 - firstname: Kathleen
   lastname: Amm
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: KathleenAmm
+  attendance_type: In person
 - firstname: Jim
   lastname: Amundson
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JimAmundson
+  attendance_type: Virtual
 - firstname: Adam
   lastname: Anderson
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AdamAnderson
+  attendance_type: In person
 - firstname: James
   lastname: Annis
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JamesAnnis
+  attendance_type: In person
 - firstname: Giorgio
   lastname: Apollinari
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GiorgioApollinari
+  attendance_type: In person
 - firstname: Isaac
   lastname: Arnquist
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: IsaacArnquist
+  attendance_type: In person
 - firstname: Marina
   lastname: Artuso
-  attendance_type: In person
   affiliation: Syracuse University
   position: Faculty
+  fullname: MarinaArtuso
+  attendance_type: In person
 - firstname: Shoji
   lastname: Asai
-  attendance_type: In person
   affiliation: U-Tokyo
   position: Faculty
+  fullname: ShojiAsai
+  attendance_type: In person
 - firstname: David
   lastname: Asner
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: 'Other:: Senior Manager'
+  fullname: DavidAsner
+  attendance_type: In person
 - firstname: Kétévi
   lastname: Assamagan
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: KétéviAssamagan
+  attendance_type: In person
 - firstname: Adam
   lastname: Aurisano
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Faculty
+  fullname: AdamAurisano
+  attendance_type: In person
 - firstname: Nicola
   lastname: Bacchetta
-  attendance_type: Virtual
   affiliation: Fermilab
   position: 'Other:: Scientist'
+  fullname: NicolaBacchetta
+  attendance_type: Virtual
 - firstname: Drew
   lastname: Baden
-  attendance_type: In person
   affiliation: University of Maryland
   position: Faculty
+  fullname: DrewBaden
+  attendance_type: In person
 - firstname: Daniel
   lastname: Bafia
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: DanielBafia
+  attendance_type: In person
 - firstname: Zara
   lastname: Bagdasarian
-  attendance_type: In person
   affiliation: UC Berkeley
   position: 'Other:: Assistant Project Scientist'
+  fullname: ZaraBagdasarian
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Bagger
-  attendance_type: In person
   affiliation: APS
   position: 'Other:: APS'
+  fullname: JonathanBagger
+  attendance_type: In person
 - firstname: Stephen
   lastname: Bailey
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: StephenBailey
+  attendance_type: In person
 - firstname: Amandeep Singh
   lastname: Bakshi
-  attendance_type: In person
   affiliation: Purdue University
   position: Student
+  fullname: Amandeep SinghBakshi
+  attendance_type: In person
 - firstname: Akif
   lastname: Balantekin
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Faculty
+  fullname: AkifBalantekin
+  attendance_type: In person
 - firstname: Maria
   lastname: Baldini
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: MariaBaldini
+  attendance_type: In person
 - firstname: Stefan
   lastname: Ballmer
-  attendance_type: In person
   affiliation: Syracuse University/Cosmic Explorer
   position: Faculty
+  fullname: StefanBallmer
+  attendance_type: In person
 - firstname: Swagato
   lastname: Banerjee
-  attendance_type: In person
   affiliation: University of Louisville
   position: Faculty
+  fullname: SwagatoBanerjee
+  attendance_type: In person
 - firstname: Phil
   lastname: Barbeau
-  attendance_type: In person
   affiliation: Duke University
   position: Faculty
+  fullname: PhilBarbeau
+  attendance_type: In person
 - firstname: Timothy
   lastname: Barklow
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: TimothyBarklow
+  attendance_type: In person
 - firstname: Esra
   lastname: Barlas-Yucel
-  attendance_type: In person
   affiliation: University of Illinois Urbana-Champaign
   position: Postdoc
+  fullname: EsraBarlas-Yucel
+  attendance_type: In person
 - firstname: Rainer
   lastname: Bartoldus
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: 'Other:: Staff Scientist'
+  fullname: RainerBartoldus
+  attendance_type: In person
 - firstname: Chelsea
   lastname: Bartram
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: ChelseaBartram
+  attendance_type: In person
 - firstname: Maria
   lastname: Baryakhtar
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: MariaBaryakhtar
+  attendance_type: In person
 - firstname: Amit
   lastname: Bashyal
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Postdoc
+  fullname: AmitBashyal
+  attendance_type: In person
 - firstname: Brian
   lastname: Batell
-  attendance_type: In person
   affiliation: University of Pittsburgh
   position: Faculty
+  fullname: BrianBatell
+  attendance_type: In person
 - firstname: Christian
   lastname: Bauer
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Faculty
+  fullname: ChristianBauer
+  attendance_type: In person
 - firstname: Lothar
   lastname: Bauerdick
-  attendance_type: Virtual
   affiliation: ''
   position: Research Scientist
+  fullname: LotharBauerdick
+  attendance_type: Virtual
 - firstname: Brian
   lastname: Beckford
-  attendance_type: In person
   affiliation: US Department of Energy
   position: Prefer not to answer
+  fullname: BrianBeckford
+  attendance_type: In person
 - firstname: Michael
   lastname: Begel
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Faculty
+  fullname: MichaelBegel
+  attendance_type: In person
 - firstname: Biswaranjan
   lastname: Behera
-  attendance_type: In person
   affiliation: Colorado State University
   position: Postdoc
+  fullname: BiswaranjanBehera
+  attendance_type: In person
 - firstname: Sergey
   lastname: Belomestnykh
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: SergeyBelomestnykh
+  attendance_type: In person
 - firstname: Anis
   lastname: Ben Yahia
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: AnisBen Yahia
+  attendance_type: In person
 - firstname: Amy
   lastname: Bender
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: AmyBender
+  attendance_type: In person
 - firstname: Jake
   lastname: Bennett
-  attendance_type: In person
   affiliation: University of Mississippi
   position: Faculty
+  fullname: JakeBennett
+  attendance_type: In person
 - firstname: William
   lastname: Benoit
-  attendance_type: In person
   affiliation: University of Minnesota
   position: Student
+  fullname: WilliamBenoit
+  attendance_type: In person
 - firstname: Bradford
   lastname: Benson
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: BradfordBenson
+  attendance_type: In person
 - firstname: J. Scott
   lastname: Berg
-  attendance_type: Virtual
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: J. ScottBerg
+  attendance_type: Virtual
 - firstname: Mikael
   lastname: Berggren
-  attendance_type: In person
   affiliation: DESY
   position: Research Scientist
+  fullname: MikaelBerggren
+  attendance_type: In person
 - firstname: Asher
   lastname: Berlin
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: AsherBerlin
+  attendance_type: In person
 - firstname: Zvi
   lastname: Bern
-  attendance_type: In person
   affiliation: Bhaumik Institute, UCLA
   position: Faculty
+  fullname: ZviBern
+  attendance_type: In person
 - firstname: Gregorio
   lastname: Bernardi
-  attendance_type: In person
   affiliation: APC Paris CNRS/IN2P3
   position: Faculty
+  fullname: GregorioBernardi
+  attendance_type: In person
 - firstname: Catrin
   lastname: Bernius
-  attendance_type: Virtual
   affiliation: SLAC
   position: Research Scientist
+  fullname: CatrinBernius
+  attendance_type: Virtual
 - firstname: Robert
   lastname: Bernstein
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Lab Staff'
+  fullname: RobertBernstein
+  attendance_type: In person
 - firstname: Sergio
   lastname: Bertolucci
-  attendance_type: In person
   affiliation: INFN
   position: Research Scientist
+  fullname: SergioBertolucci
+  attendance_type: In person
 - firstname: Minerba
   lastname: Betancourt
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: MinerbaBetancourt
+  attendance_type: Virtual
 - firstname: Chandrashekhara
   lastname: Bhat
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Senior Scientist'
+  fullname: ChandrashekharaBhat
+  attendance_type: In person
 - firstname: Pushpalatha
   lastname: Bhat
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: PushpalathaBhat
+  attendance_type: In person
 - firstname: Meghna
   lastname: Bhattacharya
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: MeghnaBhattacharya
+  attendance_type: In person
 - firstname: Saptaparna
   lastname: Bhattacharya
-  attendance_type: In person
   affiliation: Northwestern University
   position: Postdoc
+  fullname: SaptaparnaBhattacharya
+  attendance_type: In person
 - firstname: Tanmoy
   lastname: Bhattacharya
-  attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Research Scientist
+  fullname: TanmoyBhattacharya
+  attendance_type: In person
 - firstname: Sandipan
   lastname: Bhattacherjee
-  attendance_type: In person
   affiliation: Birla Institute of Technology Mesra
   position: Student
+  fullname: SandipanBhattacherjee
+  attendance_type: In person
 - firstname: Wahid
   lastname: Bhimji
-  attendance_type: Virtual
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: WahidBhimji
+  attendance_type: Virtual
 - firstname: Jianming
   lastname: Bian
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: JianmingBian
+  attendance_type: In person
 - firstname: Kevin
   lastname: Black
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Faculty
+  fullname: KevinBlack
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Blazek
-  attendance_type: Virtual
   affiliation: Northeastern University
   position: Faculty
+  fullname: JonathanBlazek
+  attendance_type: Virtual
 - firstname: Lindsey
   lastname: Bleem
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: LindseyBleem
+  attendance_type: In person
 - firstname: Alain
   lastname: Blondel
-  attendance_type: In person
   affiliation: Uni Geneva/LPNHE Paris
   position: Faculty
+  fullname: AlainBlondel
+  attendance_type: In person
 - firstname: Kenneth
   lastname: Bloom
-  attendance_type: In person
   affiliation: University of Nebraska-Lincoln
   position: Faculty
+  fullname: KennethBloom
+  attendance_type: In person
 - firstname: Ed
   lastname: Blucher
-  attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+  fullname: EdBlucher
+  attendance_type: In person
 - firstname: Thomas
   lastname: Blum
-  attendance_type: In person
   affiliation: University of Connecticut/RBRC
   position: Faculty
+  fullname: ThomasBlum
+  attendance_type: In person
 - firstname: Greg
   lastname: Bock
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: GregBock
+  attendance_type: Virtual
 - firstname: Tim
   lastname: Bolton
-  attendance_type: Virtual
   affiliation: Kansas State University
   position: Faculty
+  fullname: TimBolton
+  attendance_type: Virtual
 - firstname: Richard
   lastname: Bonventre
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: RichardBonventre
+  attendance_type: In person
 - firstname: Kerstin
   lastname: Borras
-  attendance_type: Virtual
   affiliation: DESY and RWTH Aachen University
   position: Faculty
+  fullname: KerstinBorras
+  attendance_type: Virtual
 - firstname: Tulika
   lastname: Bose
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Faculty
+  fullname: TulikaBose
+  attendance_type: In person
 - firstname: Ana Martina
   lastname: Botti
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: Ana MartinaBotti
+  attendance_type: In person
 - firstname: Radja
   lastname: Boughezal
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Faculty
+  fullname: RadjaBoughezal
+  attendance_type: In person
 - firstname: Christian
   lastname: Boutan
-  attendance_type: Virtual
   affiliation: PNNL
   position: Research Scientist
+  fullname: ChristianBoutan
+  attendance_type: Virtual
 - firstname: Nathaniel
   lastname: Bowden
-  attendance_type: Virtual
   affiliation: Lawrence Livermore National Laboratory
   position: 'Other:: Laboratory Staff'
+  fullname: NathanielBowden
+  attendance_type: Virtual
 - firstname: Daniel
   lastname: Bowring
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: DanielBowring
+  attendance_type: Virtual
 - firstname: Diallo
   lastname: Boye
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Postdoc
+  fullname: DialloBoye
+  attendance_type: In person
 - firstname: Alan
   lastname: Boyle
-  attendance_type: In person
   affiliation: GeekWire
   position: 'Other:: Journalist'
+  fullname: AlanBoyle
+  attendance_type: In person
 - firstname: Davide
   lastname: Braga
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: DavideBraga
+  attendance_type: In person
 - firstname: Thomas
   lastname: Braine
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: ThomasBraine
+  attendance_type: In person
 - firstname: James
   lastname: Brau
-  attendance_type: In person
   affiliation: University of Oregon
   position: Faculty
+  fullname: JamesBrau
+  attendance_type: In person
 - firstname: Noah
   lastname: Bray-Ali
-  attendance_type: In person
   affiliation: Mt. Saint Mary's University, Los Angeles
   position: 'Other:: Lecturer'
+  fullname: NoahBray-Ali
+  attendance_type: In person
 - firstname: Steve
   lastname: Brice
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Division Head'
+  fullname: SteveBrice
+  attendance_type: In person
 - firstname: Gustaaf
   lastname: Brooijmans
-  attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+  fullname: GustaafBrooijmans
+  attendance_type: In person
 - firstname: Alan
   lastname: Bross
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AlanBross
+  attendance_type: Virtual
 - firstname: Elizabeth
   lastname: Brost
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: ElizabethBrost
+  attendance_type: In person
 - firstname: Lucas
   lastname: Brouwer
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: LucasBrouwer
+  attendance_type: In person
 - firstname: Thomas
   lastname: Browder
-  attendance_type: In person
   affiliation: University of Hawaii (Belle II)
   position: Faculty
+  fullname: ThomasBrowder
+  attendance_type: In person
 - firstname: David
   lastname: Brown
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: DavidBrown
+  attendance_type: In person
 - firstname: Quentin
   lastname: Buat
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: QuentinBuat
+  attendance_type: In person
 - firstname: Raymond
   lastname: Bunker
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: RaymondBunker
+  attendance_type: In person
 - firstname: Laura
   lastname: Buonincontri
-  attendance_type: In person
   affiliation: Università degli Studi di Padova/INFN, Padova
   position: Student
+  fullname: LauraBuonincontri
+  attendance_type: In person
 - firstname: Craig
   lastname: Burkhart
-  attendance_type: In person
   affiliation: US Department of Energy, Office of High Energy Physics (Contractor)
   position: Prefer not to answer
+  fullname: CraigBurkhart
+  attendance_type: In person
 - firstname: Joel
   lastname: Butler
-  attendance_type: In person
   affiliation: Fermilab/APS (Division of Particles and Fields)
   position: Research Scientist
+  fullname: JoelButler
+  attendance_type: In person
 - firstname: Micah
   lastname: Buuck
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+  fullname: MicahBuuck
+  attendance_type: In person
 - firstname: John
   lastname: Byrd
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: JohnByrd
+  attendance_type: In person
 - firstname: Yunhai
   lastname: Cai
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: YunhaiCai
+  attendance_type: In person
 - firstname: Anadi
   lastname: Canepa
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AnadiCanepa
+  attendance_type: In person
 - firstname: Rodolfo
   lastname: Capdevilla
-  attendance_type: In person
   affiliation: Perimeter Institute and University of Toronto
   position: Postdoc
+  fullname: RodolfoCapdevilla
+  attendance_type: In person
 - firstname: David
   lastname: Caratelli
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+  fullname: DavidCaratelli
+  attendance_type: In person
 - firstname: Marcela
   lastname: Carena
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Distinguished Scientist'
+  fullname: MarcelaCarena
+  attendance_type: In person
 - firstname: Gabriella
   lastname: Carini
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Prefer not to answer
+  fullname: GabriellaCarini
+  attendance_type: In person
 - firstname: John
   lastname: Carlstrom
-  attendance_type: In person
   affiliation: University of Chicago/Argonne National Laboratory
   position: Faculty
+  fullname: JohnCarlstrom
+  attendance_type: In person
 - firstname: Gianpaolo
   lastname: Carosi
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Research Scientist
+  fullname: GianpaoloCarosi
+  attendance_type: In person
 - firstname: Rachel
   lastname: Carr
-  attendance_type: Virtual
   affiliation: United States Naval Academy
   position: Faculty
+  fullname: RachelCarr
+  attendance_type: Virtual
 - firstname: Massimo
   lastname: Casarsa
-  attendance_type: In person
   affiliation: INFN, Trieste
   position: Research Scientist
+  fullname: MassimoCasarsa
+  attendance_type: In person
 - firstname: Stefano
   lastname: Castro Tognini
-  attendance_type: In person
   affiliation: Oak Ridge National Laboratory
   position: Postdoc
+  fullname: StefanoCastro Tognini
+  attendance_type: In person
 - firstname: Erika
   lastname: Catano-Mur
-  attendance_type: In person
   affiliation: College of William & Mary
   position: Postdoc
+  fullname: ErikaCatano-Mur
+  attendance_type: In person
 - firstname: Simon
   lastname: Catterall
-  attendance_type: In person
   affiliation: Syracuse University
   position: Faculty
+  fullname: SimonCatterall
+  attendance_type: In person
 - firstname: Thomas
   lastname: Cecil
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: ThomasCecil
+  attendance_type: In person
 - firstname: Giuseppe
   lastname: Cerati
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GiuseppeCerati
+  attendance_type: Virtual
 - firstname: Raphael
   lastname: Cervantes
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: RaphaelCervantes
+  attendance_type: In person
 - firstname: Sophia
   lastname: Chabysheva
-  attendance_type: Virtual
   affiliation: University of Idaho
   position: Faculty
+  fullname: SophiaChabysheva
+  attendance_type: Virtual
 - firstname: Maria
   lastname: Chamizo-Llatas
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: MariaChamizo-Llatas
+  attendance_type: In person
 - firstname: Clarence
   lastname: Chang
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: ClarenceChang
+  attendance_type: In person
 - firstname: Philip
   lastname: Chang
-  attendance_type: In person
   affiliation: University of California San Diego
   position: Postdoc
+  fullname: PhilipChang
+  attendance_type: In person
 - firstname: Oscar Roberto
   lastname: Chaparro Amaro
-  attendance_type: In person
   affiliation: Instituto Politécnico Nacional
   position: Student
+  fullname: Oscar RobertoChaparro Amaro
+  attendance_type: In person
 - firstname: Saskia
   lastname: Charity
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: SaskiaCharity
+  attendance_type: In person
 - firstname: Mu-Chun
   lastname: Chen
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: Mu-ChunChen
+  attendance_type: In person
 - firstname: Daniel
   lastname: Cherdack
-  attendance_type: In person
   affiliation: University of Houston
   position: Faculty
+  fullname: DanielCherdack
+  attendance_type: In person
 - firstname: Maxwell
   lastname: Chertok
-  attendance_type: In person
   affiliation: UC Davis
   position: Faculty
+  fullname: MaxwellChertok
+  attendance_type: In person
 - firstname: R. Sekhar
   lastname: Chivukula
-  attendance_type: In person
   affiliation: UC San Diego
   position: Faculty
+  fullname: R. SekharChivukula
+  attendance_type: In person
 - firstname: Aaron
   lastname: Chou
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: AaronChou
+  attendance_type: In person
 - firstname: Eric
   lastname: Church
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: 'Other:: DOE detailee / Scientist'
+  fullname: EricChurch
+  attendance_type: In person
 - firstname: Vincenzo
   lastname: Cirigliano
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: VincenzoCirigliano
+  attendance_type: In person
 - firstname: Pilar
   lastname: Coloma
-  attendance_type: Virtual
   affiliation: Instituto de Fisica Teorica UAM-CSIC
   position: Research Scientist
+  fullname: PilarColoma
+  attendance_type: Virtual
 - firstname: Erin
   lastname: Conley
-  attendance_type: In person
   affiliation: Duke University
   position: Student
+  fullname: ErinConley
+  attendance_type: In person
 - firstname: Andrew
   lastname: Connolly
-  attendance_type: Virtual
   affiliation: University of Washington
   position: Faculty
+  fullname: AndrewConnolly
+  attendance_type: Virtual
 - firstname: John
   lastname: Conway
-  attendance_type: In person
   affiliation: UC Davis
   position: Faculty
+  fullname: JohnConway
+  attendance_type: In person
 - firstname: Jodi
   lastname: Cooley
-  attendance_type: Virtual
   affiliation: SMU
   position: Faculty
+  fullname: JodiCooley
+  attendance_type: Virtual
 - firstname: John
   lastname: Corlett
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: 'Other:: Project Director'
+  fullname: JohnCorlett
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Cornell
-  attendance_type: In person
   affiliation: Weber State University
   position: Faculty
+  fullname: JonathanCornell
+  attendance_type: In person
 - firstname: Nathaniel
   lastname: Craig
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+  fullname: NathanielCraig
+  attendance_type: In person
 - firstname: John Franklin
   lastname: Crenshaw
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: John FranklinCrenshaw
+  attendance_type: In person
 - firstname: Csaba
   lastname: Csaki
-  attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+  fullname: CsabaCsaki
+  attendance_type: In person
 - firstname: Yanou
   lastname: Cui
-  attendance_type: Virtual
   affiliation: University of California-Riverside
   position: Faculty
+  fullname: YanouCui
+  attendance_type: Virtual
 - firstname: Ray
   lastname: Culbertson
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Faculty
+  fullname: RayCulbertson
+  attendance_type: Virtual
 - firstname: Priscilla
   lastname: Cushman
-  attendance_type: In person
   affiliation: University of Minnesota
   position: Faculty
+  fullname: PriscillaCushman
+  attendance_type: In person
 - firstname: Mirjam
   lastname: Cvetic
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Faculty
+  fullname: MirjamCvetic
+  attendance_type: In person
 - firstname: Richard
   lastname: D'Arcy
-  attendance_type: In person
   affiliation: DESY
   position: Research Scientist
+  fullname: RichardD'Arcy
+  attendance_type: In person
 - firstname: Eric
   lastname: Dahl
-  attendance_type: In person
   affiliation: Northwestern University/Fermilab
   position: Faculty
+  fullname: EricDahl
+  attendance_type: In person
 - firstname: Chris
   lastname: Damerell
-  attendance_type: Virtual
   affiliation: RAL UK
   position: Research Scientist
+  fullname: ChrisDamerell
+  attendance_type: Virtual
 - firstname: Jeff
   lastname: Dandoy
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Postdoc
+  fullname: JeffDandoy
+  attendance_type: In person
 - firstname: Anirban
   lastname: Das
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+  fullname: AnirbanDas
+  attendance_type: In person
 - firstname: Arnab
   lastname: Dasgupta
-  attendance_type: Virtual
   affiliation: PITT-PACC
   position: Postdoc
+  fullname: ArnabDasgupta
+  attendance_type: Virtual
 - firstname: Sridhara
   lastname: Dasu
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Faculty
+  fullname: SridharaDasu
+  attendance_type: In person
 - firstname: Gavin S.
   lastname: Davies
-  attendance_type: In person
   affiliation: University of Mississippi
   position: Faculty
+  fullname: Gavin S.Davies
+  attendance_type: In person
 - firstname: Zohreh
   lastname: Davoudi
-  attendance_type: In person
   affiliation: University of Maryland, College Park
   position: Faculty
+  fullname: ZohrehDavoudi
+  attendance_type: In person
 - firstname: Edward
   lastname: Daw
-  attendance_type: In person
   affiliation: The University of Sheffield, UK
   position: Faculty
+  fullname: EdwardDaw
+  attendance_type: In person
 - firstname: Kyle
   lastname: Dawson
-  attendance_type: In person
   affiliation: University of Utah
   position: Faculty
+  fullname: KyleDawson
+  attendance_type: In person
 - firstname: Sally
   lastname: Dawson
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: SallyDawson
+  attendance_type: In person
 - firstname: Jorge
   lastname: De Blas Mateo
-  attendance_type: Virtual
   affiliation: University of Granada (Spain)
   position: Research Scientist
+  fullname: JorgeDe Blas Mateo
+  attendance_type: Virtual
 - firstname: Andre
   lastname: De Gouvea
-  attendance_type: In person
   affiliation: Northwestern University
   position: Faculty
+  fullname: AndreDe Gouvea
+  attendance_type: In person
 - firstname: Sijbrand
   lastname: De Jong
-  attendance_type: In person
   affiliation: Radboud University Nijmegen
   position: Faculty
+  fullname: SijbrandDe Jong
+  attendance_type: In person
 - firstname: Kaushik
   lastname: De
-  attendance_type: In person
   affiliation: National Science Foundation
   position: Faculty
+  fullname: KaushikDe
+  attendance_type: In person
 - firstname: Cosmin
   lastname: Deaconu
-  attendance_type: In person
   affiliation: University of Chicago
   position: Research Scientist
+  fullname: CosminDeaconu
+  attendance_type: In person
 - firstname: Mykola
   lastname: Dedushenko
-  attendance_type: In person
   affiliation: Simons Center, Stony Brook University
   position: Postdoc
+  fullname: MykolaDedushenko
+  attendance_type: In person
 - firstname: Allison
   lastname: Deiana
-  attendance_type: In person
   affiliation: Southern Methodist University
   position: Faculty
+  fullname: AllisonDeiana
+  attendance_type: In person
 - firstname: Wouter
   lastname: Dekens
-  attendance_type: In person
   affiliation: Institute for Nuclear Theory
   position: 'Other:: research assistant professor'
+  fullname: WouterDekens
+  attendance_type: In person
 - firstname: Andrea
   lastname: Delgado
-  attendance_type: In person
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: AndreaDelgado
+  attendance_type: In person
 - firstname: Marcel
   lastname: Demarteau
-  attendance_type: In person
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: MarcelDemarteau
+  attendance_type: In person
 - firstname: Dmitri
   lastname: Denisov
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: DmitriDenisov
+  attendance_type: In person
 - firstname: Jason
   lastname: Detwiler
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: JasonDetwiler
+  attendance_type: In person
 - firstname: Ankur
   lastname: Dhar
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+  fullname: AnkurDhar
+  attendance_type: In person
 - firstname: Angelo
   lastname: Di Canto
-  attendance_type: Virtual
   affiliation: BNL
   position: Research Scientist
+  fullname: AngeloDi Canto
+  attendance_type: Virtual
 - firstname: Maria Laura
   lastname: Di Vacri
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: Maria LauraDi Vacri
+  attendance_type: In person
 - firstname: Daniel
   lastname: Diaz
-  attendance_type: In person
   affiliation: UC San Diego
   position: Postdoc
+  fullname: DanielDiaz
+  attendance_type: In person
 - firstname: Jennet
   lastname: Dickinson
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: JennetDickinson
+  attendance_type: In person
 - firstname: Keith
   lastname: Dienes
-  attendance_type: In person
   affiliation: National Science Foundation/University of Arizona
   position: Faculty
+  fullname: KeithDienes
+  attendance_type: In person
 - firstname: Karri
   lastname: Dipetrillo
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: KarriDipetrillo
+  attendance_type: In person
 - firstname: Milind
   lastname: Diwan
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: MilindDiwan
+  attendance_type: In person
 - firstname: Sean
   lastname: Dobbs
-  attendance_type: Virtual
   affiliation: Florida State University
   position: Faculty
+  fullname: SeanDobbs
+  attendance_type: Virtual
 - firstname: Xi
   lastname: Dong
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+  fullname: XiDong
+  attendance_type: In person
 - firstname: Marcos
   lastname: Dracos
-  attendance_type: In person
   affiliation: IPHC-IN2P3/CNRS
   position: Research Scientist
+  fullname: MarcosDracos
+  attendance_type: In person
 - firstname: Alex
   lastname: Drlica-Wagner
-  attendance_type: In person
   affiliation: Fermilab/University of Chicago
   position: Research Scientist
+  fullname: AlexDrlica-Wagner
+  attendance_type: In person
 - firstname: Nick
   lastname: Du
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
+  fullname: NickDu
+  attendance_type: In person
 - firstname: Xinnan
   lastname: Du
-  attendance_type: In person
   affiliation: KIPAC/Stanford University
   position: 'Other:: Outreach Staff'
+  fullname: XinnanDu
+  attendance_type: In person
 - firstname: Javier
   lastname: Duarte
-  attendance_type: In person
   affiliation: UC San Diego
   position: Faculty
+  fullname: JavierDuarte
+  attendance_type: In person
 - firstname: Bhaskar
   lastname: Dutta
-  attendance_type: In person
   affiliation: Department of Physics and Astronomy
   position: Faculty
+  fullname: BhaskarDutta
+  attendance_type: In person
 - firstname: Michael
   lastname: Duvernois
-  attendance_type: In person
   affiliation: UW Madison WIPAC
   position: Research Scientist
+  fullname: MichaelDuvernois
+  attendance_type: In person
 - firstname: Dan
   lastname: Dwyer
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: DanDwyer
+  attendance_type: In person
 - firstname: Andrew
   lastname: Dye
-  attendance_type: In person
   affiliation: University of Mississippi
   position: Student
+  fullname: AndrewDye
+  attendance_type: In person
 - firstname: Bertrand
   lastname: Echenard
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+  fullname: BertrandEchenard
+  attendance_type: In person
 - firstname: Auralee
   lastname: Edelen
-  attendance_type: In person
   affiliation: SLAC
   position: Research Scientist
+  fullname: AuraleeEdelen
+  attendance_type: In person
 - firstname: Aida
   lastname: El-Khadra
-  attendance_type: In person
   affiliation: University of Illinois Urbana-Champaign
   position: Faculty
+  fullname: AidaEl-Khadra
+  attendance_type: In person
 - firstname: Jeffrey
   lastname: Eldred
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JeffreyEldred
+  attendance_type: In person
 - firstname: Peter
   lastname: Elmer
-  attendance_type: In person
   affiliation: Princeton University
   position: Research Scientist
+  fullname: PeterElmer
+  attendance_type: In person
 - firstname: Victor Daniel
   lastname: Elvira
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Senior Scientist'
+  fullname: Victor DanielElvira
+  attendance_type: In person
 - firstname: Claudio
   lastname: Emma
-  attendance_type: In person
   affiliation: SLAC
   position: Research Scientist
+  fullname: ClaudioEmma
+  attendance_type: In person
 - firstname: Kristi
   lastname: Engel
-  attendance_type: In person
   affiliation: UMD
   position: 'Other:: PhD Candidate'
+  fullname: KristiEngel
+  attendance_type: In person
 - firstname: Sarah
   lastname: Eno
-  attendance_type: In person
   affiliation: University of Maryland
   position: Faculty
+  fullname: SarahEno
+  attendance_type: In person
 - firstname: Robin
   lastname: Erbacher
-  attendance_type: In person
   affiliation: UC Davis
   position: Faculty
+  fullname: RobinErbacher
+  attendance_type: In person
 - firstname: Eric
   lastname: Esarey
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: EricEsarey
+  attendance_type: In person
 - firstname: Carlos
   lastname: Escobar
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: CarlosEscobar
+  attendance_type: Virtual
 - firstname: Jessica
   lastname: Esquivel
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JessicaEsquivel
+  attendance_type: In person
 - firstname: Rouven
   lastname: Essig
-  attendance_type: Virtual
   affiliation: Stony Brook University
   position: Faculty
+  fullname: RouvenEssig
+  attendance_type: Virtual
 - firstname: Lisa
   lastname: Everett
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Faculty
+  fullname: LisaEverett
+  attendance_type: In person
 - firstname: Farah
   lastname: Fahim
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Engineer'
+  fullname: FarahFahim
+  attendance_type: In person
 - firstname: Kwok Lung
   lastname: Fan
-  attendance_type: In person
   affiliation: University of Maryland
   position: Student
+  fullname: Kwok LungFan
+  attendance_type: In person
 - firstname: Ke
   lastname: Fang
-  attendance_type: In person
   affiliation: UW Madison WIPAC
   position: Faculty
+  fullname: KeFang
+  attendance_type: In person
 - firstname: Glennys
   lastname: Farrar
-  attendance_type: In person
   affiliation: New York University
   position: Faculty
+  fullname: GlennysFarrar
+  attendance_type: In person
 - firstname: James
   lastname: Fast
-  attendance_type: In person
   affiliation: Jefferson Lab
   position: Faculty
+  fullname: JamesFast
+  attendance_type: In person
 - firstname: Thomas
   lastname: Faulkner
-  attendance_type: In person
   affiliation: University of Illinois Urbana-Champaign
   position: Faculty
+  fullname: ThomasFaulkner
+  attendance_type: In person
 - firstname: Angeles
   lastname: Faus-Golfe
-  attendance_type: In person
   affiliation: Irène Joliot Curie Laboratory
   position: Research Scientist
+  fullname: AngelesFaus-Golfe
+  attendance_type: In person
 - firstname: Fernando
   lastname: Febres Cordero
-  attendance_type: In person
   affiliation: Florida State University
   position: Faculty
+  fullname: FernandoFebres Cordero
+  attendance_type: In person
 - firstname: Sydney
   lastname: Feldman
-  attendance_type: In person
   affiliation: UCLA
   position: Student
+  fullname: SydneyFeldman
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Feng
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: JonathanFeng
+  attendance_type: In person
 - firstname: Qi
   lastname: Feng
-  attendance_type: In person
   affiliation: Smithsonian Astrophysical Observatory
   position: Research Scientist
+  fullname: QiFeng
+  attendance_type: In person
 - firstname: Laura
   lastname: Fields
-  attendance_type: In person
   affiliation: University of Notre Dame
   position: Faculty
+  fullname: LauraFields
+  attendance_type: In person
 - firstname: Rob
   lastname: Fine
-  attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Postdoc
+  fullname: RobFine
+  attendance_type: In person
 - firstname: Ian
   lastname: Fisk
-  attendance_type: In person
   affiliation: Flatiron Institute
   position: Research Scientist
+  fullname: IanFisk
+  attendance_type: In person
 - firstname: Bonnie
   lastname: Fleming
-  attendance_type: In person
   affiliation: Yale University
   position: Faculty
+  fullname: BonnieFleming
+  attendance_type: In person
 - firstname: Richard
   lastname: Ford
-  attendance_type: Virtual
   affiliation: Fermilab
   position: 'Other:: Engr. Physicist'
+  fullname: RichardFord
+  attendance_type: Virtual
 - firstname: Will
   lastname: Foreman
-  attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: Postdoc
+  fullname: WillForeman
+  attendance_type: In person
 - firstname: Joseph
   lastname: Formaggio
-  attendance_type: Virtual
   affiliation: Massachusetts Institute of Technology
   position: Faculty
+  fullname: JosephFormaggio
+  attendance_type: Virtual
 - firstname: Joshua
   lastname: Foster
-  attendance_type: In person
   affiliation: Massachusetts Institute of Technology
   position: Postdoc
+  fullname: JoshuaFoster
+  attendance_type: In person
 - firstname: Patrick
   lastname: Fox
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: PatrickFox
+  attendance_type: In person
 - firstname: Jim
   lastname: Freeman
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: JimFreeman
+  attendance_type: In person
 - firstname: Ayres
   lastname: Freitas
-  attendance_type: In person
   affiliation: University of Pittsburgh
   position: Faculty
+  fullname: AyresFreitas
+  attendance_type: In person
 - firstname: Keisuke
   lastname: Fujii
-  attendance_type: Virtual
   affiliation: KEK
   position: Research Scientist
+  fullname: KeisukeFujii
+  attendance_type: Virtual
 - firstname: Annika
   lastname: Gabriel
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Student
+  fullname: AnnikaGabriel
+  attendance_type: In person
 - firstname: Jeremy
   lastname: Gaison
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Postdoc
+  fullname: JeremyGaison
+  attendance_type: In person
 - firstname: Richard
   lastname: Gaitskell
-  attendance_type: Virtual
   affiliation: Brown University
   position: Faculty
+  fullname: RichardGaitskell
+  attendance_type: Virtual
 - firstname: K.K.
   lastname: Gan
-  attendance_type: In person
   affiliation: The Ohio State University
   position: Faculty
+  fullname: K.K.Gan
+  attendance_type: In person
 - firstname: Liping
   lastname: Gan
-  attendance_type: In person
   affiliation: University of North Carolina Wilmington
   position: Faculty
+  fullname: LipingGan
+  attendance_type: In person
 - firstname: Sudeshna
   lastname: Ganguly
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Associate Scientist'
+  fullname: SudeshnaGanguly
+  attendance_type: In person
 - firstname: Andrei
   lastname: Gaponenko
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AndreiGaponenko
+  attendance_type: In person
 - firstname: Ali
   lastname: Garabaglu
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: AliGarabaglu
+  attendance_type: In person
 - firstname: Isabel
   lastname: Garcia Garcia
-  attendance_type: In person
   affiliation: UC Santa Barbara (KITP)
   position: Postdoc
+  fullname: IsabelGarcia Garcia
+  attendance_type: In person
 - firstname: Alejandro
   lastname: Garcia
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: AlejandroGarcia
+  attendance_type: In person
 - firstname: Maurice
   lastname: Garcia-Sciveres
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: MauriceGarcia-Sciveres
+  attendance_type: In person
 - firstname: Steven
   lastname: Gardiner
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: StevenGardiner
+  attendance_type: In person
 - firstname: Gwen
   lastname: Gardner
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Student
+  fullname: GwenGardner
+  attendance_type: In person
 - firstname: Daniel
   lastname: Garisto
-  attendance_type: In person
   affiliation: Dan Garisto
   position: 'Other:: Journalist'
+  fullname: DanielGaristo
+  attendance_type: In person
 - firstname: Corrado
   lastname: Gatto
-  attendance_type: In person
   affiliation: INFN/NIU
   position: Faculty
+  fullname: CorradoGatto
+  attendance_type: In person
 - firstname: Eric
   lastname: Gawiser
-  attendance_type: Virtual
   affiliation: Rutgers University
   position: Faculty
+  fullname: EricGawiser
+  attendance_type: Virtual
 - firstname: Zoltan
   lastname: Gecse
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: ZoltanGecse
+  attendance_type: In person
 - firstname: Cameron
   lastname: Geddes
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: CameronGeddes
+  attendance_type: In person
 - firstname: Krzysztof
   lastname: Genser
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: National Laboratory Staff'
+  fullname: KrzysztofGenser
+  attendance_type: In person
 - firstname: Andrew
   lastname: Geraci
-  attendance_type: In person
   affiliation: Northwestern University
   position: Faculty
+  fullname: AndrewGeraci
+  attendance_type: In person
 - firstname: Sumita
   lastname: Ghosh
-  attendance_type: In person
   affiliation: Yale University
   position: Student
+  fullname: SumitaGhosh
+  attendance_type: In person
 - firstname: Bianca
   lastname: Giaccone
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: BiancaGiaccone
+  attendance_type: In person
 - firstname: Gabriele
   lastname: Giacomini
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: GabrieleGiacomini
+  attendance_type: In person
 - firstname: Luca
   lastname: Giambastiani
-  attendance_type: In person
   affiliation: University and INFN of Padova (IT)
   position: Student
+  fullname: LucaGiambastiani
+  attendance_type: In person
 - firstname: Eliana
   lastname: Gianfelice
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: ElianaGianfelice
+  attendance_type: In person
 - firstname: Fabiola
   lastname: Gianotti
-  attendance_type: In person
   affiliation: CERN
   position: 'Other:: CERN Director General'
+  fullname: FabiolaGianotti
+  attendance_type: In person
 - firstname: Lawrence
   lastname: Gibbons
-  attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+  fullname: LawrenceGibbons
+  attendance_type: In person
 - firstname: Tom
   lastname: Gibbs
-  attendance_type: In person
   affiliation: NVIDIA
   position: Prefer not to answer
+  fullname: TomGibbs
+  attendance_type: In person
 - firstname: Carlo
   lastname: Giunti
-  attendance_type: In person
   affiliation: INFN, Torino
   position: Research Scientist
+  fullname: CarloGiunti
+  attendance_type: In person
 - firstname: Julia
   lastname: Gonski
-  attendance_type: In person
   affiliation: Nevis Laboratories/Columbia University
   position: Postdoc
+  fullname: JuliaGonski
+  attendance_type: In person
 - firstname: Stefania
   lastname: Gori
-  attendance_type: In person
   affiliation: UC Santa Cruz
   position: Faculty
+  fullname: StefaniaGori
+  attendance_type: In person
 - firstname: Steven
   lastname: Gottlieb
-  attendance_type: In person
   affiliation: Indiana University
   position: Faculty
+  fullname: StevenGottlieb
+  attendance_type: In person
 - firstname: Stephen
   lastname: Gourlay
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory (Retired)
   position: Research Scientist
+  fullname: StephenGourlay
+  attendance_type: In person
 - firstname: Anna
   lastname: Goussiou
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: AnnaGoussiou
+  attendance_type: In person
 - firstname: Anna
   lastname: Grassellino
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AnnaGrassellino
+  attendance_type: Virtual
 - firstname: Lindsey
   lastname: Gray
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: LindseyGray
+  attendance_type: In person
 - firstname: Daniel
   lastname: Green
-  attendance_type: In person
   affiliation: UC San Diego
   position: Faculty
+  fullname: DanielGreen
+  attendance_type: In person
 - firstname: Andrei
   lastname: Gritsan
-  attendance_type: In person
   affiliation: Johns Hopkins University
   position: Faculty
+  fullname: AndreiGritsan
+  attendance_type: In person
 - firstname: Evan
   lastname: Grohs
-  attendance_type: In person
   affiliation: North Carolina State University
   position: Research Scientist
+  fullname: EvanGrohs
+  attendance_type: In person
 - firstname: Silas
   lastname: Grossberndt
-  attendance_type: Virtual
   affiliation: City University of New York
   position: Student
+  fullname: SilasGrossberndt
+  attendance_type: Virtual
 - firstname: Julieta
   lastname: Gruszko
-  attendance_type: In person
   affiliation: University of North Carolina, Chapel Hill
   position: Faculty
+  fullname: JulietaGruszko
+  attendance_type: In person
 - firstname: Ramesh
   lastname: Gupta
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Faculty
+  fullname: RameshGupta
+  attendance_type: In person
 - firstname: Oliver
   lastname: Gutsche
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: OliverGutsche
+  attendance_type: In person
 - firstname: Julien
   lastname: Guy
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Faculty
+  fullname: JulienGuy
+  attendance_type: In person
 - firstname: Michaela
   lastname: Guzzetti
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: MichaelaGuzzetti
+  attendance_type: In person
 - firstname: Allison
   lastname: Hall
-  attendance_type: Virtual
   affiliation: United States Naval Academy
   position: Faculty
+  fullname: AllisonHall
+  attendance_type: Virtual
 - firstname: Jeter
   lastname: Hall
-  attendance_type: In person
   affiliation: SNOLAB/Laurentian University
   position: Research Scientist
+  fullname: JeterHall
+  attendance_type: In person
 - firstname: Timothy
   lastname: Hallman
-  attendance_type: In person
   affiliation: US Department of Energy
   position: 'Other:: Associate Director'
+  fullname: TimothyHallman
+  attendance_type: In person
 - firstname: Kathleen
   lastname: Hamilton
-  attendance_type: Virtual
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: KathleenHamilton
+  attendance_type: Virtual
 - firstname: Tao
   lastname: Han
-  attendance_type: In person
   affiliation: University of Pittsburgh
   position: Faculty
+  fullname: TaoHan
+  attendance_type: In person
 - firstname: Pat
   lastname: Harding
-  attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Research Scientist
+  fullname: PatHarding
+  attendance_type: In person
 - firstname: Heather
   lastname: Harrington
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: HeatherHarrington
+  attendance_type: In person
 - firstname: Deborah
   lastname: Harris
-  attendance_type: In person
   affiliation: York University/Fermilab
   position: Faculty
+  fullname: DeborahHarris
+  attendance_type: In person
 - firstname: Philip
   lastname: Harris
-  attendance_type: In person
   affiliation: Massachusetts Institute of Technology
   position: Faculty
+  fullname: PhilipHarris
+  attendance_type: In person
 - firstname: Robert M
   lastname: Harris
-  attendance_type: Virtual
   affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
+  fullname: Robert MHarris
+  attendance_type: Virtual
 - firstname: Mike
   lastname: Headley
-  attendance_type: In person
   affiliation: SDSTA/SURF
   position: 'Other:: Lab Director'
+  fullname: MikeHeadley
+  attendance_type: In person
 - firstname: Christopher
   lastname: Hearty
-  attendance_type: Virtual
   affiliation: University of British Columbia / IPP
   position: Faculty
+  fullname: ChristopherHearty
+  attendance_type: Virtual
 - firstname: Michael
   lastname: Hedges
-  attendance_type: In person
   affiliation: Purdue / Bonn
   position: Postdoc
+  fullname: MichaelHedges
+  attendance_type: In person
 - firstname: Samuel
   lastname: Hedges
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
+  fullname: SamuelHedges
+  attendance_type: In person
 - firstname: Julian
   lastname: Heeck
-  attendance_type: Virtual
   affiliation: University of Virginia
   position: Faculty
+  fullname: JulianHeeck
+  attendance_type: Virtual
 - firstname: Karsten
   lastname: Heeger
-  attendance_type: In person
   affiliation: Yale University
   position: Faculty
+  fullname: KarstenHeeger
+  attendance_type: In person
 - firstname: Ulrich
   lastname: Heintz
-  attendance_type: In person
   affiliation: Brown University
   position: Faculty
+  fullname: UlrichHeintz
+  attendance_type: In person
 - firstname: Jaret
   lastname: Heise
-  attendance_type: In person
   affiliation: SDSTA/SURF
   position: Research Scientist
+  fullname: JaretHeise
+  attendance_type: In person
 - firstname: Katrin
   lastname: Heitmann
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Prefer not to answer
+  fullname: KatrinHeitmann
+  attendance_type: In person
 - firstname: Ken
   lastname: Herner
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: KenHerner
+  attendance_type: Virtual
 - firstname: David
   lastname: Hertzog
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: DavidHertzog
+  attendance_type: In person
 - firstname: Joanne
   lastname: Hewett
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: JoanneHewett
+  attendance_type: In person
 - firstname: John
   lastname: Hiller
-  attendance_type: Virtual
   affiliation: University of Idaho
   position: Faculty
+  fullname: JohnHiller
+  attendance_type: Virtual
 - firstname: Alexander
   lastname: Himmel
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AlexanderHimmel
+  attendance_type: In person
 - firstname: Alexander
   lastname: Hipp
-  attendance_type: In person
   affiliation: University of Florida
   position: Student
+  fullname: AlexanderHipp
+  attendance_type: In person
 - firstname: Robert
   lastname: Hirosky
-  attendance_type: In person
   affiliation: University of Virginia
   position: Faculty
+  fullname: RobertHirosky
+  attendance_type: In person
 - firstname: Jim
   lastname: Hirschauer
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: JimHirschauer
+  attendance_type: In person
 - firstname: David
   lastname: Hitlin
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+  fullname: DavidHitlin
+  attendance_type: In person
 - firstname: Renee
   lastname: Hlozek
-  attendance_type: Virtual
   affiliation: Dunlap Institute and DAA, University Toronto
   position: Faculty
+  fullname: ReneeHlozek
+  attendance_type: Virtual
 - firstname: Stefan
   lastname: Hoeche
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: StefanHoeche
+  attendance_type: Virtual
 - firstname: Georg
   lastname: Hoffstaetter
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory/Cornell University
   position: Faculty
+  fullname: GeorgHoffstaetter
+  attendance_type: In person
 - firstname: Julie
   lastname: Hogan
-  attendance_type: In person
   affiliation: Bethel University
   position: Faculty
+  fullname: JulieHogan
+  attendance_type: In person
 - firstname: Mark
   lastname: Hogan
-  attendance_type: In person
   affiliation: SLAC
   position: Research Scientist
+  fullname: MarkHogan
+  attendance_type: In person
 - firstname: Tova
   lastname: Holmes
-  attendance_type: In person
   affiliation: University of Tennessee, Knoxville
   position: Faculty
+  fullname: TovaHolmes
+  attendance_type: In person
 - firstname: Walter
   lastname: Hopkins
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: WalterHopkins
+  attendance_type: In person
 - firstname: Md Forhad
   lastname: Hossain
-  attendance_type: In person
   affiliation: Fermilab/New Mexico State University
   position: Student
+  fullname: Md ForhadHossain
+  attendance_type: In person
 - firstname: Bruce
   lastname: Howard
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: BruceHoward
+  attendance_type: In person
 - firstname: Daniel
   lastname: Hoying
-  attendance_type: In person
   affiliation: Michigan State University
   position: Postdoc
+  fullname: DanielHoying
+  attendance_type: In person
 - firstname: Lauren
   lastname: Hsu
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: LaurenHsu
+  attendance_type: Virtual
 - firstname: Shih-Chieh
   lastname: Hsu
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: Shih-ChiehHsu
+  attendance_type: In person
 - firstname: Zhirong
   lastname: Huang
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: ZhirongHuang
+  attendance_type: In person
 - firstname: Patrick
   lastname: Huber
-  attendance_type: In person
   affiliation: Virginia Tech
   position: Faculty
+  fullname: PatrickHuber
+  attendance_type: In person
 - firstname: Axel
   lastname: Huebl
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Prefer not to answer
+  fullname: AxelHuebl
+  attendance_type: In person
 - firstname: Kevin
   lastname: Huffenberger
-  attendance_type: In person
   affiliation: Florida State University
   position: Faculty
+  fullname: KevinHuffenberger
+  attendance_type: In person
 - firstname: Patrick
   lastname: Hurh
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Faculty
+  fullname: PatrickHurh
+  attendance_type: Virtual
 - firstname: Nicholas
   lastname: Hutzler
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+  fullname: NicholasHutzler
+  attendance_type: In person
 - firstname: Adam
   lastname: Iaizzi
-  attendance_type: In person
   affiliation: US Department of Energy, Office of High Energy Physics
   position: 'Other:: Program manager'
+  fullname: AdamIaizzi
+  attendance_type: In person
 - firstname: Marc
   lastname: Illa Subina
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: MarcIlla Subina
+  attendance_type: In person
 - firstname: Joshua
   lastname: Isaacson
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: JoshuaIsaacson
+  attendance_type: In person
 - firstname: Mustapha
   lastname: Ishak
-  attendance_type: Virtual
   affiliation: University of Texas at Dallas
   position: Faculty
+  fullname: MustaphaIshak
+  attendance_type: Virtual
 - firstname: Christopher
   lastname: Jackson
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: ChristopherJackson
+  attendance_type: In person
 - firstname: Karl
   lastname: Jakobs
-  attendance_type: In person
   affiliation: University of Freiburg / Germany
   position: Faculty
+  fullname: KarlJakobs
+  attendance_type: In person
 - firstname: Wooyoung
   lastname: Jang
-  attendance_type: In person
   affiliation: University of Texas at Arlington
   position: Postdoc
+  fullname: WooyoungJang
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Jarvis
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JonathanJarvis
+  attendance_type: In person
 - firstname: Bodhitha
   lastname: Jayatilaka
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: BodhithaJayatilaka
+  attendance_type: In person
 - firstname: Laura
   lastname: Jeanty
-  attendance_type: In person
   affiliation: University of Oregon
   position: Faculty
+  fullname: LauraJeanty
+  attendance_type: In person
 - firstname: Kathryn
   lastname: Jepsen
-  attendance_type: In person
   affiliation: Symmetry Magazine
   position: 'Other:: Media'
+  fullname: KathrynJepsen
+  attendance_type: In person
 - firstname: Michael
   lastname: Jewell
-  attendance_type: In person
   affiliation: Yale University
   position: Postdoc
+  fullname: MichaelJewell
+  attendance_type: In person
 - firstname: Zhixing
   lastname: Jiang
-  attendance_type: In person
   affiliation: UW ACME lab
   position: Student
+  fullname: ZhixingJiang
+  attendance_type: In person
 - firstname: Sergo
   lastname: Jindariani
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: SergoJindariani
+  attendance_type: In person
 - firstname: Jay Hyun
   lastname: Jo
-  attendance_type: In person
   affiliation: Yale University
   position: Postdoc
+  fullname: Jay HyunJo
+  attendance_type: In person
 - firstname: Seth
   lastname: Johnson
-  attendance_type: In person
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: SethJohnson
+  attendance_type: In person
 - firstname: Ben
   lastname: Jones
-  attendance_type: In person
   affiliation: University of Texas at Arlington
   position: Faculty
+  fullname: BenJones
+  attendance_type: In person
 - firstname: Austin
   lastname: Joyce
-  attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+  fullname: AustinJoyce
+  attendance_type: In person
 - firstname: Soon Yung
   lastname: Jun
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: Soon YungJun
+  attendance_type: Virtual
 - firstname: Thomas
   lastname: Junk
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: ThomasJunk
+  attendance_type: In person
 - firstname: Shamit
   lastname: Kachru
-  attendance_type: In person
   affiliation: Stanford
   position: Prefer not to answer
+  fullname: ShamitKachru
+  attendance_type: In person
 - firstname: Michael
   lastname: Kagan
-  attendance_type: Virtual
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: MichaelKagan
+  attendance_type: Virtual
 - firstname: Abraham
   lastname: Kahn
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Student
+  fullname: AbrahamKahn
+  attendance_type: In person
 - firstname: Daisy
   lastname: Kalra
-  attendance_type: In person
   affiliation: Columbia University
   position: Postdoc
+  fullname: DaisyKalra
+  attendance_type: In person
 - firstname: Alvine
   lastname: Kamaha
-  attendance_type: In person
   affiliation: UC Los Angeles
   position: Faculty
+  fullname: AlvineKamaha
+  attendance_type: In person
 - firstname: Peter
   lastname: Kammel
-  attendance_type: In person
   affiliation: University of Washington (CENPA)
   position: Faculty
+  fullname: PeterKammel
+  attendance_type: In person
 - firstname: Alexei
   lastname: Kanareykin
-  attendance_type: In person
   affiliation: Euclid Techlabs LLC
   position: 'Other:: CEO'
+  fullname: AlexeiKanareykin
+  attendance_type: In person
 - firstname: Daniel
   lastname: Kaplan
-  attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: 'Other:: Prof. Emeritus'
+  fullname: DanielKaplan
+  attendance_type: In person
 - firstname: Laser
   lastname: Kaplan
-  attendance_type: In person
   affiliation: DojoMojo / Proxima
   position: 'Other:: CERN Alumni'
+  fullname: LaserKaplan
+  attendance_type: In person
 - firstname: Tanner
   lastname: Kaptanoglu
-  attendance_type: In person
   affiliation: UC Berkeley
   position: Postdoc
+  fullname: TannerKaptanoglu
+  attendance_type: In person
 - firstname: Georgia
   lastname: Karagiorgi
-  attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+  fullname: GeorgiaKaragiorgi
+  attendance_type: In person
 - firstname: Albrecht
   lastname: Karle
-  attendance_type: In person
   affiliation: University of Wisconsin-Madison
   position: Faculty
+  fullname: AlbrechtKarle
+  attendance_type: In person
 - firstname: Sushrut
   lastname: Karmarkar
-  attendance_type: In person
   affiliation: Purdue University
   position: Student
+  fullname: SushrutKarmarkar
+  attendance_type: In person
 - firstname: Vadim
   lastname: Kashikhin
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Engineer'
+  fullname: VadimKashikhin
+  attendance_type: In person
 - firstname: Kiyotomo
   lastname: Kawagoe
-  attendance_type: Virtual
   affiliation: Kyushu University
   position: Faculty
+  fullname: KiyotomoKawagoe
+  attendance_type: Virtual
 - firstname: Christopher
   lastname: Kelly
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: ChristopherKelly
+  attendance_type: In person
 - firstname: Wesley
   lastname: Ketchum
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: WesleyKetchum
+  attendance_type: In person
 - firstname: Steve
   lastname: Kettell
-  attendance_type: In person
   affiliation: bnl
   position: Faculty
+  fullname: SteveKettell
+  attendance_type: In person
 - firstname: Joey
   lastname: Key
-  attendance_type: In person
   affiliation: University of Washington, Bothell
   position: Faculty
+  fullname: JoeyKey
+  attendance_type: In person
 - firstname: Elham E
   lastname: Khoda
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: Elham EKhoda
+  attendance_type: In person
 - firstname: Brendan
   lastname: Kiburg
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: BrendanKiburg
+  attendance_type: In person
 - firstname: Nikolaos
   lastname: Kidonakis
-  attendance_type: In person
   affiliation: Kennesaw State University
   position: Faculty
+  fullname: NikolaosKidonakis
+  attendance_type: In person
 - firstname: William
   lastname: Kilgore
-  attendance_type: In person
   affiliation: US Department of Energy
   position: Faculty
+  fullname: WilliamKilgore
+  attendance_type: In person
 - firstname: Alex
   lastname: Kim
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: AlexKim
+  attendance_type: In person
 - firstname: Doojin
   lastname: Kim
-  attendance_type: In person
   affiliation: Texas A&M University
   position: Postdoc
+  fullname: DoojinKim
+  attendance_type: In person
 - firstname: 'On'
   lastname: Kim
-  attendance_type: In person
   affiliation: Institute for Basic Science
   position: Postdoc
+  fullname: OnKim
+  attendance_type: In person
 - firstname: James
   lastname: Kingston
-  attendance_type: In person
   affiliation: UC Davis
   position: Student
+  fullname: JamesKingston
+  attendance_type: In person
 - firstname: Natalie
   lastname: Klco
-  attendance_type: In person
   affiliation: California Institute of Technology (IQIM)
   position: Postdoc
+  fullname: NatalieKlco
+  attendance_type: In person
 - firstname: Joshua
   lastname: Klein
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Faculty
+  fullname: JoshuaKlein
+  attendance_type: In person
 - firstname: Stefan
   lastname: Knirck
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: StefanKnirck
+  attendance_type: In person
 - firstname: Lisa
   lastname: Koerner
-  attendance_type: Virtual
   affiliation: University of Houston
   position: Faculty
+  fullname: LisaKoerner
+  attendance_type: Virtual
 - firstname: Yury
   lastname: Kolomensky
-  attendance_type: In person
   affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Faculty
+  fullname: YuryKolomensky
+  attendance_type: In person
 - firstname: Charis Kleio
   lastname: Koraka
-  attendance_type: In person
   affiliation: University of Wisconsin, Madison
   position: Postdoc
+  fullname: Charis KleioKoraka
+  attendance_type: In person
 - firstname: Andrey
   lastname: Korytov
-  attendance_type: In person
   affiliation: University of Florida
   position: Faculty
+  fullname: AndreyKorytov
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Kotcher
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: JonathanKotcher
+  attendance_type: In person
 - firstname: Ashutosh
   lastname: Kotwal
-  attendance_type: In person
   affiliation: Duke University
   position: Faculty
+  fullname: AshutoshKotwal
+  attendance_type: In person
 - firstname: Claudius
   lastname: Krause
-  attendance_type: In person
   affiliation: Rutgers University
   position: Postdoc
+  fullname: ClaudiusKrause
+  attendance_type: In person
 - firstname: Graham
   lastname: Kribs
-  attendance_type: In person
   affiliation: University of Oregon
   position: Faculty
+  fullname: GrahamKribs
+  attendance_type: In person
 - firstname: Georgios
   lastname: Krintiras
-  attendance_type: In person
   affiliation: The University of Kansas
   position: Postdoc
+  fullname: GeorgiosKrintiras
+  attendance_type: In person
 - firstname: Andreas
   lastname: Kronfeld
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AndreasKronfeld
+  attendance_type: In person
 - firstname: Donna
   lastname: Kubik
-  attendance_type: Virtual
   affiliation: Fermilab
   position: 'Other:: Engr. Physicist'
+  fullname: DonnaKubik
+  attendance_type: Virtual
 - firstname: Doga
   lastname: Kurkcuoglu
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: DogaKurkcuoglu
+  attendance_type: In person
 - firstname: Robert
   lastname: Kutschke
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Lab  Scientist'
+  fullname: RobertKutschke
+  attendance_type: In person
 - firstname: Thomas
   lastname: Kutter
-  attendance_type: In person
   affiliation: Louisiana State University
   position: Faculty
+  fullname: ThomasKutter
+  attendance_type: In person
 - firstname: Olga
   lastname: Kyzylova
-  attendance_type: In person
   affiliation: Virginia Tech
   position: Postdoc
+  fullname: OlgaKyzylova
+  attendance_type: In person
 - firstname: Joshua
   lastname: Labounty
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: JoshuaLabounty
+  attendance_type: In person
 - firstname: Teresa
   lastname: Lackey
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: TeresaLackey
+  attendance_type: In person
 - firstname: Henry
   lastname: Lamm
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: HenryLamm
+  attendance_type: In person
 - firstname: Eric
   lastname: Lancon
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: EricLancon
+  attendance_type: In person
 - firstname: David
   lastname: Lange
-  attendance_type: In person
   affiliation: Princeton University
   position: Research Scientist
+  fullname: DavidLange
+  attendance_type: In person
 - firstname: Andrew
   lastname: Lankford
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: AndrewLankford
+  attendance_type: In person
 - firstname: Michael
   lastname: Leary
-  attendance_type: In person
   affiliation: University of Georgia , Department of Energy
   position: Student
+  fullname: MichaelLeary
+  attendance_type: In person
 - firstname: Richard
   lastname: Lebed
-  attendance_type: In person
   affiliation: Arizona State University
   position: Faculty
+  fullname: RichardLebed
+  attendance_type: In person
 - firstname: Claire
   lastname: Lee
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: ClaireLee
+  attendance_type: In person
 - firstname: Lawrence
   lastname: Lee
-  attendance_type: In person
   affiliation: University of Tennessee, Knoxville
   position: Faculty
+  fullname: LawrenceLee
+  attendance_type: In person
 - firstname: Charles
   lastname: Leggett
-  attendance_type: Virtual
   affiliation: LBNL
   position: Research Scientist
+  fullname: CharlesLeggett
+  attendance_type: Virtual
 - firstname: Erik
   lastname: Lentz
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Postdoc
+  fullname: ErikLentz
+  attendance_type: In person
 - firstname: Kevin
   lastname: Lesko
-  attendance_type: Virtual
   affiliation: LBL
   position: Faculty
+  fullname: KevinLesko
+  attendance_type: Virtual
 - firstname: Michael
   lastname: Levi
-  attendance_type: In person
   affiliation: Berkeley Lab
   position: Research Scientist
+  fullname: MichaelLevi
+  attendance_type: In person
 - firstname: Ian
   lastname: Lewis
-  attendance_type: Virtual
   affiliation: University of Kansas
   position: Faculty
+  fullname: IanLewis
+  attendance_type: Virtual
 - firstname: Jonathan
   lastname: Leyva
-  attendance_type: In person
   affiliation: Northeastern University
   position: Student
+  fullname: JonathanLeyva
+  attendance_type: In person
 - firstname: Derun
   lastname: Li
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: DerunLi
+  attendance_type: In person
 - firstname: Ke
   lastname: Li
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: KeLi
+  attendance_type: In person
 - firstname: Lingfeng
   lastname: Li
-  attendance_type: In person
   affiliation: Brown University
   position: Postdoc
+  fullname: LingfengLi
+  attendance_type: In person
 - firstname: Wei
   lastname: Li
-  attendance_type: In person
   affiliation: Rice University
   position: Faculty
+  fullname: WeiLi
+  attendance_type: In person
 - firstname: Xiaoyue
   lastname: Li
-  attendance_type: Virtual
   affiliation: TRIUMF
   position: Research Scientist
+  fullname: XiaoyueLi
+  attendance_type: Virtual
 - firstname: Huey-Wen
   lastname: Lin
-  attendance_type: In person
   affiliation: Michigan State University
   position: Faculty
+  fullname: Huey-WenLin
+  attendance_type: In person
 - firstname: Meifeng
   lastname: Lin
-  attendance_type: Virtual
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: MeifengLin
+  attendance_type: Virtual
 - firstname: Jiahong
   lastname: Ling
-  attendance_type: In person
   affiliation: Harvard University
   position: Student
+  fullname: JiahongLing
+  attendance_type: In person
 - firstname: Elliot
   lastname: Lipeles
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Faculty
+  fullname: ElliotLipeles
+  attendance_type: In person
 - firstname: Hugh
   lastname: Lippincott
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+  fullname: HughLippincott
+  attendance_type: In person
 - firstname: Ronald
   lastname: Lipton
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: RonaldLipton
+  attendance_type: In person
 - firstname: Laurence
   lastname: Littenberg
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: 'Other:: DOE detailee'
+  fullname: LaurenceLittenberg
+  attendance_type: In person
 - firstname: Bryce
   lastname: Littlejohn
-  attendance_type: In person
   affiliation: Illinois Institute of Technology
   position: Faculty
+  fullname: BryceLittlejohn
+  attendance_type: In person
 - firstname: Xiaohan
   lastname: Liu
-  attendance_type: In person
   affiliation: University of Washington, Department of Electrical & Computer Engineering
   position: Student
+  fullname: XiaohanLiu
+  attendance_type: In person
 - firstname: Zhen
   lastname: Liu
-  attendance_type: In person
   affiliation: University of Minnesota
   position: Faculty
+  fullname: ZhenLiu
+  attendance_type: In person
 - firstname: Ben
   lastname: Loer
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: BenLoer
+  attendance_type: In person
 - firstname: Xinchou
   lastname: Lou
-  attendance_type: In person
   affiliation: IHEP and UT Dallas
   position: Faculty
+  fullname: XinchouLou
+  attendance_type: In person
 - firstname: Jeremy
   lastname: Love
-  attendance_type: In person
   affiliation: US Department of Energy
   position: 'Other:: Program Manager'
+  fullname: JeremyLove
+  attendance_type: In person
 - firstname: Marilena
   lastname: Loverde
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: MarilenaLoverde
+  attendance_type: In person
 - firstname: Xueying
   lastname: Lu
-  attendance_type: In person
   affiliation: Northern Illinois University/Argonne National Laboratory
   position: Faculty
+  fullname: XueyingLu
+  attendance_type: In person
 - firstname: Henry
   lastname: Lubatti
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: HenryLubatti
+  attendance_type: In person
 - firstname: Donatella
   lastname: Lucchesi
-  attendance_type: In person
   affiliation: University and INFN of Padova
   position: Faculty
+  fullname: DonatellaLucchesi
+  attendance_type: In person
 - firstname: Steven
   lastname: Lund
-  attendance_type: In person
   affiliation: Michigan State University/US Particle Accelerator School
   position: Faculty
+  fullname: StevenLund
+  attendance_type: In person
 - firstname: Tianhuan
   lastname: Luo
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: TianhuanLuo
+  attendance_type: In person
 - firstname: Xiao
   lastname: Luo
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Faculty
+  fullname: XiaoLuo
+  attendance_type: In person
 - firstname: Jamie
   lastname: Luskin
-  attendance_type: In person
   affiliation: California Institute of Technology (JPL)
   position: Student
+  fullname: JamieLuskin
+  attendance_type: In person
 - firstname: Joseph
   lastname: Lykken
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: JosephLykken
+  attendance_type: In person
 - firstname: Kevin
   lastname: Lynch
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: KevinLynch
+  attendance_type: Virtual
 - firstname: Morgan
   lastname: Lynn
-  attendance_type: In person
   affiliation: University of Chicago/Fermilab
   position: Student
+  fullname: MorganLynn
+  attendance_type: In person
 - firstname: Adam
   lastname: Lyon
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AdamLyon
+  attendance_type: Virtual
 - firstname: Hong
   lastname: Ma
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: HongMa
+  attendance_type: In person
 - firstname: Yang
   lastname: Ma
-  attendance_type: In person
   affiliation: University of Pittsburgh
   position: Student
+  fullname: YangMa
+  attendance_type: In person
 - firstname: Kendall
   lastname: Mahn
-  attendance_type: In person
   affiliation: Michigan State University
   position: Faculty
+  fullname: KendallMahn
+  attendance_type: In person
 - firstname: Sudhir
   lastname: Malik
-  attendance_type: In person
   affiliation: University of Puerto Rico Mayaguez
   position: Faculty
+  fullname: SudhirMalik
+  attendance_type: In person
 - firstname: Fabio
   lastname: Maltoni
-  attendance_type: In person
   affiliation: UCLouvain/UniBO
   position: Faculty
+  fullname: FabioMaltoni
+  attendance_type: In person
 - firstname: Rachel
   lastname: Mandelbaum
-  attendance_type: Virtual
   affiliation: Carnegie Mellon University
   position: Faculty
+  fullname: RachelMandelbaum
+  attendance_type: Virtual
 - firstname: Roberto
   lastname: Mandujano
-  attendance_type: In person
   affiliation: UC Irvine
   position: Student
+  fullname: RobertoMandujano
+  attendance_type: In person
 - firstname: Michelangelo
   lastname: Mangano
-  attendance_type: In person
   affiliation: CERN-TH
   position: Research Scientist
+  fullname: MichelangeloMangano
+  attendance_type: In person
 - firstname: Steven
   lastname: Manly
-  attendance_type: In person
   affiliation: University of Rochester
   position: Faculty
+  fullname: StevenManly
+  attendance_type: In person
 - firstname: Jeremiah
   lastname: Mans
-  attendance_type: In person
   affiliation: University of Minnesota
   position: Faculty
+  fullname: JeremiahMans
+  attendance_type: In person
 - firstname: Alysia
   lastname: Marino
-  attendance_type: In person
   affiliation: University of Colorado Boulder
   position: Faculty
+  fullname: AlysiaMarino
+  attendance_type: In person
 - firstname: Chris
   lastname: Marshall
-  attendance_type: In person
   affiliation: University of Rochester
   position: Faculty
+  fullname: ChrisMarshall
+  attendance_type: In person
 - firstname: Reina
   lastname: Maruyama
-  attendance_type: In person
   affiliation: Yale University
   position: Faculty
+  fullname: ReinaMaruyama
+  attendance_type: In person
 - firstname: Timothy
   lastname: Mathew
-  attendance_type: In person
   affiliation: University of Oregon
   position: Student
+  fullname: TimothyMathew
+  attendance_type: In person
 - firstname: Simone
   lastname: Mazza
-  attendance_type: In person
   affiliation: UC Santa Cruz
   position: Postdoc
+  fullname: SimoneMazza
+  attendance_type: In person
 - firstname: Anna
   lastname: Mazzacane
-  attendance_type: Virtual
   affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
+  fullname: AnnaMazzacane
+  attendance_type: Virtual
 - firstname: Patricia
   lastname: Mcbride
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: PatriciaMcbride
+  attendance_type: In person
 - firstname: Kevin
   lastname: Mcfarland-Porter
-  attendance_type: In person
   affiliation: University of Rochester
   position: Faculty
+  fullname: KevinMcfarland-Porter
+  attendance_type: In person
 - firstname: Navin
   lastname: Mcginnis
-  attendance_type: In person
   affiliation: TRIUMF
   position: Postdoc
+  fullname: NavinMcginnis
+  attendance_type: In person
 - firstname: Peter
   lastname: Mcintyre
-  attendance_type: In person
   affiliation: Texas A&M University
   position: Faculty
+  fullname: PeterMcintyre
+  attendance_type: In person
 - firstname: Shawn
   lastname: Mckee
-  attendance_type: Virtual
   affiliation: University of Michigan
   position: Research Scientist
+  fullname: ShawnMckee
+  attendance_type: Virtual
 - firstname: David
   lastname: Mckeen
-  attendance_type: In person
   affiliation: TRIUMF
   position: Faculty
+  fullname: DavidMckeen
+  attendance_type: In person
 - firstname: Christine
   lastname: Mclean
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: ChristineMclean
+  attendance_type: In person
 - firstname: Jeff
   lastname: Mcmahon
-  attendance_type: In person
   affiliation: University of Chicago/Fermilab
   position: Faculty
+  fullname: JeffMcmahon
+  attendance_type: In person
 - firstname: Patrick
   lastname: Meade
-  attendance_type: In person
   affiliation: Stony Brook University
   position: Faculty
+  fullname: PatrickMeade
+  attendance_type: In person
 - firstname: Stefan
   lastname: Meinel
-  attendance_type: In person
   affiliation: University of Arizona
   position: Faculty
+  fullname: StefanMeinel
+  attendance_type: In person
 - firstname: Petra
   lastname: Merkel
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: PetraMerkel
+  attendance_type: In person
 - firstname: Lia
   lastname: Merminga
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Lab Director'
+  fullname: LiaMerminga
+  attendance_type: In person
 - firstname: Mark
   lastname: Messier
-  attendance_type: In person
   affiliation: Indiana University
   position: Faculty
+  fullname: MarkMessier
+  attendance_type: In person
 - firstname: Andrew
   lastname: Meyer
-  attendance_type: In person
   affiliation: University of Hawaii at Manoa
   position: Student
+  fullname: AndrewMeyer
+  attendance_type: In person
 - firstname: Joel
   lastname: Meyers
-  attendance_type: In person
   affiliation: Southern Methodist University
   position: Faculty
+  fullname: JoelMeyers
+  attendance_type: In person
 - firstname: David
   lastname: Miller
-  attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+  fullname: DavidMiller
+  attendance_type: In person
 - firstname: Michiko
   lastname: Minty
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: MichikoMinty
+  attendance_type: In person
 - firstname: Vivian
   lastname: Miranda
-  attendance_type: In person
   affiliation: Stony Brook University
   position: Faculty
+  fullname: VivianMiranda
+  attendance_type: In person
 - firstname: Kirtimaan
   lastname: Mohan
-  attendance_type: In person
   affiliation: Michigan State University
   position: Faculty
+  fullname: KirtimaanMohan
+  attendance_type: In person
 - firstname: Tanaz
   lastname: Mohayai
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: TanazMohayai
+  attendance_type: In person
 - firstname: Adam
   lastname: Molnar
-  attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Student
+  fullname: AdamMolnar
+  attendance_type: In person
 - firstname: Claudio Silverio
   lastname: Montanari
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: Claudio SilverioMontanari
+  attendance_type: In person
 - firstname: Alessandro
   lastname: Montella
-  attendance_type: In person
   affiliation: INFN, Trieste
   position: Student
+  fullname: AlessandroMontella
+  attendance_type: In person
 - firstname: Maria Elena
   lastname: Monzani
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: Maria ElenaMonzani
+  attendance_type: In person
 - firstname: Toshinori
   lastname: Mori
-  attendance_type: In person
   affiliation: The University of Tokyo
   position: Faculty
+  fullname: ToshinoriMori
+  attendance_type: In person
 - firstname: William
   lastname: Morse
-  attendance_type: Virtual
   affiliation: BNL
   position: Research Scientist
+  fullname: WilliamMorse
+  attendance_type: Virtual
 - firstname: Ian
   lastname: Moult
-  attendance_type: In person
   affiliation: Yale University
   position: Faculty
+  fullname: IanMoult
+  attendance_type: In person
 - firstname: Brianna
   lastname: Mount
-  attendance_type: In person
   affiliation: Black Hills State University
   position: Faculty
+  fullname: BriannaMount
+  attendance_type: In person
 - firstname: Berndt
   lastname: Mueller
-  attendance_type: Virtual
   affiliation: Duke University
   position: Faculty
+  fullname: BerndtMueller
+  attendance_type: Virtual
 - firstname: Pieter
   lastname: Mumm
-  attendance_type: In person
   affiliation: National Institute of Standards and Technology
   position: Research Scientist
+  fullname: PieterMumm
+  attendance_type: In person
 - firstname: Ferah
   lastname: Munshi
-  attendance_type: Virtual
   affiliation: OU/GMU
   position: Faculty
+  fullname: FerahMunshi
+  attendance_type: Virtual
 - firstname: Pavel
   lastname: Murat
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: PavelMurat
+  attendance_type: In person
 - firstname: Hitoshi
   lastname: Murayama
-  attendance_type: In person
   affiliation: UC Berkeley/Kavli IPMU
   position: Faculty
+  fullname: HitoshiMurayama
+  attendance_type: In person
 - firstname: Alex
   lastname: Murokh
-  attendance_type: In person
   affiliation: RadiaBeam Technologies, LLC.
   position: Research Scientist
+  fullname: AlexMurokh
+  attendance_type: In person
 - firstname: Pietro
   lastname: Musumeci
-  attendance_type: In person
   affiliation: UC Los Angeles
   position: Faculty
+  fullname: PietroMusumeci
+  attendance_type: In person
 - firstname: Marco
   lastname: Muzio
-  attendance_type: In person
   affiliation: Penn State University
   position: Postdoc
+  fullname: MarcoMuzio
+  attendance_type: In person
 - firstname: Benjamin
   lastname: Nachman
-  attendance_type: Virtual
   affiliation: Berkeley Lab
   position: Research Scientist
+  fullname: BenjaminNachman
+  attendance_type: Virtual
 - firstname: Pavel
   lastname: Nadolsky
-  attendance_type: In person
   affiliation: Southern Methodist University
   position: Faculty
+  fullname: PavelNadolsky
+  attendance_type: In person
 - firstname: Sergei
   lastname: Nagaitsev
-  attendance_type: In person
   affiliation: Fermilab/University of Chicago
   position: Research Scientist
+  fullname: SergeiNagaitsev
+  attendance_type: In person
 - firstname: Daniel
   lastname: Nagasawa
-  attendance_type: In person
   affiliation: National Academy of Sciences
   position: 'Other:: Program Officer'
+  fullname: DanielNagasawa
+  attendance_type: In person
 - firstname: Steve
   lastname: Nahn
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: SteveNahn
+  attendance_type: In person
 - firstname: Tatsuya
   lastname: Nakada
-  attendance_type: In person
   affiliation: EPFL
   position: Prefer not to answer
+  fullname: TatsuyaNakada
+  attendance_type: In person
 - firstname: Jurina
   lastname: Nakajima
-  attendance_type: In person
   affiliation: SOKENDAI/KEK
   position: Student
+  fullname: JurinaNakajima
+  attendance_type: In person
 - firstname: Emilio
   lastname: Nanni
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
+  fullname: EmilioNanni
+  attendance_type: In person
 - firstname: Meenakshi
   lastname: Narain
-  attendance_type: In person
   affiliation: Brown University
   position: Faculty
+  fullname: MeenakshiNarain
+  attendance_type: In person
 - firstname: Shinya
   lastname: Narita
-  attendance_type: Virtual
   affiliation: Iwate University
   position: Faculty
+  fullname: ShinyaNarita
+  attendance_type: Virtual
 - firstname: Alireza
   lastname: Nassiri
-  attendance_type: In person
   affiliation: Argonne National Laboratory/Michigan State University
   position: Research Scientist
+  fullname: AlirezaNassiri
+  attendance_type: In person
 - firstname: Ethan
   lastname: Neil
-  attendance_type: In person
   affiliation: University of Colorado Boulder
   position: Faculty
+  fullname: EthanNeil
+  attendance_type: In person
 - firstname: Laura
   lastname: Newburgh
-  attendance_type: Virtual
   affiliation: Yale University
   position: Faculty
+  fullname: LauraNewburgh
+  attendance_type: Virtual
 - firstname: Robert
   lastname: Newby
-  attendance_type: In person
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: RobertNewby
+  attendance_type: In person
 - firstname: Mitch
   lastname: Newcomer
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Research Scientist
+  fullname: MitchNewcomer
+  attendance_type: In person
 - firstname: Harvey
   lastname: Newman
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+  fullname: HarveyNewman
+  attendance_type: In person
 - firstname: Jeffrey
   lastname: Newman
-  attendance_type: In person
   affiliation: University of Pittsburgh/PITT PACC
   position: Faculty
+  fullname: JeffreyNewman
+  attendance_type: In person
 - firstname: Xiaochen
   lastname: Ni
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: XiaochenNi
+  attendance_type: In person
 - firstname: Jason
   lastname: Nielsen
-  attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Faculty
+  fullname: JasonNielsen
+  attendance_type: In person
 - firstname: Laura
   lastname: Nosler
-  attendance_type: In person
   affiliation: University of Oregon
   position: Student
+  fullname: LauraNosler
+  attendance_type: In person
 - firstname: Elise
   lastname: Novitski
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: EliseNovitski
+  attendance_type: In person
 - firstname: Noah
   lastname: Oblath
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: NoahOblath
+  attendance_type: In person
 - firstname: J. Pedro
   lastname: Ochoa-Ricoux
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: J. PedroOchoa-Ricoux
+  attendance_type: In person
 - firstname: Piermaria
   lastname: Oddone
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Director Emeritus'
+  fullname: PiermariaOddone
+  attendance_type: In person
 - firstname: Jan
   lastname: Offermann
-  attendance_type: In person
   affiliation: University of Chicago
   position: Student
+  fullname: JanOffermann
+  attendance_type: In person
 - firstname: Haejun
   lastname: Oh
-  attendance_type: In person
   affiliation: University of Cincinnati - Department of Physics
   position: Student
+  fullname: HaejunOh
+  attendance_type: In person
 - firstname: Isabel
   lastname: Ojalvo
-  attendance_type: In person
   affiliation: Princeton University
   position: Faculty
+  fullname: IsabelOjalvo
+  attendance_type: In person
 - firstname: Yasuhiro
   lastname: Okada
-  attendance_type: In person
   affiliation: KEK
   position: Research Scientist
+  fullname: YasuhiroOkada
+  attendance_type: In person
 - firstname: Yuri
   lastname: Oksuzian
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: YuriOksuzian
+  attendance_type: In person
 - firstname: Peter
   lastname: Onyisi
-  attendance_type: In person
   affiliation: University of Texas at Austin
   position: Faculty
+  fullname: PeterOnyisi
+  attendance_type: In person
 - firstname: Gabriel D.
   lastname: Orebi Gann
-  attendance_type: In person
   affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Faculty
+  fullname: Gabriel D.Orebi Gann
+  attendance_type: In person
 - firstname: John
   lastname: Orrell
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: JohnOrrell
+  attendance_type: In person
 - firstname: Jens
   lastname: Osterhoff
-  attendance_type: In person
   affiliation: DESY
   position: Prefer not to answer
+  fullname: JensOsterhoff
+  attendance_type: In person
 - firstname: Jennifer
   lastname: Ott
-  attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Postdoc
+  fullname: JenniferOtt
+  attendance_type: In person
 - firstname: Nepomuk
   lastname: Otte
-  attendance_type: In person
   affiliation: Georgia Tech
   position: Faculty
+  fullname: NepomukOtte
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Ouellet
-  attendance_type: In person
   affiliation: Massachusetts Institute of Technology
   position: Research Scientist
+  fullname: JonathanOuellet
+  attendance_type: In person
 - firstname: Erin
   lastname: O’Sullivan
-  attendance_type: In person
   affiliation: Uppsala University
   position: Faculty
+  fullname: ErinO’Sullivan
+  attendance_type: In person
 - firstname: Katherine
   lastname: Pachal
-  attendance_type: In person
   affiliation: TRIUMF
   position: Research Scientist
+  fullname: KatherinePachal
+  attendance_type: In person
 - firstname: Simone
   lastname: Pagan Griso
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: SimonePagan Griso
+  attendance_type: In person
 - firstname: Nathalie
   lastname: Palanque-Delabrouille
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: NathaliePalanque-Delabrouille
+  attendance_type: In person
 - firstname: Jonathan
   lastname: Paley
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JonathanPaley
+  attendance_type: In person
 - firstname: Victoria
   lastname: Palmaccio
-  attendance_type: In person
   affiliation: Temple University
   position: Student
+  fullname: VictoriaPalmaccio
+  attendance_type: In person
 - firstname: Mark
   lastname: Palmer
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: 'Other:: Facility Director'
+  fullname: MarkPalmer
+  attendance_type: In person
 - firstname: Vishvas
   lastname: Pandey
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Faculty
+  fullname: VishvasPandey
+  attendance_type: Virtual
 - firstname: Angela
   lastname: Papa
-  attendance_type: In person
   affiliation: PSI&UniPi/INFN
   position: Research Scientist
+  fullname: AngelaPapa
+  attendance_type: In person
 - firstname: Vaia
   lastname: Papadimitriou
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: VaiaPapadimitriou
+  attendance_type: In person
 - firstname: Adam
   lastname: Para
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AdamPara
+  attendance_type: Virtual
 - firstname: Brett
   lastname: Parker
-  attendance_type: Virtual
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: BrettParker
+  attendance_type: Virtual
 - firstname: Diana
   lastname: Parno
-  attendance_type: In person
   affiliation: Carnegie Mellon University
   position: Faculty
+  fullname: DianaParno
+  attendance_type: In person
 - firstname: John
   lastname: Parsons
-  attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+  fullname: JohnParsons
+  attendance_type: In person
 - firstname: Nathaniel
   lastname: Pastika
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: NathanielPastika
+  attendance_type: In person
 - firstname: Saori
   lastname: Pastore
-  attendance_type: In person
   affiliation: Washington University in St. Louis
   position: Faculty
+  fullname: SaoriPastore
+  attendance_type: In person
 - firstname: Nadia
   lastname: Pastrone
-  attendance_type: In person
   affiliation: INFN, Torino
   position: Research Scientist
+  fullname: NadiaPastrone
+  attendance_type: In person
 - firstname: Ritchie
   lastname: Patterson
-  attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+  fullname: RitchiePatterson
+  attendance_type: In person
 - firstname: Abid
   lastname: Patwa
-  attendance_type: In person
   affiliation: US Department of Energy
   position: Prefer not to answer
+  fullname: AbidPatwa
+  attendance_type: In person
 - firstname: Amol
   lastname: Patwardhan
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Postdoc
+  fullname: AmolPatwardhan
+  attendance_type: In person
 - firstname: Manfred
   lastname: Paulini
-  attendance_type: In person
   affiliation: Carnegie Mellon University
   position: Faculty
+  fullname: ManfredPaulini
+  attendance_type: In person
 - firstname: Gil
   lastname: Paz
-  attendance_type: In person
   affiliation: Wayne State University
   position: Faculty
+  fullname: GilPaz
+  attendance_type: In person
 - firstname: Ben
   lastname: Pearson
-  attendance_type: In person
   affiliation: Northwest Nazarene University
   position: Faculty
+  fullname: BenPearson
+  attendance_type: In person
 - firstname: Kevin
   lastname: Pedro
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: KevinPedro
+  attendance_type: In person
 - firstname: Frederique
   lastname: Pellemoine
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: FrederiquePellemoine
+  attendance_type: Virtual
 - firstname: William
   lastname: Pellico
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: WilliamPellico
+  attendance_type: In person
 - firstname: Cristián
   lastname: Peña
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Scientist'
+  fullname: CristiánPeña
+  attendance_type: In person
 - firstname: Gabriel
   lastname: Perdue
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GabrielPerdue
+  attendance_type: Virtual
 - firstname: Daniel
   lastname: Pershey
-  attendance_type: In person
   affiliation: Duke University
   position: Postdoc
+  fullname: DanielPershey
+  attendance_type: In person
 - firstname: Michael
   lastname: Peskin
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: MichaelPeskin
+  attendance_type: In person
 - firstname: Annika
   lastname: Peter
-  attendance_type: In person
   affiliation: The Ohio State University
   position: Faculty
+  fullname: AnnikaPeter
+  attendance_type: In person
 - firstname: Christina
   lastname: Peters
-  attendance_type: In person
   affiliation: University of Delaware
   position: Postdoc
+  fullname: ChristinaPeters
+  attendance_type: In person
 - firstname: Nicholas
   lastname: Peters
-  attendance_type: Virtual
   affiliation: Oak Ridge National Laboratory
   position: Research Scientist
+  fullname: NicholasPeters
+  attendance_type: Virtual
 - firstname: Frank
   lastname: Petriello
-  attendance_type: In person
   affiliation: Argonne National Laboratory/Northwestern University
   position: Faculty
+  fullname: FrankPetriello
+  attendance_type: In person
 - firstname: Alexey
   lastname: Petrov
-  attendance_type: In person
   affiliation: Wayne State University
   position: Faculty
+  fullname: AlexeyPetrov
+  attendance_type: In person
 - firstname: Leon
   lastname: Pickard
-  attendance_type: In person
   affiliation: UC Davis
   position: Postdoc
+  fullname: LeonPickard
+  attendance_type: In person
 - firstname: Kevin
   lastname: Pitts
-  attendance_type: In person
   affiliation: Virginia Tech
   position: Faculty
+  fullname: KevinPitts
+  attendance_type: In person
 - firstname: David
   lastname: Poland
-  attendance_type: Virtual
   affiliation: Yale University
   position: Faculty
+  fullname: DavidPoland
+  attendance_type: Virtual
 - firstname: Charles
   lastname: Polly
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: CharlesPolly
+  attendance_type: In person
 - firstname: Frank
   lastname: Porter
-  attendance_type: Virtual
   affiliation: Caltech
   position: Faculty
+  fullname: FrankPorter
+  attendance_type: Virtual
 - firstname: Sam
   lastname: Posen
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: SamPosen
+  attendance_type: In person
 - firstname: John
   lastname: Power
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: JohnPower
+  attendance_type: In person
 - firstname: Eduard
   lastname: Pozdeyev
-  attendance_type: In person
   affiliation: Fermilab
   position: Prefer not to answer
+  fullname: EduardPozdeyev
+  attendance_type: In person
 - firstname: Eric
   lastname: Prebys
-  attendance_type: In person
   affiliation: UC Davis
   position: Faculty
+  fullname: EricPrebys
+  attendance_type: In person
 - firstname: Chanda
   lastname: Prescod-Weinstein
-  attendance_type: In person
   affiliation: University of New Hampshire
   position: Faculty
+  fullname: ChandaPrescod-Weinstein
+  attendance_type: In person
 - firstname: Soren
   lastname: Prestemon
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: SorenPrestemon
+  attendance_type: In person
 - firstname: Mason
   lastname: Proffitt
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: MasonProffitt
+  attendance_type: In person
 - firstname: Steven
   lastname: Prohira
-  attendance_type: Virtual
   affiliation: University of Kansas
   position: Faculty
+  fullname: StevenProhira
+  attendance_type: Virtual
 - firstname: Vitaly
   lastname: Pronskikh
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: VitalyPronskikh
+  attendance_type: Virtual
 - firstname: Fernanda
   lastname: Psihas
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: FernandaPsihas
+  attendance_type: In person
 - firstname: Silviu
   lastname: Pufu
-  attendance_type: In person
   affiliation: Princeton University
   position: Faculty
+  fullname: SilviuPufu
+  attendance_type: In person
 - firstname: Xin
   lastname: Qian
-  attendance_type: Virtual
   affiliation: Brookhaven National Laboratory
   position: Faculty
+  fullname: XinQian
+  attendance_type: Virtual
 - firstname: Ji
   lastname: Qiang
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: JiQiang
+  attendance_type: In person
 - firstname: Chris
   lastname: Quigg
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Emeritus'
+  fullname: ChrisQuigg
+  attendance_type: In person
 - firstname: Melissa
   lastname: Quinnan
-  attendance_type: In person
   affiliation: UC San Diego
   position: Postdoc
+  fullname: MelissaQuinnan
+  attendance_type: In person
 - firstname: Jennifer
   lastname: Raaf
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: JenniferRaaf
+  attendance_type: In person
 - firstname: Eliezer
   lastname: Rabinovici
-  attendance_type: In person
   affiliation: CERN/Hebrew U
   position: Faculty
+  fullname: EliezerRabinovici
+  attendance_type: In person
 - firstname: Jessica
   lastname: Rainbolt
-  attendance_type: In person
   affiliation: University of Chicago
   position: Student
+  fullname: JessicaRainbolt
+  attendance_type: In person
 - firstname: Srini
   lastname: Rajagopalan
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: SriniRajagopalan
+  attendance_type: In person
 - firstname: Miriama
   lastname: Rajaoalisoa
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Student
+  fullname: MiriamaRajaoalisoa
+  attendance_type: In person
 - firstname: Regina
   lastname: Rameika
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Laboratory Staff'
+  fullname: ReginaRameika
+  attendance_type: In person
 - firstname: Bryan
   lastname: Ramson
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: BryanRamson
+  attendance_type: In person
 - firstname: Tor
   lastname: Raubenheimer
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
+  fullname: TorRaubenheimer
+  attendance_type: In person
 - firstname: Ronald
   lastname: Ray
-  attendance_type: In person
   affiliation: Fermi National Accelerator Lab
   position: Prefer not to answer
+  fullname: RonaldRay
+  attendance_type: In person
 - firstname: Soamasina Herilala
   lastname: Razafinime
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Student
+  fullname: Soamasina HerilalaRazafinime
+  attendance_type: In person
 - firstname: Juergen
   lastname: Reichenbacher
-  attendance_type: In person
   affiliation: South Dakota Mines
   position: Faculty
+  fullname: JuergenReichenbacher
+  attendance_type: In person
 - firstname: Laura
   lastname: Reina
-  attendance_type: In person
   affiliation: Florida State University
   position: Faculty
+  fullname: LauraReina
+  attendance_type: In person
 - firstname: Yihui
   lastname: Ren
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: YihuiRen
+  attendance_type: In person
 - firstname: Francesco
   lastname: Renga
-  attendance_type: In person
   affiliation: INFN, Roma
   position: Research Scientist
+  fullname: FrancescoRenga
+  attendance_type: In person
 - firstname: Mary Hall
   lastname: Reno
-  attendance_type: In person
   affiliation: University of Iowa
   position: Faculty
+  fullname: Mary HallReno
+  attendance_type: In person
 - firstname: Kurt
   lastname: Riesselmann
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Public Information Officer'
+  fullname: KurtRiesselmann
+  attendance_type: In person
 - firstname: Adam
   lastname: Ritz
-  attendance_type: Virtual
   affiliation: University of Victoria
   position: Faculty
+  fullname: AdamRitz
+  attendance_type: Virtual
 - firstname: Steven
   lastname: Ritz
-  attendance_type: In person
   affiliation: UC Santa Cruz
   position: Faculty
+  fullname: StevenRitz
+  attendance_type: In person
 - firstname: Thomas
   lastname: Rizzo
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: ThomasRizzo
+  attendance_type: In person
 - firstname: Cristian
   lastname: Roca Catala
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
+  fullname: CristianRoca Catala
+  attendance_type: In person
 - firstname: Natalie
   lastname: Roe
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: 'Other:: Associate Laboratory Director'
+  fullname: NatalieRoe
+  attendance_type: In person
 - firstname: Amber
   lastname: Roepe-Gier
-  attendance_type: In person
   affiliation: George Mason University
   position: Student
+  fullname: AmberRoepe-Gier
+  attendance_type: In person
 - firstname: Chris
   lastname: Rogers
-  attendance_type: In person
   affiliation: Rutherford Appleton Laboratory
   position: Faculty
+  fullname: ChrisRogers
+  attendance_type: In person
 - firstname: Simona
   lastname: Rolli
-  attendance_type: In person
   affiliation: US Department of Energy
   position: Prefer not to answer
+  fullname: SimonaRolli
+  attendance_type: In person
 - firstname: Alexander
   lastname: Romanenko
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AlexanderRomanenko
+  attendance_type: Virtual
 - firstname: Aleksandr
   lastname: Romanov
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AleksandrRomanov
+  attendance_type: In person
 - firstname: Aaron
   lastname: Roodman
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: AaronRoodman
+  attendance_type: In person
 - firstname: Rogerio
   lastname: Rosenfeld
-  attendance_type: Virtual
   affiliation: IFT-UNESP/ICTP-SAIFR/LAA-HECAP
   position: Faculty
+  fullname: RogerioRosenfeld
+  attendance_type: Virtual
 - firstname: Thomas
   lastname: Roser
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: 'Other:: Emeritus Scientist'
+  fullname: ThomasRoser
+  attendance_type: In person
 - firstname: Mark
   lastname: Ross-Lonergan
-  attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Postdoc
+  fullname: MarkRoss-Lonergan
+  attendance_type: In person
 - firstname: Benjamin
   lastname: Rosser
-  attendance_type: In person
   affiliation: University of Chicago
   position: Postdoc
+  fullname: BenjaminRosser
+  attendance_type: In person
 - firstname: Giancarlo
   lastname: Rossi
-  attendance_type: Virtual
   affiliation: ''
   position: 'Other:: Honorary Professor'
+  fullname: GiancarloRossi
+  attendance_type: Virtual
 - firstname: Hardik
   lastname: Routray
-  attendance_type: In person
   affiliation: Rutgers University
   position: Student
+  fullname: HardikRoutray
+  attendance_type: In person
 - firstname: Randy
   lastname: Ruchti
-  attendance_type: Virtual
   affiliation: Notre Dame
   position: 'Other:: Emeritus Faculty'
+  fullname: RandyRuchti
+  attendance_type: Virtual
 - firstname: Matthew
   lastname: Rudolph
-  attendance_type: In person
   affiliation: Syracuse University
   position: Faculty
+  fullname: MatthewRudolph
+  attendance_type: In person
 - firstname: John
   lastname: Ruhl
-  attendance_type: In person
   affiliation: Case Western Reserve University
   position: Faculty
+  fullname: JohnRuhl
+  attendance_type: In person
 - firstname: Roger
   lastname: Rusack
-  attendance_type: In person
   affiliation: The University of Minnesota
   position: Faculty
+  fullname: RogerRusack
+  attendance_type: In person
 - firstname: Brooke
   lastname: Russell
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
+  fullname: BrookeRussell
+  attendance_type: In person
 - firstname: Gray
   lastname: Rybka
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: GrayRybka
+  attendance_type: In person
 - firstname: Gianluca
   lastname: Sabbi
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: GianlucaSabbi
+  attendance_type: In person
 - firstname: Marianna
   lastname: Safronova
-  attendance_type: In person
   affiliation: University of Delaware
   position: Faculty
+  fullname: MariannaSafronova
+  attendance_type: In person
 - firstname: Lab
   lastname: Saha
-  attendance_type: In person
   affiliation: Smithsonian Astrophysical Observatory
   position: Research Scientist
+  fullname: LabSaha
+  attendance_type: In person
 - firstname: Naohito
   lastname: Saito
-  attendance_type: In person
   affiliation: KEK / IPNS
   position: Faculty
+  fullname: NaohitoSaito
+  attendance_type: In person
 - firstname: Richard
   lastname: Saldanha
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: RichardSaldanha
+  attendance_type: In person
 - firstname: Mayly
   lastname: Sanchez
-  attendance_type: In person
   affiliation: Iowa State University
   position: Prefer not to answer
+  fullname: MaylySanchez
+  attendance_type: In person
 - firstname: Pearl
   lastname: Sandick
-  attendance_type: Virtual
   affiliation: University of Utah
   position: Faculty
+  fullname: PearlSandick
+  attendance_type: Virtual
 - firstname: Carlos
   lastname: Sarasty
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Student
+  fullname: CarlosSarasty
+  attendance_type: In person
 - firstname: Nathan
   lastname: Sayer
-  attendance_type: In person
   affiliation: Open Source Instruments
   position: 'Other:: NSF funded company'
+  fullname: NathanSayer
+  attendance_type: In person
 - firstname: Heidi
   lastname: Schellman
-  attendance_type: In person
   affiliation: Oregon State University
   position: Faculty
+  fullname: HeidiSchellman
+  attendance_type: In person
 - firstname: David
   lastname: Schlegel
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: DavidSchlegel
+  attendance_type: In person
 - firstname: Michael
   lastname: Schmitt
-  attendance_type: In person
   affiliation: Northwestern University
   position: Faculty
+  fullname: MichaelSchmitt
+  attendance_type: In person
 - firstname: David
   lastname: Schmitz
-  attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+  fullname: DavidSchmitz
+  attendance_type: In person
 - firstname: Kate
   lastname: Scholberg
-  attendance_type: In person
   affiliation: Duke University
   position: Faculty
+  fullname: KateScholberg
+  attendance_type: In person
 - firstname: Henry
   lastname: Schreiner
-  attendance_type: In person
   affiliation: Princeton University
   position: Research Scientist
+  fullname: HenrySchreiner
+  attendance_type: In person
 - firstname: Carl
   lastname: Schroeder
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: CarlSchroeder
+  attendance_type: In person
 - firstname: Anne
   lastname: Schukraft
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AnneSchukraft
+  attendance_type: Virtual
 - firstname: Philip
   lastname: Schuster
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: PhilipSchuster
+  attendance_type: In person
 - firstname: Alex
   lastname: Schuy
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: AlexSchuy
+  attendance_type: In person
 - firstname: Ariel
   lastname: Schwartzman
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: ArielSchwartzman
+  attendance_type: In person
 - firstname: Reinhard
   lastname: Schwienhorst
-  attendance_type: In person
   affiliation: Michigan State University
   position: Faculty
+  fullname: ReinhardSchwienhorst
+  attendance_type: In person
 - firstname: Neelima
   lastname: Sehgal
-  attendance_type: Virtual
   affiliation: Stony Brook University
   position: Faculty
+  fullname: NeelimaSehgal
+  attendance_type: Virtual
 - firstname: Yannis
   lastname: Semertizids
-  attendance_type: In person
   affiliation: Institute for Basic Science (CAPP/KAIST)
   position: Faculty
+  fullname: YannisSemertizids
+  attendance_type: In person
 - firstname: Elizabeth
   lastname: Sexton-Kennedy
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: ElizabethSexton-Kennedy
+  attendance_type: In person
 - firstname: Nausheen
   lastname: Shah
-  attendance_type: In person
   affiliation: Wayne State University
   position: Faculty
+  fullname: NausheenShah
+  attendance_type: In person
 - firstname: Jeff
   lastname: Shahinian
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Postdoc
+  fullname: JeffShahinian
+  attendance_type: In person
 - firstname: James
   lastname: Shank
-  attendance_type: In person
   affiliation: National Science Foundation
   position: 'Other:: Program Director'
+  fullname: JamesShank
+  attendance_type: In person
 - firstname: Shu-Heng
   lastname: Shao
-  attendance_type: In person
   affiliation: Stony Brook University
   position: Faculty
+  fullname: Shu-HengShao
+  attendance_type: In person
 - firstname: Sagar
   lastname: Sharma Poudel
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Postdoc
+  fullname: SagarSharma Poudel
+  attendance_type: In person
 - firstname: Brian
   lastname: Sheldon
-  attendance_type: In person
   affiliation: UC San Diego
   position: Student
+  fullname: BrianSheldon
+  attendance_type: In person
 - firstname: Tengming
   lastname: Shen
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: TengmingShen
+  attendance_type: In person
 - firstname: Marc
   lastname: Sher
-  attendance_type: Virtual
   affiliation: William & Mary
   position: Faculty
+  fullname: MarcSher
+  attendance_type: Virtual
 - firstname: Vladimir
   lastname: Shiltsev
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: VladimirShiltsev
+  attendance_type: In person
 - firstname: Savannah
   lastname: Shively
-  attendance_type: In person
   affiliation: UC Irvine (FASER)
   position: Student
+  fullname: SavannahShively
+  attendance_type: In person
 - firstname: Tom
   lastname: Shutt
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: TomShutt
+  attendance_type: In person
 - firstname: Rafael
   lastname: Silva Coutinho
-  attendance_type: In person
   affiliation: Syracuse University
   position: Faculty
+  fullname: RafaelSilva Coutinho
+  attendance_type: In person
 - firstname: Evgenya
   lastname: Simakov
-  attendance_type: In person
   affiliation: Los Alamos National Laboratory
   position: Research Scientist
+  fullname: EvgenyaSimakov
+  attendance_type: In person
 - firstname: Elizabeth
   lastname: Simmons
-  attendance_type: In person
   affiliation: UC San Diego
   position: Faculty
+  fullname: ElizabethSimmons
+  attendance_type: In person
 - firstname: Frank
   lastname: Simon
-  attendance_type: In person
   affiliation: Max-Planck-Institute for Physics
   position: Research Scientist
+  fullname: FrankSimon
+  attendance_type: In person
 - firstname: Sara
   lastname: Simon
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: SaraSimon
+  attendance_type: In person
 - firstname: James
   lastname: Simone
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JamesSimone
+  attendance_type: Virtual
 - firstname: James
   lastname: Sinnis
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: JamesSinnis
+  attendance_type: In person
 - firstname: Louise
   lastname: Skinnari
-  attendance_type: Virtual
   affiliation: Northeastern University
   position: Faculty
+  fullname: LouiseSkinnari
+  attendance_type: Virtual
 - firstname: Tomasz
   lastname: Skwarnicki
-  attendance_type: In person
   affiliation: Syracuse University
   position: Faculty
+  fullname: TomaszSkwarnicki
+  attendance_type: In person
 - firstname: Tracy
   lastname: Slatyer
-  attendance_type: In person
   affiliation: Massachusetts Institute of Technology
   position: Faculty
+  fullname: TracySlatyer
+  attendance_type: In person
 - firstname: Emily
   lastname: Smith
-  attendance_type: In person
   affiliation: University of Chicago
   position: Student
+  fullname: EmilySmith
+  attendance_type: In person
 - firstname: Scott
   lastname: Snyder
-  attendance_type: Virtual
   affiliation: BNL
   position: Faculty
+  fullname: ScottSnyder
+  attendance_type: Virtual
 - firstname: Marcelle
   lastname: Soares-Santos
-  attendance_type: In person
   affiliation: University of Michigan
   position: Faculty
+  fullname: MarcelleSoares-Santos
+  attendance_type: In person
 - firstname: Stefano Roberto
   lastname: Soleti
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
+  fullname: Stefano RobertoSoleti
+  attendance_type: In person
 - firstname: Mikhail
   lastname: Solon
-  attendance_type: In person
   affiliation: UC Los Angeles
   position: Faculty
+  fullname: MikhailSolon
+  attendance_type: In person
 - firstname: Andrew
   lastname: Sonnenschein
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AndrewSonnenschein
+  attendance_type: In person
 - firstname: Paul
   lastname: Sorensen
-  attendance_type: In person
   affiliation: US Department of Energy
   position: 'Other:: Program Manager'
+  fullname: PaulSorensen
+  attendance_type: In person
 - firstname: Alexandre
   lastname: Sousa
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Faculty
+  fullname: AlexandreSousa
+  attendance_type: In person
 - firstname: Danielle
   lastname: Speller
-  attendance_type: Virtual
   affiliation: Johns Hopkins
   position: Faculty
+  fullname: DanielleSpeller
+  attendance_type: Virtual
 - firstname: Panagiotis
   lastname: Spentzouris
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: PanagiotisSpentzouris
+  attendance_type: Virtual
 - firstname: Maria
   lastname: Spiropulu
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Faculty
+  fullname: MariaSpiropulu
+  attendance_type: In person
 - firstname: Yevgeny
   lastname: Stadnik
-  attendance_type: In person
   affiliation: The University of Sydney
   position: Prefer not to answer
+  fullname: YevgenyStadnik
+  attendance_type: In person
 - firstname: Giulio
   lastname: Stancari
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GiulioStancari
+  attendance_type: Virtual
 - firstname: Steinar
   lastname: Stapnes
-  attendance_type: In person
   affiliation: CERN
   position: Research Scientist
+  fullname: SteinarStapnes
+  attendance_type: In person
 - firstname: Giordon
   lastname: Stark
-  attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz (ATLAS Exp.)
   position: Postdoc
+  fullname: GiordonStark
+  attendance_type: In person
 - firstname: Eric
   lastname: Stern
-  attendance_type: Virtual
   affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
+  fullname: EricStern
+  attendance_type: Virtual
 - firstname: Stoyan
   lastname: Stoynev
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: StoyanStoynev
+  attendance_type: Virtual
 - firstname: James
   lastname: Strait
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: 'Other:: Project Director CMB-S4'
+  fullname: JamesStrait
+  attendance_type: In person
 - firstname: Louis
   lastname: Strigari
-  attendance_type: In person
   affiliation: Texas A&M University
   position: Faculty
+  fullname: LouisStrigari
+  attendance_type: In person
 - firstname: Mark
   lastname: Strikman
-  attendance_type: In person
   affiliation: Penn State University
   position: Faculty
+  fullname: MarkStrikman
+  attendance_type: In person
 - firstname: Nadja
   lastname: Strobbe
-  attendance_type: In person
   affiliation: University of Minnesota
   position: Faculty
+  fullname: NadjaStrobbe
+  attendance_type: In person
 - firstname: Ryszard
   lastname: Stroynowski
-  attendance_type: Virtual
   affiliation: Southern Methodist University
   position: Faculty
+  fullname: RyszardStroynowski
+  attendance_type: Virtual
 - firstname: Jan
   lastname: Strube
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: JanStrube
+  attendance_type: In person
 - firstname: Shufang
   lastname: Su
-  attendance_type: In person
   affiliation: University of Arizona
   position: Faculty
+  fullname: ShufangSu
+  attendance_type: In person
 - firstname: Taikan
   lastname: Suehara
-  attendance_type: In person
   affiliation: Kyushu University
   position: Faculty
+  fullname: TaikanSuehara
+  attendance_type: In person
 - firstname: Pranava Teja
   lastname: Surukuchi
-  attendance_type: In person
   affiliation: Yale University
   position: Postdoc
+  fullname: Pranava TejaSurukuchi
+  attendance_type: In person
 - firstname: Felicia
   lastname: Sutanto
-  attendance_type: In person
   affiliation: Lawrence Livermore National Laboratory
   position: Postdoc
+  fullname: FeliciaSutanto
+  attendance_type: In person
 - firstname: Louise
   lastname: Suter
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: LouiseSuter
+  attendance_type: In person
 - firstname: Rizki
   lastname: Syarif
+  affiliation: CERN Alumni - Cambridge Mobile Telematics
+  position: 'Other:: CERN Alumni - Industry Representative'
+  fullname: RizkiSyarif
   attendance_type: In person
-  affiliation: CERN Alumni | Cambridge Mobile Telematics
-  position: 'Other:: CERN Alumni | Industry Representative'
 - firstname: Matthew
   lastname: Szydagis
-  attendance_type: In person
   affiliation: University of Albany (SUNY)
   position: Faculty
+  fullname: MatthewSzydagis
+  attendance_type: In person
 - firstname: Zahra
   lastname: Tabrizi
-  attendance_type: In person
   affiliation: Northwestern University
   position: Postdoc
+  fullname: ZahraTabrizi
+  attendance_type: In person
 - firstname: Tim
   lastname: Tait
-  attendance_type: In person
   affiliation: UC Irvine
   position: Faculty
+  fullname: TimTait
+  attendance_type: In person
 - firstname: Tohru
   lastname: Takeshita
-  attendance_type: In person
   affiliation: Shinshu University
   position: Faculty
+  fullname: TohruTakeshita
+  attendance_type: In person
 - firstname: Richard
   lastname: Talman
-  attendance_type: In person
   affiliation: Cornell University
   position: Faculty
+  fullname: RichardTalman
+  attendance_type: In person
 - firstname: Andi
   lastname: Tan
-  attendance_type: In person
   affiliation: Princeton University
   position: Postdoc
+  fullname: AndiTan
+  attendance_type: In person
 - firstname: Hirohisa
   lastname: Tanaka
-  attendance_type: Virtual
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
+  fullname: HirohisaTanaka
+  attendance_type: Virtual
 - firstname: Geoffrey
   lastname: Taylor
-  attendance_type: Virtual
   affiliation: The University of Melbourne
   position: Faculty
+  fullname: GeoffreyTaylor
+  attendance_type: Virtual
 - firstname: Jesse
   lastname: Thaler
-  attendance_type: In person
   affiliation: Massachusetts Institute of Technology
   position: Faculty
+  fullname: JesseThaler
+  attendance_type: In person
 - firstname: Brooks
   lastname: Thomas
-  attendance_type: In person
   affiliation: Lafayette College
   position: Faculty
+  fullname: BrooksThomas
+  attendance_type: In person
 - firstname: Evelyn
   lastname: Thomson
-  attendance_type: Virtual
   affiliation: University of Pennsylvania
   position: Faculty
+  fullname: EvelynThomson
+  attendance_type: Virtual
 - firstname: Mark
   lastname: Thomson
-  attendance_type: In person
   affiliation: UKRI- Science and Technology Facilities Council
   position: 'Other:: UK Senior Official'
+  fullname: MarkThomson
+  attendance_type: In person
 - firstname: Junping
   lastname: Tian
-  attendance_type: Virtual
   affiliation: University of Tokyo
   position: Faculty
+  fullname: JunpingTian
+  attendance_type: Virtual
 - firstname: Natalia
   lastname: Toro
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: NataliaToro
+  attendance_type: In person
 - firstname: Jorge
   lastname: Torres
-  attendance_type: In person
   affiliation: Yale University
   position: Postdoc
+  fullname: JorgeTorres
+  attendance_type: In person
 - firstname: Giuseppe
   lastname: Torrisi
-  attendance_type: Virtual
   affiliation: ''
   position: Research Scientist
+  fullname: GiuseppeTorrisi
+  attendance_type: Virtual
 - firstname: Yagmur
   lastname: Torun
-  attendance_type: Virtual
   affiliation: Illinois Institute of Technology
   position: Faculty
+  fullname: YagmurTorun
+  attendance_type: Virtual
 - firstname: Matthew
   lastname: Toups
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: MatthewToups
+  attendance_type: In person
 - firstname: Nhan
   lastname: Tran
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: NhanTran
+  attendance_type: In person
 - firstname: Alessandro
   lastname: Tricoli
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: AlessandroTricoli
+  attendance_type: In person
 - firstname: Thomas
   lastname: Troksa
-  attendance_type: In person
   affiliation: Intel
   position: 'Other:: Industry'
+  fullname: ThomasTroksa
+  attendance_type: In person
 - firstname: Yu-Dai
   lastname: Tsai
-  attendance_type: In person
   affiliation: UC Irvine
   position: Postdoc
+  fullname: Yu-DaiTsai
+  attendance_type: In person
 - firstname: Yun-Tse
   lastname: Tsai
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: Yun-TseTsai
+  attendance_type: In person
 - firstname: Bob
   lastname: Tschirhart
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: BobTschirhart
+  attendance_type: In person
 - firstname: Christopher
   lastname: Tunnell
-  attendance_type: In person
   affiliation: Rice University
   position: Faculty
+  fullname: ChristopherTunnell
+  attendance_type: In person
 - firstname: Kathy
   lastname: Turner
-  attendance_type: In person
   affiliation: DOE, Office of High Energy Physics
   position: 'Other:: DOE/HEP Cosmic Frontier program manager'
+  fullname: KathyTurner
+  attendance_type: In person
 - firstname: Marlene
   lastname: Turner
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: MarleneTurner
+  attendance_type: In person
 - firstname: Philip
   lastname: Tuts
-  attendance_type: In person
   affiliation: Columbia University
   position: Faculty
+  fullname: PhilipTuts
+  attendance_type: In person
 - firstname: Giulio
   lastname: Usai
-  attendance_type: Virtual
   affiliation: University of Texas at Arlington
   position: Research Scientist
+  fullname: GiulioUsai
+  attendance_type: Virtual
 - firstname: Patricia
   lastname: Vahle
-  attendance_type: In person
   affiliation: College of William & Mary
   position: Faculty
+  fullname: PatriciaVahle
+  attendance_type: In person
 - firstname: Sven
   lastname: Vahsen
-  attendance_type: In person
   affiliation: University of Hawaii
   position: Faculty
+  fullname: SvenVahsen
+  attendance_type: In person
 - firstname: Alexander
   lastname: Valishev
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AlexanderValishev
+  attendance_type: In person
 - firstname: Zoya
   lastname: Vallari
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Postdoc
+  fullname: ZoyaVallari
+  attendance_type: In person
 - firstname: Tal
   lastname: Van Daalen
-  attendance_type: In person
   affiliation: University of Washington
   position: Postdoc
+  fullname: TalVan Daalen
+  attendance_type: In person
 - firstname: Ruth
   lastname: Van De Water
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: RuthVan De Water
+  attendance_type: In person
 - firstname: Jeroen
   lastname: Van Tilborg
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: JeroenVan Tilborg
+  attendance_type: In person
 - firstname: David
   lastname: Van Zanten
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: DavidVan Zanten
+  attendance_type: In person
 - firstname: Brent
   lastname: Vandevender
-  attendance_type: In person
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
+  fullname: BrentVandevender
+  attendance_type: In person
 - firstname: Gary
   lastname: Varner
-  attendance_type: In person
   affiliation: University of Hawaii
   position: Faculty
+  fullname: GaryVarner
+  attendance_type: In person
 - firstname: Jean-Luc
   lastname: Vay
-  attendance_type: In person
   affiliation: Berkeley Lab
   position: Research Scientist
+  fullname: Jean-LucVay
+  attendance_type: In person
 - firstname: Vetri
   lastname: Velan
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
+  fullname: VetriVelan
+  attendance_type: In person
 - firstname: Gueorgui
   lastname: Velev
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: GueorguiVelev
+  attendance_type: In person
 - firstname: Diego
   lastname: Venegas Vargas
-  attendance_type: In person
   affiliation: University of Tennessee Knoxville/Oak Ridge National Laboratory
   position: Student
+  fullname: DiegoVenegas Vargas
+  attendance_type: In person
 - firstname: Christopher
   lastname: Verhaaren
-  attendance_type: In person
   affiliation: Brigham Young University
   position: Faculty
+  fullname: ChristopherVerhaaren
+  attendance_type: In person
 - firstname: Caterina
   lastname: Vernieri
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Faculty
+  fullname: CaterinaVernieri
+  attendance_type: In person
 - firstname: Alexandre
   lastname: Vieira
-  attendance_type: In person
   affiliation: Universidade Federal do Triângulo Mineiro
   position: Faculty
+  fullname: AlexandreVieira
+  attendance_type: In person
 - firstname: Clarence
   lastname: Virtue
-  attendance_type: In person
   affiliation: SNOLAB
   position: Research Scientist
+  fullname: ClarenceVirtue
+  attendance_type: In person
 - firstname: Philip
   lastname: Von Doetinchem
-  attendance_type: In person
   affiliation: University of Hawaii at Manoa
   position: Faculty
+  fullname: PhilipVon Doetinchem
+  attendance_type: In person
 - firstname: Doreen
   lastname: Wackeroth
-  attendance_type: In person
   affiliation: University at Buffalo
   position: Faculty
+  fullname: DoreenWackeroth
+  attendance_type: In person
 - firstname: Michael
   lastname: Wagman
-  attendance_type: In person
   affiliation: Fermilab
   position: Faculty
+  fullname: MichaelWagman
+  attendance_type: In person
 - firstname: Carlos
   lastname: Wagner
-  attendance_type: In person
   affiliation: Argonne National Laboratory/University of Chicago
   position: Faculty
+  fullname: CarlosWagner
+  attendance_type: In person
 - firstname: Mike
   lastname: Wallbank
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Postdoc
+  fullname: MikeWallbank
+  attendance_type: In person
 - firstname: Benjamin
   lastname: Wallisch
-  attendance_type: In person
   affiliation: Institute for Advanced Study & UC San Diego
   position: Postdoc
+  fullname: BenjaminWallisch
+  attendance_type: In person
 - firstname: Tammy
   lastname: Walton
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: TammyWalton
+  attendance_type: Virtual
 - firstname: Ann
   lastname: Wang
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Postdoc
+  fullname: AnnWang
+  attendance_type: In person
 - firstname: Christina
   lastname: Wang
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Student
+  fullname: ChristinaWang
+  attendance_type: In person
 - firstname: Faya
   lastname: Wang
-  attendance_type: In person
   affiliation: SLAC National Accelerator Lab
   position: Research Scientist
+  fullname: FayaWang
+  attendance_type: In person
 - firstname: Gensheng
   lastname: Wang
-  attendance_type: Virtual
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: GenshengWang
+  attendance_type: Virtual
 - firstname: Jinglu
   lastname: Wang
-  attendance_type: In person
   affiliation: Northwestern University
   position: Student
+  fullname: JingluWang
+  attendance_type: In person
 - firstname: Liantao
   lastname: Wang
-  attendance_type: In person
   affiliation: University of Chicago
   position: Faculty
+  fullname: LiantaoWang
+  attendance_type: In person
 - firstname: Yue
   lastname: Wang
-  attendance_type: In person
   affiliation: UC Berkeley/Lawrence Berkeley National Laboratory
   position: Student
+  fullname: YueWang
+  attendance_type: In person
 - firstname: Gordon
   lastname: Watts
-  attendance_type: In person
   affiliation: University of Washington
   position: Faculty
+  fullname: GordonWatts
+  attendance_type: In person
 - firstname: Christian
   lastname: Weber
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Postdoc
+  fullname: ChristianWeber
+  attendance_type: In person
 - firstname: Risa
   lastname: Wechsler
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory/Stanford University
   position: Faculty
+  fullname: RisaWechsler
+  attendance_type: In person
 - firstname: Hanyu
   lastname: Wei
-  attendance_type: Virtual
   affiliation: Louisiana State University
   position: Faculty
+  fullname: HanyuWei
+  attendance_type: Virtual
 - firstname: Amanda
   lastname: Weinstein
-  attendance_type: Virtual
   affiliation: Iowa State University
   position: Faculty
+  fullname: AmandaWeinstein
+  attendance_type: Virtual
 - firstname: William
   lastname: Wester
-  attendance_type: In person
   affiliation: National Science Foundation
   position: 'Other:: Government'
+  fullname: WilliamWester
+  attendance_type: In person
 - firstname: Shawn
   lastname: Westerdale
-  attendance_type: In person
   affiliation: UC Riverside
   position: Faculty
+  fullname: ShawnWesterdale
+  attendance_type: In person
 - firstname: Andrew
   lastname: White
-  attendance_type: In person
   affiliation: University of Texas at Arlington
   position: Faculty
+  fullname: AndrewWhite
+  attendance_type: In person
 - firstname: Don Athula
   lastname: Wickremasinghe
-  attendance_type: In person
   affiliation: Fermilab
   position: 'Other:: Research Associate'
+  fullname: Don AthulaWickremasinghe
+  attendance_type: In person
 - firstname: Callum
   lastname: Wilkinson
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Research Scientist
+  fullname: CallumWilkinson
+  attendance_type: In person
 - firstname: Mike
   lastname: Williams
-  attendance_type: Virtual
   affiliation: MIT
   position: Faculty
+  fullname: MikeWilliams
+  attendance_type: Virtual
 - firstname: Stephane
   lastname: Willocq
-  attendance_type: In person
   affiliation: University of Massachusetts, Amherst
   position: Faculty
+  fullname: StephaneWillocq
+  attendance_type: In person
 - firstname: Graham
   lastname: Wilson
-  attendance_type: In person
   affiliation: University of Kansas
   position: Faculty
+  fullname: GrahamWilson
+  attendance_type: In person
 - firstname: Robert
   lastname: Wilson
-  attendance_type: In person
   affiliation: Colorado State University
   position: Faculty
+  fullname: RobertWilson
+  attendance_type: In person
 - firstname: David
   lastname: Winn
-  attendance_type: In person
   affiliation: Fairfield University
   position: Faculty
+  fullname: DavidWinn
+  attendance_type: In person
 - firstname: Peter
   lastname: Winter
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: PeterWinter
+  attendance_type: In person
 - firstname: Oliver
   lastname: Witzel
-  attendance_type: In person
   affiliation: University Siegen
   position: Postdoc
+  fullname: OliverWitzel
+  attendance_type: In person
 - firstname: Kevin
   lastname: Wood
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
+  fullname: KevinWood
+  attendance_type: In person
 - firstname: Mackenzie
   lastname: Wooten
-  attendance_type: In person
   affiliation: UC Berkeley
   position: Student
+  fullname: MackenzieWooten
+  attendance_type: In person
 - firstname: Elizabeth
   lastname: Worcester
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: ElizabethWorcester
+  attendance_type: In person
 - firstname: Wanwei
   lastname: Wu
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: WanweiWu
+  attendance_type: In person
 - firstname: Qing
   lastname: Xia
-  attendance_type: In person
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
+  fullname: QingXia
+  attendance_type: In person
 - firstname: Huangyu
   lastname: Xiao
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: HuangyuXiao
+  attendance_type: In person
 - firstname: Keping
   lastname: Xie
-  attendance_type: In person
   affiliation: University of Pittsburgh
   position: Postdoc
+  fullname: KepingXie
+  attendance_type: In person
 - firstname: Riley
   lastname: Xu
-  attendance_type: In person
   affiliation: University of Pennsylvania
   position: Student
+  fullname: RileyXu
+  attendance_type: In person
 - firstname: Barbara
   lastname: Yaeggy
-  attendance_type: In person
   affiliation: University of Cincinnati
   position: Postdoc
+  fullname: BarbaraYaeggy
+  attendance_type: In person
 - firstname: Vyacheslav
   lastname: Yakovlev
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: VyacheslavYakovlev
+  attendance_type: Virtual
 - firstname: Liang
   lastname: Yang
-  attendance_type: Virtual
   affiliation: UC San Diego
   position: Faculty
+  fullname: LiangYang
+  attendance_type: Virtual
 - firstname: Tingjun
   lastname: Yang
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: TingjunYang
+  attendance_type: Virtual
 - firstname: Lauren
   lastname: Yates
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: LaurenYates
+  attendance_type: In person
 - firstname: Crystal
   lastname: Yeh
-  attendance_type: In person
   affiliation: US Department of Energy
   position: 'Other:: DOE Office of High Energy Physics'
+  fullname: CrystalYeh
+  attendance_type: In person
 - firstname: Minfang
   lastname: Yeh
-  attendance_type: In person
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
+  fullname: MinfangYeh
+  attendance_type: In person
 - firstname: Rachel
   lastname: Yohay
-  attendance_type: In person
   affiliation: Florida State University
   position: Faculty
+  fullname: RachelYohay
+  attendance_type: In person
 - firstname: Rikutaro
   lastname: Yoshida
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: 'Other:: HEP Division Director'
+  fullname: RikutaroYoshida
+  attendance_type: In person
 - firstname: Koji
   lastname: Yoshimura
-  attendance_type: In person
   affiliation: Okayama University
   position: Faculty
+  fullname: KojiYoshimura
+  attendance_type: In person
 - firstname: Charles
   lastname: Young
-  attendance_type: In person
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
+  fullname: CharlesYoung
+  attendance_type: In person
 - firstname: Hai-Bo
   lastname: Yu
-  attendance_type: In person
   affiliation: UC Riverside
   position: Faculty
+  fullname: Hai-BoYu
+  attendance_type: In person
 - firstname: Jaehoon
   lastname: Yu
-  attendance_type: In person
   affiliation: The University of Texas at Arlington
   position: Faculty
+  fullname: JaehoonYu
+  attendance_type: In person
 - firstname: Tien-Tien
   lastname: Yu
-  attendance_type: In person
   affiliation: University of Oregon
   position: Faculty
+  fullname: Tien-TienYu
+  attendance_type: In person
 - firstname: Mete
   lastname: Yucel
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: MeteYucel
+  attendance_type: In person
 - firstname: Keita
   lastname: Yumino
-  attendance_type: In person
   affiliation: KEK
   position: Student
+  fullname: KeitaYumino
+  attendance_type: In person
 - firstname: Jiancheng
   lastname: Zeng
-  attendance_type: In person
   affiliation: Northeastern University
   position: Student
+  fullname: JianchengZeng
+  attendance_type: In person
 - firstname: Joseph
   lastname: Zennamo
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: JosephZennamo
+  attendance_type: In person
 - firstname: Jacob
   lastname: Zettlemoyer
-  attendance_type: In person
   affiliation: Fermilab
   position: Postdoc
+  fullname: JacobZettlemoyer
+  attendance_type: In person
 - firstname: Jinlong
   lastname: Zhang
-  attendance_type: In person
   affiliation: Argonne National Laboratory
   position: Research Scientist
+  fullname: JinlongZhang
+  attendance_type: In person
 - firstname: Yuanyuan
   lastname: Zhang
-  attendance_type: In person
   affiliation: Texas A&M University
   position: Postdoc
+  fullname: YuanyuanZhang
+  attendance_type: In person
 - firstname: Zhengkang
   lastname: Zhang
-  attendance_type: In person
   affiliation: UC Santa Barbara
   position: Postdoc
+  fullname: ZhengkangZhang
+  attendance_type: In person
 - firstname: Haoran
   lastname: Zhao
-  attendance_type: In person
   affiliation: University of Washington
   position: Student
+  fullname: HaoranZhao
+  attendance_type: In person
 - firstname: Yuzhan
   lastname: Zhao
-  attendance_type: In person
   affiliation: Santa Cruz Institute for Particle Physics- UC Santa Cruz
   position: Student
+  fullname: YuzhanZhao
+  attendance_type: In person
 - firstname: Ren-Yuan
   lastname: Zhu
-  attendance_type: In person
   affiliation: California Institute of Technology
   position: Research Scientist
+  fullname: Ren-YuanZhu
+  attendance_type: In person
 - firstname: Frank
   lastname: Zimmermann
-  attendance_type: In person
   affiliation: CERN
   position: Research Scientist
+  fullname: FrankZimmermann
+  attendance_type: In person
 - firstname: Alexander
   lastname: Zlobin
-  attendance_type: Virtual
   affiliation: Fermilab
   position: Research Scientist
+  fullname: AlexanderZlobin
+  attendance_type: Virtual
 - firstname: Silvia
   lastname: Zorzetti
-  attendance_type: In person
   affiliation: Fermi National Accelerator Laboratory
   position: Research Scientist
+  fullname: SilviaZorzetti
+  attendance_type: In person
 - firstname: Robert
   lastname: Zwaska
-  attendance_type: In person
   affiliation: Fermilab
   position: Research Scientist
+  fullname: RobertZwaska
+  attendance_type: In person
 - firstname: Salvador
-  attendance_type: Virtual
   lastname: Urrea González
   affiliation: IFIC( University of Valencia)
   position: Student
-- firstname: Cindy
+  fullname: SalvadorUrrea González
   attendance_type: Virtual
+- firstname: Cindy
   lastname: Lin
   affiliation: Queens University/SNOLAB
   position: Postdoc
-- firstname: Chien Yeah
+  fullname: CindyLin
   attendance_type: Virtual
+- firstname: Chien Yeah
   lastname: Seng
   affiliation: Bonn University
   position: Postdoc
-- firstname: Rachel
+  fullname: Chien YeahSeng
   attendance_type: Virtual
+- firstname: Rachel
   lastname: Hinman
   affiliation: independent
   position: Prefer not to answer
-- firstname: Claudia
+  fullname: RachelHinman
   attendance_type: Virtual
+- firstname: Claudia
   lastname: Rella
   affiliation: University of Geneva
   position: Student
-- firstname: Luiz
+  fullname: ClaudiaRella
   attendance_type: Virtual
+- firstname: Luiz
   lastname: Emediato
   affiliation: The University of Iowa
   position: Faculty
-- firstname: David
+  fullname: LuizEmediato
   attendance_type: Virtual
+- firstname: David
   lastname: Woodward
   affiliation: Penn State University
   position: Research Scientist
-- firstname: Sam
+  fullname: DavidWoodward
   attendance_type: Virtual
+- firstname: Sam
   lastname: Young
   affiliation: University of Pennsylvania
   position: Student
-- firstname: Quentin
+  fullname: SamYoung
   attendance_type: Virtual
-  lastname: Buat
-  affiliation: University of Washington
-  position: Faculty
 - firstname: Ethan
-  attendance_type: Virtual
   lastname: Nadler
   affiliation: Carnegie Observatories & USC
   position: Postdoc
-- firstname: Evan
+  fullname: EthanNadler
   attendance_type: Virtual
+- firstname: Evan
   lastname: Angelico
   affiliation: Stanford University / nEXO experiment
   position: Postdoc
-- firstname: Alessandra
+  fullname: EvanAngelico
   attendance_type: Virtual
+- firstname: Alessandra
   lastname: Lucà
   affiliation: Fermilab
   position: Postdoc
-- firstname: Junsong
+  fullname: AlessandraLucà
   attendance_type: Virtual
+- firstname: Junsong
   lastname: Lin
   affiliation: University of California Berkeley
   position: Postdoc
-- firstname: Arkaitz
+  fullname: JunsongLin
   attendance_type: Virtual
+- firstname: Arkaitz
   lastname: Rodas
   affiliation: College of William and Mary
   position: Postdoc
-- firstname: Hao
+  fullname: ArkaitzRodas
   attendance_type: Virtual
+- firstname: Hao
   lastname: Chen
   affiliation: Lawrence Berkeley National Laboratory
   position: Postdoc
-- firstname: Ibrahim
+  fullname: HaoChen
   attendance_type: Virtual
+- firstname: Ibrahim
   lastname: Mirza
   affiliation: University of Tennessee
   position: Student
-- firstname: Sujata
+  fullname: IbrahimMirza
   attendance_type: Virtual
+- firstname: Sujata
   lastname: 'Diwakar '
   affiliation: 'University of Lucknow '
   position: Prefer not to answer
-- firstname: Juliette
+  fullname: 'SujataDiwakar '
   attendance_type: Virtual
+- firstname: Juliette
   lastname: Alimena
   affiliation: CERN
   position: Fellow
-- firstname: Muti
+  fullname: JulietteAlimena
   attendance_type: Virtual
+- firstname: Muti
   lastname: Wulansatiti Nursanto
   affiliation: Florida State University
   position: Student
-- firstname: Marianette
+  fullname: MutiWulansatiti Nursanto
   attendance_type: Virtual
+- firstname: Marianette
   lastname: Wospakrik
   affiliation: Fermi National Accelerator Laboratory
   position: Postdoc
-- firstname: Yong
+  fullname: MarianetteWospakrik
   attendance_type: Virtual
+- firstname: Yong
   lastname: Du
   affiliation: ITP CAS
   position: Postdoc
-- firstname: Vedran
+  fullname: YongDu
   attendance_type: Virtual
+- firstname: Vedran
   lastname: Brdar
   affiliation: Fermilab and Northwestern
   position: Postdoc
-- firstname: Maria Elidaiana
+  fullname: VedranBrdar
   attendance_type: Virtual
+- firstname: Maria Elidaiana
   lastname: da Silva Pereira
   affiliation: Universität Hamburg
   position: Postdoc
-- firstname: Ivan
+  fullname: Maria Elidaianada Silva Pereira
   attendance_type: Virtual
+- firstname: Ivan
   lastname: Chernyshev
   affiliation: University of Washington
   position: Student
-- firstname: 'Olivia Meredith '
+  fullname: IvanChernyshev
   attendance_type: Virtual
+- firstname: 'Olivia Meredith '
   lastname: Bitter
   affiliation: Fermilab/UChicago/NU
   position: Student
-- firstname: David
+  fullname: Olivia Meredith Bitter
   attendance_type: Virtual
+- firstname: David
   lastname: Vanegas Forero
   affiliation: Universidad de Medellín
   position: Faculty
-- firstname: Angira
+  fullname: DavidVanegas Forero
   attendance_type: Virtual
+- firstname: Angira
   lastname: Rastogi
   affiliation: Lawrence Berkeley National Laboratory (US)
   position: Postdoc
-- firstname: Erin
+  fullname: AngiraRastogi
   attendance_type: Virtual
+- firstname: Erin
   lastname: Hansen
   affiliation: UC Berkeley
   position: Postdoc
-- firstname: Will
+  fullname: ErinHansen
   attendance_type: Virtual
-  lastname: Foreman
-  affiliation: Illinois Institute of Technology
-  position: Postdoc
 - firstname: Cole
-  attendance_type: Virtual
   lastname: Kampa
   affiliation: Northwestern University
   position: Student
-- firstname: Kristi
+  fullname: ColeKampa
   attendance_type: Virtual
-  lastname: Engel
-  affiliation: University of Maryland, College Park
-  position: Student
 - firstname: Tarak
-  attendance_type: Virtual
   lastname: Thakore
   affiliation: University of Cincinnati
   position: Postdoc
-- firstname: 'Martin '
+  fullname: TarakThakore
   attendance_type: Virtual
+- firstname: 'Martin '
   lastname: Kwok
   affiliation: Fermilab
   position: Postdoc
-- firstname: Mariel
+  fullname: Martin Kwok
   attendance_type: Virtual
+- firstname: Mariel
   lastname: Pettee
   affiliation: Lawrence Berkeley National Laboratory (LBNL)
   position: Postdoc
-- firstname: Da
+  fullname: MarielPettee
   attendance_type: Virtual
+- firstname: Da
   lastname: Liu
   affiliation: UC, Davis
   position: Postdoc
-- firstname: Sophie
+  fullname: DaLiu
   attendance_type: Virtual
+- firstname: Sophie
   lastname: Middleton
   affiliation: Caltech
   position: Postdoc
-- firstname: Aidan
+  fullname: SophieMiddleton
   attendance_type: Virtual
+- firstname: Aidan
   lastname: Reilly
   affiliation: Stanford University (SLAC)
   position: Student
-- firstname: Lolian
+  fullname: AidanReilly
   attendance_type: Virtual
+- firstname: Lolian
   lastname: Shtembari
   affiliation: Max Planck Institute for Physics
   position: Student
-- firstname: Yiming
+  fullname: LolianShtembari
   attendance_type: Virtual
+- firstname: Yiming
   lastname: Zhong
   affiliation: University of Chicago
   position: Postdoc
-- firstname: 'Zahra '
+  fullname: YimingZhong
   attendance_type: Virtual
+- firstname: 'Zahra '
   lastname: Moghaddam
   affiliation: 'University of Perugia and INFN Genova '
   position: Student
-- firstname: Padmanath
+  fullname: Zahra Moghaddam
   attendance_type: Virtual
+- firstname: Padmanath
   lastname: M.
   affiliation: Helmholtz Institut Mainz
   position: Postdoc
-- firstname: Nan
+  fullname: PadmanathM.
   attendance_type: Virtual
+- firstname: Nan
   lastname: Lu
   affiliation: University of Science and Technology of China
   position: Faculty
-- firstname: Ravneet S.
+  fullname: NanLu
   attendance_type: Virtual
+- firstname: Ravneet S.
   lastname: Bedi
   affiliation: 'University of Minnesota '
   position: Student
-- firstname: Zihui
+  fullname: Ravneet S.Bedi
   attendance_type: Virtual
+- firstname: Zihui
   lastname: Wang
   affiliation: NYU
   position: Student
-- firstname: Nils
+  fullname: ZihuiWang
   attendance_type: Virtual
+- firstname: Nils
   lastname: Huesken
   affiliation: Indiana University
   position: Postdoc
-- firstname: Yulun
+  fullname: NilsHuesken
   attendance_type: Virtual
+- firstname: Yulun
   lastname: Miao
   affiliation: Northwestern University
   position: Student
-- firstname: Jason
+  fullname: YulunMiao
   attendance_type: Virtual
+- firstname: Jason
   lastname: Gombas-Salazar
   affiliation: Michigan State University
   position: Student
-- firstname: Cari
+  fullname: JasonGombas-Salazar
   attendance_type: Virtual
+- firstname: Cari
   lastname: Cesarotti
   affiliation: MIT
   position: Postdoc
-- firstname: Julian
+  fullname: CariCesarotti
   attendance_type: Virtual
+- firstname: Julian
   lastname: De Vuyst
   affiliation: Okinawa Institute of Science & Technology (OIST)
   position: Student
-- firstname: Garvita
+  fullname: JulianDe Vuyst
   attendance_type: Virtual
+- firstname: Garvita
   lastname: Agarwal
   affiliation: University at Buffalo
   position: Student
-- firstname: Michael
+  fullname: GarvitaAgarwal
   attendance_type: Virtual
+- firstname: Michael
   lastname: Hank
   affiliation: University of Chicago
   position: Student
-- firstname: Maria Vittoria
+  fullname: MichaelHank
   attendance_type: Virtual
+- firstname: Maria Vittoria
   lastname: Garzelli
   affiliation: Universitaet Hamburg
   position: Postdoc
-- firstname: Nick
+  fullname: Maria VittoriaGarzelli
   attendance_type: Virtual
+- firstname: Nick
   lastname: Smith
   affiliation: Fermilab
   position: Postdoc
-- firstname: Matthias
+  fullname: NickSmith
   attendance_type: Virtual
+- firstname: Matthias
   lastname: Fuchs
   affiliation: 'University of Nebraska - Lincoln '
   position: Faculty
-- firstname: Katherine
+  fullname: MatthiasFuchs
   attendance_type: Virtual
+- firstname: Katherine
   lastname: Fraser
   affiliation: Harvard
   position: Student
-- firstname: Baisakhi
+  fullname: KatherineFraser
   attendance_type: Virtual
+- firstname: Baisakhi
   lastname: Mitra
   affiliation: University of Mississippi
   position: Student
-- firstname: Lesya
+  fullname: BaisakhiMitra
   attendance_type: Virtual
+- firstname: Lesya
   lastname: Horyn
   affiliation: Fermilab
   position: Postdoc
-- firstname: Haris
+  fullname: LesyaHoryn
   attendance_type: Virtual
+- firstname: Haris
   lastname: Painesis
   affiliation: National and Kapodistrian University of Athens
   position: Student
-- firstname: Avik
+  fullname: HarisPainesis
   attendance_type: Virtual
+- firstname: Avik
   lastname: Roy
   affiliation: University of Illinois at Urbana-Champaign
   position: Postdoc
-- firstname: Jihee
+  fullname: AvikRoy
   attendance_type: Virtual
+- firstname: Jihee
   lastname: Yang
   affiliation: Pacific Northwest National Laboratory (PNNL)
   position: Postdoc
-- firstname: Debaditya
+  fullname: JiheeYang
   attendance_type: Virtual
+- firstname: Debaditya
   lastname: Pramanik
   affiliation: Princeton University
   position: Student
-- firstname: Kelly
+  fullname: DebadityaPramanik
   attendance_type: Virtual
+- firstname: Kelly
   lastname: Stifter
   affiliation: Fermilab
   position: Postdoc
-- firstname: Carlos
+  fullname: KellyStifter
   attendance_type: Virtual
+- firstname: Carlos
   lastname: Argüelles
   affiliation: Harvard University
   position: Faculty
-- firstname: 'Seema '
+  fullname: CarlosArgüelles
   attendance_type: Virtual
+- firstname: 'Seema '
   lastname: Shukla
   affiliation: Government Degree College, Mant, Mathira, u.p., India
   position: Faculty
-- firstname: Haesung
+  fullname: Seema Shukla
   attendance_type: Virtual
+- firstname: Haesung
   lastname: Park
   affiliation: Kyung Hee University
   position: Student
-- firstname: Marco
+  fullname: HaesungPark
   attendance_type: Virtual
+- firstname: Marco
   lastname: Del Tutto
   affiliation: Fermilab
   position: Postdoc
-- firstname: Daniel
+  fullname: MarcoDel Tutto
   attendance_type: Virtual
-  lastname: Hoying
-  affiliation: Michigan State University
-  position: Postdoc
 - firstname: Evan
-  attendance_type: Virtual
   lastname: Petrosky
   affiliation: University of Michigan
   position: Student
-- firstname: Dylan
+  fullname: EvanPetrosky
   attendance_type: Virtual
+- firstname: Dylan
   lastname: Temples
   affiliation: Fermilab
   position: Postdoc
-- firstname: Lopamudra
+  fullname: DylanTemples
   attendance_type: Virtual
+- firstname: Lopamudra
   lastname: Mukherjee
   affiliation: University of Mississippi
   position: Postdoc
-- firstname: Sam
+  fullname: LopamudraMukherjee
   attendance_type: Virtual
+- firstname: Sam
   lastname: Leigh
   affiliation: University of Washington
   position: Student
-- firstname: Kevin
+  fullname: SamLeigh
   attendance_type: Virtual
+- firstname: Kevin
   lastname: Kelly
   affiliation: CERN
   position: Postdoc
-- firstname: Simon
+  fullname: KevinKelly
   attendance_type: Virtual
+- firstname: Simon
   lastname: Birrer
   affiliation: Stanford University
   position: Postdoc
-- firstname: Supranta
+  fullname: SimonBirrer
   attendance_type: Virtual
+- firstname: Supranta
   lastname: Sarma Boruah
   affiliation: University of Arizona
   position: Postdoc
-- firstname: Felix
+  fullname: SuprantaSarma Boruah
   attendance_type: Virtual
+- firstname: Felix
   lastname: Kling
   affiliation: DESY
   position: Postdoc
-- firstname: Natalie
+  fullname: FelixKling
   attendance_type: Virtual
+- firstname: Natalie
   lastname: Harrison
   affiliation: The Ohio State University
   position: Student
-- firstname: Fang
+  fullname: NatalieHarrison
   attendance_type: Virtual
+- firstname: Fang
   lastname: Wan
   affiliation: Fermi National Accelerator Laboratory
   position: Postdoc
-- firstname: Christine
+  fullname: FangWan
   attendance_type: Virtual
+- firstname: Christine
   lastname: Claessens
   affiliation: University of Washington
   position: Postdoc
-- firstname: Divya
+  fullname: ChristineClaessens
   attendance_type: Virtual
+- firstname: Divya
   lastname: Shaji
   affiliation: University of Madras
   position: Student
-- firstname: Md
+  fullname: DivyaShaji
   attendance_type: Virtual
+- firstname: Md
   lastname: Alam
   affiliation: Bhupendra Narayan Mandal University, Madhepura, Bihar
   position: Student
-- firstname: Dat
+  fullname: MdAlam
   attendance_type: Virtual
+- firstname: Dat
   lastname: Tran
   affiliation: University of Houston
   position: Student
-- firstname: ziad
+  fullname: DatTran
   attendance_type: Virtual
+- firstname: ziad
   lastname: sakr
   affiliation: Institut für Theoretische Physik
   position: Postdoc
-- firstname: Savannah
+  fullname: ziadsakr
   attendance_type: Virtual
+- firstname: Savannah
   lastname: Thais
   affiliation: Princeton University
   position: Postdoc
-- firstname: Volodymyr
+  fullname: SavannahThais
   attendance_type: Virtual
+- firstname: Volodymyr
   lastname: Takhistov
   affiliation: Kavli IPMU, University of Tokyo
   position: Postdoc
-- firstname: Samuel
+  fullname: VolodymyrTakhistov
   attendance_type: Virtual
+- firstname: Samuel
   lastname: Homiller
   affiliation: Harvard University
   position: Postdoc
-- firstname: Abhijith
+  fullname: SamuelHomiller
   attendance_type: Virtual
+- firstname: Abhijith
   lastname: Gandrakota
   affiliation: Fermilab
   position: Postdoc
-- firstname: Shivani
+  fullname: AbhijithGandrakota
   attendance_type: Virtual
+- firstname: Shivani
   lastname: Lomte
   affiliation: University of Wisconsin Madison
   position: Student
-- firstname: Cecilia
+  fullname: ShivaniLomte
   attendance_type: Virtual
+- firstname: Cecilia
   lastname: Tosciri
   affiliation: University of Chicago
   position: Postdoc
-- firstname: Emma
+  fullname: CeciliaTosciri
   attendance_type: Virtual
+- firstname: Emma
   lastname: Yin
   affiliation: AWS
   position: Engineer
-- firstname: Matheus
+  fullname: EmmaYin
   attendance_type: Virtual
+- firstname: Matheus
   lastname: Hostert
   affiliation: Perimeter Institute
   position: Postdoc
-- firstname: Bryan
+  fullname: MatheusHostert
   attendance_type: Virtual
+- firstname: Bryan
   lastname: Field
   affiliation: Farmingdale State College
   position: Faculty
-- firstname: Matthew
+  fullname: BryanField
   attendance_type: Virtual
+- firstname: Matthew
   lastname: Sullivan
   affiliation: Brookhaven National Laboratory
   position: Postdoc
-- firstname: Doga
+  fullname: MatthewSullivan
   attendance_type: Virtual
-  lastname: Kurkcuoglu
-  affiliation: Fermilab
-  position: Postdoc
 - firstname: Aman
-  attendance_type: Virtual
   lastname: Desai
   affiliation: --
   position: Student
-- firstname: Ron
+  fullname: AmanDesai
   attendance_type: Virtual
+- firstname: Ron
   lastname: Settles
   affiliation: Max Planck institute for Physics
   position: Research Scientist
-- firstname: Jesse
+  fullname: RonSettles
   attendance_type: Virtual
+- firstname: Jesse
   lastname: Liu
   affiliation: University of Cambridge
   position: Postdoc
-- firstname: Shin-ichi
+  fullname: JesseLiu
   attendance_type: Virtual
+- firstname: Shin-ichi
   lastname: Kawada
   affiliation: KEK
   position: Collaborative researcher
-- firstname: Maria
+  fullname: Shin-ichiKawada
   attendance_type: Virtual
+- firstname: Maria
   lastname: 'Simanovskaia '
   affiliation: Stanford University
   position: Postdoc
-- firstname: Kushal
+  fullname: 'MariaSimanovskaia '
   attendance_type: Virtual
+- firstname: Kushal
   lastname: Lodha
   affiliation: Korea Astronomy and Space Science Institute
   position: Student
-- firstname: Andrei
+  fullname: KushalLodha
   attendance_type: Virtual
+- firstname: Andrei
   lastname: Cuceu
   affiliation: Ohio State University
   position: Postdoc
-- firstname: Andi
+  fullname: AndreiCuceu
   attendance_type: Virtual
-  lastname: Tan
-  affiliation: Princeton University
-  position: Postdoc
 - firstname: Karia
-  attendance_type: Virtual
   lastname: Dibert
   affiliation: The University of Chicago
   position: Student
-- firstname: Antonella
+  fullname: KariaDibert
   attendance_type: Virtual
+- firstname: Antonella
   lastname: Palmese
   affiliation: UC Berkeley
   position: Postdoc
-- firstname: Keir
+  fullname: AntonellaPalmese
   attendance_type: Virtual
+- firstname: Keir
   lastname: Rogers
   affiliation: University of Toronto
   position: Postdoc
-- firstname: Rossana
+  fullname: KeirRogers
   attendance_type: Virtual
+- firstname: Rossana
   lastname: Ruggeri
   affiliation: University of Queensland
   position: Postdoc
-- firstname: Thejus
+  fullname: RossanaRuggeri
   attendance_type: Virtual
+- firstname: Thejus
   lastname: Mary S.
   affiliation: PhD student
   position: Student
-- firstname: Emanuele
+  fullname: ThejusMary S.
   attendance_type: Virtual
+- firstname: Emanuele
   lastname: Fondi
   affiliation: ICC - University of Barcelona
   position: Student
-- firstname: Alexander
+  fullname: EmanueleFondi
   attendance_type: Virtual
+- firstname: Alexander
   lastname: Held
   affiliation: University of Wisconsin-Madison
   position: Postdoc
-- firstname: Oksana
+  fullname: AlexanderHeld
   attendance_type: Virtual
+- firstname: Oksana
   lastname: Shadura
   affiliation: University Nebraska-Lincoln
   position: Research Scientist
-- firstname: Elgin
+  fullname: OksanaShadura
   attendance_type: Virtual
+- firstname: Elgin
   lastname: Leary
   affiliation: University of Georgia
   position: Student
-- firstname: Mehdi
+  fullname: ElginLeary
   attendance_type: Virtual
+- firstname: Mehdi
   lastname: Rezaie
   affiliation: Kansas State University
   position: Postdoc
-- firstname: Lane
+  fullname: MehdiRezaie
   attendance_type: Virtual
+- firstname: Lane
   lastname: Kashur
   affiliation: Colorado State University
   position: Student
-- firstname: Stefan
+  fullname: LaneKashur
   attendance_type: Virtual
+- firstname: Stefan
   lastname: Sandner
   affiliation: IFIC
   position: Student
-- firstname: Animesh
+  fullname: StefanSandner
   attendance_type: Virtual
+- firstname: Animesh
   lastname: Chatterjee
   affiliation: University of Pittsburgh
   position: Postdoc
-- firstname: Nikita
+  fullname: AnimeshChatterjee
   attendance_type: Virtual
+- firstname: Nikita
   lastname: Kuklev
   affiliation: Argonne National Laboratory
   position: Postdoc
-- firstname: Jeremy
+  fullname: NikitaKuklev
   attendance_type: Virtual
+- firstname: Jeremy
   lastname: Wolcott
   affiliation: Tufts University
   position: Postdoc
-- firstname: Jacob
+  fullname: JeremyWolcott
   attendance_type: Virtual
+- firstname: Jacob
   lastname: Smith
   affiliation: Stony Brook University
   position: Student
-- firstname: Claudio
+  fullname: JacobSmith
   attendance_type: Virtual
-  lastname: Emma
-  affiliation: SLAC
-  position: Research Scientist
 - firstname: Byungchul
-  attendance_type: Virtual
   lastname: Yu
   affiliation: University of Mississippi
   position: Student
-- firstname: Fatima
+  fullname: ByungchulYu
   attendance_type: Virtual
+- firstname: Fatima
   lastname: Rodriguez
   affiliation: Fermilab
   position: Student
-- firstname: Avinay
+  fullname: FatimaRodriguez
   attendance_type: Virtual
+- firstname: Avinay
   lastname: Bhat
   affiliation: Yale University
   position: Postdoc
-- firstname: peter
+  fullname: AvinayBhat
   attendance_type: Virtual
+- firstname: peter
   lastname: cameron
   affiliation: Michigan/MIT/Brookhaven (retired)
   position: retired
-- firstname: Andrew
+  fullname: petercameron
   attendance_type: Virtual
+- firstname: Andrew
   lastname: Pace
   affiliation: Carnegie Mellon University
   position: Postdoc
-- firstname: Carla
+  fullname: AndrewPace
   attendance_type: Virtual
+- firstname: Carla
   lastname: Bonifazi
   affiliation: ICAS - ICIFI - UNSAM / CONICET
   position: Research Scientist
-- firstname: Mike
+  fullname: CarlaBonifazi
   attendance_type: Virtual
+- firstname: Mike
   lastname: Hedges
   affiliation: Purdue / Bonn
   position: Postdoc
-- firstname: Drew
+  fullname: MikeHedges
   attendance_type: Virtual
+- firstname: Drew
   lastname: Ames
   affiliation: Stanford University/SLAC
   position: Student
-- firstname: Félix
+  fullname: DrewAmes
   attendance_type: Virtual
+- firstname: Félix
   lastname: Cormier
   affiliation: TRIUMF
   position: Postdoc
-- firstname: Nam
+  fullname: FélixCormier
   attendance_type: Virtual
+- firstname: Nam
   lastname: Nguyen
   affiliation: Durham University
   position: Postdoc
-- firstname: Teppei
+  fullname: NamNguyen
   attendance_type: Virtual
+- firstname: Teppei
   lastname: Katori
   affiliation: Kings College London
   position: Faculty
-- firstname: Brian
+  fullname: TeppeiKatori
   attendance_type: Virtual
+- firstname: Brian
   lastname: Chu
   affiliation: University of Washington
   position: Student
-- firstname: Víctor
+  fullname: BrianChu
   attendance_type: Virtual
+- firstname: Víctor
   lastname: Miralles
   affiliation: INFN Roma1
   position: Postdoc
-- firstname: Tobias
+  fullname: VíctorMiralles
   attendance_type: Virtual
+- firstname: Tobias
   lastname: Neumann
   affiliation: Brookhaven National Laboratory
   position: Postdoc
-- firstname: Lucas
+  fullname: TobiasNeumann
   attendance_type: Virtual
+- firstname: Lucas
   lastname: Kotz
   affiliation: 'Southern Methodist University '
   position: Student
-- firstname: Tiffany
+  fullname: LucasKotz
   attendance_type: Virtual
+- firstname: Tiffany
   lastname: Lewis
   affiliation: NASA Goddard Space Flight Center
   position: Postdoc
-- firstname: Daniel
+  fullname: TiffanyLewis
   attendance_type: Virtual
+- firstname: Daniel
   lastname: Blackburn
   affiliation: CERN Alumni
   position: Applied Scientist
-- firstname: Walter
+  fullname: DanielBlackburn
   attendance_type: Virtual
+- firstname: Walter
   lastname: Pettus
   affiliation: Indiana University
   position: Faculty
-- firstname: Nam
+  fullname: WalterPettus
   attendance_type: Virtual
+- firstname: Nam
   lastname: Tran
   affiliation: Boston University
   position: Postdoc
-- firstname: Cristina
+  fullname: NamTran
   attendance_type: Virtual
+- firstname: Cristina
   lastname: Mantilla Suarez
   affiliation: Fermilab
   position: Postdoc
-- firstname: Michael
+  fullname: CristinaMantilla Suarez
   attendance_type: Virtual
+- firstname: Michael
   lastname: MacKenzie
   affiliation: Northwestern University
   position: Student
-- firstname: Mackenzie
+  fullname: MichaelMacKenzie
   attendance_type: Virtual
+- firstname: Mackenzie
   lastname: Devilbiss
   affiliation: University of Michigan, Fermilab
   position: Student
-- firstname: Prafull
+  fullname: MackenzieDevilbiss
   attendance_type: Virtual
+- firstname: Prafull
   lastname: Purohit
   affiliation: Yale University
   position: Student
-- firstname: Kehang
+  fullname: PrafullPurohit
   attendance_type: Virtual
+- firstname: Kehang
   lastname: Bai
   affiliation: University of Oregon
   position: Student
-- firstname: Alan
+  fullname: KehangBai
   attendance_type: Virtual
-  lastname: Boyle
-  affiliation: GeekWire
-  position: Journalist
 - firstname: Chun-Yi
-  attendance_type: Virtual
   lastname: Wang
   affiliation: National Tsing Hua University
   position: Student
-generated_at: 07/09/2022 13:45:06 GMT
+  fullname: Chun-YiWang
+  attendance_type: Virtual
+generated_at: 07/09/2022 14:32:54 GMT
 number_participants: 957
 number_inperson_participants: 661
 number_virtual_participants: 267
