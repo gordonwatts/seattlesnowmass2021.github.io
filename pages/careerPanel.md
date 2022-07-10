@@ -13,9 +13,9 @@ We will learn about the exciting and rewarding career opportunities open to you 
 Bring your lunch to join the panel discussion.
 
 ## Co-convenors
-Sudhir Malik (UPRM)
+Sudhir Malik ([UPRM](http://charma.uprm.edu/~malik/))
 
-Julie Hogan (Bethel University)
+Julie Hogan ([Bethel University](https://www.bethel.edu/academics/faculty/julie-hogan))
 
 ## Panelists
 
