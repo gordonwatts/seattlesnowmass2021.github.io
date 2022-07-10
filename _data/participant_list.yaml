@@ -1769,6 +1769,12 @@ participants:
   position: Research Scientist
   fullname: KenHerner
   attendance_type: Virtual
+- firstname: Enrico
+  lastname: Herrmann
+  affiliation: UCLA
+  position: Postdoc
+  fullname: EnricoHerrmann
+  attendance_type: In person
 - firstname: David
   lastname: Hertzog
   affiliation: University of Washington
@@ -3443,6 +3449,12 @@ participants:
   position: 'Other:: Emeritus'
   fullname: ChrisQuigg
   attendance_type: In person
+- firstname: Breese
+  lastname: Quinn
+  affiliation: University of Mississippi
+  position: Faculty
+  fullname: BreeseQuinn
+  attendance_type: Virtual
 - firstname: Melissa
   lastname: Quinnan
   affiliation: UC San Diego
@@ -5633,10 +5645,16 @@ participants:
   position: Student
   fullname: Chun-YiWang
   attendance_type: Virtual
-generated_at: 07/09/2022 14:41:21 GMT
-number_participants: 939
-number_inperson_participants: 687
-number_virtual_participants: 252
+- firstname: Sanjib
+  lastname: Agarwalla
+  affiliation: Institute of Physics, Bhubaneswar and Physics Dept. & WIPAC, UW Madison
+  position: Faculty
+  fullname: SanjibAgarwalla
+  attendance_type: Virtual
+generated_at: 07/10/2022 10:13:12 GMT
+number_participants: 942
+number_inperson_participants: 688
+number_virtual_participants: 254
 number_LOC_Vol_Press: 29
 number_dinner_attendees: 429
 number_LIGO: 53
