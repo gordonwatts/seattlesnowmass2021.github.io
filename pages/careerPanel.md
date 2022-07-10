@@ -14,7 +14,10 @@ Bring your lunch to join the panel discusison.
 
 ## Co-convenors
 Sudhir Malik (UPRM)
+
 Julie Hogan (Bethel University)
+
+## Panelists
 
 | Panelist Name| From | Linkedin      |
 | :---        |    :----   |          :--- | 
