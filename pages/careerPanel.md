@@ -12,5 +12,16 @@ We will learn about the exciting and rewarding career opportunities open to you 
 
 Bring your lunch to join the panel discusison.
 
-## Organisors:
+## Co-convenors
 Sudhir Malik (UPRM)
+Julie Hogan (Bethel University)
+
+| Panelist Name| From | Linkedin      |
+| :---        |    :----   |          :--- | 
+| Jake Anderson  | Cirrus Logic       | [Here](https://www.linkedin.com/in/jacob-anderson/) |
+| Rizki Syarif   | Cambridge Mobile Telematics        | [Here](https://www.linkedin.com/in/rizki-syarif-84399416/)  |
+| Andrew Hard    | Google        | [Here](https://www.linkedin.com/in/andrew-hard-25b690a5/)	     |
+| Joseph Tuggle  | OSD Cost Assessment & Program Evaluation (CAPE)        | 	[Here](https://www.linkedin.com/in/josephmtuggle/)      |
+| Nate Woods     | Red Violet       | [Here](https://www.linkedin.com/in/nate-woods-96967a145/)     |
+
+																					
