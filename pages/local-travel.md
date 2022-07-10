@@ -10,6 +10,7 @@ hide_hero: false
 Seattle is a large city, and all the options you'd expect in a city this size are available. Most mapping programs have the bus and light rail system well integrated.
 
 - [Link Light Rail](https://www.soundtransit.org/ride-with-us/routes-schedules/1-line): Sound Transit’s Link light rail trains arrive every 8 to 15 minutes, depending on the time of day.
+    - There is some construction on stations between SEATAC and the university during our workshop. [Please see here for how it might affect travel](https://www.soundtransit.org/blog/platform/plan-ahead-upcoming-1-line-maintenance). The work should be done by July 24.
 - By bus: There are more than 60 [bus routes](https://kingcounty.gov/depts/transportation/metro/schedules-maps.aspx) that serve the University District, including many with stops right on campus.
 - [ORCA Card](http://orcacard.com/): These transit passes can be used on streetcars, light rail, buses, and more. Please note: they do not work on Washington State Ferries or the Seattle Center Monorail).
 - [Lyft](https://www.lyft.com/rider/cities/seattle-wa), [Uber](https://www.uber.com/global/en/cities/seattle/), and metered Taxis: In downtown Seattle, local drivers offer in-city transportation. All rides can be scheduled using smartphone apps.
