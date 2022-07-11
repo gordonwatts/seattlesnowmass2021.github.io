@@ -905,6 +905,12 @@ participants:
   position: Faculty
   fullname: EricDahl
   attendance_type: In person
+- firstname: Mogens
+  lastname: Dam
+  affiliation: Niels Bohr Institute, Copenhagen
+  position: Faculty
+  fullname: MogensDam
+  attendance_type: Virtual
 - firstname: Chris
   lastname: Damerell
   affiliation: RAL UK
@@ -1775,6 +1781,12 @@ participants:
   position: Postdoc
   fullname: EnricoHerrmann
   attendance_type: In person
+- firstname: Scott
+  lastname: Hertel
+  affiliation: University of Massachusetts - Amherst
+  position: Faculty
+  fullname: ScottHertel
+  attendance_type: In person
 - firstname: David
   lastname: Hertzog
   affiliation: University of Washington
@@ -1985,6 +1997,12 @@ participants:
   position: Faculty
   fullname: BodhithaJayatilaka
   attendance_type: In person
+- firstname: Daniel
+  lastname: Jeans
+  affiliation: KEK / IPNS
+  position: Faculty
+  fullname: DanielJeans
+  attendance_type: Virtual
 - firstname: Laura
   lastname: Jeanty
   affiliation: University of Oregon
@@ -2771,6 +2789,12 @@ participants:
   position: Faculty
   fullname: MarkMessier
   attendance_type: In person
+- firstname: Yannick
+  lastname: Meurice
+  affiliation: University of Iowa
+  position: Faculty
+  fullname: YannickMeurice
+  attendance_type: Virtual
 - firstname: Andrew
   lastname: Meyer
   affiliation: University of Hawaii at Manoa
@@ -3653,6 +3677,12 @@ participants:
   position: 'Other:: Honorary Professor'
   fullname: GiancarloRossi
   attendance_type: Virtual
+- firstname: Carsten
+  lastname: Rott
+  affiliation: University of Utah / Sungkyunkwan University
+  position: Faculty
+  fullname: CarstenRott
+  attendance_type: In person
 - firstname: Hardik
   lastname: Routray
   affiliation: Rutgers University
@@ -4625,6 +4655,12 @@ participants:
   position: Research Scientist
   fullname: ElizabethWorcester
   attendance_type: In person
+- firstname: Steven
+  lastname: Worm
+  affiliation: DESY / Humboldt Universität zu Berlin
+  position: 'Other:: Scientist+Faculty'
+  fullname: StevenWorm
+  attendance_type: Virtual
 - firstname: Wanwei
   lastname: Wu
   affiliation: Fermilab
@@ -5651,11 +5687,41 @@ participants:
   position: Faculty
   fullname: SanjibAgarwalla
   attendance_type: Virtual
-generated_at: 07/10/2022 10:13:12 GMT
-number_participants: 942
-number_inperson_participants: 688
-number_virtual_participants: 254
+- firstname: Matthew
+  lastname: Knauss
+  affiliation: William & Mary
+  position: Student
+  fullname: MatthewKnauss
+  attendance_type: Virtual
+- firstname: George
+  lastname: French
+  affiliation: William and Mary
+  position: Student
+  fullname: GeorgeFrench
+  attendance_type: Virtual
+- firstname: Alden
+  lastname: Fan
+  affiliation: SLAC
+  position: Postdoc
+  fullname: AldenFan
+  attendance_type: Virtual
+- firstname: 'Sagar Kumar '
+  lastname: Maity
+  affiliation: 'S N Bose National Center for Basic Sciences '
+  position: Student
+  fullname: Sagar Kumar Maity
+  attendance_type: Virtual
+- firstname: Thiago
+  lastname: Bezerra
+  affiliation: University of Sussex
+  position: Postdoc
+  fullname: ThiagoBezerra
+  attendance_type: Virtual
+generated_at: 07/11/2022 11:28:20 GMT
+number_participants: 953
+number_inperson_participants: 690
+number_virtual_participants: 263
 number_LOC_Vol_Press: 29
 number_dinner_attendees: 429
 number_LIGO: 53
-number_baseball: 58
+number_baseball: 59
