@@ -23,7 +23,7 @@ At the Pacific Science Center, kids and families will engage with researchers an
 | Panel discussion | [Ada's cafe](https://www.adasbooks.com) | July 16 and July 23 | UW physicists will present their research in short presentations and will participate in a Q&A session with the audience. |
 | Dark Matter and Gravitational Waves Demos | [PSC Camps](https://www.pacificsciencecenter.org/education/camps) | July 19-22, July 26 | Demos on the topics of Dark Matter and Gravitational Waves in the PSC camps |
 | Cloud chamber demo | [Pacific Science Center](https://www.pacificsciencecenter.org) | TBD | We will run a Cosmic Rays Exhibit on the main floor of the [Pacific Science Center](https://www.pacificsciencecenter.org) |
-| [CENPA](https://www.npl.washington.edu) tours | Center for Experimental Nuclear Physics and Astrophysics | August 30 | We have partnered with the [UW Youth&Teens programs](https://www.youth-teen.uw.edu) to organise tours for their engineering camps attendees |
+| [CENPA](https://www.npl.washington.edu) tours | Center for Experimental Nuclear Physics and Astrophysics | August 1 | We have partnered with the [UW Youth&Teens programs](https://www.youth-teen.uw.edu) to organise tours for their engineering camps attendees |
 | Physics VR Demos | UW Kane Hall | July 21st at 5pm before the [Physics Slam](/pages/slam.md) | The UW Physics dept runs a series of [VR labs](https://artsci.washington.edu/news/2019-08/virtually-physics) as part as the undergraduate syllabus. Physics slams attendees will have the opportunity to try these VR demos before the slam |
 
 
