@@ -16,17 +16,19 @@ Light refreshment and beverages will be provided.
 Representatives:
 
 <table>
+ 
  <tr>
    <td><a href="https://www.linkedin.com/in/tom-gibbs-9485ab1/">Tom Gibbs</a> </td>
    <td>NVIDIA</td>
  </tr>
+
  <tr>
    <td><a href="https://www.linkedin.com/in/tom-troksa-455b86/">Thomas Troksa</a> </td>
    <td>Intel</td>
  </tr>
 
  <tr>
-   <td><a href="https://www.linkedin.com/in/udaimody/">Udai Mody</td>
+   <td><a href="https://www.linkedin.com/in/udaimody/">Udai Mody</a></td>
    <td>Cerebras System</td>
  </tr>
 
@@ -36,7 +38,7 @@ Representatives:
  </tr>
 
  <tr>
-   <td><a href="https://www.linkedin.com/in/szorzetti/">Silvia Zorzetti</td>
+   <td><a href="https://www.linkedin.com/in/szorzetti/">Silvia Zorzetti</a></td>
    <td>Quantum Computing Co-Design Department at Fermilab SQMS Fermilab</td>
  </tr>
 
@@ -51,7 +53,7 @@ Representatives:
  </tr>
 
  <tr>
-   <td><a href="https://www.linkedin.com/in/rizki-syarif-84399416/">Rizki Syarif </a></td>
+   <td><a href="https://www.linkedin.com/in/rizki-syarif-84399416/">Rizki Syarif</a></td>
    <td>Cambridge Mobile Telematics</td>
  </tr>
 
@@ -71,7 +73,7 @@ Representatives:
  </tr>
  
  <tr>
-   <td><a href="https://www.linkedin.com/in/ching-cheng-hsu-67563b56/">ChingCheng Hsu</a></td>
+   <td><a href="https://www.linkedin.com/in/ching-cheng-hsu-67563b56/">Ching-Cheng Hsu</a></td>
    <td>Microsoft</td>
  </tr>
  
