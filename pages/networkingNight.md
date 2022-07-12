@@ -59,10 +59,14 @@ Representatives:
    <td>Google</td>
  </tr>
  
-  <tr>
+ <tr>
    <td><a href="https://www.linkedin.com/in/ching-cheng-hsu-67563b56/">ChingCheng Hsu</a></td>
    <td>Microsoft</td>
  </tr>
  
+ <tr>
+   <td><a href="https://www.linkedin.com/in/ching-cheng-hsu-67563b56">Nate Woods</a></td>
+   <td>Red Violet</td>
+ </tr>
 
 </table>
