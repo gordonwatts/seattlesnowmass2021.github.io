@@ -24,9 +24,20 @@ Representatives:
    <td><a href="https://www.linkedin.com/in/tom-troksa-455b86/">Thomas Troksa</a> </td>
    <td>Intel</td>
  </tr>
+
+ <tr>
+   <td><a href="https://www.linkedin.com/in/udaimody/">Udai Mody</td>
+   <td>Cerebras System</td>
+ </tr>
+
  <tr>
    <td><a href="https://www.linkedin.com/in/sarah-stone-5b3083158/">Sarah A Stone</a></td>
    <td>e-Science Institute Software Engineer Center</td>
+ </tr>
+
+ <tr>
+   <td><a href="https://www.linkedin.com/in/szorzetti/">Silvia Zorzetti</td>
+   <td>Quantum Computing Co-Design Department at Fermilab SQMS Fermilab</td>
  </tr>
 
  <tr>
