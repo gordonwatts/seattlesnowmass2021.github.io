@@ -80,4 +80,8 @@ Representatives:
    <td>Red Violet</td>
  </tr>
 
+  <tr>
+   <td><a href="https://www.linkedin.com/in/othrif/">Othmane Rifki</a></td>
+   <td>Spectrum Labs</td>
+ </tr>
 </table>
