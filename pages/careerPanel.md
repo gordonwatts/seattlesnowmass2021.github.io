@@ -1,6 +1,6 @@
 ---
 permalink: /careerPanel/
-title: Eearly Career Panel
+title: Early Career Panel
 hero_image: /assets/images/particleMist.jpeg
 hide_hero: false
 ---
