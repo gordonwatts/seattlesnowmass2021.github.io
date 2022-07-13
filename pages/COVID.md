@@ -5,6 +5,8 @@ hero_image: /assets/images/uw-fountain.jpg
 hide_hero: false
 ---
 
+https://www.washington.edu/coronavirus/staff-faq/
+
 We are expecting over 600 people to join us over the course of 10 days. Community spread exists in Seattle (rated as [Medium](https://kingcounty.gov/depts/health/covid-19/data/community-level.aspx) as of 6/29), but people will be arriving from hot spots around the country to this workshop. It is almost certain there will be a case or two at the workshop. We must all work together as a community to make sure that we keep as safe as possible before the conference and prevent any spread at the conference.
 
 ## What to do before you arrive
@@ -31,7 +33,6 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 * If you have symptoms that are consistent with COVID please attend the workshop remotely.
   * All in-person participants will get links to Zoom rooms - please see the daily emails!
   * For more information on COVID symptoms, please see the [CDC site](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
-* If you have symptoms but test negative, you are welcome to join the workshop - but please make sure your mask is tightly fitted at all times. And please avoid removing it during coffee breaks without also observing social distancing or remaining outside until you are positive you've got a cold or allergies.
 * Seattle is not, unfortunately, immune to high pollen and dust counts - if you have allergies you may experience the expected symptoms.
 
 ## What to do if you test positive
