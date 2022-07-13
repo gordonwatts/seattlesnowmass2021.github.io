@@ -78,7 +78,7 @@ Representatives:
  </tr>
  
  <tr>
-   <td><a href="https://www.linkedin.com/in/ching-cheng-hsu-67563b56">Nate Woods</a></td>
+   <td><a href="https://www.linkedin.com/in/nate-woods-96967a145/">Nate Woods</a></td>
    <td>Red Violet</td>
  </tr>
 
