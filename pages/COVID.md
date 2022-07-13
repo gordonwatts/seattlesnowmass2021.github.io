@@ -27,6 +27,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 ## What to do if you have symptoms
 
 * Please Self-Test! If you've not brought a test with you, please ask the registration desk. **PLEASE MAKE SURE YOUR MASK IS PROPERLY FITTED IF YOU HAVE SYMPTOMS**. To take the test, please find a place that is relatively quiet and away from people: these tests are likely to make you sneeze. The staff at the registration desk will help guide you to a location (your hotel room is ideal, for example). You'll need about 15 minutes to determine your status. Please do this as soon as you can - the modern variants of Omicron can transmit between unmasked individuals very quickly.
+* University of Washington offers PCR testing. [Look for the University District testing option here](https://www.uwmedicine.org/coronavirus/testing). These are PCR tests, which means results can take up to 48 hours to be reported. You'll need your medical insurance (if you are uninsured, then testing is free).
 * If you have symptoms but test negative, you are welcome to join the workshop - but please make sure your mask is tightly fitted at all times. And please avoid removing it during coffee breaks without also observing social distancing or remaining outside until you are positive you've got a cold or allergies.
 * Seattle is not, unfortunately, immune to high pollen and dust counts - if you have allergies you may experience the expected symptoms.
 
