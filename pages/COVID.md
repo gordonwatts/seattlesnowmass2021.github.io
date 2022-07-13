@@ -28,6 +28,9 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 * Please Self-Test! If you've not brought a test with you, please ask the registration desk. **PLEASE MAKE SURE YOUR MASK IS PROPERLY FITTED IF YOU HAVE SYMPTOMS**. To take the test, please find a place that is relatively quiet and away from people: these tests are likely to make you sneeze. The staff at the registration desk will help guide you to a location (your hotel room is ideal, for example). You'll need about 15 minutes to determine your status. Please do this as soon as you can - the modern variants of Omicron can transmit between unmasked individuals very quickly.
 * University of Washington offers PCR testing. [Look for the University District testing option here](https://www.uwmedicine.org/coronavirus/testing). These are PCR tests, which means results can take up to 48 hours to be reported. You'll need your medical insurance (if you are uninsured, then testing is free).
+* If you have symptoms that are consistent with COVID please attend the workshop remotely.
+  * All in-person participants will get links to Zoom rooms - please see the daily emails!
+  * For more information on COVID symptoms, please see the [CDC site](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
 * If you have symptoms but test negative, you are welcome to join the workshop - but please make sure your mask is tightly fitted at all times. And please avoid removing it during coffee breaks without also observing social distancing or remaining outside until you are positive you've got a cold or allergies.
 * Seattle is not, unfortunately, immune to high pollen and dust counts - if you have allergies you may experience the expected symptoms.
 
@@ -35,7 +38,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 COVID is now a regular part of our landscape - many of us are going to be dealing with it. As a community we can work together to make sure that we limit its spread when it is discovered.
 
-* Please isolate yourself. The most logical place for this is your hotel or dorm room.
+* Please isolate yourself. The most logical place for this is your hotel or dorm room. The CDC has extensive guidelines on what to do, [which can be found on their website](https://www.cdc.gov/media/releases/2021/s1227-isolation-quarantine-guidance.html).
 * Please send an email to conference services at [confuw@uw.edu](mailto:confuw@uw.edu) - they will notify the University of Washington and help with contract notification and warning. Your name will not be made public.
 * If you need help, please do not hesitate to contact us the same address above. We realize having to go into isolation in a strange city can be a daunting - we will do our best to help.
 * The university has a large hospital attached to it. The emergency room entrance is about a 15 minute walk from our main conference buildings. It is the main hospital in all of the Pacific Northwest and provides a complete range of care.
