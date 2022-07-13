@@ -16,9 +16,10 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 
 ## What to do while attending the workshop
 
-* **Masking is required in all indoor meeting rooms.** Speakers are not required to wear masks while speaking.
-* During coffee breaks, while eating, masking is not required, but please be conscientious about replacing the mask when you can. Please keep your mask on while waiting in lines for the coffee.
-* When approaching the Help desk or registration desk, please make sure to wear a mask. The professionals running these desks live by their ability to host conferences and a case of COVID would severely impact their ability to work (and help us out at this workshop). Thus, please be sure to wear a mask.
+* **Masking with a well-fitted, high-quality mask (KN95 or similar) is required in all indoor meeting spaces.** For speakers, mask wearing is recommended, and required in rooms where the speakers are closer than 2 meters to the audience.
+* Masking is not required while enjoying our coffee breaks, but please keep your mask on while in line collecting the coffee and snacks. If the weather is nice, feel free to enjoy the coffee with colleagues outdoors.
+
+* When approaching the Help desk or registration desk, even the ones in a non-snowmass specific area, make sure to wear a mask. The professionals running these desks live by their ability to host conferences and a case of COVID would severely impact their ability to work (and help us out at this workshop).
 * Do try to keep track of people you have significant interactions with and meetings you attend - just incase we need to perform contact tracing.
 * Look at the daily emails where COVID cases will be reported to help you adjust your behavior to a level you are comfortable with.
 * For all other meeting rooms, buildings, etc., at UW, masking is **strongly** recommended. There are some places where masks are required around the university. Please follow all signage.
@@ -27,11 +28,10 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 ## What to do if you have symptoms
 
 * Please Self-Test! If you've not brought a test with you, please ask the registration desk. **PLEASE MAKE SURE YOUR MASK IS PROPERLY FITTED IF YOU HAVE SYMPTOMS**. To take the test, please find a place that is relatively quiet and away from people: these tests are likely to make you sneeze. The staff at the registration desk will help guide you to a location (your hotel room is ideal, for example). You'll need about 15 minutes to determine your status. Please do this as soon as you can - the modern variants of Omicron can transmit between unmasked individuals very quickly.
-* University of Washington offers PCR testing. [Look for the University District testing option here](https://www.uwmedicine.org/coronavirus/testing). These are PCR tests, which means results can take up to 48 hours to be reported. You'll need your medical insurance (if you are uninsured, then testing is free).
-* If you have symptoms that are consistent with COVID please attend the workshop remotely.
-  * All in-person participants will get links to Zoom rooms - please see the daily emails!
-  * For more information on COVID symptoms, please see the [CDC site](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
-* If you are experiencing expected allergy-like symptoms, please see the "What should I do if my symptom's are due to seasonal allergies" on the [UW FAQ](https://www.washington.edu/coronavirus/staff-faq/)
+* If you have symptoms that are consistent with COVID please attend the workshop remotely until you test negative with a PCR test.
+  * All in-person participants will get links to Zoom rooms - please see the daily emails for zoom links!
+  * University of Washington offers PCR testing. [Look for the University District testing option here](https://www.uwmedicine.org/coronavirus/testing). These are PCR tests, which means results can take up to 48 hours to be reported. You'll need your medical insurance (if you are uninsured, then testing is free).
+  * For more information on COVID symptoms, please see the [CDC site](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html). If you are experiencing expected allergy-like symptoms, please see the "What should I do if my symptom's are due to seasonal allergies" on the [UW FAQ](https://www.washington.edu/coronavirus/staff-faq/)
 
 ## What to do if you test positive
 
