@@ -48,3 +48,19 @@ Below is a list of all the meeting rooms along with a small amount of informatio
 | [MGH 254](https://www.washington.edu/classroom/MGH+254) | 35 | 1 handheld + lapel mic, computer | Nothing |
 | [MGH 284](https://www.washington.edu/classroom/MGH+284) | 25 | [BT/USB Audio Puck](https://www.amazon.com/gp/product/B0899S421T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | Computer |
 | [MGH 288](https://www.washington.edu/classroom/MGH+288) | 25 | [BT/USB Audio Puck](https://www.amazon.com/gp/product/B0899S421T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | Computer |
+
+## Small Meeting Rooms
+
+We have a range of small un-programmed meeting spaces around the campus. Many are in the physics department. There are a collection that are also around the campus, run by the university, and available on a first-come-first-serve basis. It is summer, and a number of cafe locations are closed, though the tables and chairs are still accessible - these make for great working spaces for small groups. We've listed what we've got, along with where you can either sign them out or look up their availability below.
+
+| Name & Location | Sign-up | Description |
+| --- | --- | --- |
+| [Research Commons](https://www.lib.washington.edu/commons), [Suzzallo Library](https://www.washington.edu/maps/#!/suz) | [First-come-first-serve](https://cal.lib.uw.edu/reserve/research-commons) | Rooms from 4-16 persons, open from 9am-5pm |
+| [Odegaard Library Study Rooms](https://www.lib.washington.edu/ougl), [Odegaard Library](https://www.washington.edu/maps/#!/oug) | [First-come-first-serve](https://cal.lib.uw.edu/reserve/spaces/odegaard) | Rooms for up to 8, open from 9am to 5 pm, will need a UW escort to open the room. |
+| Physics Building B205, [PAB](https://www.washington.edu/maps/#!/pab) | Ask at Help Desk | Single large table, seats about 10, or 15 if crowded |
+
+## Offices
+
+We have a very limited supply of offices available. These are suitable for 1, 2, or 3 people working together in close collaboration and have a door you can close for privacy. These are other people's offices who have lent them to us - please be respectful of the space!
+
+To use one, drop by the help desk and sign one out. Please return the keys promptly!
