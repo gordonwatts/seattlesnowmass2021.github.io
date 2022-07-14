@@ -11,9 +11,9 @@ Tours of the Center for Experimental Nuclear Physcis and Astrophysics (<a href="
 
 | Date | Time | Location | Sign-up link |
 | --- | --- | --- | --- |
-| Thursday 7/21 | 1:00 pm | <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
-| Thursday 7/21 | 1:30 pm | <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
-| Friday 7/22 | 1:00 pm | <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
-| Friday 7/22 | 1:30 pm | <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
+| Thursday 7/21 | 1:00 pm | <a href="https://www.npl.washington.edu/cenpa/contact">CENPA Courtyard</a> | <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
+| Thursday 7/21 | 1:30 pm | <a href="https://www.npl.washington.edu/cenpa/contact">CENPA Courtyard</a> |<b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
+| Friday 7/22 | 1:00 pm | <a href="https://www.npl.washington.edu/cenpa/contact">CENPA Courtyard</a> |<b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
+| Friday 7/22 | 1:30 pm | <a href="https://www.npl.washington.edu/cenpa/contact">CENPA Courtyard</a> |<b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">sign up</a></b> |
 
 Tours are for Snowmass participants only, please bring your badge.  Tours will start from the CENPA courtyard (<a href="https://www.npl.washington.edu/cenpa/contact">map</a>).  Space is limited, please sign up for the tour <b><a href="https://www.signupgenius.com/go/10C0D4AA4A929A5F8CE9-admx">here</a></b>.
