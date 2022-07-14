@@ -15,6 +15,12 @@ The below map shows the buildings circled in red where campus meetings will occu
 
 <img src="/assets/images/campus-building-map.png" alt="Poster" width="80%"/>
 
+## The Help Desk
+
+The help desk will be staffed for the duration of the workshop. Please feel free to ask any questions - if they can't answer them they will know how to get in touch with someone that does!
+
+The help desk is located in the lobby of [Kane Hall](https://www.washington.edu/maps/#!/kne). This is the same place where registration occurs and most of the plenary meetings also occur.
+
 ## The Meeting Rooms
 
 Below is a list of all the meeting rooms along with a small amount of information about each. The _Session Chair Must Supply_ column indicates what the session chair must bring to operate the sound system in the room and connect to zoom. For most of our larger rooms everything is supplied. In the very small rooms, which are designed to be discussion rooms, nothing is required.
