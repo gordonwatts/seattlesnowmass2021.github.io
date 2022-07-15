@@ -31,14 +31,14 @@ Below is a list of all the meeting rooms along with a small amount of informatio
 
 | Meeting Room | Seats |  Sound & Zoom Config | Session Chair Must Supply |
 | --- | --- | --- | --- |
-| [HUB 214](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-214/) | 80 | ... | Computer |
-| [HUB 238](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-238/) | 30 | ... | Computer |
-| [HUB 250](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-250/) | 181 | ... | Computer |
-| [HUB 307](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-307/) | 30 | ... | Computer |
-| [HUB 332](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-332/) | 120 | ... | Computer |
-| [HUB 334](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-334/) | 132 | ... | Computer |
-| [HUB 337](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-337/) | 50 | ... | Computer |
-| [HUB 340](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-340/) | 40 | ... | Computer |
+| [HUB 214](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-214/) | 80 | ceiling mics | Computer |
+| [HUB 238](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-238/) | 30 | ceiling mics | Computer |
+| [HUB 250](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-250/) | 181 | 1 podium + handheld mic | Computer |
+| [HUB 307](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-307/) | 30 | ceiling mics | Computer |
+| [HUB 332](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-332/) | 120 | ceiling mics | Computer |
+| [HUB 334](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-334/) | 132 | 1 podium + handheld mic | Computer |
+| [HUB 337](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-337/) | 50 | ceiling mics | Computer |
+| [HUB 340](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-340/) | 40 | 1 podium + handheld mic | Computer |
 | [Kane Hall 110](https://www.washington.edu/classroom/KNE+110) | 110 | 2 handheld, 1 lapel, computer | Nothing |
 | [Kane Hall 120](https://www.washington.edu/classroom/KNE+120) | 435 | 2 handheld, 1 lapel, computer | Nothing |
 | [Kane Hall 130](https://www.washington.edu/classroom/KNE+130) | 723 | 3 handheld, 1 lapel, computer | Nothing |
