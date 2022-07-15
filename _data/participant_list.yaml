@@ -311,6 +311,12 @@ participants:
   position: Research Scientist
   fullname: AmyBender
   attendance_type: In person
+- firstname: Doug
+  lastname: Benjamin
+  affiliation: Brookhaven National Lab
+  position: Research Scientist
+  fullname: DougBenjamin
+  attendance_type: Virtual
 - firstname: Jake
   lastname: Bennett
   affiliation: University of Mississippi
@@ -1175,6 +1181,12 @@ participants:
   position: Postdoc
   fullname: DanielDiaz
   attendance_type: In person
+- firstname: Claudio
+  lastname: Dib
+  affiliation: Universidad Tecnica Federico Santa Maria, Chile
+  position: Faculty
+  fullname: ClaudioDib
+  attendance_type: Virtual
 - firstname: Jennet
   lastname: Dickinson
   affiliation: Fermilab
@@ -1228,6 +1240,12 @@ participants:
   affiliation: SLAC National Accelerator Laboratory
   position: Research Scientist
   fullname: AngeloDragone
+  attendance_type: Virtual
+- firstname: Patrick
+  lastname: Draper
+  affiliation: University of Illinois Urbana-Champaign
+  position: Faculty
+  fullname: PatrickDraper
   attendance_type: Virtual
 - firstname: Alex
   lastname: Drlica-Wagner
@@ -1505,6 +1523,12 @@ participants:
   position: Postdoc
   fullname: JoshuaFoster
   attendance_type: In person
+- firstname: Nicolas
+  lastname: Fourches
+  affiliation: CEA-Saclay/IRFU  Université Paris-Saclay
+  position: Research Scientist
+  fullname: NicolasFourches
+  attendance_type: Virtual
 - firstname: Patrick
   lastname: Fox
   affiliation: Fermilab
@@ -1727,6 +1751,12 @@ participants:
   position: Postdoc
   fullname: JuliaGonski
   attendance_type: In person
+- firstname: Saul
+  lastname: Gonzalez
+  affiliation: NSF
+  position: 'Other:: Government'
+  fullname: SaulGonzalez
+  attendance_type: Virtual
 - firstname: Stefania
   lastname: Gori
   affiliation: UC Santa Cruz
@@ -1979,6 +2009,12 @@ participants:
   position: Faculty
   fullname: JoanneHewett
   attendance_type: In person
+- firstname: Richard
+  lastname: Hill
+  affiliation: U. Kentucky / Fermilab
+  position: Faculty
+  fullname: RichardHill
+  attendance_type: Virtual
 - firstname: John
   lastname: Hiller
   affiliation: University of Idaho
@@ -2153,6 +2189,12 @@ participants:
   position: Postdoc
   fullname: MarcIlla Subina
   attendance_type: In person
+- firstname: Philip
+  lastname: Ilten
+  affiliation: University of Cincinnati
+  position: Faculty
+  fullname: PhilipIlten
+  attendance_type: Virtual
 - firstname: Joshua
   lastname: Isaacson
   affiliation: Fermilab
@@ -2171,6 +2213,12 @@ participants:
   position: Research Scientist
   fullname: ChristopherJackson
   attendance_type: In person
+- firstname: Joerg
+  lastname: Jaeckel
+  affiliation: ITP Heidelberg
+  position: Faculty
+  fullname: JoergJaeckel
+  attendance_type: Virtual
 - firstname: Karl
   lastname: Jakobs
   affiliation: University of Freiburg / Germany
@@ -2531,6 +2579,12 @@ participants:
   position: Research Scientist
   fullname: AndreasKronfeld
   attendance_type: In person
+- firstname: Katja
+  lastname: Krueger
+  affiliation: DESY
+  position: Research Scientist
+  fullname: KatjaKrueger
+  attendance_type: Virtual
 - firstname: Donna
   lastname: Kubik
   affiliation: Fermilab
@@ -3095,6 +3149,12 @@ participants:
   position: Faculty
   fullname: VivianMiranda
   attendance_type: In person
+- firstname: Irina
+  lastname: Mocioiu
+  affiliation: Pennsylvania State University
+  position: Faculty
+  fullname: IrinaMocioiu
+  attendance_type: Virtual
 - firstname: Udai
   lastname: Mody
   affiliation: Cerebras Systems
@@ -3160,6 +3220,12 @@ participants:
   affiliation: Fermilab
   position: Faculty
   fullname: JamesMott
+  attendance_type: Virtual
+- firstname: Matthew
+  lastname: Moulson
+  affiliation: INFN Frascati
+  position: Research Scientist
+  fullname: MatthewMoulson
   attendance_type: Virtual
 - firstname: Ian
   lastname: Moult
@@ -3269,6 +3335,12 @@ participants:
   position: Student
   fullname: JurinaNakajima
   attendance_type: In person
+- firstname: Hajime
+  lastname: Nanjo
+  affiliation: Osaka University
+  position: Faculty
+  fullname: HajimeNanjo
+  attendance_type: Virtual
 - firstname: Emilio
   lastname: Nanni
   affiliation: SLAC National Accelerator Laboratory/Stanford University
@@ -3557,6 +3629,12 @@ participants:
   position: Faculty
   fullname: JohnParsons
   attendance_type: In person
+- firstname: Emilie
+  lastname: Passemar
+  affiliation: Indiana University
+  position: Faculty
+  fullname: EmiliePassemar
+  attendance_type: Virtual
 - firstname: Nathaniel
   lastname: Pastika
   affiliation: Fermilab
@@ -3935,6 +4013,12 @@ participants:
   position: 'Other:: Public Information Officer'
   fullname: KurtRiesselmann
   attendance_type: In person
+- firstname: Othmane
+  lastname: Rifki
+  affiliation: Spectrum Labs, Inc
+  position: Research Scientist
+  fullname: OthmaneRifki
+  attendance_type: In person
 - firstname: Michael
   lastname: Riordan
   affiliation: University of California, Santa Cruz
@@ -3959,6 +4043,12 @@ participants:
   position: Research Scientist
   fullname: ThomasRizzo
   attendance_type: In person
+- firstname: R. G. Hamish
+  lastname: Robertson
+  affiliation: University of Washington
+  position: Faculty
+  fullname: R. G. HamishRobertson
+  attendance_type: Virtual
 - firstname: Cristian
   lastname: Roca Catala
   affiliation: Lawrence Livermore National Laboratory
@@ -4133,6 +4223,12 @@ participants:
   position: Student
   fullname: CarlosSarasty
   attendance_type: In person
+- firstname: Murali
+  lastname: Saravanan
+  affiliation: University of Washington
+  position: Student
+  fullname: MuraliSaravanan
+  attendance_type: In person
 - firstname: Ina
   lastname: Sarcevic
   affiliation: University of Arizona
@@ -4211,6 +4307,12 @@ participants:
   position: Student
   fullname: AlexSchuy
   attendance_type: In person
+- firstname: Alan
+  lastname: Schwartz
+  affiliation: University of Cincinnati
+  position: Faculty
+  fullname: AlanSchwartz
+  attendance_type: Virtual
 - firstname: Ariel
   lastname: Schwartzman
   affiliation: SLAC National Accelerator Laboratory
@@ -4223,6 +4325,12 @@ participants:
   position: Faculty
   fullname: ReinhardSchwienhorst
   attendance_type: In person
+- firstname: John
+  lastname: Seeman
+  affiliation: SLAC National Accelerator Lab
+  position: Research Scientist
+  fullname: JohnSeeman
+  attendance_type: Virtual
 - firstname: Neelima
   lastname: Sehgal
   affiliation: Stony Brook University
@@ -4307,6 +4415,12 @@ participants:
   position: Faculty
   fullname: VladimirShiltsev
   attendance_type: In person
+- firstname: Shawn
+  lastname: Shin
+  affiliation: Incom, Inc.
+  position: Research Scientist
+  fullname: ShawnShin
+  attendance_type: Virtual
 - firstname: Savannah
   lastname: Shively
   affiliation: UC Irvine (FASER)
@@ -4522,6 +4636,12 @@ participants:
   affiliation: Fermilab
   position: Research Scientist
   fullname: DiktysStratakis
+  attendance_type: Virtual
+- firstname: Raimund
+  lastname: Strauss
+  affiliation: TUM
+  position: Research Scientist
+  fullname: RaimundStrauss
   attendance_type: Virtual
 - firstname: Louis
   lastname: Strigari
@@ -4757,12 +4877,6 @@ participants:
   position: Student
   fullname: FeliciaTsai
   attendance_type: In person
-- firstname: Yu-Dai
-  lastname: Tsai
-  affiliation: UC Irvine
-  position: Postdoc
-  fullname: Yu-DaiTsai
-  attendance_type: In person
 - firstname: Yun-Tse
   lastname: Tsai
   affiliation: SLAC National Accelerator Laboratory
@@ -4822,7 +4936,7 @@ participants:
   affiliation: College of William & Mary
   position: Faculty
   fullname: PatriciaVahle
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Sven
   lastname: Vahsen
   affiliation: University of Hawaii
@@ -4997,12 +5111,6 @@ participants:
   position: Research Scientist
   fullname: GenshengWang
   attendance_type: Virtual
-- firstname: Jinglu
-  lastname: Wang
-  affiliation: Northwestern University
-  position: Student
-  fullname: JingluWang
-  attendance_type: In person
 - firstname: Liantao
   lastname: Wang
   affiliation: University of Chicago
@@ -5201,11 +5309,23 @@ participants:
   position: Postdoc
   fullname: BarbaraYaeggy
   attendance_type: In person
+- firstname: Laurence
+  lastname: Yaffe
+  affiliation: University of Washington
+  position: Faculty
+  fullname: LaurenceYaffe
+  attendance_type: In person
 - firstname: Vyacheslav
   lastname: Yakovlev
   affiliation: Fermilab
   position: Research Scientist
   fullname: VyacheslavYakovlev
+  attendance_type: Virtual
+- firstname: Hitoshi
+  lastname: Yamamoto
+  affiliation: Tohoku University
+  position: Faculty
+  fullname: HitoshiYamamoto
   attendance_type: Virtual
 - firstname: Satoru
   lastname: Yamashita
@@ -6575,11 +6695,119 @@ participants:
   position: Postdoc
   fullname: AndrewWightman
   attendance_type: Virtual
-generated_at: 07/14/2022 16:15:45 GMT
-number_participants: 1096
+- firstname: Tim
+  lastname: Mathew
+  affiliation: University of Oregon
+  position: Student
+  fullname: TimMathew
+  attendance_type: Virtual
+- firstname: Ryan
+  lastname: Reece
+  affiliation: Cerebras Systems
+  position: Research Scientist
+  fullname: RyanReece
+  attendance_type: Virtual
+- firstname: Marjon
+  lastname: Moulai
+  affiliation: UW Madison
+  position: Postdoc
+  fullname: MarjonMoulai
+  attendance_type: Virtual
+- firstname: Fei
+  lastname: Huang
+  affiliation: ITP CAS/UC Irvine
+  position: Postdoc
+  fullname: FeiHuang
+  attendance_type: Virtual
+- firstname: Jared
+  lastname: Little
+  affiliation: CNRS - Centre national de la recherche scientifique
+  position: Postdoc
+  fullname: JaredLittle
+  attendance_type: Virtual
+- firstname: Kevin
+  lastname: Joven
+  affiliation: University of Delaware
+  position: Student
+  fullname: KevinJoven
+  attendance_type: Virtual
+- firstname: Guillermo
+  lastname: Fernandez Moroni
+  affiliation: Fermilab
+  position: Research Scientist
+  fullname: GuillermoFernandez Moroni
+  attendance_type: Virtual
+- firstname: John
+  lastname: Stroud
+  affiliation: University of Washington
+  position: Student
+  fullname: JohnStroud
+  attendance_type: Virtual
+- firstname: Devin
+  lastname: Mahon
+  affiliation: University of Minnesota
+  position: Postdoc
+  fullname: DevinMahon
+  attendance_type: Virtual
+- firstname: Brenda
+  lastname: Cervantes
+  affiliation: UNAM
+  position: Student
+  fullname: BrendaCervantes
+  attendance_type: Virtual
+- firstname: Erik
+  lastname: Swanson
+  affiliation: University of Washington
+  position: Research Scientist
+  fullname: ErikSwanson
+  attendance_type: Virtual
+- firstname: 'Mohamed '
+  lastname: Sassi
+  affiliation: 'Universität Hamburg '
+  position: Student
+  fullname: Mohamed Sassi
+  attendance_type: Virtual
+- firstname: Yu-Dai
+  lastname: Tsai
+  affiliation: University of California, Irvine
+  position: Postdoc
+  fullname: Yu-DaiTsai
+  attendance_type: Virtual
+- firstname: Chaitanya
+  lastname: Paranjape
+  affiliation: IIT Dhanbad, India
+  position: Student
+  fullname: ChaitanyaParanjape
+  attendance_type: Virtual
+- firstname: Carlos
+  lastname: Ourivio
+  affiliation: Unicamp
+  position: Prefer not to answer
+  fullname: CarlosOurivio
+  attendance_type: Virtual
+- firstname: Fernando
+  lastname: Chierchie
+  affiliation: Fermilab
+  position: Research Scientist
+  fullname: FernandoChierchie
+  attendance_type: Virtual
+- firstname: Chilufya
+  lastname: Mwewa
+  affiliation: Brookhaven National Lab
+  position: Postdoc
+  fullname: ChilufyaMwewa
+  attendance_type: Virtual
+- firstname: Sebastian
+  lastname: Sanchez-Falero
+  affiliation: Iowa State University
+  position: Student
+  fullname: SebastianSanchez-Falero
+  attendance_type: Virtual
+generated_at: 07/15/2022 16:14:15 GMT
+number_participants: 1134
 number_inperson_participants: 725
-number_virtual_participants: 371
-number_LOC_Vol_Press: 50
-number_dinner_attendees: 421
-number_LIGO: 55
+number_virtual_participants: 409
+number_LOC_Vol_Press: 52
+number_dinner_attendees: 419
+number_LIGO: 54
 number_baseball: 60
