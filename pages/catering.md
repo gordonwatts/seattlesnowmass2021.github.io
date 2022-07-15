@@ -11,11 +11,11 @@ Most days there are two coffee breaks, one in the morning and the other in the a
 
 Every day:
 
-- Morning Coffee Break (served from 9:30am to 11am)
+- Morning Coffee Break (served from 9:45am to 11am)
   - Kane Hall, first floor lobby
   - Kane Hall, Walker Ames Room (2nd floor)
   - HUB South Ballroom (only from Monday 7/18 to Wed 7/20)
-- Afternoon Coffee Break (served from 4:30pm to 5:45pm)
+- Afternoon Coffee Break (served from 4:45pm to 5:45pm)
   - Kane Hall, first floor lobby
   - Kane Hall, Walker Ames Room (2nd floor)
 
