@@ -18,5 +18,5 @@ title: Workshop Site Media and Assets
 We do not have pictures of all rooms, but if there are rooms you'd like to see that aren't here, let us know and we will get recent photos.
 
 | Room | Pictures |
-| PAC211 | [pic 1](/assets/rooms/PAC211/pic1.jpg) [pic 2](/assets/rooms/PAC211/pic2.jpg) [pic 3](/assets/rooms/PAC211/pic3.jpg) [pic 4](/assets/rooms/PAC211/pic4.jpg)|
+| PAC211 | [pano](/assets/rooms/PAC211/pano.jpeg) [pic 1](/assets/rooms/PAC211/pic1.jpg) [pic 2](/assets/rooms/PAC211/pic2.jpg) [pic 3](/assets/rooms/PAC211/pic3.jpg) [pic 4](/assets/rooms/PAC211/pic4.jpg)|
 | PAC231 | [pic 1](/assets/rooms/PAC231/pic1.jpg) [pic 2](/assets/rooms/PAC231/pic2.jpg) [pic 3](/assets/rooms/PAC231/pic3.jpg) [pic 4](/assets/rooms/PAC231/pic4.jpg) (excuse boxes - will be cleaned before we use it)|
