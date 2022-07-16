@@ -115,3 +115,13 @@ as well as great food!
 3. [Ivar's Salmon House](https://www.ivars.com/salmon-house)
 4. [Agua Verde](https://www.aguaverdecafe.com) - Baja Mexican
 5. [Saint Bread](https://www.saintbread.com) - bakery
+
+## Recommendations
+
+We have collected some of our favorites here
+
+- El Camino in Fremont ($$): I think they put crack in the "Mejillones El Camino" mussels appetizer. Great mole and margaritas too.
+- La Carta De Oaxaca in Ballard ($$): delicious Oaxacan dishes
+- Facing East in Bellevue ($$): delicious Taiwanese restaurant
+- Dong Ting Chun in Everett ($$): authentic Hunan cuisine. A bit of a drive though.
+- Ezell's Chicken ($): Oprah loved it, you will too (fast food)
