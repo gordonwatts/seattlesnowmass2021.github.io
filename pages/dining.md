@@ -7,7 +7,7 @@ hide_hero: false
 
 Seattle has many great dining options, most of which are a short walk, bus ride,
 train ride, or hired ride from the conference venue or your lodging. We recommend
-using your favorite online search tools to find something you like.
+using your favorite app or search tool to find something you like.
 
 We provide here a list of options that are within walking distance of the
 conference venue that should be particularly convenient to access for attendees.
@@ -107,7 +107,8 @@ University Village is a ritzy shopping mall on the north-eastern corner of campu
 
 ## Portage Bay
 
-The Portage Bay area features a few highly visit-worthy spots!
+The Portage Bay area features a few highly visit-worthy spots with great views
+as well as great food!
 
 <img src="/assets/images/dining_portage_bay.png" alt="Portage Bay dining options" width="80%"/>
 
