@@ -36,7 +36,7 @@ Testing:
 
 * University of Washington offers PCR testing. [Look for the University District testing option here](https://www.uwmedicine.org/coronavirus/testing). These are PCR tests, which means results can take up to 48 hours to be reported. You'll need your medical insurance (if you are uninsured, then testing is free).
 * Self-Testing. We have a limited number of tests on hand to provide to people with symptoms who haven't brought their own.
-  * Since you have symptoms, please do not approach the registration desk or come to indoor Snowmass spaces. Email [confuw@uw.edu](mailto:confuw@uw.edu) to let them know you want a test and when you'd like to pick it up. Please remain outside the building and they will come out to meet you with a test. Feel free to send a second email to let them know you are waiting.
+  * Since you have symptoms, please do not approach the registration desk or come to indoor Snowmass spaces. There is a box outside the Kane Hall Lobby labeled "Snowmass" and that will contain a few self tests. Please email [confuw@uw.edu](mailto:confuw@uw.edu) to let them know you are going to pick it up a test so they can make sure the test box is stocked before you arrive. Please do not approach the desk with symptoms.
   * To take the test, please find a place that away from people (your hotel room is ideal, for example). You'll need about 15 minutes to determine your status. Please do this as soon as you can - the modern variants of Omicron can transmit very quickly.
 
 ## What to do if you test positive
