@@ -31,14 +31,14 @@ Below is a list of all the meeting rooms along with a small amount of informatio
 
 | Meeting Room | Seats |  Sound & Zoom Config | Session Chair Must Supply |
 | --- | --- | --- | --- |
-| [HUB 214](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-214/) | 80 | ... | Computer |
-| [HUB 238](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-238/) | 30 | ... | Computer |
-| [HUB 250](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-250/) | 181 | ... | Computer |
-| [HUB 307](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-307/) | 30 | ... | Computer |
-| [HUB 332](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-332/) | 120 | ... | Computer |
-| [HUB 334](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-334/) | 132 | ... | Computer |
-| [HUB 337](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-337/) | 50 | ... | Computer |
-| [HUB 340](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-340/) | 40 | ... | Computer |
+| [HUB 214](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-214/) | 80 | ceiling mics | Computer |
+| [HUB 238](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-238/) | 30 | ceiling mics | Computer |
+| [HUB 250](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-250/) | 181 | 1 podium + handheld mic | Computer |
+| [HUB 307](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-307/) | 30 | ceiling mics | Computer |
+| [HUB 332](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-332/) | 120 | ceiling mics | Computer |
+| [HUB 334](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-334/) | 132 | 1 podium + handheld mic | Computer |
+| [HUB 337](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-337/) | 50 | ceiling mics | Computer |
+| [HUB 340](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-340/) | 40 | 1 podium + handheld mic | Computer |
 | [Kane Hall 110](https://www.washington.edu/classroom/KNE+110) | 110 | 2 handheld, 1 lapel, computer | Nothing |
 | [Kane Hall 120](https://www.washington.edu/classroom/KNE+120) | 435 | 2 handheld, 1 lapel, computer | Nothing |
 | [Kane Hall 130](https://www.washington.edu/classroom/KNE+130) | 723 | 3 handheld, 1 lapel, computer | Nothing |
@@ -66,7 +66,8 @@ We have a range of small un-programmed meeting spaces around the campus. Many ar
 | Name & Location | Sign-up | Description |
 | --- | --- | --- |
 | [Research Commons](https://www.lib.washington.edu/commons), [Suzzallo Library](https://www.washington.edu/maps/#!/suz) | [First-come-first-serve](https://cal.lib.uw.edu/reserve/research-commons) | Rooms from 4-16 persons, open from 9am-5pm |
-| [Odegaard Library Study Rooms](https://www.lib.washington.edu/ougl), [Odegaard Library](https://www.washington.edu/maps/#!/oug) | [First-come-first-serve](https://cal.lib.uw.edu/reserve/spaces/odegaard) | Rooms for up to 8, open from 9am to 5 pm, will need a UW escort to open the room. |
+| [Library Study Rooms](https://www.lib.washington.edu/services/spaces/study) | Sign up, and walk-up, ask at info desks | Many of the libraries have study areas. Most (but not all) are open to everyone here on University business. All libraries have a staffed desk at the entrance, feel free to talk in and ask how you might take advantage of one of their rooms. Have a specific one in mind from the link. |
+| Open Areas around Campus | Walk up, sit down | For example, here is a [commons area](/assets/rooms/MGH/commons.jpg) in Mary Gates Hall (one of our buildings). They are distributed throughout campus. |
 | Physics Building B205, [PAB](https://www.washington.edu/maps/#!/pab) | Ask at Help Desk | Single large table, seats about 10, or 15 if crowded |
 
 ## Offices
