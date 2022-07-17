@@ -7,7 +7,7 @@ title: Poster Judging Committee
 
 - Chair: **Jason Detwiler**, University of Washington
 - Accelerator Frontier: **Michiko Minty**, Brookhaven National Laboratory
-- Cosmic Frontier: **Alex Drlica-Wagner**, University of Chicago
+- Cosmic Frontier: **Alex Drlica-Wagner**, Fermi National Accelerator Laboratory / University of Chicago
 - Community Engagement Frontier: **Ken Bloom**, University of Nebraska, Lincoln
 - Computational Frontier: **Peter Boyle**, Brookhaven National Laboratory
 - Energy Frontier: **Isobel Ojalvo**, Princeton University
