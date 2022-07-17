@@ -35,6 +35,12 @@ participants:
   position: Research Scientist
   fullname: OluwatomiAkindele
   attendance_type: In person
+- firstname: Michael
+  lastname: Albrow
+  affiliation: Fermilab
+  position: 'Other:: emeritus'
+  fullname: MichaelAlbrow
+  attendance_type: Virtual
 - firstname: Cristiano
   lastname: Alpigiani
   affiliation: University of Washington
@@ -509,6 +515,12 @@ participants:
   position: Prefer not to answer
   fullname: GregBock
   attendance_type: Virtual
+- firstname: Alexander
+  lastname: Bogatskiy
+  affiliation: Flatiron Institute, Simons Foundation
+  position: Postdoc
+  fullname: AlexanderBogatskiy
+  attendance_type: In person
 - firstname: Tim
   lastname: Bolton
   affiliation: Kansas State University
@@ -3269,6 +3281,12 @@ participants:
   position: Faculty
   fullname: VivianMiranda
   attendance_type: In person
+- firstname: Shekhar
+  lastname: Mishra
+  affiliation: Fermilab
+  position: Research Scientist
+  fullname: ShekharMishra
+  attendance_type: In person
 - firstname: Irina
   lastname: Mocioiu
   affiliation: Pennsylvania State University
@@ -3539,6 +3557,12 @@ participants:
   position: Research Scientist
   fullname: Cho-KuenNg
   attendance_type: Virtual
+- firstname: Hogan
+  lastname: Nguyen
+  affiliation: Fermilab
+  position: Faculty
+  fullname: HoganNguyen
+  attendance_type: In person
 - firstname: Xiaochen
   lastname: Ni
   affiliation: University of Washington
@@ -7344,11 +7368,35 @@ participants:
   position: Student
   fullname: NickManganelli
   attendance_type: Virtual
-generated_at: 07/17/2022 15:13:52 GMT
-number_participants: 1224
-number_inperson_participants: 729
-number_virtual_participants: 495
+- firstname: 'Mehmet '
+  lastname: Demirci
+  affiliation: University of Wisconsin-Madison
+  position: Postdoc
+  fullname: Mehmet Demirci
+  attendance_type: Virtual
+- firstname: Chris
+  lastname: Palmer
+  affiliation: University of Maryland, College Park
+  position: Faculty
+  fullname: ChrisPalmer
+  attendance_type: Virtual
+- firstname: paige
+  lastname: kunkle
+  affiliation: Boston University
+  position: Student
+  fullname: paigekunkle
+  attendance_type: Virtual
+- firstname: Logan
+  lastname: Lebanowski
+  affiliation: UC Berkeley
+  position: Postdoc
+  fullname: LoganLebanowski
+  attendance_type: Virtual
+generated_at: 07/17/2022 17:16:30 GMT
+number_participants: 1232
+number_inperson_participants: 732
+number_virtual_participants: 500
 number_LOC_Vol_Press: 54
-number_dinner_attendees: 413
+number_dinner_attendees: 415
 number_LIGO: 54
-number_baseball: 60
+number_baseball: 62
