@@ -77,6 +77,12 @@ participants:
   position: Research Scientist
   fullname: JimAmundson
   attendance_type: Virtual
+- firstname: Luis
+  lastname: Anchordoqui
+  affiliation: Lehman College, City University of New York
+  position: Faculty
+  fullname: LuisAnchordoqui
+  attendance_type: Virtual
 - firstname: Adam
   lastname: Anderson
   affiliation: Fermilab
@@ -1187,6 +1193,12 @@ participants:
   position: Research Scientist
   fullname: DmitriDenisov
   attendance_type: In person
+- firstname: Nicholas
+  lastname: Deporzio
+  affiliation: Harvard University
+  position: Student
+  fullname: NicholasDeporzio
+  attendance_type: In person
 - firstname: Jason
   lastname: Detwiler
   affiliation: University of Washington
@@ -1492,12 +1504,6 @@ participants:
   affiliation: Florida State University
   position: Faculty
   fullname: FernandoFebres Cordero
-  attendance_type: In person
-- firstname: Sydney
-  lastname: Feldman
-  affiliation: UCLA
-  position: Student
-  fullname: SydneyFeldman
   attendance_type: In person
 - firstname: Jonathan
   lastname: Feng
@@ -2969,6 +2975,12 @@ participants:
   position: Faculty
   fullname: DonatellaLucchesi
   attendance_type: In person
+- firstname: Zarija
+  lastname: Lukic
+  affiliation: Lawrence Berkeley National Lab
+  position: Prefer not to answer
+  fullname: ZarijaLukic
+  attendance_type: Virtual
 - firstname: Steven
   lastname: Lund
   affiliation: Michigan State University/US Particle Accelerator School
@@ -3485,6 +3497,12 @@ participants:
   position: Faculty
   fullname: EthanNeil
   attendance_type: In person
+- firstname: Mark
+  lastname: Neubauer
+  affiliation: University of Illinois at Urbana-Champaign
+  position: Faculty
+  fullname: MarkNeubauer
+  attendance_type: Virtual
 - firstname: Laura
   lastname: Newburgh
   affiliation: Yale University
@@ -4523,6 +4541,12 @@ participants:
   position: Faculty
   fullname: YannisSemertizids
   attendance_type: In person
+- firstname: Hee-Jong
+  lastname: Seo
+  affiliation: Ohio University
+  position: Faculty
+  fullname: Hee-JongSeo
+  attendance_type: Virtual
 - firstname: Elizabeth
   lastname: Sexton-Kennedy
   affiliation: Fermilab
@@ -5008,7 +5032,7 @@ participants:
   affiliation: Lafayette College
   position: Faculty
   fullname: BrooksThomas
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Evelyn
   lastname: Thomson
   affiliation: University of Pennsylvania
@@ -7272,11 +7296,59 @@ participants:
   position: Postdoc
   fullname: XianyiZhang
   attendance_type: Virtual
-generated_at: 07/16/2022 22:22:20 GMT
-number_participants: 1212
-number_inperson_participants: 730
-number_virtual_participants: 482
+- firstname: Andy
+  lastname: Jung
+  affiliation: Purdue University
+  position: Faculty
+  fullname: AndyJung
+  attendance_type: Virtual
+- firstname: David
+  lastname: dEnterria
+  affiliation: CERN
+  position: Research Scientist
+  fullname: DaviddEnterria
+  attendance_type: Virtual
+- firstname: Kevin
+  lastname: Zhou
+  affiliation: Stanford/SLAC
+  position: Student
+  fullname: KevinZhou
+  attendance_type: Virtual
+- firstname: Tom
+  lastname: Carroll
+  affiliation: University of Wisconsin - Madison
+  position: Postdoc
+  fullname: TomCarroll
+  attendance_type: Virtual
+- firstname: Brian
+  lastname: Clark
+  affiliation: Michigan State University
+  position: Postdoc
+  fullname: BrianClark
+  attendance_type: Virtual
+- firstname: Sydney
+  lastname: Feldman
+  affiliation: UCLA
+  position: Student
+  fullname: SydneyFeldman
+  attendance_type: Virtual
+- firstname: Dylan
+  lastname: Rankin
+  affiliation: Massachusetts Institute of Technology
+  position: Postdoc
+  fullname: DylanRankin
+  attendance_type: Virtual
+- firstname: Nick
+  lastname: Manganelli
+  affiliation: University of California, Riverside
+  position: Student
+  fullname: NickManganelli
+  attendance_type: Virtual
+generated_at: 07/17/2022 15:13:52 GMT
+number_participants: 1224
+number_inperson_participants: 729
+number_virtual_participants: 495
 number_LOC_Vol_Press: 54
-number_dinner_attendees: 416
+number_dinner_attendees: 413
 number_LIGO: 54
-number_baseball: 61
+number_baseball: 60
