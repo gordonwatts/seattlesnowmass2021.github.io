@@ -6,8 +6,9 @@ title: Guidelines for Oral Presenters
 These guidelines are for oral presentations. For the poster guidelines, see [https://indico.fnal.gov/event/22303/abstracts/](https://indico.fnal.gov/event/22303/abstracts/).
 
 Following these guidelines will keep the conference running smoothly and make your presentation more accessible to all participants, including those with colorblindness, low vision, who are Deaf/deaf or hard of hearing, and/or who are participating virtually. We strongly encourage you to follow these guidelines.
+
 * **Upload early.** All plenary talks and some of the parallel science tracks at the summer study will be live-captioned. The captioners are able to achieve a higher accuracy if they have access to talk materials (slides and/or presenter notes) to Indico several days ahead of time.
-* **Check A/V ahead of time.** Use an allotted practice time to check that your slides display properly on the projector and over Zoom. This will contribute to running the meeting on time, which will ensure that sessions don't run over the time covered by captioners.
+* **Check A/V ahead of time.** The presentation machines supplied by the workshop have PDF and PowerPoint capabilities. If you have any questions please find us during the break to enable a test.
 * **Stick to your time limit.**
 * **Fonts.** Make sure fonts are at least size 18 and that there is good contrast between text and background. Avoid all-caps text.
 * **Colors.** Avoid using color alone to convey information in plots, or check to make sure that colors in plots are distinguishable to those with colorblindness. A few tools that can help with this:

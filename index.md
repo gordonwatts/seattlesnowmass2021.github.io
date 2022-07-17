@@ -7,12 +7,7 @@ hero_image: assets/images/uw-fountain.jpg
 
 Welcome to the Seattle Community Summer Study Workshop home page!
 
-**Registration** is open!
-
-* [Conference Registration information and registration form for in-person and virtual attendance](/registration)
-* [Lodging in and around the University](/lodging) - Most hotel and dorm room blocks have expired - and are operating on a first-come-first-served basis. Please do not wait if you need a room!!
-* [Travel to Seattle](/travel)
-* [Travel Awards](/travelAward) - criteria and process to apply for extra funds to travel waive registration for Snowmass. 
+The first day starts July 17th - see the post below for information about each day as it occurs!
 
 The Seattle meeting is the culmination of the various workshops and Town Hall meetings that have taken place during 2020, 2021, and 2022 as part of Snowmass21. As we have throughout the Snowmass process, we aim for everyone's voice to be heard. Contributions and participation from the community in this workshop are critical for the success of Snowmass21 and they will occur as part of one or more working groups directed by conveners.
 

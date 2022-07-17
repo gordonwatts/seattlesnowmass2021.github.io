@@ -29,6 +29,9 @@ The help desk is located in the lobby of [Kane Hall](https://www.washington.edu/
 
 Below is a list of all the meeting rooms along with a small amount of information about each. The _Session Chair Must Supply_ column indicates what the session chair must bring to operate the sound system in the room and connect to zoom. For most of our larger rooms everything is supplied. In the very small rooms, which are designed to be discussion rooms, nothing is required.
 
+* All rooms will have a laser pointer except for those in the HUB. There the speaker must use the podium microphone. The podium is positioned right next to the screen - please your computer's mouse to point on the slide. The session chair must use their own computer for these rooms.
+* In MGH, the three smaller classrooms have no in-class computer (like the HUB), and no in-room PA system. The session chair must use their own computers for these rooms.
+
 | Meeting Room | Seats |  Sound & Zoom Config | Session Chair Must Supply |
 | --- | --- | --- | --- |
 | [HUB 214](https://hub.washington.edu/reserve/book-a-space/hub-spaces/hub-214/) | 80 | ceiling mics | Computer |

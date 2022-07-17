@@ -28,6 +28,8 @@
     link: /colliderscope
   - name: Outreach
     link: /outreach/
+  - name: Remotely Green Networking
+    link: /green/
   - name: LIGO/Hanford Visit
     link: /ligo
   - name: Mariners Baseball Night
@@ -58,6 +60,8 @@
       link: /lodging/
     - name: COVID-19 at Snowmass
       link: /COVID/
+    - name: Incase of Emergency
+      link: /emergency/
     - name: Travel Around Seattle & Things To Do
       link: /local-travel/
     - name: Travel To Seattle

@@ -37,7 +37,7 @@ If the cancellation request is received by the Conference Services Office after 
 
 If no advance cancellation is received by the Conference Services Office and you do not check in, no refund will be issued.
 
-## Near Campus Workshp Hotels
+## Near Campus Workshop Hotels
 
 The University of Washington negotiated rates for limited rooms at three nearby quality hotels for the workshop attendants. Hotels are all within 0.5 miles from the workshop venue and offer accessible rooms. You have to use direct links below to book the room in order to receive the discount rate.
 

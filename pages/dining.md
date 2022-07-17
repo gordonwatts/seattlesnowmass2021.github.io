@@ -15,7 +15,6 @@ There are four main areas with clusters of dining options:
 
 <img src="/assets/images/dining_overview.png" alt="dining overview map" width="50%"/>
 
-
 ## Campus Dining
 
 The closest and highest-throughput options for dining are from UW Campus Dining.
@@ -44,7 +43,6 @@ summer, but the following are open:
    - [Starbucks](https://hfs.uw.edu/Eat/dining-hours/Starbucks-Coffee-Suzzallo): coffee. M-F 9am-3pm
 8. Bill and Melinda Gates Center for Computer Science & Engineering
    - [Microsoft Cafe](https://hfs.uw.edu/Eat/dining-hours/Microsoft-Cafe): coffee. M-F 7:30am-3pm
-
 
 ## "The Ave"
 
@@ -76,12 +74,13 @@ The largest variety of options are along and in the vicinity of "The Ave" (a con
    - [Xi'an Noodles](http://www.xiannoodles.com) ([location](https://g.page/XIANNOODLES?share))
    - [Yi Fang Taiwan Fruit Tea](https://yifangfruitt.com) ([location](https://g.page/YiFangUWSeattle?share))
 
+And slightly off tot he side (numbers matching the pins on the map):
+
 1. [Guanaco's Papuseria](http://orderguanacostacospupuseria.com) - Salvadorian
 2. [Portage Bay Cafe](https://www.portagebaycafe.com) - good breakfast
 3. [Poindexter Coffee](https://www.graduatehotels.com/nashville/restaurant/poindexter)
 4. [Cedar's](https://cedarsseattle.com) - Indian + Mediterranean
 5. [Taste of India](https://www.tasteofindiaseattle.com/)
-
 
 ## University Village Shopping Center
 
@@ -104,7 +103,6 @@ University Village is a ritzy shopping mall on the north-eastern corner of campu
 13. [Veggie Grill](https://veggiegrill.com) - vegetarian
 14. [Shake Shack](https://shakeshack.com) - burgers
 
-
 ## Portage Bay
 
 The Portage Bay area features a few highly visit-worthy spots with great views
@@ -118,3 +116,12 @@ as well as great food!
 4. [Agua Verde](https://www.aguaverdecafe.com) - Baja Mexican
 5. [Saint Bread](https://www.saintbread.com) - bakery
 
+## Recommendations
+
+We have collected some of our favorites here
+
+- El Camino in Fremont ($$): I think they put crack in the "Mejillones El Camino" mussels appetizer. Great mole and margaritas too.
+- La Carta De Oaxaca in Ballard ($$): delicious Oaxacan dishes
+- Facing East in Bellevue ($$): delicious Taiwanese restaurant
+- Dong Ting Chun in Everett ($$): authentic Hunan cuisine. A bit of a drive though.
+- Ezell's Chicken ($): Oprah loved it, you will too (fast food)
