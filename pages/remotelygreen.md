@@ -25,7 +25,7 @@ The first event is meant primarily for early career people and will take place o
 
 [Enter the event](https://app.remotely.green/event/snowmass-2022-early-careers)
 
-Looking forward to meeting some of you tomorrow! (edited).
+Looking forward to meeting some of you on Monday!
 
 ## General Event
 
