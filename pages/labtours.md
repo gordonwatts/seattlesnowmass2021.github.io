@@ -18,11 +18,10 @@ Tours of the Center for Experimental Nuclear Physcis and Astrophysics (<a href="
 
 
 
-Tours of the Project 8 experiment in the Physics and Astronomy building (<a href="https://phys.washington.edu/visitor-information">PAB</a>) will be available on Tuesday and Thursday.
+Tours of the Project 8 and the DAMIC experiment in the Physics and Astronomy building (<a href="https://phys.washington.edu/visitor-information">PAB</a>) will be available on Tuesday and Thursday. Tours will start on the Mark McDermott Plaza (<a href="https://goo.gl/maps/KjP2bYBw6KGXGBwM8">map</a>) between the Physics/Astronomy Building and Auditorium.
 
 | Date | Time | Location | Sign-up link |
 | --- | --- | --- | --- |
 | Tuesday 7/19 | 1:00 pm | <a href="https://phys.washington.edu/visitor-information">PAB</a> | <b><a href="https://www.signupgenius.com/go/10C0E4BAEA623A7F9C34-project">sign up</a></b> |
 | Thursday 7/21 | 1:00 pm | <a href="https://phys.washington.edu/visitor-information">PAB</a> |<b><a href="https://www.signupgenius.com/go/10C0E4BAEA623A7F9C34-project">sign up</a></b> |
 
-Project 8 tours will start on the Mark McDermott Plaza (<a href="https://goo.gl/maps/KjP2bYBw6KGXGBwM8">map</a>) between the Physics/Astronomy Building and Auditorium.
