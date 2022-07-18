@@ -7,7 +7,7 @@ Below you'll find information on the layout of the buildings on campus, a brief 
 
 ## Campus
 
-*Construction note: There is a closure Stevens Way due to construction, so there is no access to Lot N22 from NE.*
+*Construction note: There is a closure along Stevens Way due to construction, so there is no access to Lot N22 from NE.*
 
 The meeting will take place on the University of Washington's Seattle campus. Located just north of downtown Seattle. Here are some quick resources for getting around:
 
