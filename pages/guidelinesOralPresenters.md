@@ -8,6 +8,7 @@ These guidelines are for oral presentations. For the poster guidelines, see [htt
 Following these guidelines will keep the conference running smoothly and make your presentation more accessible to all participants, including those with colorblindness, low vision, who are Deaf/deaf or hard of hearing, and/or who are participating virtually. We strongly encourage you to follow these guidelines.
 
 * **Upload early.** All plenary talks and some of the parallel science tracks at the summer study will be live-captioned. The captioners are able to achieve a higher accuracy if they have access to talk materials (slides and/or presenter notes) to Indico several days ahead of time.
+  * If you are uploading anything other than PDF, please upload a partner PDF file. PDF tends to be more accessible to the community.
 * **Check A/V ahead of time.** The presentation machines supplied by the workshop have PDF and PowerPoint capabilities. If you have any questions please find us during the break to enable a test.
 * **Stick to your time limit.**
 * **Fonts.** Make sure fonts are at least size 18 and that there is good contrast between text and background. Avoid all-caps text.
