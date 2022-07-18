@@ -7,6 +7,8 @@ Below you'll find information on the layout of the buildings on campus, a brief 
 
 ## Campus
 
+*Construction note: There is a constrution closure along Stevens Way, so there is no access to Lot N22 from NE.*
+
 The meeting will take place on the University of Washington's Seattle campus. Located just north of downtown Seattle. Here are some quick resources for getting around:
 
 On the map below, buildings where sessions will be held (the HUB, Kane Hall, Mary Gates Hall, and Johnson Hall) are circled in yellow. Willow Hall, the check-in site for the dorms, is circled in blue. The Physics Department and CENPA, where there will be lab tours, are circled in blue, and blue arrows point to "the Ave" and University Village, where there are restaurants.
