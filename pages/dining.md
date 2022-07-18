@@ -120,8 +120,22 @@ as well as great food!
 
 We have collected some of our favorites here
 
+$:
+
+- Ezell's Chicken ($): Oprah loved it, you will too (fast food)
+
+$$:
+
 - El Camino in Fremont ($$): I think they put crack in the "Mejillones El Camino" mussels appetizer. Great mole and margaritas too.
 - La Carta De Oaxaca in Ballard ($$): delicious Oaxacan dishes
 - Facing East in Bellevue ($$): delicious Taiwanese restaurant
 - Dong Ting Chun in Everett ($$): authentic Hunan cuisine. A bit of a drive though.
-- Ezell's Chicken ($): Oprah loved it, you will too (fast food)
+- Joey’s kitchen https://joeyrestaurants.com/location/joey-university-v (a chain restaurant) typical entrées $25-$30
+- Mamma Melina Italian but not in La Spiga class https://www.mammamelina.com/  $$  
+- Din Ty Fung Shanghai-style soup dumplings & noodles. Does not take reservations $$ https://www.dintaifungusa.com/ 
+
+$$$:
+- Rays Boat House (excellent Fish and great view-ask for a window table)  $$$-$$$$ Need reservation
+- la spiga (northern Italian) $$-$$$ need reservation https://www.laspiga.com/
+- Wild Ginger $$-$$$ need reservation https://www.wildginger.net/ eastern Pacific Rim food  from China to Indonesia, and Malaysia to Vietnam.
+- Metropolitan Grill Steak House, but has good fish entrees. $$$$ https://www.themetropolitangrill.com/ Need reservation
