@@ -3383,6 +3383,12 @@ participants:
   position: Faculty
   fullname: JeffMcmahon
   attendance_type: In person
+- firstname: Rob
+  lastname: Mcpherson
+  affiliation: University of Victoria
+  position: Faculty
+  fullname: RobMcpherson
+  attendance_type: Virtual
 - firstname: Patrick
   lastname: Meade
   affiliation: Stony Brook University
@@ -3562,6 +3568,12 @@ participants:
   affiliation: Duke University
   position: Faculty
   fullname: BerndtMueller
+  attendance_type: Virtual
+- firstname: Reshmi
+  lastname: Mukherjee
+  affiliation: Barnard College, Columbia University
+  position: Faculty
+  fullname: ReshmiMukherjee
   attendance_type: Virtual
 - firstname: Erik
   lastname: Muller
@@ -4517,6 +4529,12 @@ participants:
   position: Research Scientist
   fullname: AleksandrRomanov
   attendance_type: In person
+- firstname: Michael
+  lastname: Roney
+  affiliation: University of Victoria
+  position: Faculty
+  fullname: MichaelRoney
+  attendance_type: In person
 - firstname: Aaron
   lastname: Roodman
   affiliation: SLAC National Accelerator Laboratory
@@ -4895,6 +4913,12 @@ participants:
   position: Student
   fullname: SavannahShively
   attendance_type: In person
+- firstname: Deirdre
+  lastname: Shoemaker
+  affiliation: University of Texas at Austin
+  position: Faculty
+  fullname: DeirdreShoemaker
+  attendance_type: Virtual
 - firstname: Ian
   lastname: Shoemaker
   affiliation: Virginia Tech
@@ -5759,6 +5783,12 @@ participants:
   position: Postdoc
   fullname: OliverWitzel
   attendance_type: In person
+- firstname: Darien
+  lastname: Wood
+  affiliation: Northeastern University
+  position: Faculty
+  fullname: DarienWood
+  attendance_type: Virtual
 - firstname: Kevin
   lastname: Wood
   affiliation: Lawrence Berkeley National Laboratory
@@ -7914,11 +7944,35 @@ participants:
   position: Student
   fullname: XiranBai
   attendance_type: Virtual
-generated_at: 07/18/2022 21:06:07 GMT
-number_participants: 1319
-number_inperson_participants: 740
-number_virtual_participants: 579
+- firstname: Mike
+  lastname: Fenton
+  affiliation: UCI
+  position: Postdoc
+  fullname: MikeFenton
+  attendance_type: Virtual
+- firstname: 'Alexander '
+  lastname: Leder
+  affiliation: UC Berkeley
+  position: Postdoc
+  fullname: Alexander Leder
+  attendance_type: Virtual
+- firstname: Zhicai
+  lastname: Zhang
+  affiliation: LBNL
+  position: Postdoc
+  fullname: ZhicaiZhang
+  attendance_type: Virtual
+- firstname: Chia-Hsien
+  lastname: Shen
+  affiliation: UC San Diego
+  position: Postdoc
+  fullname: Chia-HsienShen
+  attendance_type: Virtual
+generated_at: 07/19/2022 00:34:06 GMT
+number_participants: 1328
+number_inperson_participants: 741
+number_virtual_participants: 587
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 419
-number_LIGO: 53
-number_baseball: 65
+number_LIGO: 52
+number_baseball: 64
