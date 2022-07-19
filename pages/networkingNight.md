@@ -33,8 +33,8 @@ Representatives:
  </tr>
 
  <tr>
-   <td><a href="https://www.linkedin.com/in/sarah-stone-5b3083158/">Sarah A Stone</a></td>
-   <td>e-Science Institute Software Engineer Center</td>
+   <td><a href="https://www.linkedin.com/in/sarah-stone-5b3083158/">Andrew Connolly</a></td>
+   <td>e-Science Institute</td>
  </tr>
 
  <tr>
@@ -82,8 +82,16 @@ Representatives:
    <td>Red Violet</td>
  </tr>
 
-  <tr>
-   <td><a href="https://www.linkedin.com/in/othrif/">Othmane Rifki</a></td>
-   <td>Spectrum Labs</td>
+ 
+ <tr>
+   <td><a href="https://www.linkedin.com/in/nate-woods-96967a145/">Nate Woods</a></td>
+   <td>Red Violet</td>
  </tr>
+
+  <tr>
+   <td><a href="https://www.linkedin.com/in/nevatiaritika/"> Ritika Kanade</a></td>
+   <td>Apple</td>
+ </tr>
+ 
+ 
 </table>
