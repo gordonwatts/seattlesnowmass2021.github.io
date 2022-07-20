@@ -4343,6 +4343,12 @@ participants:
   position: Faculty
   fullname: SilviuPufu
   attendance_type: In person
+- firstname: Andrew
+  lastname: Putnam
+  affiliation: Microsoft
+  position: Research Scientist
+  fullname: AndrewPutnam
+  attendance_type: In person
 - firstname: Matt
   lastname: Pyle
   affiliation: Physics Department University of California Berkeley
@@ -4432,6 +4438,12 @@ participants:
   affiliation: University at Buffalo, State University of New York
   position: Faculty
   fullname: SalvatoreRappoccio
+  attendance_type: Virtual
+- firstname: Leonardo
+  lastname: Rastelli
+  affiliation: YITP, Stony Brook
+  position: Faculty
+  fullname: LeonardoRastelli
   attendance_type: Virtual
 - firstname: Tor
   lastname: Raubenheimer
@@ -8190,10 +8202,10 @@ participants:
   position: Research Scientist
   fullname: RobSchreiber
   attendance_type: Virtual
-generated_at: 07/20/2022 00:41:49 GMT
-number_participants: 1365
-number_inperson_participants: 744
-number_virtual_participants: 621
+generated_at: 07/20/2022 07:36:14 GMT
+number_participants: 1367
+number_inperson_participants: 745
+number_virtual_participants: 622
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 421
 number_LIGO: 51
