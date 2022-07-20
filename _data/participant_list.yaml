@@ -1589,6 +1589,12 @@ participants:
   position: Faculty
   fullname: KeFang
   attendance_type: In person
+- firstname: Will
+  lastname: Farr
+  affiliation: Stony Brook / CCA
+  position: Faculty
+  fullname: WillFarr
+  attendance_type: In person
 - firstname: Glennys
   lastname: Farrar
   affiliation: New York University
@@ -2212,6 +2218,12 @@ participants:
   affiliation: Argonne National Laboratory
   position: Prefer not to answer
   fullname: KatrinHeitmann
+  attendance_type: In person
+- firstname: Stuart
+  lastname: Henderson
+  affiliation: Jefferson Lab
+  position: 'Other:: Lab director'
+  fullname: StuartHenderson
   attendance_type: In person
 - firstname: Ken
   lastname: Herner
@@ -3094,6 +3106,12 @@ participants:
   affiliation: Brookhaven National Laboratory
   position: Research Scientist
   fullname: MeifengLin
+  attendance_type: Virtual
+- firstname: Steven
+  lastname: Linden
+  affiliation: Brookhaven National Laboratory
+  position: Research Scientist
+  fullname: StevenLinden
   attendance_type: Virtual
 - firstname: Jiahong
   lastname: Ling
@@ -8202,10 +8220,22 @@ participants:
   position: Research Scientist
   fullname: RobSchreiber
   attendance_type: Virtual
-generated_at: 07/20/2022 07:36:14 GMT
-number_participants: 1367
-number_inperson_participants: 745
-number_virtual_participants: 622
+- firstname: Grace
+  lastname: Song
+  affiliation: University of Washington
+  position: Student
+  fullname: GraceSong
+  attendance_type: Virtual
+- firstname: Christian
+  lastname: Herwig
+  affiliation: FNAL
+  position: Postdoc
+  fullname: ChristianHerwig
+  attendance_type: Virtual
+generated_at: 07/20/2022 15:38:52 GMT
+number_participants: 1372
+number_inperson_participants: 747
+number_virtual_participants: 625
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 421
 number_LIGO: 51
