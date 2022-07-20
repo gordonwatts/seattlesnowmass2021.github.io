@@ -11,6 +11,12 @@ participants:
   position: Faculty
   fullname: ToddAdams
   attendance_type: Virtual
+- firstname: Rana
+  lastname: Adhikari
+  affiliation: Caltech
+  position: Faculty
+  fullname: RanaAdhikari
+  attendance_type: Virtual
 - firstname: Tony
   lastname: Affolder
   affiliation: UC Santa Cruz
@@ -1271,6 +1277,12 @@ participants:
   position: Research Scientist
   fullname: MarcelDemarteau
   attendance_type: In person
+- firstname: Peter
+  lastname: Denes
+  affiliation: LBNL
+  position: Research Scientist
+  fullname: PeterDenes
+  attendance_type: In person
 - firstname: Dmitri
   lastname: Denisov
   affiliation: Brookhaven National Laboratory
@@ -1336,6 +1348,12 @@ participants:
   affiliation: National Science Foundation/University of Arizona
   position: Faculty
   fullname: KeithDienes
+  attendance_type: Virtual
+- firstname: Seth
+  lastname: Digel
+  affiliation: SLAC National Accelerator Laboratory
+  position: Research Scientist
+  fullname: SethDigel
   attendance_type: Virtual
 - firstname: Karri
   lastname: Dipetrillo
@@ -2722,7 +2740,7 @@ participants:
   affiliation: Kennesaw State University
   position: Faculty
   fullname: NikolaosKidonakis
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: William
   lastname: Kilgore
   affiliation: US Department of Energy
@@ -3448,6 +3466,12 @@ participants:
   affiliation: Southern Methodist University
   position: Faculty
   fullname: JoelMeyers
+  attendance_type: Virtual
+- firstname: Shinichiro
+  lastname: Michizono
+  affiliation: KEK
+  position: Research Scientist
+  fullname: ShinichiroMichizono
   attendance_type: Virtual
 - firstname: David
   lastname: Miller
@@ -4373,6 +4397,12 @@ participants:
   position: Student
   fullname: JessicaRainbolt
   attendance_type: In person
+- firstname: Jordan
+  lastname: Raisher
+  affiliation: Google
+  position: 'Other:: Industry Representative'
+  fullname: JordanRaisher
+  attendance_type: In person
 - firstname: Srini
   lastname: Rajagopalan
   affiliation: Brookhaven National Laboratory
@@ -4798,7 +4828,7 @@ participants:
   affiliation: University of Cincinnati
   position: Faculty
   fullname: AlanSchwartz
-  attendance_type: Virtual
+  attendance_type: In person
 - firstname: Ariel
   lastname: Schwartzman
   affiliation: SLAC National Accelerator Laboratory
@@ -4931,6 +4961,12 @@ participants:
   position: Research Scientist
   fullname: ShawnShin
   attendance_type: Virtual
+- firstname: Ian
+  lastname: Shipsey
+  affiliation: Oxford University
+  position: Faculty
+  fullname: IanShipsey
+  attendance_type: In person
 - firstname: Savannah
   lastname: Shively
   affiliation: UC Irvine (FASER)
@@ -8112,11 +8148,53 @@ participants:
   position: Student
   fullname: YaoYao
   attendance_type: Virtual
-generated_at: 07/19/2022 16:31:35 GMT
-number_participants: 1352
-number_inperson_participants: 741
-number_virtual_participants: 611
+- firstname: CJ
+  lastname: Nave
+  affiliation: University of Washington
+  position: Student
+  fullname: CJNave
+  attendance_type: Virtual
+- firstname: Sam
+  lastname: Barber
+  affiliation: LBNL
+  position: Research Scientist
+  fullname: SamBarber
+  attendance_type: Virtual
+- firstname: Ana Amelia
+  lastname: Machado
+  affiliation: UNICAMP
+  position: Research Scientist
+  fullname: Ana AmeliaMachado
+  attendance_type: Virtual
+- firstname: Zach
+  lastname: Weiner
+  affiliation: University of Washington
+  position: Postdoc
+  fullname: ZachWeiner
+  attendance_type: Virtual
+- firstname: Winnie
+  lastname: Wang
+  affiliation: University of Wisconsin-Madison
+  position: Student
+  fullname: WinnieWang
+  attendance_type: Virtual
+- firstname: Aswathi
+  lastname: Balagopal V.
+  affiliation: UW-Madison
+  position: Postdoc
+  fullname: AswathiBalagopal V.
+  attendance_type: Virtual
+- firstname: Rob
+  lastname: Schreiber
+  affiliation: Cerebras Systems
+  position: Research Scientist
+  fullname: RobSchreiber
+  attendance_type: Virtual
+generated_at: 07/20/2022 00:41:49 GMT
+number_participants: 1365
+number_inperson_participants: 744
+number_virtual_participants: 621
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 420
-number_LIGO: 52
-number_baseball: 64
+number_dinner_attendees: 421
+number_LIGO: 51
+number_baseball: 65
