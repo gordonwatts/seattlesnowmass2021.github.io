@@ -1654,7 +1654,7 @@ participants:
   affiliation: Los Alamos National Laboratory
   position: Postdoc
   fullname: RobFine
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Wolfram
   lastname: Fischer
   affiliation: BNL
@@ -4103,6 +4103,12 @@ participants:
   position: Faculty
   fullname: RitchiePatterson
   attendance_type: In person
+- firstname: Ryan
+  lastname: Patterson
+  affiliation: Caltech
+  position: Faculty
+  fullname: RyanPatterson
+  attendance_type: Virtual
 - firstname: Abid
   lastname: Patwa
   affiliation: US Department of Energy
@@ -5099,6 +5105,12 @@ participants:
   position: Student
   fullname: EmilySmith
   attendance_type: In person
+- firstname: Krista
+  lastname: Smith
+  affiliation: Los Alamos National Laboratory
+  position: Postdoc
+  fullname: KristaSmith
+  attendance_type: Virtual
 - firstname: Nigel
   lastname: Smith
   affiliation: TRIUMF
@@ -8232,11 +8244,23 @@ participants:
   position: Postdoc
   fullname: ChristianHerwig
   attendance_type: Virtual
-generated_at: 07/20/2022 15:38:52 GMT
-number_participants: 1372
-number_inperson_participants: 747
-number_virtual_participants: 625
+- firstname: Sinéad
+  lastname: Griffin
+  affiliation: LBNL
+  position: Faculty
+  fullname: SinéadGriffin
+  attendance_type: Virtual
+- firstname: Michael K.
+  lastname: Wilkinson
+  affiliation: University of Cincinnati
+  position: Postdoc
+  fullname: Michael K.Wilkinson
+  attendance_type: Virtual
+generated_at: 07/20/2022 21:26:20 GMT
+number_participants: 1376
+number_inperson_participants: 746
+number_virtual_participants: 630
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 421
-number_LIGO: 51
+number_dinner_attendees: 417
+number_LIGO: 50
 number_baseball: 65
