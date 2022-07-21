@@ -8,7 +8,7 @@ title: Physics Slam
 
 ### Pre-slam event: Particle Physics in the Virtual Reality World!
 
-| ![VR](/assets/images/VR.png)) | At 5pm, before the physics slam , we will host a Virtual Reality (VR) demo session! You will be able explore elementary particles in the VR world and manipulate them with controllers. There will be several VR headsets running at the same time and other people will follow their adventures in the VR world with the monitors. The demo will be on the UW campus in the Kane Hall building Room 225 (Walker Ames). |
+| ![VR](/assets/images/VR.png) | At 5pm, before the physics slam , we will host a Virtual Reality (VR) demo session! You will be able explore elementary particles in the VR world and manipulate them with controllers. There will be several VR headsets running at the same time and other people will follow their adventures in the VR world with the monitors. The demo will be on the UW campus in the Kane Hall building Room 225 (Walker Ames). |
 
 ### Slam
 
