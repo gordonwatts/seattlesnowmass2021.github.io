@@ -12,7 +12,7 @@ We are expecting over 600 people to join us over the course of 10 days. Communit
 * Please make sure you've had at least one booster! There is no better way to limit the spread of COVID-19 than making sure your vaccinations are up to date!
 * Download and install the [WANotify app](https://doh.wa.gov/emergencies/covid-19/wa-notify) - this will enable automatic and anonymous contact tracing - and will be very helpful when we do have a case at the workshop.
 * Pack masks. The N95 and FFP masks are best to protect you, and medical masks will help protect others. We will also have a supply of masks on hand.
-* Please bring self-tests if you have any to spare for the trip. We will have a limited number on hand locally.
+* Please bring self-tests if you have any to spare for the trip. We will have a limited number on hand locally (which have been imported from France).
 
 ## What to do while attending the workshop
 
