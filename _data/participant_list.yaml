@@ -1942,7 +1942,7 @@ participants:
   affiliation: Cornell University
   position: Faculty
   fullname: LawrenceGibbons
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Tom
   lastname: Gibbs
   affiliation: NVIDIA
@@ -3521,6 +3521,12 @@ participants:
   position: Faculty
   fullname: VivianMiranda
   attendance_type: In person
+- firstname: Sandeep
+  lastname: Miryala
+  affiliation: Brookhaven National Laboratory
+  position: Research Scientist
+  fullname: SandeepMiryala
+  attendance_type: Virtual
 - firstname: Shekhar
   lastname: Mishra
   affiliation: Fermilab
@@ -5015,6 +5021,12 @@ participants:
   position: Student
   fullname: SavannahShively
   attendance_type: In person
+- firstname: David
+  lastname: Shoemaker
+  affiliation: MIT Kavli Institute; Cosmic Explorer, LIGO, LISA
+  position: Research Scientist
+  fullname: DavidShoemaker
+  attendance_type: Virtual
 - firstname: Deirdre
   lastname: Shoemaker
   affiliation: University of Texas at Austin
@@ -8298,11 +8310,41 @@ participants:
   position: Postdoc
   fullname: TejinCai
   attendance_type: Virtual
-generated_at: 07/21/2022 14:52:48 GMT
-number_participants: 1383
-number_inperson_participants: 746
-number_virtual_participants: 637
+- firstname: Yuhao
+  lastname: Sun
+  affiliation: Case Western Reserve University
+  position: Student
+  fullname: YuhaoSun
+  attendance_type: Virtual
+- firstname: Irene
+  lastname: Dutta
+  affiliation: Caltech
+  position: Student
+  fullname: IreneDutta
+  attendance_type: Virtual
+- firstname: Maxwell
+  lastname: Nakos
+  affiliation: University of Wisconsin-Madison
+  position: Student
+  fullname: MaxwellNakos
+  attendance_type: Virtual
+- firstname: Zijie
+  lastname: Wan
+  affiliation: boston university
+  position: Student
+  fullname: ZijieWan
+  attendance_type: Virtual
+- firstname: John
+  lastname: Rogers
+  affiliation: Texas A&M University
+  position: Student
+  fullname: JohnRogers
+  attendance_type: Virtual
+generated_at: 07/21/2022 21:38:55 GMT
+number_participants: 1390
+number_inperson_participants: 745
+number_virtual_participants: 645
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 414
+number_dinner_attendees: 398
 number_LIGO: 50
 number_baseball: 66
