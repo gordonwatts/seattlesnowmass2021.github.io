@@ -8256,11 +8256,41 @@ participants:
   position: Postdoc
   fullname: Michael K.Wilkinson
   attendance_type: Virtual
-generated_at: 07/20/2022 21:26:20 GMT
-number_participants: 1376
+- firstname: Guang
+  lastname: Yang
+  affiliation: University of California Berkeley
+  position: Research Scientist
+  fullname: GuangYang
+  attendance_type: Virtual
+- firstname: Amit
+  lastname: Tiwari
+  affiliation: University of Delaware
+  position: Student
+  fullname: AmitTiwari
+  attendance_type: Virtual
+- firstname: Shourya
+  lastname: Mukherjee
+  affiliation: University of British Columbia, Vancouver
+  position: Student
+  fullname: ShouryaMukherjee
+  attendance_type: Virtual
+- firstname: Sam
+  lastname: Naugle
+  affiliation: University of Pennsylvania
+  position: Student
+  fullname: SamNaugle
+  attendance_type: Virtual
+- firstname: Alec
+  lastname: Lindman
+  affiliation: Johannes Gutenberg University Mainz
+  position: Student
+  fullname: AlecLindman
+  attendance_type: Virtual
+generated_at: 07/21/2022 05:13:00 GMT
+number_participants: 1381
 number_inperson_participants: 746
-number_virtual_participants: 630
+number_virtual_participants: 635
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 417
+number_dinner_attendees: 414
 number_LIGO: 50
-number_baseball: 65
+number_baseball: 66
