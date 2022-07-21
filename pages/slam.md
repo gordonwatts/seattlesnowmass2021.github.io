@@ -4,8 +4,13 @@ title: Physics Slam
 ---
 
 ## Physics Slam
+**One Night Only: Thursday July 21 7:30-8:30pm.**
 
-One Night Only: Thursday July 21 7:30-8:30pm.
+### Pre-slam event: Particle Physics in the Virtual Reality World!
+
+| ![VR](/assets/images/VR.png)) | At 5pm, before the physics slam , we will host a Virtual Reality (VR) demo session! You will be able explore elementary particles in the VR world and manipulate them with controllers. There will be several VR headsets running at the same time and other people will follow their adventures in the VR world with the monitors. The demo will be on the UW campus in the Kane Hall building Room 225 (Walker Ames). |
+
+### Slam
 
 Watch as four Physicists compete to give the most entertaining explanation of some of the most exciting issues in physics today.  They have only ten minutes each to reveal to you the fundamental secrets of the universe.  You, the audience, will decide which slammer has told you the best story and will go home with the top prize.
 
@@ -13,7 +18,7 @@ This event is open to the general public and targeted at a science-interested au
 
 Want a taste of the slam?  Check out previous [physics](https://sites.google.com/uw.edu/uwcuwip/program/physics-slam) [slams](https://phys.washington.edu/events/2019-10-19/physics-slam) at UW!
 
-## Slammer Bios:
+### Slammer Bios:
 <table>
  <tr>
   <td width="55%"> <strong>Jorge Torres</strong> is a postdoctoral researcher in Wright Lab at Yale University. He received his PhD from The Ohio State University, where he worked for the Askaryan Radio Array Experiment, aimed at observing neutrinos produced in the Universe with ultra-high energies. Jorge’s current research at Yale focuses on studying neutrinoless double beta decay, an extremely rare process that can help us understand the nature of neutrinos, with the CUORE experiment, and its successor CUPID.  </td>
@@ -36,5 +41,3 @@ Want a taste of the slam?  Check out previous [physics](https://sites.google.com
   <strong>Mystery Contestent</strong>'s identity will be revealed at a later date!
   <td width="4%"> </td>
   <td width="30%"> </td>
- </tr>
-</table>
