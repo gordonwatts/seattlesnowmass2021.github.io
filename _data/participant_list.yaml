@@ -3275,6 +3275,12 @@ participants:
   position: Student
   fullname: YangMa
   attendance_type: In person
+- firstname: Pedro
+  lastname: Machado
+  affiliation: Fermilab
+  position: Faculty
+  fullname: PedroMachado
+  attendance_type: Virtual
 - firstname: Jim
   lastname: Madsen
   affiliation: WIPAC/UW-Madison
@@ -8286,10 +8292,16 @@ participants:
   position: Student
   fullname: AlecLindman
   attendance_type: Virtual
-generated_at: 07/21/2022 05:13:00 GMT
-number_participants: 1381
+- firstname: Tejin
+  lastname: Cai
+  affiliation: York University
+  position: Postdoc
+  fullname: TejinCai
+  attendance_type: Virtual
+generated_at: 07/21/2022 14:52:48 GMT
+number_participants: 1383
 number_inperson_participants: 746
-number_virtual_participants: 635
+number_virtual_participants: 637
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 414
 number_LIGO: 50
