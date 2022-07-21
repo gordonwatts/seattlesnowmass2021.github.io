@@ -53,6 +53,8 @@ It is possible to switch from in-person registration to virtual (or the other di
 
 Lunch is not included in the base cost of the workshop. Each day has 2 hours set aside for lunch. This should be plenty of time for most people to travel off-campus to find a restaurant. There are also various places on-campus (in the Student Union Building - pizza, sandwiches, etc.). However, if you want, you can also ask for a boxed lunch to be held for you near the registration desk. The cost is $20/day. It includes a sandwich, fruit, water, cookie or similar. Your dietary requirements will be honored (see the additional workshop information section below).
 
+If you want to add a box lunch after registration (before July 12, noon Seattle time), you need only modify your registration. Use the link sent to you as part of the registration and long with your registration code. Select "Modify" and move through the screens to add lunches. You will then be charged the difference.
+
 ## Information Requested
 
 This section outlines the information we request on the registration form and what we plan to do with it.

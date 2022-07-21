@@ -26,6 +26,13 @@ Seattle is a large city, and all the options you'd expect in a city this size ar
 
 In general, considering this is a _tech_ city, mapping programs work very well here. Even as natives, we tend to trust them - despite having lived here for years.
 
+### Parking on campus
+
+The best place to park to access Kane Hall is the [Central Garage](https://www.washington.edu/maps/#!/central-plaza-garage-c01-c02-c03-c04-c05-c06). Tell the attendance that you will be going to Kane Hall and they will direct you to the best portion of the garage to access the elevators into Kane Hall (Kane Hall is right on top of a portion of the garage). Fees are $18/day.
+
+- Here is a link to the [UW Transportation visitor parking page](https://transportation.uw.edu/park/visitor).
+- A link to the point on [google maps](https://goo.gl/maps/M77WR8SnwQQi8kLz9) where you should enter the garage (for your mapping/driving convenience!).
+
 ### From Interstate 5 (I-5), northbound or southbound
 
 - Important: Do not use the I-5 express lanes.

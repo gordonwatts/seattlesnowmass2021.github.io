@@ -1,11 +1,13 @@
 - name: Program
-  dropdown: 
-    - name: Scientific Program (indico)
-      link: https://indico.fnal.gov/event/22303/
+  dropdown:
+    - name: Linear Time Table (indico)
+      link: https://indico.fnal.gov/event/22303/timetable/?view=standard
+    - name: Block Time Table (indico)
+      link: https://indico.fnal.gov/event/22303/timetable/
+    - name: Coffee Breaks
+      link: /catering
     - name: Block Schedule
       link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
-    - name: Parallel Session Block Schedule
-      link: /assets/schedule/mornings.pdf
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
     - name: DANCE/CoDaS@Snowmass 2022 (Training)
@@ -14,33 +16,53 @@
       link: https://indico.fnal.gov/event/22915/
 - name: Events
   dropdown:
+  - name: Coffee, Box Lunches, Reception, and Dinner
+    link: /catering
   - name: "Public Lecture: The Surprising Expansion History of the Universe"
     link: https://phys.washington.edu/events/2022-07-20/surprising-expansion-history-universe
   - name: Physics Department Lab Tours
     link: /labtours/
   - name: Physics Slam
     link: /physicsSlam/
+  - name: ColliderScope
+    link: /colliderscope
   - name: Outreach
     link: /outreach/
+  - name: Remotely Green Networking
+    link: /green/
   - name: LIGO/Hanford Visit
     link: /ligo
   - name: Mariners Baseball Night
     link: /baseball
   - name: Industry Networking
     link: /networkingNight/
-  - name: Industry Exhibit
-    link: /industryExhibit/
+  - name: Early Career Panel
+    link: /careerPanel/
+  - name: HLS4ML (training)
+    link: https://indico.cern.ch/event/1176254/
   - name: DANCE (training)
     link: /2022/05/10/dance/
 - name: Logistics
   dropdown:
+    - name: Guidelines for Oral Presenters
+      link: /guidelinesOralPresenters/
+    - name: Guidelines for Poster Presenters
+      link: /guidelinesPosterPresenters/
+    - name: Guidelines for Session Chairs
+      link: /guidelinesSessionChairs/
     - name: Venue
       link: /meetings/
+    - name: Local Dining Options
+      link: /dining/
     - name: Registration
       link: /registration/
     - name: Lodging
       link: /lodging/
-    - name: Travel Around Seattle
+    - name: COVID-19 at Snowmass
+      link: /COVID/
+    - name: Incase of Emergency
+      link: /emergency/
+    - name: Travel Around Seattle & Things To Do
       link: /local-travel/
     - name: Travel To Seattle
       link: /travel/
@@ -76,6 +98,8 @@
       link: /about/loc/
     - name: Program Committee
       link: /about/pc/
+    - name: Poster Judging Committee
+      link: /about/pjc/
     - name: Posters And Other Media
       link: /assets
     - name: YouTube Channel

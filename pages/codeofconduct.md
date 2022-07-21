@@ -7,6 +7,8 @@ title: Code of Conduct
 
 Snowmass is a DPF sponsored activity, therefore we embrace the [DPF Core Principles and Community Guidelines (CP&CG)](/assets/docs/DPF-CPCG-05.03.2022.pdf) as a code of conduct for our event.
 
+A slide to show at the start of sessions [can be found here](/assets/coc-slide.pdf). If you need to contact the Code-Of-Conduct team, made up of members of the DPF Ethics committee, please email [snowmass-code@uw.edu](mailto:snowmass-code@uw.edu).
+
 We encourage everyone to read the CP&CG.  It has 3 parts:
 
 - Core principles: what our community values most
