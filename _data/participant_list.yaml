@@ -209,6 +209,12 @@ participants:
   position: 'Other:: APS'
   fullname: JonathanBagger
   attendance_type: In person
+- firstname: Mei
+  lastname: Bai
+  affiliation: SLAC
+  position: Research Scientist
+  fullname: MeiBai
+  attendance_type: In person
 - firstname: Stephen
   lastname: Bailey
   affiliation: Lawrence Berkeley National Laboratory
@@ -4577,6 +4583,12 @@ participants:
   position: Faculty
   fullname: AmyRoberts
   attendance_type: In person
+- firstname: B. Lee
+  lastname: Roberts
+  affiliation: Boston University
+  position: Faculty
+  fullname: B. LeeRoberts
+  attendance_type: Virtual
 - firstname: R. G. Hamish
   lastname: Robertson
   affiliation: University of Washington
@@ -8340,11 +8352,11 @@ participants:
   position: Student
   fullname: JohnRogers
   attendance_type: Virtual
-generated_at: 07/21/2022 21:38:55 GMT
-number_participants: 1390
-number_inperson_participants: 745
-number_virtual_participants: 645
+generated_at: 07/22/2022 19:36:48 GMT
+number_participants: 1392
+number_inperson_participants: 746
+number_virtual_participants: 646
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 398
+number_dinner_attendees: 401
 number_LIGO: 50
 number_baseball: 66
