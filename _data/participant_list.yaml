@@ -136,7 +136,7 @@ participants:
   affiliation: Pacific Northwest National Laboratory
   position: Research Scientist
   fullname: IsaacArnquist
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Marina
   lastname: Artuso
   affiliation: Syracuse University
@@ -1198,7 +1198,7 @@ participants:
   affiliation: The University of Sheffield, UK
   position: Faculty
   fullname: EdwardDaw
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Kyle
   lastname: Dawson
   affiliation: University of Utah
@@ -3346,7 +3346,7 @@ participants:
   affiliation: University of Minnesota
   position: Faculty
   fullname: JeremiahMans
-  attendance_type: In person
+  attendance_type: Virtual
 - firstname: Alysia
   lastname: Marino
   affiliation: University of Colorado Boulder
@@ -8352,11 +8352,23 @@ participants:
   position: Student
   fullname: JohnRogers
   attendance_type: Virtual
-generated_at: 07/22/2022 19:36:48 GMT
-number_participants: 1392
-number_inperson_participants: 746
-number_virtual_participants: 646
+- firstname: Yichul
+  lastname: Choi
+  affiliation: Stony Brook University
+  position: Student
+  fullname: YichulChoi
+  attendance_type: Virtual
+- firstname: Benjamin
+  lastname: Lawrence-Sanderson
+  affiliation: The University of Texas at Austin
+  position: Student
+  fullname: BenjaminLawrence-Sanderson
+  attendance_type: Virtual
+generated_at: 07/23/2022 21:14:21 GMT
+number_participants: 1394
+number_inperson_participants: 743
+number_virtual_participants: 651
 number_LOC_Vol_Press: 58
-number_dinner_attendees: 401
-number_LIGO: 50
-number_baseball: 66
+number_dinner_attendees: 380
+number_LIGO: 51
+number_baseball: 65
