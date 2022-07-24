@@ -53,7 +53,7 @@ If you are staying in the dorms:
 * Guests staying in single occupancy rooms may isolate in place
 * Guests who are staying in double occupancy rooms can be moved into an isolation room on campus, or the positive guest can choose to isolate off campus
 * Guests are not obligated to stay on campus during isolation or beyond their original check-out date
-* Guests may order delivery food or we can deliver three hot meals to their room for $40/day
+* Guests may order delivery food or we can deliver three hot meals to their room for $40/day. Please contact the front desk at 206-685-2959.
 * The guest will be responsible for all additional isolation housing and dining costs
 
 ## Links
