@@ -5,9 +5,15 @@ hero_image: /assets/images/baseball.jpeg
 hide_hero: false
 ---
 
-Mariners Baseball Game Come catch a game with the Seattle Snowmass Community at T-Mobile Park! Join us for a Seattle Mariners game as they battle the Texas Rangers on Monday, July 25th. Tickets cost $21.
+Mariners Baseball Game Come catch a game with the Seattle Snowmass Community at T-Mobile Park! Join us for a Seattle Mariners game as they battle the Texas Rangers on Monday, July 25th. Snowmass group Tickets cost $21.
 
 To purchase these tickets, please sign up when you [register](/registration), or you can use the link in your recept to modify your registration by adding these tickets!
+
+## Christmas Theme night
+
+You could also purchase Christmas in July [special ticket](https://www.mlb.com/mariners/tickets/specials/christmas) although you will very likely sit in different sections from the Snowmass group seats.
+
+<img src="/assets/images/Mariners-ChristmassTheme.jpeg" width="50%" /> 
 
 ## Seats
 
