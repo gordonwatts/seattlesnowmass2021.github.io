@@ -8370,10 +8370,16 @@ participants:
   position: Student
   fullname: MurongCheng
   attendance_type: Virtual
-generated_at: 07/25/2022 04:52:33 GMT
-number_participants: 1395
+- firstname: Nathan
+  lastname: Suri
+  affiliation: Yale University
+  position: Student
+  fullname: NathanSuri
+  attendance_type: Virtual
+generated_at: 07/25/2022 17:26:08 GMT
+number_participants: 1396
 number_inperson_participants: 743
-number_virtual_participants: 652
+number_virtual_participants: 653
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 380
 number_LIGO: 52
