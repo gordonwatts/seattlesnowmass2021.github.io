@@ -8364,11 +8364,17 @@ participants:
   position: Student
   fullname: BenjaminLawrence-Sanderson
   attendance_type: Virtual
-generated_at: 07/23/2022 21:14:21 GMT
-number_participants: 1394
+- firstname: Murong
+  lastname: Cheng
+  affiliation: 'University of Illinois at Urbana-Champaign '
+  position: Student
+  fullname: MurongCheng
+  attendance_type: Virtual
+generated_at: 07/25/2022 04:52:33 GMT
+number_participants: 1395
 number_inperson_participants: 743
-number_virtual_participants: 651
+number_virtual_participants: 652
 number_LOC_Vol_Press: 58
 number_dinner_attendees: 380
-number_LIGO: 51
+number_LIGO: 52
 number_baseball: 65
