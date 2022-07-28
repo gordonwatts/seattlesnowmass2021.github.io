@@ -33,6 +33,7 @@ You can reimbursed up to your award amount for:
   * Must be “Commercial” lodging available to public ‐ Airbnb, the UW dorms, others are allowable
 * Meals not provided by others (i.e. included hotel meals or meals provided at SnowMass)
 * Ground transportation
+  * No need for receipts for taxi's, Uber's, Lyft's up to $75. Above $75 a recept is needed.
   * If using a personal vehicle to travel between home and airport, mileage is reimbursed
     * Calculated from your mailing address to the airport listed on your airline ticket
 * Poster Printing Costs
@@ -40,8 +41,9 @@ You can reimbursed up to your award amount for:
 
 We suggest you find one or two big ticket items (like airfare or the hotel/dorms) and submit those if possible - as it will make it easy on the paperwork.
 
-All materials should be emailed to the email address you received in an email pointing you to this page. In addition to the receipts above, please include:
+All materials should be emailed to the email address you received in an email pointing you to this page. In addition to the receipts above, please include cut paste the below list into an email and complete the information.
 
+* Your name and affiliation (university or lab)
 * Your mailing address for check reimbursement, if USA
   * Information to pay bank transfer, if international
 * If arriving internationally for conference, copy of your passport and I-94 info via the [CBP website](https://i94.cbp.dhs.gov/I94/#/home)
@@ -50,7 +52,7 @@ All materials should be emailed to the email address you received in an email po
   * Airfare
   * Lodging (and must be in awardee's name)
   * Poster Printing
-  * Ground transportation for trips, max of $75
+  * Ground transportation for trips above $75
 
 Once the paperwork is filled out by UW, you'll get a PDF which you must sign. At that point everything can be processed and the check will be sent (or funds transferred) to you in a week or two.
 
