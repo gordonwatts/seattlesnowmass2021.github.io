@@ -7,7 +7,12 @@ We'd like to send a huge thanks to our supporters, listed below. Please do not h
 
 
 <table>
- <tr>
+  <tr>
+   <td> <img src="/assets/images/Intel_logo.svg" style="height: 60px"/> </td>
+   <td> </td>
+   <td> <a href="https://www.nvidia.com">Intel</a> <br> Contact: <a href="mailto:thomas.troksa@intel.com">Thomas Troksa</a> </td> 
+  </tr>
+  <tr>
    <td> <img src="/assets/images/nvidia-logo.png" style="height: 60px"/> </td>
    <td> </td>
    <td> <a href="https://www.nvidia.com">NVIDIA</a> <br> Contact: <a href="mailto:tgibbs@nvidia.com">Tom Gibbs</a> </td> 
