@@ -10,8 +10,6 @@
       link: https://docs.google.com/spreadsheets/d/1s6idO-hcOFMDaW5hsgWv6UNlcIF3plSXjgL8bTIQYfU
     - name: Poster Abstracts
       link: https://indico.fnal.gov/event/22303/abstracts
-    - name: HLS4ML/A3D3@Snowmass 2022 (Training)
-      link: https://indico.cern.ch/event/1176254/
     - name: DANCE/CoDaS@Snowmass 2022 (Training)
       link: https://indico.cern.ch/event/1151329/
     - name: Summiting the Unknown, Dedicated to Ann Nelson (July 14-16)
@@ -106,6 +104,8 @@
       link: /assets
     - name: YouTube Channel
       link: https://www.youtube.com/channel/UCGAmQGyUcrzH8GJ_8Em2MgQ
+    - name: Snowmass Photos
+      link: https://adobe.ly/3dAzxII
     - name: Industry Supporters
       link: /supporters
     - name: Participant List
