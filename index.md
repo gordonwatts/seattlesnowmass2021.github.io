@@ -7,6 +7,8 @@ hero_image: assets/images/uw-fountain.jpg
 
 Welcome to the Seattle Community Summer Study Workshop home page!
 
+The final snowmass reports have been published - find them at the [Snowmass 2021 Proceedings website](https://www.slac.stanford.edu/econf/C210711/)!
+
 What a fantastic time! Thank you everyone!!!!
 
 ![Conference Photo](assets/images/conf-photo-draft.png)
