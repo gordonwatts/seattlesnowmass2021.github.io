@@ -7,6 +7,9 @@
 - name: RadiaBeam
   logo: /assets/supporters/radiabeam.png
   url: https://radiabeam.com/
-- name: MDPI Journals
-  logo: /assets/supporters/mdpi.png
-  url: https://www.mdpi.com
+- name: Universe
+  logo: /assets/images/universe-logo.png
+  url: https://www.mdpi.com/journal/universe
+- name: Symmetry
+  logo: /assets/images/Symmetry_partnership-01.png
+  url: https://www.mdpi.com/journal/symmetry?ci=22125&si=15647&_utm_from=dcea8f5499
